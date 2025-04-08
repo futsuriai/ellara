@@ -1,0 +1,1 @@
+Master of the **[[Quarry Guild]]**. A pragmatic leader focused on the town's stability and the quarry's output. He has to balance the demands of the Empire/Church (who buy the stone), the needs of his workers (some of whom hold traditional beliefs), and the inherent dangers of the quarry and highlands. Knew [[Ellara]] as a child growing up in the Priory.

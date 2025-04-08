@@ -1,0 +1,15 @@
+Life within the Priory walls was (and is) highly structured, revolving around prayer, labour, and study, dictated by the tolling of the bell in the tower. For someone like [[Ellara]] growing up there:
+
+- **Predawn (Bell Toll 1):** Awakened before sunrise by the bell. Quick, cold wash. Gather in the austere Chapel for morning prayers (Matins/Lauds). The air is cold, smelling faintly of old incense and the [[Sunstone]]'s subtle glow barely piercing the gloom. Chanted prayers echo off the stone. Attendance is mandatory, silence expected.
+
+- **Morning (Post-Prayer - Bell Toll 2):** A simple, usually silent breakfast in the Refectory – typically oat porridge, maybe coarse bread. Afterwards, duties begin. [[Ellara]] would likely join [[Brother Theron]] and any other helpers in the vital **Herb Garden**, weeding, planting, harvesting according to the season, learning the properties of plants (both medicinal and mundane). Others might be cleaning, aiding [[Gareth Stonehand]] with maintenance, or fetching water. Study time might involve copying scripture or approved texts in the small, chilly [[Priory Layout#Scriptorium]] under the watchful eye of a priest, or direct theological instruction from[[Abbot Aris]] herself – likely rigorous sessions focused on doctrine and rooting out flawed thinking.
+
+- **Midday (Bell Toll 3):** Bell calls everyone back to the [[Priory Layout#Chapel]] for brief midday prayers (Sext/None). Followed by a simple lunch in the Refectory. Perhaps slightly more conversation allowed than at breakfast.
+
+- **Afternoon:** Return to duties. More gardening, perhaps assisting [[Brother Theron]] prepare remedies in the **Infirmary**, more study, or assigned chores. [[Abbot Aris]] might be handling Priory administration, meeting with [[Reeve Borin]], or deep in theological study in her office. 
+
+- **Evening (Bell Toll 4):** Evening prayers (Vespers) in the Chapel as dusk gathers. The [[Sunstone]] elements might seem to glow more warmly now. Supper in the Refectory follows, usually the main meal of the day, though still simple. Conversation might be permitted, supervised by the Abbot or ranking priest/sister.
+
+- **Night (Bell Toll 5):** Final prayers (Compline) in the Chapel, focusing on reflection and protection through the night. Afterwards, all retire to their small, cold **Cells** in the dormitory wing. Strict silence (the "Grand Silence") is typically observed until after morning prayers. Time for personal, silent prayer or sleep. The Priory gates are locked by [[Gareth Stonehand]].
+
+Life was predictable, orderly, and demanding. [[Ellara]]'s connection to [[Brother Theron]] and the garden likely provided her main source of warmth and connection to the natural world, while her lessons with [[Abbot Aris]] grounded her (perhaps repressively) in Eulogian law. Her burgeoning 'divine nudges' would have been stark anomalies within this rigid structure.

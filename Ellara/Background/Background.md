@@ -1,0 +1,2 @@
+- Adopted or raised from childhood by [[Abbot Aris]] deeply embedded within the [[Eulogia Church]], possibly clerics or temple caretakers.
+- Joined local [[Eulogia Temple]] as an initiate at a young age.

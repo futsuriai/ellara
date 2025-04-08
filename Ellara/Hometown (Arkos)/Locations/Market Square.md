@@ -1,0 +1,1 @@
+A windswept, open area near the center of town. Not much more than packed earth. Hosts infrequent market days when shepherds bring wool or traders like [[Silas Croft]] set up larger displays. Also used for public announcements from [[Reeve Borin]] or [[Abbot Aris]].

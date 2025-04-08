@@ -1,0 +1,1 @@
+Recently arrived young priest (~20s). Zealous, book-learned, eager to impress superiors by 'reforming' [[Arkos]]. Finds [[Brother Theron]]'s methods too slow and compromising. May try to enforce doctrines [[Brother Theron|Theron]] learned were impractical long ago.

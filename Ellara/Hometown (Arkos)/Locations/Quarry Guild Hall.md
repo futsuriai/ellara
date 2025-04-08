@@ -1,0 +1,1 @@
+A functional, unadorned stone building near the quarry entrance. Serves as [[Kaelen Vance]]'s office and a meeting place for quarry-related matters (contracts, safety issues, quota negotiations).

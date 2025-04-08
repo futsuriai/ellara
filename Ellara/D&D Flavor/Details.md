@@ -1,0 +1,4 @@
+- **Name:** Ellara
+- **Mechanics:** Druid (Circle of Dreams)
+- **Species:** Kalashtar (Reflavored)
+- Level 3

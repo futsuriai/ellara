@@ -1,0 +1,4 @@
+- Official reason cited: "Advanced theological study," hiding the true theological friction.
+- Relocated to [[Capital]] several months prior.
+- Higher-ranking clergy in Capital mostly unaware; some senior clergy quietly observing.
+- Holds rank higher than acolyte but below bishop (possibly akin to a respected priest or theological scholar).

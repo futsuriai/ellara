@@ -1,0 +1,1 @@
+A quiet, observant shepherd often seen moving his flock through the highlands surrounding [[Arkos]]. Knows the terrain, the weather signs, and the locations of all the standing stones intimately. Might occasionally trade information or guidance for small coin or supplies at [[Marta Flint]]'s tavern.

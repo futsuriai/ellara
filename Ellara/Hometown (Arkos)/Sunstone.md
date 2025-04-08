@@ -1,0 +1,1 @@
+Pale, faintly luminescent stone favoured for Eulogian construction. The quarry dominates the local economy and landscape.

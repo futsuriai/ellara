@@ -1,0 +1,1 @@
+- The social heart of [[Arkos]]. Built from rough local stone, dimly lit, usually busy in the evenings with quarry workers, herders, and townsfolk. Features a large central fireplace.

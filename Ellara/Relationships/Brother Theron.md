@@ -1,0 +1,1 @@
+Offered nurturing care, taught practical skills, and represented a gentler side of life within the Priory walls.

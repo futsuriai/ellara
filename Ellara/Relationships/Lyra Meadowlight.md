@@ -1,0 +1,7 @@
+Lyra grew up in [[Arkos]], her family perhaps one of those quietly known for maintaining closer ties to the old ways, maybe healers or dowsers generations back. 
+
+Unlike the sheltered Elara, Lyra experienced the town's life outside the Priory walls more directly. She lost her mother young to an illness the Priory couldn't heal, fostering a seed of doubt about the Eulogia's power or compassion. [[Ellara]] first noticed the [[Spirit]] at this time but it was dormant for many years after.
+
+She and Elara formed an unlikely childhood friendship – the observant Priory orphan and the slightly wilder town girl – perhaps meeting near the quarry edge or during market days. Lyra might have been fascinated by Elara's piety but also tried to share local stories or drag her exploring near the Standing Stones, earning disapproval from [[Abbot Aris]]. 
+
+As they grew older, Lyra became increasingly curious about the forbidden history and power associated with the stones and the ancestors, seeing them as a potential source of knowledge or agency denied by the strict Eulogian structure. She might have started experimenting with old rituals or seeking out elders who remember more lore, putting herself at risk, especially after Theron's crackdown. Elara's transfer likely upset her, perhaps leaving her feeling abandoned or even more determined to find answers outside the Priory's walls.

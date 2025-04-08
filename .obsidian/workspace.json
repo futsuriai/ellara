@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/Spirit/Spirit.md",
+                "file": "Ellara/Ellara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spirit"
+              "title": "Ellara"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ellara/Spirit/Spirit.md",
+                "file": "Ellara/Ellara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spirit"
+              "title": "Backlinks for Ellara"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ellara/Spirit/Spirit.md",
+                "file": "Ellara/Ellara.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spirit"
+              "title": "Outline of Ellara"
             }
           }
         ],
@@ -179,19 +179,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9b6c07fb9888e265",
+  "active": "594c597dbdc097d7",
   "lastOpenFiles": [
+    "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
+    "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
+    "Ellara/Hometown (Arkos)/Sunstone.md",
     "Ellara/Ellara.md",
+    "Ellara/D&D Flavor/Mechanical Flavoring.md",
+    "Ellara/Hometown (Arkos)/Town People/Morwen Stonehand.md",
+    "Ellara/Hometown (Arkos)/Town People/Marta Flint.md",
+    "Ellara/D&D Flavor/Details.md",
+    "Ellara/Hometown (Arkos)/Arkos.md",
+    "Ellara/Spirit/Spirit.md",
     "Ellara/Views and Prejudices.md",
     "Ellara/Background/Transfer to the Capital.md",
     "Ellara/Untitled.md",
     "Ellara/Background/Personality Traits.md",
     "Ellara/Relationships.md",
-    "Ellara/Spirit/Spirit.md",
-    "Ellara/D&D Flavor/Details.md",
     "Ellara/Background/Background.md",
     "Ellara/Background",
-    "Ellara/D&D Flavor/Mechanical Flavoring.md",
     "Ellara/D&D Flavor",
     "Ellara/Background/Early Life and Initiation.md",
     "Ellara/Divine Connection and Conflict.md",
@@ -201,14 +207,8 @@
     "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
     "Ellara/Hometown (Arkos)/Priory/Gareth Stonehand.md",
     "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
-    "Ellara/Hometown (Arkos)/Sunstone.md",
     "Ellara/Hometown (Arkos)/Recent History.md",
     "Ellara/Hometown (Arkos)/Locations/Highland Standing Stones.md",
-    "Ellara/Hometown (Arkos)/Town People/Kaelen Vance.md",
-    "Ellara/Hometown (Arkos)/Quarry Guild.md",
-    "Ellara/Hometown (Arkos)/Locations/Quarry Guild Hall.md",
-    "Ellara/Hometown (Arkos)/Town People/Laos.md",
-    "Ellara/Hometown (Arkos)/Town People/Morwen Stonehand.md",
     "Ellara/Hometown (Arkos)/Locations",
     "Ellara/Hometown (Arkos)/Town People",
     "Untitled 1.canvas",

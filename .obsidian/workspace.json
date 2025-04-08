@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/Ellara.md",
+                "file": "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ellara"
+              "title": "Priory of the Steadfast Light"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sister aris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ellara/Ellara.md",
+                "file": "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ellara"
+              "title": "Backlinks for Priory of the Steadfast Light"
             }
           },
           {
@@ -152,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ellara/Ellara.md",
+                "file": "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ellara"
+              "title": "Outline of Priory of the Steadfast Light"
             }
           }
         ],
@@ -181,10 +182,11 @@
   },
   "active": "594c597dbdc097d7",
   "lastOpenFiles": [
+    "Ellara/Hometown (Arkos)/Priory/Priory Layout.md",
+    "Ellara/Ellara.md",
     "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
     "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
     "Ellara/Hometown (Arkos)/Sunstone.md",
-    "Ellara/Ellara.md",
     "Ellara/D&D Flavor/Mechanical Flavoring.md",
     "Ellara/Hometown (Arkos)/Town People/Morwen Stonehand.md",
     "Ellara/Hometown (Arkos)/Town People/Marta Flint.md",
@@ -203,7 +205,6 @@
     "Ellara/Divine Connection and Conflict.md",
     "Ellara/Hometown (Arkos)/Priory/Daily Life.md",
     "Ellara/Hometown (Arkos)/Priory/Brother Mikhael.md",
-    "Ellara/Hometown (Arkos)/Priory/Priory Layout.md",
     "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
     "Ellara/Hometown (Arkos)/Priory/Gareth Stonehand.md",
     "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",

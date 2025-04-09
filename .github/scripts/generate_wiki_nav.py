@@ -9,19 +9,29 @@ import urllib.parse # For potential future encoding needs
 EXCLUDE_ITEMS = {'.git', '_Sidebar.md', 'Home.md', '.obsidian', '.github'} # Added .github
 
 def generate_wiki_link(file_path: Path, wiki_root: Path):
-    """Generates display text and link target for a wiki page file."""
+    """Generates display text and link target for a wiki page file.
+       Hyphenates spaces in BOTH directory and file names for the link target.
+    """
     relative_path = file_path.relative_to(wiki_root)
     stem = file_path.stem # Filename without extension e.g., "Page Name"
-    # Make display text more readable
+    # Make display text more readable (keep spaces here)
     display_text = stem.replace('-', ' ').replace('_', ' ')
 
-    # Create link target: Folder/SubFolder/Page-Name (hyphenate page name part)
+    # Create link target: Folder-With-Spaces/Sub-Folder/Page-Name
     link_parts = []
+    # --- MODIFICATION START ---
+    # Hyphenate EACH part of the path (directories)
     for part in relative_path.parent.parts:
-        link_parts.append(part)
-    link_parts.append(stem.replace(' ', '-')) # Hyphenate file stem for link
+        link_parts.append(part.replace(' ', '-')) # Hyphenate directory names
+    # --- MODIFICATION END ---
+
+    # Hyphenate the final file stem
+    link_parts.append(stem.replace(' ', '-'))
 
     link_target = "/".join(link_parts)
+    # Optional: URL encode potentially problematic characters?
+    # Stick to hyphenation for now as it seems to be the key requirement.
+    # link_target = urllib.parse.quote(link_target)
     return display_text, link_target
 
 def generate_markdown_for_dir(directory_path: Path, wiki_root: Path, level: int):

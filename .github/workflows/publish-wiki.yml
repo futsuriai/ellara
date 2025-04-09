@@ -1,0 +1,95 @@
+name: Publish Obsidian Vault to Wiki
+
+on:
+  push:
+    branches:
+      - obsidian # Or your source branch name
+
+# Allow GITHUB_TOKEN to write to the wiki
+permissions:
+  contents: write
+
+jobs:
+  publish-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Repo (Source Branch)
+        uses: actions/checkout@v4
+        with:
+          path: main_repo # Checkout source repo into 'main_repo' directory
+          ref: ${{ github.ref }} # Checkout the branch that triggered the workflow
+
+      - name: Checkout Wiki Repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}.wiki # Dynamically gets your-repo.wiki
+          path: wiki_repo # Checkout wiki repo into 'wiki_repo' directory
+          # Use default GITHUB_TOKEN. Ensure workflow has write permissions.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Clean Wiki Repo Directory
+        run: |
+          echo "Cleaning wiki_repo directory before copying new files..."
+          cd wiki_repo
+          # List files before deleting (optional, for debugging)
+          ls -A
+          # Delete all files and folders except the .git directory
+          # Use find to avoid issues with filenames containing special characters
+          find . -mindepth 1 ! -path './.git' ! -path './.git/*' -delete
+          echo "Wiki_repo directory cleaned."
+          ls -A # Verify cleaning (optional)
+          cd ..
+        shell: bash
+
+      - name: Copy Vault Content to Wiki Repo
+        run: |
+          echo "Copying relevant vault files..."
+          SOURCE_DIR="ellara"
+          # Example: Copy all md files and image files from the vault root
+          # SOURCE_DIR="ellara"
+
+          if [ ! -d "$SOURCE_DIR" ]; then
+            echo "Error: Source directory '$SOURCE_DIR' not found in main_repo checkout."
+            exit 1
+          fi
+
+          # Use rsync to copy. Creates directories, handles files.
+          # Copy Markdown files:
+          rsync -av --include='*.md' --include='*/' --exclude='*' "$SOURCE_DIR/" wiki_repo/
+          # Copy common image/asset types (adjust as needed):
+          rsync -av --include='*.png' --include='*.jpg' --include='*.jpeg' --include='*.gif' --include='*.svg' --include='*.pdf' --include='*/' --exclude='*' "$SOURCE_DIR/" wiki_repo/
+
+          echo "Files copied."
+        shell: bash
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use a recent Python 3 version
+
+      - name: Run Syntax Transformation Script
+        run: |
+          echo "Running Python transformation script..."
+          # --- ADJUST SCRIPT PATH IF NEEDED ---
+          python ellara/.github/scripts/transform_wiki_syntax.py wiki_repo
+        shell: bash
+
+      - name: Commit and Push Changes to Wiki
+        run: |
+          cd wiki_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add all changes (including deletions tracked by git)
+          git add .
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes detected in wiki content. Nothing to commit."
+          else
+            echo "Changes detected. Committing and pushing to wiki..."
+            git commit -m "Update wiki from main repo commit ${{ github.sha }}"
+            git push origin master # Assumes wiki branch is 'master', change if needed
+            echo "Wiki push successful."
+          fi
+        shell: bash

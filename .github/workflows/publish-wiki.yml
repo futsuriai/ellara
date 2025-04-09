@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Main Repo (Source Branch)
         uses: actions/checkout@v4
         with:
-          path: main_repo # Checkout source repo into 'main_repo' directory
+          path: ellara # Checkout source repo into 'main_repo' directory
           ref: ${{ github.ref }} # Checkout the branch that triggered the workflow
 
       - name: Checkout Wiki Repo

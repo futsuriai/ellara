@@ -7,13 +7,14 @@ import urllib.parse
 
 # --- Transformation Functions (Adjusted for GitHub Wiki GFM) ---
 
-
 def normalize_link_target(target):
     """
-    Converts Obsidian link target (potentially with path) to GitHub Wiki
-    compatible format (hyphenated filename AND directory names, no .md for pages, URL-encoded).
-    Example: "Folder Name/Page Name" -> Folder-Name/Page-Name
-             "My Doc.pdf" -> My-Doc.pdf
+    Converts Obsidian link target to GitHub Wiki compatible format.
+    TARGET CONTAINS FILENAME ONLY (hyphenated), discarding the path, EXCEPT for known asset types.
+    No .md for pages. URL-encoded.
+    WARNING: Discarding paths may break links if pages are not unique/at the root.
+    Example: "Folder Name/Page Name" -> Page-Name
+             "Folder Name/My Doc.pdf" -> Folder-Name/My-Doc.pdf (Assets keep path & get hyphenated dirs)
              "#Header Name" -> #header-name
     """
     if target.startswith('#'):
@@ -22,55 +23,87 @@ def normalize_link_target(target):
     else:
         # Handle page or file links (potentially with paths)
         parts = target.split('/')
-        filename = parts[-1]
-        # --- MODIFICATION START ---
-        # Hyphenate directory parts
-        path_components = [part.replace(' ', '-') for part in parts[:-1]]
-        # --- MODIFICATION END ---
+        filename = parts[-1] # Get the filename part
 
-        # Check if filename has a common asset extension (adjust list as needed)
+        # Check if filename looks like a known asset type that needs path preserved
+        # NOTE: Adjust this regex if you have other non-markdown file types to link directly
         is_asset = re.search(r'\.(png|jpg|jpeg|gif|svg|pdf|zip|xlsx|docx|pptx)$', filename, re.IGNORECASE)
 
-        # Split filename into name and extension (if it exists)
-        name_part, *ext_part = filename.rsplit('.', 1)
-        extension = ('.' + ext_part[0]) if ext_part else ''
-
-        # Hyphenate the name part of the filename
-        normalized_name = name_part.replace(' ', '-')
-
-        # Reconstruct filename: keep extension for assets, omit .md for pages implicitly
         if is_asset:
+            # --- ASSET PATH LOGIC (Keep path, hyphenate dirs/name) ---
+            path_components = [part.replace(' ', '-') for part in parts[:-1]] # Hyphenate dir parts
+            name_part, *ext_part = filename.rsplit('.', 1)
+            extension = ('.' + ext_part[0]) if ext_part else '' # Should always have extension here
+            normalized_name = name_part.replace(' ', '-') # Hyphenate name part
             normalized_filename = normalized_name + extension
-        elif extension.lower() == '.md':
-             # If it explicitly links to "Page Name.md", treat as page link -> "Page-Name"
-             normalized_filename = normalized_name
+            full_path_parts = path_components + [normalized_filename]
+            final_target = "/".join(full_path_parts)
+            # --- END ASSET PATH LOGIC ---
         else:
-             # Assume it's a page link (no extension or non-asset extension)
-             # DO NOT add .md suffix for GitHub Wiki page links
-             normalized_filename = normalized_name + extension # Keep other extensions like .txt etc.
+            # --- PAGE LINK LOGIC (Discard path, use hyphenated filename only) ---
+            name_part, *ext_part = filename.rsplit('.', 1)
+            extension = ('.' + ext_part[0]) if ext_part else ''
 
+            normalized_name = name_part.replace(' ', '-') # Hyphenate the name part
 
-        # Reconstruct the full path using hyphenated components
-        full_path_parts = path_components + [normalized_filename]
-        final_target = "/".join(full_path_parts)
+            # If it explicitly linked to .md, or had no extension, treat as wiki page (no ext)
+            if extension.lower() == '.md' or not extension:
+                final_target = normalized_name # DISCARD PATH, use hyphenated name only
+            else:
+                # Keep other extensions like .txt, but still discard path
+                final_target = normalized_name + extension # DISCARD PATH
+            # --- END PAGE LINK LOGIC ---
 
-        # URL-encode the final path for safety (handles % chars etc.)
-        # This should be safe even with hyphens already added.
+        # URL-encode the final path/target for safety
         return urllib.parse.quote(final_target)
+
+
+def transform_obsidian_link(m, current_file_path=None): # Added current_file_path (optional for future use)
+    """
+    Transforms Obsidian links to GitHub standard Markdown links.
+    [[Page Name]] -> [Page Name](Page-Name)
+    [[Folder/Page Name|Link Text]] -> [Link Text](Page-Name) (Path discarded from target based on normalize_link_target)
+    [[File.pdf]] -> [File.pdf](File.pdf)
+    [[Folder/File.pdf]] -> [File.pdf](Folder/File.pdf) (Path kept for assets)
+    [[#Header|Text]] -> [Text](#header)
+    """
+    prefix = m.group(1) # Keep leading non-exclamation mark char if present
+    target = m.group(2).strip() # Raw target
+    link_text_alias = m.group(4).strip() if m.group(4) else None # Explicit alias (like |Priory)
+
+    normalized_target = normalize_link_target(target) # This now discards paths for non-assets
+
+    # Determine the display text
+    if link_text_alias:
+        link_text = link_text_alias # Use the explicit alias if provided
+    else:
+        # No alias, use the filename part of the original target as default text
+        link_text = target.split('/')[-1] # Get filename part from *original* target
+        # Make default text more readable (remove .md, replace hyphens/underscores)
+        if link_text.lower().endswith('.md'):
+            link_text = link_text[:-3]
+        link_text = link_text.replace('-', ' ').replace('_', ' ')
+
+
+    sub = f"{prefix or ''}[{link_text}]({normalized_target})"
+    # Optional Debug: Compare original target with new link
+    # print(f"  Transforming Link: [[{target}{'|'+link_text_alias if link_text_alias else ''}]] -> {sub}")
+    return sub
 
 
 def transform_obsidian_embed(m):
     """
     Transforms Obsidian embeds to GitHub standard Markdown image/file links.
-    Hyphenates spaces in directory AND file paths.
+    KEEPS PATHS for embeds, hyphenates spaces in directory AND file paths.
     ![[Folder Name/Image Name.png]] -> ![Image Name](Folder-Name/Image-Name.png)
     """
     target = m.group(1).strip()
+    # Alt text from filename part, made readable
     alt_text = Path(target).stem.replace('-', ' ').replace('_', ' ')
 
     parts = target.split('/')
     filename = parts[-1]
-    # --- Ensure directory parts are hyphenated here too ---
+    # Hyphenate directory parts for the path
     path_components = [part.replace(' ', '-') for part in parts[:-1]]
 
     name_part, *ext_part = filename.rsplit('.', 1)
@@ -80,31 +113,23 @@ def transform_obsidian_embed(m):
     normalized_name = name_part.replace(' ', '-')
     normalized_filename = normalized_name + extension # Keep the extension!
 
+    # Reconstruct the full, hyphenated path
     full_path_parts = path_components + [normalized_filename]
     final_target_path = "/".join(full_path_parts)
-    encoded_target_path = urllib.parse.quote(final_target_path) # URL Encode the result
+    # URL Encode the result
+    encoded_target_path = urllib.parse.quote(final_target_path)
 
+    # Check if it's an image type for correct Markdown (image vs link)
     is_image = re.search(r'\.(png|jpg|jpeg|gif|svg)$', target, re.IGNORECASE)
 
     if is_image:
         sub = f"![{alt_text}]({encoded_target_path})"
-        print(f"  Transforming Image Embed: ![[{target}]] -> {sub}")
+        # print(f"  Transforming Image Embed: ![[{target}]] -> {sub}") # Optional Debug
     else:
-        sub = f"[{alt_text or filename}]({encoded_target_path})"
-        print(f"  Transforming File Embed: ![[{target}]] -> {sub}")
+        # For non-images (like PDFs), use a standard link syntax
+        sub = f"[{alt_text or filename}]({encoded_target_path})" # Use filename if alt_text empty
+        # print(f"  Transforming File Embed: ![[{target}]] -> {sub}") # Optional Debug
 
-    return sub
-
-def transform_obsidian_embed(m):
-    """![[Image.png]] -> ![Image.png](Image.png)"""
-    target = m.group(1)
-    # Assume image is in the same directory or copied to the root
-    # More complex path logic might be needed depending on vault structure
-    image_filename = target.split('/')[-1] # Get filename if path is included
-    normalized_target = urllib.parse.quote(image_filename.replace(' ', '-')) # URL encode filename
-    alt_text = Path(image_filename).stem # Use filename without extension as alt text
-    sub = f"![{alt_text}]({normalized_target})"
-    print(f"  Transforming Embed: ![[{target}]] -> {sub}")
     return sub
 
 # --- Main Processing Logic ---
@@ -117,30 +142,36 @@ def process_files(wiki_dir_path):
         sys.exit(1)
 
     print(f"Processing Markdown files in: {wiki_dir}")
-    mdfiles = sorted(wiki_dir.glob("**/*.md"))
+    mdfiles = sorted(wiki_dir.rglob("*.md"))
+    if not mdfiles:
+        print("No Markdown files found to process.")
+        return
 
     for file in mdfiles:
-        if not file.is_file():
+        if not file.is_file() or file.name in ['_Sidebar.md', 'Home.md']: # Avoid processing nav files
             continue
-        print(f"\nProcessing file: {file.relative_to(wiki_dir)}")
+        relative_path = file.relative_to(wiki_dir)
+        # print(f"\nProcessing file: {relative_path}") # Optional Debug
         try:
             original_text = file.read_text(encoding='utf-8')
             new_text = original_text
 
-            # Apply transformations
-            # Regex looks for [[link]] or [[link|text]], ensuring it's not preceded by ! (which denotes an embed)
-            new_text = re.sub(r"([^!])\[\[([^#|\[\]]+)(\|([^#|\[\]]+))?\]\]", transform_obsidian_link, new_text)
-             # Regex for header links: [[#Header|Text]]
-            new_text = re.sub(r"\[\[(#[^#|\[\]]+)\|([^#|\[\]]+)\]\]", lambda m: transform_obsidian_link( ('', m.group(1), '|', m.group(2)) ), new_text) # Simulate groups for transform_obsidian_link
-             # Regex for embeds: ![[File.ext]]
+            # Apply transformations using updated functions
+            # 1. Standard Links: [[Link]] or [[Link|Text]] (ensure not preceded by !)
+            new_text = re.sub(r"([^!])\[\[([^#\|\[\]]+)(\|([^#\|\[\]]+))?\]\]", lambda m: transform_obsidian_link(m, file), new_text)
+
+            # 2. Header Links: [[#Header]] or [[#Header|Text]]
+            new_text = re.sub(r"\[\[(#[^\|\[\]]+)(\|([^\|\[\]]+))?\]\]", lambda m: transform_obsidian_link( ('', m.group(1), m.group(2), m.group(3)), file ), new_text)
+
+            # 3. Embeds: ![[File.ext]] or ![[Folder/File.ext]] (keeps paths)
             new_text = re.sub(r"!\[\[([^\[\]]+)\]\]", transform_obsidian_embed, new_text)
 
             # Write back if changed
             if new_text != original_text:
-                print(f"  Writing changes to {file.relative_to(wiki_dir)}")
+                print(f"  Writing changes to {relative_path}")
                 file.write_text(new_text, encoding='utf-8')
-            else:
-                print("  No changes needed.")
+            # else: # Optional Debug
+                # print("  No changes needed.")
         except Exception as e:
             print(f"  Error processing file {file}: {e}")
 

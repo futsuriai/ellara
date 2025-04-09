@@ -2,44 +2,36 @@
 import sys
 from pathlib import Path
 import argparse
-import urllib.parse # For potential future encoding needs
+import urllib.parse # Keep for potential future use, though not encoding target now
 
 # --- Configuration ---
 # Files/dirs to exclude completely from navigation lists
-EXCLUDE_ITEMS = {'.git', '_Sidebar.md', 'Home.md', '.obsidian', '.github'} # Added .github
+EXCLUDE_ITEMS = {'.git', '_Sidebar.md', 'Home.md', '.obsidian', '.github'}
 
 def generate_wiki_link(file_path: Path, wiki_root: Path):
     """Generates display text and link target for a wiki page file.
-       Hyphenates spaces in BOTH directory and file names for the link target.
+       TARGET CONTAINS FILENAME ONLY (hyphenated). Discards path.
+       WARNING: This may break links if pages are not at the root.
     """
-    relative_path = file_path.relative_to(wiki_root)
     stem = file_path.stem # Filename without extension e.g., "Page Name"
     # Make display text more readable (keep spaces here)
     display_text = stem.replace('-', ' ').replace('_', ' ')
 
-    # Create link target: Folder-With-Spaces/Sub-Folder/Page-Name
-    link_parts = []
-    # --- MODIFICATION START ---
-    # Hyphenate EACH part of the path (directories)
-    for part in relative_path.parent.parts:
-        link_parts.append(part.replace(' ', '-')) # Hyphenate directory names
-    # --- MODIFICATION END ---
+    # --- MODIFICATION ---
+    # Link target is ONLY the hyphenated stem (filename part), path discarded.
+    link_target = stem.replace(' ', '-')
+    # --- END MODIFICATION ---
 
-    # Hyphenate the final file stem
-    link_parts.append(stem.replace(' ', '-'))
+    # No path components included based on user request.
+    # No URL encoding applied here, assuming simple hyphenated names.
 
-    link_target = "/".join(link_parts)
-    # Optional: URL encode potentially problematic characters?
-    # Stick to hyphenation for now as it seems to be the key requirement.
-    # link_target = urllib.parse.quote(link_target)
     return display_text, link_target
 
 def generate_markdown_for_dir(directory_path: Path, wiki_root: Path, level: int):
     """Recursively generates markdown list items for a directory's contents."""
     markdown_lines = []
     indent = '  ' * level # Two spaces per indentation level
-    # --- Debug Log ---
-    print(f"{indent}DEBUG: Processing directory: {directory_path}")
+    # print(f"{indent}DEBUG: Processing directory: {directory_path}") # Optional debug
 
     try:
         items_to_process = [
@@ -60,35 +52,24 @@ def generate_markdown_for_dir(directory_path: Path, wiki_root: Path, level: int)
 
         if item.is_dir():
             folder_name = item.name.replace('-', ' ').replace('_', ' ')
-             # --- Debug Log ---
-            print(f"{indent}  DEBUG: Found directory: {item.name}")
+            # print(f"{indent}  DEBUG: Found directory: {item.name}") # Optional debug
             markdown_lines.append(f"{indent}* **{folder_name}**")
             markdown_lines.extend(generate_markdown_for_dir(item, wiki_root, level + 1))
 
         elif item.is_file() and item.suffix.lower() == '.md':
-             # --- Debug Log ---
-            print(f"{indent}  DEBUG: Found MD file: {item.name}")
+            # print(f"{indent}  DEBUG: Found MD file: {item.name}") # Optional debug
             try:
-                display_text, link_target = generate_wiki_link(item, wiki_root)
-                 # --- Debug Log ---
-                print(f"{indent}    DEBUG: Generated link parts: display='{display_text}', target='{link_target}'")
+                display_text, link_target = generate_wiki_link(item, wiki_root) # Uses modified function
+                # print(f"{indent}    DEBUG: Generated link parts: display='{display_text}', target='{link_target}'") # Optional debug
                 markdown_line = f"{indent}* [{display_text}]({link_target})"
-                 # --- Debug Log ---
-                print(f"{indent}    DEBUG: Appending Markdown: {markdown_line}")
+                # print(f"{indent}    DEBUG: Appending Markdown: {markdown_line}") # Optional debug
                 markdown_lines.append(markdown_line)
             except Exception as e:
-                 # --- Debug Log ---
                 print(f"{indent}    ERROR generating link for {item.name}: {e}")
-                # Optionally add a fallback placeholder if an error occurs:
-                # display_text = item.stem.replace('-', ' ').replace('_', ' ')
-                # markdown_lines.append(f"{indent}* {display_text} (Link generation error)")
-        # else: # --- Debug Log --- Optional: Log ignored files
-            # print(f"{indent}  DEBUG: Ignored item (not dir or md file): {item.name}")
-
 
     return markdown_lines
 
-# --- Main execution block remains the same ---
+# --- Main execution block ---
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate GitHub Wiki Sidebar/Home Markdown from directory structure.")
     parser.add_argument("wiki_directory", help="Path to the checked-out wiki repository directory.")
@@ -130,8 +111,12 @@ if __name__ == "__main__":
         print(f"Writing home page structure to: {home_path}")
         try:
             with open(home_path, 'w', encoding='utf-8') as f:
-                repo_name = wiki_dir.parent.name
-                home_title = f"# Welcome to the {repo_name.split('.')[0].capitalize()} Wiki\n\n"
+                try:
+                    # Try to derive a sensible repo name for the title
+                    repo_name = wiki_dir.parent.name.split('.wiki')[0]
+                except:
+                    repo_name = "Wiki" # Fallback title
+                home_title = f"# Welcome to the {repo_name.capitalize()} Wiki\n\n"
                 f.write(home_title)
                 f.write("Browse the wiki content using the sidebar or the structure below:\n\n")
                 f.write("\n".join(all_markdown_lines))

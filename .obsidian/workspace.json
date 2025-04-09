@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Ellara/Relationships/Abbot Aris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appearance and Attire"
+              "title": "Abbot Aris"
             }
           }
         ],
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 648.5
   },
   "right": {
     "id": "725381494cade929",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Ellara/Relationships/Abbot Aris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Appearance and Attire"
+              "title": "Backlinks for Abbot Aris"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Ellara/Relationships/Abbot Aris.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Appearance and Attire"
+              "title": "Outline of Abbot Aris"
             }
           }
         ],
@@ -206,11 +206,15 @@
   },
   "active": "f76c84f334baa0ca",
   "lastOpenFiles": [
+    "Ellara/Open Questions",
+    "Ellara/Relationships/Brother Theron.md",
+    "Ellara/Relationships/Abbot Aris.md",
+    "Ellara/Relationships/Lyra Meadowlight.md",
+    "Ellara/Capital Life/Appearance and Attire.md",
     "Beings/Fey/Fey.md",
     "Ellara/Capital Life/Financial Situation.md",
     "Ellara/Capital Life/Dietary Preferences.md",
     "Ellara/Capital Life/Speech and Mannerisms.md",
-    "Ellara/Capital Life/Appearance and Attire.md",
     "Ellara/Capital Life/Living Arrangements.md",
     "Ellara/Personal Development/Character Flaws.md",
     "Ellara/Personal Development/Inner Conflicts.md",
@@ -231,10 +235,6 @@
     "Eulogia/Eulogia Church.md",
     "Eulogia/Eulogia.md",
     "Eulogia/Capital Clergy.md",
-    "Eulogia/Church Archives.md",
-    "Empire/Our Province/PROVINCE.md",
-    "Empire/Capital/Capital.md",
-    "Ellara/Background/Views and Prejudices.md",
     "Ellara/Background",
     "Ellara/D&D Flavor",
     "Ellara/Hometown (Arkos)/Locations",

@@ -46,7 +46,7 @@
 
 ## Quori Spirit Replacement: The Ancient Light
 
-- **Origin**: The "Spirit" that awakened within Ellara represents an ancient connection to highland spiritual tradition, possibly tied to the Standing Stones. When manifesting, it appears as subtle illumination emanating from her hands or eyes.
+- **Origin**: The "Spirit" that awakened within Ellara represents [[TBD]], possibly tied to the Standing Stones. When manifesting, it appears as subtle illumination emanating from her hands or eyes.
 
 - **Church Interpretation**: The orthodox Eulogian church might interpret this as either:
   * A divine blessing from the Light itself (progressive interpretation)
@@ -54,4 +54,4 @@
 
 - **Manifestations**: In moments of spiritual intensity, Ellara might gain insights or visions connected to the ancient highland past, creating tension with her formal religious education.
 
-- **Nature**: Unlike the alien quori spirits, Ellara's connection is to something indigenous to her homeland - perhaps an echo of the original highland faith that was largely supplanted by Eulogian doctrine, or a manifestation of the Divine Light that has taken a form unique to the highlands.
+- **Nature**: Unlike the alien quori spirits, Ellara's connection is to something indigenous to her homeland or church - specifics are [[TBD]].

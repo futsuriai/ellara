@@ -1,3 +1,3 @@
 ## Documentation
 
-For more detailed information, visit the [Ellara Wiki](https://github.com/futsuriai/ellara/wiki).
+Go to the [Wiki](https://github.com/futsuriai/ellara/wiki) for background/RP info.

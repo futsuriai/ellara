@@ -1,10 +1,10 @@
 # Homesickness Triggers
 
-Certain experiences in the [[../../Empire/Capital/Capital|Capital]] provoke intense homesickness in Ellara, reminding her of [[../Hometown (Arkos)/Arkos|Arkos]] and her former life:
+Certain experiences in the [[Arkos|Arkos]] and her former life:
 
 ## Sensory Triggers
 
-- **Stonework and Masonry** - Seeing skilled stoneworkers reminds her of the [[../Hometown (Arkos)/Locations/Sunstone Quarry|Sunstone Quarry]] and its importance to Arkos. She often stops to watch masons in the Capital, sometimes bringing them water as she would for quarry workers back home.
+- **Stonework and Masonry** - Seeing skilled stoneworkers reminds her of the [[Sunstone Quarry|Sunstone Quarry]] and its importance to Arkos. She often stops to watch masons in the Capital, sometimes bringing them water as she would for quarry workers back home.
 
 - **Highland Herbs** - The rare sight or scent of familiar highland herbs in the Capital marketplace can bring tears to her eyes. She occasionally overpays for these just to have them in her quarters.
 

@@ -1,10 +1,10 @@
 # Daily Rituals
 
-Ellara maintains a structured spiritual practice that blends formal [[../../Eulogia/Eulogia Church|Eulogian]] observances with some Highland traditions.
+Ellara maintains a structured spiritual practice that blends formal [[Eulogia Church|Eulogian]] observances with some Highland traditions.
 
 ## Morning Rituals (Dawn)
 
-- **First Light Prayer** - Rises before dawn to greet the first light, a highland tradition less common in the Capital. Uses her [[../Hometown Connections/Keepsakes|sunstone talisman]] to catch the first rays when possible.
+- **First Light Prayer** - Rises before dawn to greet the first light, a highland tradition less common in the Capital. Uses her [[Keepsakes|sunstone talisman]] to catch the first rays when possible.
   
 - **Meditation Circle** - When in deep spiritual doubt or has a big decision in front of her creates a small circle using her river stone and herbs. Sits in silent communion with for exactly 17 minutes (a number significant in highland Eulogian practice). 
   
@@ -22,7 +22,7 @@ Ellara maintains a structured spiritual practice that blends formal [[../../Eulo
 
 - **Candlelight Reflection** - Lights a single candle at dusk and reviews her day through the lens of Eulogian teachings, noting moments of connection and discord with the Spirit.
   
-- **Correspondence Ritual** - Reads or writes letters from [[../Hometown Connections/Correspondence|home]] as a spiritual practice, seeing connection to her roots as sacred duty.
+- **Correspondence Ritual** - Reads or writes letters from [[Correspondence|home]] as a as a way to ground herself.
   
 - **Highland Hymns** - Sings traditional highland hymns softly in her quarters, sometimes harmonizing in ways that subtly invoke her connection to the Spirit.
 

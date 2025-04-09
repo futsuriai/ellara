@@ -35,18 +35,49 @@
             "id": "f76c84f334baa0ca",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "674a01bd08dab705",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/Relationships/Abbot Aris.md",
+                "file": "Ellara/Hometown (Arkos)/Sunstone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abbot Aris"
+              "title": "Sunstone"
+            }
+          },
+          {
+            "id": "e6a4bf784a7f5398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stone Hearth Tavern"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Hometown (Arkos)/Sunstone",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ellara/Relationships/Abbot Aris.md",
+                "file": "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abbot Aris"
+              "title": "Backlinks for Stone Hearth Tavern"
             }
           },
           {
@@ -177,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ellara/Relationships/Abbot Aris.md",
+                "file": "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abbot Aris"
+              "title": "Outline of Stone Hearth Tavern"
             }
           }
         ],
@@ -204,11 +235,26 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f76c84f334baa0ca",
+  "active": "e6a4bf784a7f5398",
   "lastOpenFiles": [
+    "Ellara/Background/Background.md",
+    "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
+    "Ellara/Hometown (Arkos)/Locations/The Stone Hearth Tavern.md",
+    "Ellara/Hometown (Arkos)/Locations/Highland Standing Stones.md",
+    "Ellara/Hometown (Arkos)/Locations/Market Square.md",
+    "Ellara/Hometown (Arkos)/Sunstone.md",
+    "broken links output.md",
+    "Untitled.canvas",
+    "Ellara/Ellara.md",
+    "2025-04-09.md",
+    "Ellara/Hometown (Arkos)/Priory/Initiate Rhys.md",
+    "Ellara/Hometown (Arkos)/Arkos.md",
+    "Ellara/Relationships/Abbot Aris.md",
+    "Eulogia/Eulogia.md",
+    "Ellara/Hometown (Arkos)/Priory/Gareth Stonehand.md",
+    "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
     "Ellara/Open Questions",
     "Ellara/Relationships/Brother Theron.md",
-    "Ellara/Relationships/Abbot Aris.md",
     "Ellara/Relationships/Lyra Meadowlight.md",
     "Ellara/Capital Life/Appearance and Attire.md",
     "Beings/Fey/Fey.md",
@@ -219,30 +265,15 @@
     "Ellara/Personal Development/Character Flaws.md",
     "Ellara/Personal Development/Inner Conflicts.md",
     "Ellara/Personal Development/Skills to Develop.md",
-    "Ellara/Personal Development/Goals and Ambitions.md",
-    "Ellara/Capital Life/Daily Rituals.md",
-    "Ellara/Hometown Connections/Homesickness Triggers.md",
-    "Ellara/Hometown Connections/Keepsakes.md",
-    "Ellara/Hometown Connections/Correspondence.md",
     "Ellara/Hometown Connections",
     "Ellara/Personal Development",
     "Ellara/Capital Life",
-    "Beings/Fey/Fey Influence.md",
-    "Heretical Magics.md",
-    "Eulogia/Light Radiance.md",
-    "Eulogia/Eulogia’s Divine Light.md",
-    "Eulogia/Eulogia Temple.md",
-    "Eulogia/Eulogia Church.md",
-    "Eulogia/Eulogia.md",
-    "Eulogia/Capital Clergy.md",
     "Ellara/Background",
     "Ellara/D&D Flavor",
     "Ellara/Hometown (Arkos)/Locations",
     "Ellara/Hometown (Arkos)/Town People",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Ellara/Hometown (Arkos)/Priory",
-    "Ellara/Spirit",
-    "Empire/Our Province"
+    "Ellara/Spirit"
   ]
 }

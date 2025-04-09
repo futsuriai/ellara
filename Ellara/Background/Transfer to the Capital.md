@@ -1,4 +1,8 @@
-- Official reason cited: "Advanced theological study," hiding the true theological friction.
-- Relocated to [[Capital]] several months prior.
-- Higher-ranking clergy in Capital mostly unaware; some senior clergy quietly observing.
+- Official reason cited: "Advanced theological study," hiding the true theological friction related to [[Spirit|unusual spiritual manifestations]].
+- Relocated from [[Arkos|Arkos]] to [[Capital]]
+- Transfer initiated by [[Eulogia|Eulogian doctrine]].
+- Higher-ranking [[Capital Clergy|clergy in Capital]] mostly unaware; some senior clergy quietly observing.
 - Holds rank higher than acolyte but below bishop (possibly akin to a respected priest or theological scholar).
+- Departure marked by a painful separation from [[Keepsakes|keepsakes]] for Ellara the night before she left.
+- Journey from [[Capital|Capital]] was Ellara's first significant travel beyond her isolated hometown.
+- Now adapting to life in the [[Capital|Capital]], experiencing both homesickness and new opportunities for spiritual exploration.

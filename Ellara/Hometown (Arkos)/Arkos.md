@@ -1,11 +1,11 @@
 # Arkos
 
 ## Overview
-A small, remote town situated near a sacred mountain spring. Arkos serves as [[../../Ellara|Ellara's]] hometown and the foundation of her spiritual journey.
+A small, remote town situated near a sacred mountain spring. Arkos serves as [[Ellara|Ellara's]] hometown and the foundation of her spiritual journey.
 
 ## Key Locations
 - **The Priory**: Center of spiritual activity and divine communion
-- **[[Stone Hearth Tavern]]**: Main social gathering place, operated by [[Town People/Marta Flint|Marta Flint]]
+- **[[Stone Hearth Tavern]]**: Main social gathering place, operated by [[Marta Flint]]
 - **Mountain Quarry**: Primary industry providing stone exports and employment
 - **Sacred Spring**: Source of the town's prosperity and spiritual significance
 

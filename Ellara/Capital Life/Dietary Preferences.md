@@ -34,7 +34,7 @@ Ellara's relationship with food reflects both her highland upbringing and her ad
 
 ## Special Indulgences
 
-- **Sunberry Preserves** - A highland specialty impossible to find in the Capital. [[../Hometown Connections/Correspondence|Lyra occasionally sends small jars]] hidden among other items, which Ellara saves for moments of extreme homesickness.
+- **Sunberry Preserves** - A highland specialty impossible to find in the Capital. [[Correspondence|Lyra occasionally sends small jars]] hidden among other items, which Ellara saves for moments of extreme homesickness.
 
 - **Festival Cakes** - Still attempts to recreate traditional highland solstice cakes in her small quarters, though the available ingredients never quite capture the proper flavor (she's also not the best baker). 
 

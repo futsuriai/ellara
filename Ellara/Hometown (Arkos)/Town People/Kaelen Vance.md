@@ -1,1 +1,5 @@
-Master of the **[[Quarry Guild]]**. A pragmatic leader focused on the town's stability and the quarry's output. He has to balance the demands of the Empire/Church (who buy the stone), the needs of his workers (some of whom hold traditional beliefs), and the inherent dangers of the quarry and highlands. Knew [[Ellara]] as a child growing up in the Priory.
+Master of the **[[Quarry Guild]].
+
+Kaelen maintains a respectful but cautious relationship with [[Eulogia Church|Eulogian Church]] represents both an important customer and a potential threat to local traditions. He works closely with [[Reeve Borin]] on town administration matters, and occasionally consults with [[Morwen Stonehand]] when workers suffer injuries that conventional medicine cannot address.
+
+His position gives him significant influence in [[Arkos]].

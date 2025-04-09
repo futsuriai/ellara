@@ -1,3 +1,4 @@
 Perched strategically on a ridge overlooking [[Arkos]], offering a commanding view of the town and the surrounding highlands. It's built predominantly from the pale, locally quarried [[**Sunstone**]], giving it a stark, luminous quality against the often-grey, windswept landscape. Timber is less prevalent, used mainly for roofing and internal structures. 
 
 The architecture is solid, imposing, and perhaps even incorporates some dismantled [[Highland Standing Stones]] into its foundations or boundary walls – a clear symbol of the Eulogia's dominance over older powers. The interior remains austere, functional, with a chapel, small scriptorium, dormitories, and [[Brother Theron]]'s vital herb garden managing to thrive in protected corners. The ambient glow from the Sunstone feels constant, a beacon of imposed order against the rugged terrain and lingering superstitions.
+[[EDIT]]

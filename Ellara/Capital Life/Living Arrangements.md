@@ -1,6 +1,6 @@
 # Living Arrangements
 
-Ellara's living situation in the [[../../Empire/Capital/Capital|Capital]] reflects her intermediate status within the [[../../Eulogia/Eulogia Church|church hierarchy]]:
+Ellara's living situation in the [[Eulogia Church|church hierarchy]]:
 
 ## Quarters
 
@@ -8,7 +8,7 @@ Ellara's living situation in the [[../../Empire/Capital/Capital|Capital]] reflec
 
 - **Size and Features** - Approximately 10 by 12 feet with a narrow bed, small writing desk, prayer kneeler, clothing chest, and a single shelf for personal items. The room has a simple oil lamp and modest fireplace that provides minimal heat in winter.
 
-- **Personal Touches** - Ellara has carefully arranged her [[../Hometown Connections/Keepsakes|keepsakes]] on her shelf in a manner resembling a small shrine. She keeps dried herbs hanging near the window, ostensibly for their scent but also as part of her private rituals.
+- **Personal Touches** - Ellara has carefully arranged her [[Keepsakes|keepsakes]] on her shelf in a manner resembling a small shrine. She keeps dried herbs hanging near the window, ostensibly for their scent but also as part of her private rituals.
 
 ## Surrounding Environment
 

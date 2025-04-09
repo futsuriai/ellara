@@ -16,7 +16,7 @@ Ellara keeps several precious items from [[../Hometown (Arkos)/Arkos|Arkos]] tha
 
 - **River Stone** - A smooth, flat stone from the creek near the [[../Hometown (Arkos)/Locations/Highland Standing Stones|Highland Standing Stones]]. Ellara uses it as a meditation focus during her private communion with the [[../Spirit/Spirit|Spirit]].
 
-- **Hand-carved Wooden Bird** - A small, simple carving given to her by Initiate [[Lyra Meadowvale]] before her departure. She keeps it on her small personal altar.
+- **Hand-carved Wooden Bird** - A small, simple carving given to her by Initiate [[Lyra Meadowlight]] before her departure. She keeps it on her small personal altar.
 
 ## Hidden Treasures
 

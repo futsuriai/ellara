@@ -9,7 +9,7 @@
 - **Current Residence:** [[Capital|The Capital]]
 - **Appearance:** [[Appearance and Attire]]
 - **Speech:** [[Speech and Mannerisms]]
-- **Financial Status:** [[Financial Situation|Modest church stipend]]
+- **Financial Status:** Modest church stipend
 
 ## Quick RP References
 - [[Character Flaws|Character Flaws]]

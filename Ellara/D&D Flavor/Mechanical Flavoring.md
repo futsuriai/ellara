@@ -4,6 +4,6 @@
 
 - Though mechanically Circle of Dreams this would be reframed as a more religious ability that mechanically acts the same, same for other druid powers.
 
-- Connection to animals and plants explained as an extension of the [[Eulogia's Divine Light|Divine Light's]] presence in all creation, rather than the more traditional druidic philosophy.
+- Connection to animals and plants explained as an extension of the [[Eulogia’s Divine Light|Divine Light]] presence in all creation, rather than the more traditional druidic philosophy.
 
 [[EDIT]]

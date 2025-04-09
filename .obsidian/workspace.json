@@ -8,48 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "594c597dbdc097d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ellara/Ellara.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ellara"
-            }
-          },
-          {
-            "id": "f76c84f334baa0ca",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "674a01bd08dab705",
+            "id": "51e66fa278beea15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,21 +22,91 @@
             }
           },
           {
-            "id": "e6a4bf784a7f5398",
+            "id": "9c6e5d0039d9eba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
+                "file": "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stone Hearth Tavern"
+              "title": "Sunstone Quarry"
+            }
+          },
+          {
+            "id": "f9d3dd467e9b0e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eulogia/Eulogia’s Divine Light.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eulogia’s Divine Light"
+            }
+          },
+          {
+            "id": "51783ecc80720bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eulogia/Light Radiance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Light Radiance"
+            }
+          },
+          {
+            "id": "eb6fb971f67c4987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ellara/Hometown Connections/Keepsakes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keepsakes"
+            }
+          },
+          {
+            "id": "43ff77ad98740072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appearance and Attire"
+            }
+          },
+          {
+            "id": "9ca00955e19bb485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Priory of the Steadfast Light"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
+                "file": "Ellara/Capital Life/Appearance and Attire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stone Hearth Tavern"
+              "title": "Backlinks for Appearance and Attire"
             }
           },
           {
@@ -208,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
+                "file": "Ellara/Capital Life/Appearance and Attire.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stone Hearth Tavern"
+              "title": "Outline of Appearance and Attire"
             }
           }
         ],
@@ -235,36 +264,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e6a4bf784a7f5398",
+  "active": "43ff77ad98740072",
   "lastOpenFiles": [
-    "Ellara/Background/Background.md",
+    "broken links output.md",
+    "Ellara/Hometown Connections/Keepsakes.md",
+    "Eulogia/Light Radiance.md",
+    "Ellara/D&D Flavor/Details.md",
+    "Eulogia/Eulogia’s Divine Light.md",
+    "Ellara/D&D Flavor/Mechanical Flavoring.md",
+    "Eulogia's Divine Light.md",
+    "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
+    "Ellara/Hometown (Arkos)/Sunstone.md",
+    "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
+    "Ellara/Ellara.md",
+    "Untitled.canvas",
     "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
+    "Ellara/Background/Background.md",
     "Ellara/Hometown (Arkos)/Locations/The Stone Hearth Tavern.md",
     "Ellara/Hometown (Arkos)/Locations/Highland Standing Stones.md",
     "Ellara/Hometown (Arkos)/Locations/Market Square.md",
-    "Ellara/Hometown (Arkos)/Sunstone.md",
-    "broken links output.md",
-    "Untitled.canvas",
-    "Ellara/Ellara.md",
     "2025-04-09.md",
     "Ellara/Hometown (Arkos)/Priory/Initiate Rhys.md",
     "Ellara/Hometown (Arkos)/Arkos.md",
     "Ellara/Relationships/Abbot Aris.md",
     "Eulogia/Eulogia.md",
     "Ellara/Hometown (Arkos)/Priory/Gareth Stonehand.md",
-    "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
     "Ellara/Open Questions",
     "Ellara/Relationships/Brother Theron.md",
     "Ellara/Relationships/Lyra Meadowlight.md",
     "Ellara/Capital Life/Appearance and Attire.md",
     "Beings/Fey/Fey.md",
-    "Ellara/Capital Life/Financial Situation.md",
-    "Ellara/Capital Life/Dietary Preferences.md",
-    "Ellara/Capital Life/Speech and Mannerisms.md",
-    "Ellara/Capital Life/Living Arrangements.md",
-    "Ellara/Personal Development/Character Flaws.md",
-    "Ellara/Personal Development/Inner Conflicts.md",
-    "Ellara/Personal Development/Skills to Develop.md",
     "Ellara/Hometown Connections",
     "Ellara/Personal Development",
     "Ellara/Capital Life",

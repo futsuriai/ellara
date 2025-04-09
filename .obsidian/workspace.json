@@ -83,12 +83,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Eulogia/Eulogia’s Divine Light.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Appearance and Attire"
+              "title": "Eulogia’s Divine Light"
             }
           },
           {
@@ -138,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hometown (Arkos)/Sunstone",
+                "query": "heretic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +169,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Eulogia/Eulogia’s Divine Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Appearance and Attire"
+              "title": "Backlinks for Eulogia’s Divine Light"
             }
           },
           {
@@ -237,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Eulogia/Eulogia’s Divine Light.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Appearance and Attire"
+              "title": "Outline of Eulogia’s Divine Light"
             }
           }
         ],
@@ -264,14 +275,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9b6c07fb9888e265",
+  "active": "ff8c903be1ed8428",
   "lastOpenFiles": [
+    "Heretical Magics.md",
+    "Eulogia/Eulogia’s Divine Light.md",
+    "Eulogia/Light Radiance.md",
+    "README.md",
+    "Ellara/Capital Life/Appearance and Attire.md",
     "untitled folder",
     "broken links output.md",
     "Ellara/Hometown Connections/Keepsakes.md",
-    "Eulogia/Light Radiance.md",
     "Ellara/D&D Flavor/Details.md",
-    "Eulogia/Eulogia’s Divine Light.md",
     "Ellara/D&D Flavor/Mechanical Flavoring.md",
     "Eulogia's Divine Light.md",
     "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
@@ -292,8 +306,6 @@
     "Ellara/Hometown (Arkos)/Priory/Gareth Stonehand.md",
     "Ellara/Open Questions",
     "Ellara/Relationships/Brother Theron.md",
-    "Ellara/Relationships/Lyra Meadowlight.md",
-    "Ellara/Capital Life/Appearance and Attire.md",
     "Ellara/Hometown Connections",
     "Ellara/Personal Development",
     "Ellara/Capital Life",
@@ -302,7 +314,6 @@
     "Ellara/Hometown (Arkos)/Locations",
     "Ellara/Hometown (Arkos)/Town People",
     "Untitled 1.canvas",
-    "Ellara/Hometown (Arkos)/Priory",
-    "Ellara/Spirit"
+    "Ellara/Hometown (Arkos)/Priory"
   ]
 }

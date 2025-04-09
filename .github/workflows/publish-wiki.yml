@@ -3,7 +3,7 @@ name: Publish Obsidian Vault to Wiki
 on:
   push:
     branches:
-      - obsidian # Or your source branch name
+      - main # Or your source branch name
 
 # Allow GITHUB_TOKEN to write to the wiki
 permissions:

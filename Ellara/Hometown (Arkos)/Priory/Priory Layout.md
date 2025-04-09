@@ -12,7 +12,7 @@ A writing room  for the copying and illuminating of manuscripts by scribes.
 ### **Dormitory Wing:** 
 Connected to the main building, this wing contains rows of small, identical stone cells for the priests, sisters (in a separate section), and any initiates. Furnishings are minimal – a cot, a small chest, a niche for a holy symbol.
 ## **Garden:** 
-A vital, high-walled **Herb and Vegetable Garden** is situated in a sheltered spot behind the main building, protected from the worst of the highland winds. Carefully tended by [[Brother Theron]]and helpers, it's crucial for food and remedies.
+A vital, high-walled **Herb and Vegetable Garden** is situated in a sheltered spot behind the main building, protected from the worst of the highland winds. Carefully tended by [[Brother Theron]] and helpers, it's crucial for food and remedies.
 ### **Bell Tower:** 
 Attached to the Chapel, its bell tolls the hours for prayer and serves as a landmark for the town.
 ### **Cellars:**

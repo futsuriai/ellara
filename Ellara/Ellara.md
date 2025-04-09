@@ -3,9 +3,7 @@
 ## Background
 
 - [[Background/Early Life and Initiation|Raised since childhood]] in the [[Hometown (Arkos)/Priory/Priory of the Steadfast Light|Priory]] by [[Relationships/Abbot Aris|Abbot Aris]]
-
 - Devout Eulogian initiate with a deep spiritual connection to the [[Spirit/Spirit|Spirit]] that first manifested when [[Relationships/Lyra Meadowlight|Lyra]] lost her mother
-
 - Transferred to the Capital approximately 6 months ago, possibly due to her unusual spiritual manifestations
 
 ## Personality
@@ -30,8 +28,8 @@
 - [[Relationships/Abbot Aris|Abbot Aris]] - Strict mentor and guardian who raised Ellara in the Eulogian faith
 - [[Relationships/Brother Theron|Brother Theron]] - Kind-hearted priest who taught Ellara practical skills and represented a gentler side of the Priory
 - [[Relationships/Lyra Meadowlight|Lyra Meadowlight]] - Childhood friend from town with connections to older traditions; their friendship was discouraged by Abbot Aris
-- [[Hometown (Arkos)/Priory/Gareth Stonehand|Gareth Stonehand]] - Lay brother who maintains the Priory grounds
-- [[Hometown (Arkos)/Town People/Morwen Stonehand|Morwen Stonehand]] - Local herbalist practicing older folk remedies
+- [[Hometown (Arkos)/Priory/Gareth Stonehand|Gareth Stonehand]] - Lay brother who maintains the Priory grounds, the most "worldly" person she regularly talked to.
+- [[Hometown (Arkos)/Town People/Morwen Stonehand|Morwen Stonehand]] - Local herbalist practicing older folk remedies, Ellara was very scared of her.
 
 ## Spiritual Journey
 

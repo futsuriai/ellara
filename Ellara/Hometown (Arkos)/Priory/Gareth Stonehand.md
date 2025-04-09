@@ -1,3 +1,5 @@
 Lay Brother (~50s). A local [[Arkos|Arkos]] man who took vows later in life. Handles maintenance, groundskeeping, and guards the gate at the [[Priory of the Steadfast Light|Priory]]. Loyal to the Priory structure but probably has more sympathy/understanding for local ways than the ordained priests.
 
-[[EDIT]]
+Despite his gruff exterior, Gareth showed kindness to [[Ellara]] during her childhood, occasionally sharing stories of the highlands while teaching her practical skills like basic stone repair. When working in the garden with [[Brother Theron]], he would sometimes bring her interesting stones from his wanderings.
+
+Has family connections to [[Morwen Stonehand]], though this relationship is rarely acknowledged openly at the Priory. He continues to send Ellara small updates about Priory life through his correspondence, providing her with honest accounts that [[Brother Theron]]'s letters cannot include due to potential scrutiny.

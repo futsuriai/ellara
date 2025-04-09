@@ -1,5 +1,5 @@
 An elderly woman living on the edge of town, possibly related to [[Gareth Stonehand]] at the Priory. She serves as the town's unofficial herbalist and midwife, practicing older folk remedies passed down through generations. Some townsfolk seek her out secretly, especially when Priory methods fail or for matters the Priory condemns. [[Abbot Aris]] views her with deep suspicion.
 
-As a child, [[Lyra Meadowlight|Lyra Meadowlight's]] mother was ill, though ultimately unable to save her.
+When [[Lyra Meadowlight|Lyra's]] mother fell gravely ill with a wasting fever, the family sought help from both the Priory and Morwen. As the illness progressed, Morwen requested [[Ellara]]'s assistance in gathering specific herbs, knowing the girl had been trained by [[Brother Theron]]. During the treatment, [[Ellara]]'s first spiritual manifestation occurred - a sudden glow emanating from her hands as she held the dying woman's arm. Though Lyra's mother ultimately passed away, this event created an unbreakable bond between [[Ellara]] and [[Lyra]], as well as deepening [[Abbot Aris]]'s concerns about [[Ellara]]'s unusual connection to something beyond orthodox Eulogian faith.
 
-[[EDIT]]
+Morwen has since watched [[Ellara]] from a distance, recognizing something in the girl that connects to older highland traditions, despite [[Ellara]]'s fear and avoidance of her.

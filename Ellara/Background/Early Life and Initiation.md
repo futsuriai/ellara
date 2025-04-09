@@ -5,6 +5,4 @@
 - Received formal theological education from [[Brother Theron|Brother Theron]].
 - Found comfort in the [[Priory Layout#Garden|herb garden]], where she could connect with nature despite the Priory's austere environment.
 - Close friends with [[Lyra Meadowlight|Lyra Meadowlight]].
-- First experienced connection to the [[Spirit|Spirit]] during a traumatic event in childhood, though this manifestation remained dormant for years after.
-
-[[EDIT]]
+- First experienced connection to the [[Spirit|Spirit]] during a traumatic event when [[Lyra Meadowlight|Lyra's]] mother was dying. Despite [[Morwen Stonehand|Morwen's]] attempts to save her with folk remedies, Ellara experienced an unexpected spiritual manifestation that frightened those present. Though she couldn't save Lyra's mother, this event created an unbreakable bond between the girls and sparked [[Abbot Aris|Abbot Aris's]] concern about Ellara's unusual connection.

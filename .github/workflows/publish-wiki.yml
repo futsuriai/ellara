@@ -1,0 +1,102 @@
+name: Publish Obsidian Vault to Wiki
+
+on:
+  push:
+    branches:
+      - main # Or your source branch name
+
+# Allow GITHUB_TOKEN to write to the wiki
+permissions:
+  contents: write
+
+jobs:
+  publish-wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Repo (Source Branch)
+        uses: actions/checkout@v4
+        with:
+          path: ellara # Checkout source repo into 'ellara' directory
+          ref: ${{ github.ref }} # Checkout the branch that triggered the workflow
+
+      - name: Checkout Wiki Repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}.wiki # Dynamically gets your-repo.wiki
+          path: wiki_repo # Checkout wiki repo into 'wiki_repo' directory
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Clean Wiki Repo Directory
+        run: |
+          echo "Cleaning wiki_repo directory before copying new files..."
+          cd wiki_repo
+          ls -A
+          find . -mindepth 1 ! -path './.git' ! -path './.git/*' -delete
+          echo "Wiki_repo directory cleaned."
+          ls -A
+          cd ..
+        shell: bash
+
+      - name: Copy Vault Content to Wiki Repo
+        run: |
+          echo "Copying relevant vault files..."
+          # --- MAKE SURE THIS PATH IS CORRECT ---
+          # If vault is in a subfolder like 'ellara/MyVault', adjust this path
+          SOURCE_DIR="ellara/"
+          TARGET_DIR="wiki_repo/"
+
+          if [ ! -d "$SOURCE_DIR" ]; then
+            echo "Error: Source directory '$SOURCE_DIR' not found."
+            exit 1
+          fi
+
+          # Use a single rsync for simplicity and deletion handling
+          # Excludes .git from source and .obsidian config folder
+          rsync -av --delete --exclude '.git' --exclude '.obsidian' "$SOURCE_DIR" "$TARGET_DIR"
+
+          echo "Files copied and synced."
+        shell: bash
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Syntax Transformation Script
+        run: |
+          echo "Running Python transformation script..."
+          # --- ADJUST SCRIPT PATH IF NEEDED ---
+          python ellara/.github/scripts/transform_wiki_syntax.py wiki_repo
+        shell: bash
+
+      # --- NEW STEP: Generate Navigation Files ---
+      - name: Generate Wiki Navigation Files
+        run: |
+          echo "Generating _Sidebar.md and Home.md..."
+          # --- ADJUST SCRIPT PATH IF NEEDED ---
+          python ellara/.github/scripts/generate_wiki_nav.py wiki_repo
+          # Optional flags: --no-home or --no-sidebar
+        shell: bash
+      # --- End of New Step ---
+
+      - name: Commit and Push Changes to Wiki
+        run: |
+          cd wiki_repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add all changes (new files, modified files, deleted files)
+          git add .
+
+          # Check if there are changes to commit
+          # Includes checking for new _Sidebar.md / Home.md
+          if git diff --staged --quiet; then
+            echo "No changes detected in wiki content or navigation. Nothing to commit."
+          else
+            echo "Changes detected. Committing and pushing to wiki..."
+            # Commit message includes generated nav files
+            git commit -m "Update wiki from source commit ${{ github.sha }} [generate navigation]"
+            git push origin master # Assumes wiki branch is 'master', change if needed
+            echo "Wiki push successful."
+          fi
+        shell: bash

@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beings/Fey/Fey.md",
+                "file": "Ellara/Capital Life/Appearance and Attire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fey"
+              "title": "Appearance and Attire"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beings/Fey/Fey.md",
+                "file": "Ellara/Capital Life/Appearance and Attire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fey"
+              "title": "Backlinks for Appearance and Attire"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beings/Fey/Fey.md",
+                "file": "Ellara/Capital Life/Appearance and Attire.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fey"
+              "title": "Outline of Appearance and Attire"
             }
           }
         ],
@@ -204,8 +204,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9b6c07fb9888e265",
+  "active": "f76c84f334baa0ca",
   "lastOpenFiles": [
+    "Beings/Fey/Fey.md",
+    "Ellara/Capital Life/Financial Situation.md",
+    "Ellara/Capital Life/Dietary Preferences.md",
+    "Ellara/Capital Life/Speech and Mannerisms.md",
+    "Ellara/Capital Life/Appearance and Attire.md",
+    "Ellara/Capital Life/Living Arrangements.md",
+    "Ellara/Personal Development/Character Flaws.md",
+    "Ellara/Personal Development/Inner Conflicts.md",
+    "Ellara/Personal Development/Skills to Develop.md",
+    "Ellara/Personal Development/Goals and Ambitions.md",
+    "Ellara/Capital Life/Daily Rituals.md",
+    "Ellara/Hometown Connections/Homesickness Triggers.md",
+    "Ellara/Hometown Connections/Keepsakes.md",
+    "Ellara/Hometown Connections/Correspondence.md",
+    "Ellara/Hometown Connections",
+    "Ellara/Personal Development",
+    "Ellara/Capital Life",
     "Beings/Fey/Fey Influence.md",
     "Heretical Magics.md",
     "Eulogia/Light Radiance.md",
@@ -218,20 +235,6 @@
     "Empire/Our Province/PROVINCE.md",
     "Empire/Capital/Capital.md",
     "Ellara/Background/Views and Prejudices.md",
-    "Ellara/Ellara.md",
-    "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
-    "Ellara/Background/Early Life and Initiation.md",
-    "Ellara/Hometown (Arkos)/Distance to Capital.md",
-    "Ellara/Hometown (Arkos)/Town People/Marta Flint.md",
-    "Ellara/Hometown (Arkos)/Town People/Morwen Stonehand.md",
-    "Ellara/Relationships/Peers.md",
-    "Ellara/Relationships/Lyra Meadowlight.md",
-    "Ellara/Relationships/Brother Theron.md",
-    "Ellara/Hometown (Arkos)/Priory/Daily Life.md",
-    "Ellara/Hometown (Arkos)/Priory/Priory Layout.md",
-    "Ellara/Hometown (Arkos)/Priory/Initiate Rhys.md",
-    "Ellara/Hometown (Arkos)/Priory/Local Clergy.md",
-    "Ellara/Hometown (Arkos)/Priory/Gareth Stonehand.md",
     "Ellara/Background",
     "Ellara/D&D Flavor",
     "Ellara/Hometown (Arkos)/Locations",
@@ -240,9 +243,6 @@
     "Untitled.canvas",
     "Ellara/Hometown (Arkos)/Priory",
     "Ellara/Spirit",
-    "Empire/Our Province",
-    "Ellara/Hometown (Arkos)",
-    "Ellara/Relationships",
-    "Empire/Capital"
+    "Empire/Our Province"
   ]
 }

@@ -1,8 +1,8 @@
 Aris wasn't born in the [[PROVINCE]] Province. She hails from a more central, "civilized" region of the Empire, where adherence to Eulogian doctrine is unquestioned and ancient 'superstitions' are things of history books. 
 
-She arrived in [[Arkos]] over thirty years ago as a relatively young, ambitious priest, eager to bring the full light of the Eulogia to this 'backward' region. She envisioned quickly rooting out old ways and making [[Arkos]] a shining example of compliance. However, she found the local traditions far more ingrained and resistant than he anticipated. Early attempts at forceful conversion or debunking local beliefs often backfired, leading to sullen resentment rather than acceptance. 
+She arrived in [[Arkos]] over thirty years ago as a relatively young, ambitious priest, eager to bring the full light of the Eulogia to this 'backward' region. She envisioned quickly rooting out old ways and making [[Arkos]] a shining example of compliance. However, she found the local traditions far more ingrained and resistant than she anticipated. Early attempts at forceful conversion or debunking local beliefs often backfired, leading to sullen resentment rather than acceptance. 
 
-A significant incident perhaps involved his failure to 'cure' a blight on local livestock through prayer alone, while an old folk remedy seemingly worked, deeply embarrassing him. 
+A significant incident perhaps involved her failure to 'cure' a blight on local livestock through prayer alone, while an old folk remedy seemingly worked, deeply embarrassing him. 
 
 Over the decades, her youthful fire has cooled into rigid orthodoxy and dour persistence. She sees the local ways not just as wrong, but as a personal affront and a sign of her own failure to fully impose order. Despite her stern demeanor, she genuinely cares for the souls under her charge (as she understands it), believing salvation lies _only_ in strict adherence to the Eulogia. This often put her at odds with Brother Theron, whose gentler approach she viewed as indulgent, though she begrudgingly acknowledged his ability to connect with those she could not.
 

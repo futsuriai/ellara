@@ -83,12 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/D&D Flavor/Mechanical Flavoring.md",
+                "file": "Ellara/Background/Views and Prejudices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanical Flavoring"
+              "title": "Views and Prejudices"
+            }
+          },
+          {
+            "id": "bd76c9837debcf8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ellara/Hometown (Arkos)/Locations/Highland Standing Stones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Highland Standing Stones"
             }
           },
           {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jam",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ellara/D&D Flavor/Mechanical Flavoring.md",
+                "file": "Ellara/Hometown (Arkos)/Locations/Highland Standing Stones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mechanical Flavoring"
+              "title": "Backlinks for Highland Standing Stones"
             }
           },
           {
@@ -237,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ellara/D&D Flavor/Mechanical Flavoring.md",
+                "file": "Ellara/Hometown (Arkos)/Locations/Highland Standing Stones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mechanical Flavoring"
+              "title": "Outline of Highland Standing Stones"
             }
           }
         ],
@@ -264,9 +278,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "43ff77ad98740072",
+  "active": "bd76c9837debcf8b",
   "lastOpenFiles": [
+    "Ellara/D&D Flavor/Mechanical Flavoring.md",
+    "Ellara/D&D Flavor/Details.md",
+    "Ellara/Capital Life/Speech and Mannerisms.md",
+    "Ellara/Capital Life/Living Arrangements.md",
+    "Ellara/Capital Life/Dietary Preferences.md",
+    "Ellara/Hometown Connections/Correspondence.md",
+    "Ellara/Capital Life/Daily Rituals.md",
     "Ellara/Capital Life/Appearance and Attire.md",
+    "Ellara/Background/Views and Prejudices.md",
+    "Untitled.md",
+    "Ellara/Background/Transfer to the Capital.md",
+    "Ellara/Background/Personality Traits.md",
+    "Ellara/Background/Background.md",
+    "Ellara/Background/Early Life and Initiation.md",
+    "Ellara/Relationships/Brother Theron.md",
     "Ellara/Relationships/Peers.md",
     "Ellara/Relationships/Priory Elders (Hometown).md",
     "2025-04-09.md",
@@ -278,22 +306,8 @@
     "untitled folder",
     "broken links output.md",
     "Ellara/Hometown Connections/Keepsakes.md",
-    "Ellara/D&D Flavor/Details.md",
-    "Ellara/D&D Flavor/Mechanical Flavoring.md",
     "Eulogia's Divine Light.md",
     "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
-    "Ellara/Hometown (Arkos)/Sunstone.md",
-    "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
-    "Ellara/Ellara.md",
-    "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
-    "Ellara/Background/Background.md",
-    "Ellara/Hometown (Arkos)/Locations/The Stone Hearth Tavern.md",
-    "Ellara/Hometown (Arkos)/Locations/Highland Standing Stones.md",
-    "Ellara/Hometown (Arkos)/Locations/Market Square.md",
-    "Ellara/Hometown (Arkos)/Priory/Initiate Rhys.md",
-    "Ellara/Hometown (Arkos)/Arkos.md",
-    "Ellara/Relationships/Abbot Aris.md",
-    "Eulogia/Eulogia.md",
     "Ellara/Open Questions",
     "Ellara/Hometown Connections",
     "Ellara/Personal Development",

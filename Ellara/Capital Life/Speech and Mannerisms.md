@@ -10,11 +10,11 @@ Ellara's way of speaking and moving distinctly marks her as a highland transplan
 
 ## Language Patterns
 
-- **Religious Terminology** - Uses highland variants of common Eulogian terms that sometimes confuse Capital clergy. For example, says "Light Blessing" instead of the Capital's formal "Illumination of Grace." though she's very embarrassed when it happens as she wants to fit in.
+- **Religious Terminology** - Uses highland variants of common Eulogian terms that sometimes confuse Capital clergy. For example, says "[[TBD]]" instead of the Capital's formal "[[TBD]]" or Unlit vs Shadowed though she's very embarrassed when it happens as she wants to fit in.
 
 - **Formal Address** - Struggles with the elaborate honorifics required for different ranks within Capital church hierarchy, sometimes defaulting to the simpler "Brother" or "Sister" used universally in Arkos.
 
-- **Scriptural References** - Uses some slang that's not common in the [[Capital|Capital]] especially in highly emotional situations.
+- **Word choices** - Uses some slang that's not common in the [[Capital|Capital]] especially in highly emotional situations.
 
 ## Non-verbal Communication
 

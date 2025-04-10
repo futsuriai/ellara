@@ -11,6 +11,8 @@
 - **Speech:** [[Speech and Mannerisms]]
 - **Financial Status:** Modest church stipend
 
+See: [[Mechanical Flavoring]]
+
 ## Quick RP References
 - [[Character Flaws|Character Flaws]]
 - [[Inner Conflicts|Inner Conflicts]]

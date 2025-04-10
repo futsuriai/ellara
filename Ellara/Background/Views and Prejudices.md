@@ -1,6 +1,5 @@
-- Raised with Eulogian teachings that label the old ways as dangerous superstition, particularly regarding the [[Highland Standing Stones]] and ancestral rituals (though she is curious about them especially wher [[Lyra Meadowlight]] talks about them)
-- Taught to view [[Morwen Stonehand|folk healers]] like Morwen with suspicion, considering their practices borderline heretical.
+- Raised with Eulogian teachings that label the old ways as dangerous superstition, particularly regarding the [[Highland Standing Stones]] and ancestral rituals (though she is curious about them especially when [[Lyra Meadowlight]] talks about them)
+- Taught to view [[Morwen Stonehand|folk healers]] like [[Morwen Stonehand]] with suspicion, considering their practices borderline heretical.
 - Personal spiritual experiences now create significant cognitive dissonance - her manifestations don't align with orthodox Eulogian teachings but feel genuinely divine.
-- Increasingly sympathetic to marginalized beliefs after experiencing her own otherness in the Capital, though still maintains outward orthodoxy.
 - Still deeply uncomfortable with overtly magical practices.
 - Initially carries ingrained prejudices against [[Fey]], mythical beings, and Heretical Magics based on upbringing and teachings.

@@ -32,17 +32,20 @@
 
 - **Light's Wrath** (Elemental Fury): When provoked or protecting the innocent, Ellara can channel the Divine Light's more forceful aspects. This manifests either as empowered prayers (cantrips) that reach much further than normal, or as divine energy that infuses her transformed state with additional power. -->
 
-## Circle of Dreams Replacement: Ancestral Highland Traditions
+## Circle of Stars Replacement: Divine Light Celestial Connection
 
-- **Light of Healing** (Balm of the Summer Court): Ellara channels the restorative power of the Divine Light through ancient highland prayer forms, creating glowing motes of sunstone-like light that heal those they touch.
+- **Sunstone Pendant** (Star Map): Your sunstone pendant from Arkos serves as a conduit for Eulogia's Divine Light. This Tiny object functions as your Spellcasting Focus. While holding the pendant, you have the Guidance and Guiding Bolt spells prepared, and can cast Guiding Bolt without expending a spell slot a number of times equal to your Wisdom modifier (minimum of once) per long rest. 
 
-<!-- - **Sanctuary of the Steadfast Light** (Hearth of Moonlight and Shadow): By performing a ritual combining orthodox prayers with subtle highland traditions, Ellara creates a protected space bathed in gentle illumination reminiscent of Arkos' sunstone.
+- **Solar Radiance** (Starry Form): As a Bonus Action, you can expend a Wild Shape use to embody Eulogia's Divine Light. Your body becomes luminous, golden light emanates from your joints, and rays of light connect them in patterns sacred to Eulogian tradition. Choose one of these aspects when you transform:
+  * **Meridian Aspect** (Archer): Your hands manifest Eulogia's piercing light, allowing you to project beams of radiant energy as ranged spell attacks (1d8 + Wisdom modifier radiant damage).
+  * **Auroral Aspect** (Chalice): Your heart radiates nurturing warmth, enhancing your healing spells (1d8 + Wisdom modifier additional healing).
+  * **Vespertine Aspect** (Dragon): Your mind shines with perfect wisdom (treat d20 rolls of 9 or lower as 10 on Intelligence/Wisdom checks and Concentration saves).
 
-- **Paths of Divine Revelation** (Hidden Paths): Drawing on her spiritual connection, Ellara briefly steps through the veil between physical and divine realms, allowing instantaneous travel as described in certain mystical Eulogian texts.
+- **Light's Omen** (Cosmic Omen): After a long rest, you can meditate with your sunstone pendant, observing how it reflects Eulogia's divine light. Roll a die to determine which blessing you receive until your next long rest:
+  * **Blessing** (Weal/Even): You can use your Reaction to aid others with divine insight (add 1d6 to a creature's d20 test).
+  * **Judgment** (Woe/Odd): You can use your Reaction to reveal flaws through divine illumination (subtract 1d6 from a creature's d20 test).
 
-- **Communion of Souls** (Walker in Dreams): Through deep meditation using techniques taught by Brother Theron (though he may not have realized their full potential), Ellara can reach out to others through dream-like visions.
-
-- **Nature Connection**: Her affinity with plants and animals comes from the highland interpretation of Eulogian teachings - that the Divine Light dwells within all creation and can be accessed through proper spiritual attunement. -->
+<!-- - **Brilliant Emanations** (Twinkling Constellations): The divine solar aspects grow more powerful (Meridian Aspect and Auroral Aspect become 2d8). While Vespertine Aspect is active, you're surrounded by a corona of golden light that grants you a 20-foot fly speed and hover ability. You can change which solar aspect manifests at the start of each turn. -->
 
 ## Quori Spirit Replacement: The Ancient Light
 

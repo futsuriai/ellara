@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Ellara/D&D Flavor/Mechanical Flavoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appearance and Attire"
+              "title": "Mechanical Flavoring"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Ellara/D&D Flavor/Mechanical Flavoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Appearance and Attire"
+              "title": "Backlinks for Mechanical Flavoring"
             }
           },
           {
@@ -237,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ellara/Capital Life/Appearance and Attire.md",
+                "file": "Ellara/D&D Flavor/Mechanical Flavoring.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Appearance and Attire"
+              "title": "Outline of Mechanical Flavoring"
             }
           }
         ],
@@ -266,8 +266,8 @@
   },
   "active": "43ff77ad98740072",
   "lastOpenFiles": [
-    "Ellara/Relationships/Peers.md",
     "Ellara/Capital Life/Appearance and Attire.md",
+    "Ellara/Relationships/Peers.md",
     "Ellara/Relationships/Priory Elders (Hometown).md",
     "2025-04-09.md",
     "Untitled.canvas",

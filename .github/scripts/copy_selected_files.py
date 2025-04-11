@@ -31,7 +31,6 @@ def copy_selected_files(source_dir, target_dir):
     # Copy config files to target directory
     print("Copying configuration files...")
     
-    # Copy index.md
     # Create index file
     with open(target / "index.md", "w") as f:
         f.write("# Published Documentation\n\n")
@@ -45,16 +44,40 @@ def copy_selected_files(source_dir, target_dir):
             link_name = web_friendly_name.replace('.md', '')
             f.write(f"- [{display_name}]({link_name})\n")
 
-
     # Copy _config.yml
     shutil.copy2(config_dir / "_config.yml", target / "_config.yml")
     
-    # Create necessary directories for assets
+    # Create necessary directories for assets/css
     (target / "assets" / "css").mkdir(parents=True, exist_ok=True)
     
-    # Copy custom.scss
+    # Copy style.scss
     shutil.copy2(config_dir / "assets" / "css" / "style.scss", 
                 target / "assets" / "css" / "style.scss")
+    
+    # Copy _layouts directory and its contents (for story layout)
+    if (config_dir / "_layouts").exists():
+        layouts_dir = target / "_layouts"
+        layouts_dir.mkdir(parents=True, exist_ok=True)
+        for layout_file in (config_dir / "_layouts").glob("*"):
+            shutil.copy2(layout_file, layouts_dir / layout_file.name)
+            print(f"Copied layout: {layout_file.name}")
+    
+    # Copy _includes directory and its contents (for head include)
+    if (config_dir / "_includes").exists():
+        includes_dir = target / "_includes"
+        includes_dir.mkdir(parents=True, exist_ok=True)
+        for include_file in (config_dir / "_includes").glob("*"):
+            shutil.copy2(include_file, includes_dir / include_file.name)
+            print(f"Copied include: {include_file.name}")
+    
+    # Create necessary directories for assets/js
+    if (config_dir / "assets" / "js").exists():
+        js_dir = target / "assets" / "js"
+        js_dir.mkdir(parents=True, exist_ok=True)
+        # Copy dark-mode.js and any other JS files
+        for js_file in (config_dir / "assets" / "js").glob("*"):
+            shutil.copy2(js_file, js_dir / js_file.name)
+            print(f"Copied JS file: {js_file.name}")
 
     # Find and copy only the specifically included files
     print("Copying selected files...")

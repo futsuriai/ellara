@@ -3,16 +3,18 @@
 
 
 // Dark mode overrides - these will take precedence over the theme defaults
-body {
+html body {
   background-color: #1e1e1e;
   color: #d4d4d4;
+  font-family: "Georgia", serif;
+  line-height: 1.7;
 }
 
-.site-header {
+html body .site-header {
   border-bottom-color: #333333;
 }
 
-.site-title {
+html body .site-title {
   color: #f0686a;
   
   &:hover {
@@ -20,7 +22,7 @@ body {
   }
 }
 
-.site-nav a {
+html body .site-nav a {
   color: #569cd6;
   
   &:hover {
@@ -28,7 +30,7 @@ body {
   }
 }
 
-.post-list {
+html body .post-list {
   li {
     border-bottom-color: #333333;
   }
@@ -46,7 +48,7 @@ body {
   }
 }
 
-a {
+html body a {
   color: #569cd6;
   
   &:hover {
@@ -54,16 +56,16 @@ a {
   }
 }
 
-blockquote {
+html body blockquote {
   border-left-color: #444444;
   color: #a0a0a0;
 }
 
-hr {
+html body hr {
   background-color: #333333;
 }
 
-table {
+html body table {
   border-color: #444444;
   
   th, td {
@@ -79,12 +81,12 @@ table {
   }
 }
 
-code {
+html body code {
   background-color: #2a2a2a;
   color: #e6db74;
 }
 
-pre {
+html body pre {
   background-color: #272822;
   
   code {
@@ -93,7 +95,7 @@ pre {
 }
 
 // Syntax highlighting
-.highlight {
+html body .highlight {
   background-color: #272822;
   
   .c, .c1, .cm { color: #75715e; } // Comments
@@ -107,24 +109,157 @@ pre {
 }
 
 // Navigation and pagination
-.site-nav, .pagination {
+html body .site-nav, html body .pagination {
   border-top-color: #333333;
   border-bottom-color: #333333;
 }
 
 // Footer styling
-.site-footer {
+html body .site-footer {
   border-top-color: #333333;
   color: #a0a0a0;
 }
 
 // Search styling if you have search enabled
-.search-input {
+html body .search-input {
   background-color: #2a2a2a;
   color: #d4d4d4;
   border-color: #444444;
   
   &:focus {
     border-color: #569cd6;
+  }
+}
+
+// Light mode overrides when toggled
+html body.light-mode {
+  background-color: #f9f9f9;
+  color: #333333;
+  
+  .site-header {
+    border-bottom-color: #e0e0e0;
+  }
+  
+  .site-title {
+    color: #d04040;
+    
+    &:hover {
+      color: darken(#d04040, 10%);
+    }
+  }
+  
+  .site-nav a {
+    color: #2d6da3;
+    
+    &:hover {
+      color: darken(#2d6da3, 15%);
+    }
+  }
+  
+  .post-list {
+    li {
+      border-bottom-color: #e0e0e0;
+    }
+    
+    .post-link {
+      color: #333333;
+      
+      &:hover {
+        color: #000000;
+      }
+    }
+    
+    .post-date {
+      color: #666666;
+    }
+  }
+  
+  a {
+    color: #2d6da3;
+    
+    &:hover {
+      color: darken(#2d6da3, 15%);
+    }
+  }
+  
+  blockquote {
+    border-left-color: #d0d0d0;
+    color: #666666;
+  }
+  
+  hr {
+    background-color: #e0e0e0;
+  }
+  
+  table {
+    border-color: #e0e0e0;
+    
+    th, td {
+      border-color: #e0e0e0;
+    }
+    
+    th {
+      background-color: #f0f0f0;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #f5f5f5;
+    }
+  }
+  
+  code {
+    background-color: #f0f0f0;
+    color: #c7254e;
+  }
+  
+  pre {
+    background-color: #f5f5f5;
+    
+    code {
+      background-color: transparent;
+    }
+  }
+  
+  .site-nav, .pagination {
+    border-top-color: #e0e0e0;
+    border-bottom-color: #e0e0e0;
+  }
+  
+  .site-footer {
+    border-top-color: #e0e0e0;
+    color: #666666;
+  }
+  
+  .search-input {
+    background-color: #ffffff;
+    color: #333333;
+    border-color: #e0e0e0;
+    
+    &:focus {
+      border-color: #2d6da3;
+    }
+  }
+  
+  // Light mode story-specific styles
+  .story-header {
+    border-bottom-color: #e0e0e0;
+  }
+  
+  .story-author, .story-date {
+    color: #666666;
+  }
+  
+  .story-content blockquote {
+    border-left-color: #d04040;
+    color: #666666;
+  }
+  
+  .story-footer {
+    border-top-color: #e0e0e0;
+  }
+  
+  .story-tag {
+    background-color: #f0f0f0;
+    color: #666666;
   }
 }

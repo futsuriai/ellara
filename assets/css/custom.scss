@@ -1,0 +1,17 @@
+---
+---
+
+// Custom styling
+@import "./color_schemes/dark";
+
+body {
+  font-family: 'Georgia', serif;
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
+.main-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}

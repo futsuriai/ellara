@@ -1,0 +1,9 @@
+title: Light Between Worlds
+description: A collection of stories
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
+
+# Enable or disable heading anchors
+heading_anchors: true

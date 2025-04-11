@@ -57,8 +57,11 @@ def copy_selected_files(source_dir, target_dir):
     
     # Create index file
     with open(target / "index.md", "w") as f:
-        f.write("# Published Documentation\n\n")
-        f.write("Welcome to the published documents.\n\n")
+        f.write("# 404 not found.\n\n")
+
+    
+    with open(target / "published.md", "w") as f:
+        f.write("# Published Documents\n\n")
         f.write("## Available Documents\n\n")
         
         # Add links to all force-included files

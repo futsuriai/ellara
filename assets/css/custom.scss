@@ -1,9 +1,6 @@
 ---
 ---
 
-// Import the theme directly to avoid variable errors
-@import "{{ site.theme }}";
-
 // Custom text styling
 body {
   font-family: 'Georgia', serif;

@@ -5,6 +5,10 @@ description: Stories from Ellara's world
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 
+sass:
+  sass_dir: assets/css
+  style: compressed
+
 # Enable heading anchors
 heading_anchors: true
 

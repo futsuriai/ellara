@@ -8,119 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51e66fa278beea15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ellara/Hometown (Arkos)/Sunstone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sunstone"
-            }
-          },
-          {
-            "id": "9c6e5d0039d9eba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sunstone Quarry"
-            }
-          },
-          {
-            "id": "f9d3dd467e9b0e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eulogia/Eulogia’s Divine Light.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eulogia’s Divine Light"
-            }
-          },
-          {
             "id": "51783ecc80720bdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eulogia/Light Radiance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Light Radiance"
-            }
-          },
-          {
-            "id": "eb6fb971f67c4987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ellara/Hometown Connections/Keepsakes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keepsakes"
-            }
-          },
-          {
-            "id": "43ff77ad98740072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ellara/Background/Views and Prejudices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Views and Prejudices"
-            }
-          },
-          {
-            "id": "bd76c9837debcf8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empire/Our Province/PROVINCE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROVINCE"
-            }
-          },
-          {
-            "id": "9ca00955e19bb485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Priory of the Steadfast Light"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empire/Our Province/PROVINCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROVINCE"
+              "title": "Backlinks"
             }
           },
           {
@@ -251,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empire/Our Province/PROVINCE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PROVINCE"
+              "title": "Outline"
             }
           }
         ],
@@ -278,45 +173,45 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd76c9837debcf8b",
+  "active": "51783ecc80720bdc",
   "lastOpenFiles": [
-    "Empire/Capital/Capital.md",
+    "Untitled.md",
+    "README.md",
+    "Eulogia/Light Radiance.md",
+    "Eulogia/Eulogia’s Divine Light.md",
+    "Eulogia/Eulogia.md",
+    "Eulogia/Eulogia Temple.md",
+    "Eulogia/Eulogia Church.md",
+    "Eulogia/Church Archives.md",
+    "Eulogia/Capital Clergy.md",
+    "Eulogia",
     "Empire/Our Province/PROVINCE.md",
-    "Ellara/D&D Flavor/Details.md",
-    "Ellara/D&D Flavor/Mechanical Flavoring.md",
-    "Ellara/Hometown (Arkos)/Locations/Highland Standing Stones.md",
-    "Ellara/Hometown (Arkos)/Locations/Market Square.md",
-    "Ellara/Hometown (Arkos)/Locations/Quarry Guild Hall.md",
-    "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
-    "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
-    "Ellara/Personal Development/Inner Conflicts.md",
-    "Ellara/Personal Development/Character Flaws.md",
-    "Ellara/Personal Development/Goals and Ambitions.md",
-    "Ellara/Vignettes/Dusk of the Final Day - Light Between Worlds.md",
-    "Ellara/Vignettes",
-    "Ellara/Untitled.md",
-    "Ellara/Hometown (Arkos)/Priory/Brother Mikhael.md",
-    "Ellara/Hometown (Arkos)/Priory/Priory Layout.md",
-    "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
+    "Empire/Capital/Capital.md",
+    "Empire/Our Province",
+    "Empire/Capital",
+    "Empire",
     "Ellara/Hometown (Arkos)/Town People/Silae Croft.md",
-    "Ellara/Hometown (Arkos)/Town People/Laos.md",
-    "Ellara/Hometown (Arkos)/Town People/\"Old Man\" Hemlock.md",
     "Ellara/Hometown (Arkos)/Town People/Reeve Borin.md",
     "Ellara/Hometown (Arkos)/Town People/Morwen Stonehand.md",
-    "Ellara/Hometown (Arkos)/Priory/Gareth Stonehand.md",
+    "Ellara/Hometown (Arkos)/Town People/Marta Flint.md",
+    "Ellara/Hometown (Arkos)/Town People/Laos.md",
+    "Ellara/Hometown (Arkos)/Town People/Kaelen Vance.md",
+    "Ellara/Hometown (Arkos)/Town People/\"Old Man\" Hemlock.md",
+    "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
+    "Ellara/Hometown (Arkos)/Priory/Priory Layout.md",
     "Ellara/Hometown (Arkos)/Priory/Initiate Rhys.md",
-    "Ellara/Hometown (Arkos)/Recent History.md",
-    "Ellara/Hometown (Arkos)/Quarry Guild.md",
-    "Untitled.canvas",
-    "untitled folder",
-    "Ellara/Open Questions",
-    "Ellara/Hometown Connections",
-    "Ellara/Personal Development",
-    "Ellara/Capital Life",
-    "Ellara/Background",
-    "Ellara/D&D Flavor",
-    "Ellara/Hometown (Arkos)/Locations",
+    "Ellara/Hometown (Arkos)/Priory/Gareth Stonehand.md",
+    "Ellara/Hometown (Arkos)/Priory/Daily Life.md",
+    "Ellara/Hometown (Arkos)/Priory/Brother Mikhael.md",
+    "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
+    "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
     "Ellara/Hometown (Arkos)/Town People",
+    "Ellara/Hometown (Arkos)/Priory",
+    "Ellara/Hometown (Arkos)/Locations",
+    "Ellara/Vignettes",
+    "Ellara/Spirit",
+    "Ellara/Relationships",
+    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

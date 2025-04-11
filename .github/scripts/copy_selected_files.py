@@ -2,12 +2,36 @@ import sys
 import shutil
 from pathlib import Path
 import os
+import re
 
 # Files to INCLUDE in publishing (ONLY these files will be copied)
 FORCE_INCLUDE = {'Dusk of the Final Day - Light Between Worlds.md'}
 
 # Files that should not be deleted when cleaning the target directory
 PRESERVE_FILES = {'.git', 'CNAME'}
+
+def add_front_matter(content, title):
+    """Add Jekyll front matter to the content if it doesn't exist already."""
+    # Check if front matter already exists
+    if content.startswith('---'):
+        return content
+        
+    front_matter = f"""---
+layout: story
+title: "{title}"
+author: "The Writer"
+---
+
+"""
+    return front_matter + content
+
+def extract_title_from_content(content):
+    """Extract title from the first heading in the content."""
+    # Look for a Markdown heading at the beginning of the file
+    match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
+    if match:
+        return match.group(1).strip()
+    return None
 
 def copy_selected_files(source_dir, target_dir):
     source = Path(source_dir).resolve()
@@ -87,12 +111,26 @@ def copy_selected_files(source_dir, target_dir):
         if item.is_file() and item.name in FORCE_INCLUDE:
             # Create a web-friendly version of the filename (replace spaces with hyphens)
             web_friendly_name = item.name.replace(' ', '-')
-            # Copy to root of target directory with the new name
+            # Read the content of the original file
+            with open(item, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            # Try to extract the title from the content, or use the filename
+            title = extract_title_from_content(content)
+            if not title:
+                title = item.name.replace('.md', '')
+                
+            # Add front matter to the content
+            modified_content = add_front_matter(content, title)
+            
+            # Write the modified content to the destination
             dest_path = target / web_friendly_name
             dest_path.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(item, dest_path)
+            with open(dest_path, 'w', encoding='utf-8') as f:
+                f.write(modified_content)
+                
             files_found += 1
-            print(f"Copied: {item.name} as {web_friendly_name}")
+            print(f"Copied and added front matter to: {item.name} as {web_friendly_name}")
     
     print(f"Total files copied: {files_found}")
     if files_found < len(FORCE_INCLUDE):

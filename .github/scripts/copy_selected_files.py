@@ -70,7 +70,9 @@ title: "404 Not Found"
         f.write("""---
 layout: story
 title: "Published Documents"
----""")
+---
+                
+""")
     # Add links to all force-included files
         for filename in sorted(FORCE_INCLUDE):
             display_name = filename.replace('.md', '')

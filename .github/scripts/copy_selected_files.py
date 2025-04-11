@@ -61,14 +61,14 @@ def copy_selected_files(source_dir, target_dir):
     # Create index file
     with open(target / "index.md", "w") as f:
         f.write("""---
-layout: default
+layout: story
 title: "404 Not Found"
 ---""")
 
     
     with open(target / "published.md", "w") as f:
         f.write("""---
-layout: default
+layout: story
 title: "Published Documents"
 ---""")
     # Add links to all force-included files

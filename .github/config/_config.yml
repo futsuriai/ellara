@@ -1,0 +1,33 @@
+title: Light Between Worlds
+description: Stories from Ellara's world
+
+# Theme settings
+theme: minima
+dark_mode: true
+
+# Blog settings
+paginate: 10
+date_format: "%B %d, %Y"
+
+# Default layout for pages
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "story"
+
+sass:
+  sass_dir: assets/css 
+  style: compressed 
+
+# Enable heading anchors
+heading_anchors: true
+
+# Footer content
+footer_content: "Copyright &copy; 2025"
+
+hide_credits: true
+
+hide_search: true

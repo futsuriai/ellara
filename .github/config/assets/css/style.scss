@@ -1,0 +1,134 @@
+---
+---
+
+// Dark mode styles - these will take precedence over the theme defaults
+body { // Removed 'html' prefix
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+  font-family: "Georgia", serif;
+  line-height: 1.7;
+}
+
+.site-header { // Removed 'html body' prefix
+  border-bottom-color: #333333;
+}
+
+.site-title { // Removed 'html body' prefix
+  color: #f0686a;
+
+  &:hover {
+    color: lighten(#f0686a, 10%);
+  }
+}
+
+.site-nav a { // Removed 'html body' prefix
+  color: #569cd6;
+
+  &:hover {
+    color: lighten(#569cd6, 15%);
+  }
+}
+
+.post-list { // Removed 'html body' prefix
+  li {
+    border-bottom-color: #333333;
+  }
+
+  .post-link {
+    color: #d4d4d4;
+
+    &:hover {
+      color: lighten(#d4d4d4, 10%); // Added hover effect back
+    }
+  }
+
+  .post-date {
+    color: #a0a0a0;
+  }
+}
+
+a { // Removed 'html body' prefix
+  color: #569cd6;
+
+  &:hover {
+    color: lighten(#569cd6, 15%);
+  }
+}
+
+blockquote { // Removed 'html body' prefix
+  border-left-color: #444444;
+  color: #a0a0a0;
+}
+
+hr { // Removed 'html body' prefix
+  background-color: #333333;
+}
+
+table { // Removed 'html body' prefix
+  border-color: #444444;
+
+  th, td {
+    border-color: #444444;
+  }
+
+  th {
+    background-color: #2a2a2a;
+  }
+
+  tr:nth-child(even) {
+    background-color: #262626;
+  }
+}
+
+code { // Removed 'html body' prefix
+  background-color: #2a2a2a;
+  color: #e6db74;
+}
+
+pre { // Removed 'html body' prefix
+  background-color: #272822;
+
+  code {
+    background-color: transparent;
+  }
+}
+
+// Syntax highlighting
+.highlight { // Removed 'html body' prefix
+  background-color: #272822;
+
+  .c, .c1, .cm { color: #75715e; } // Comments
+  .k, .kd, .kn, .kp, .kr { color: #f92672; } // Keywords
+  .s, .s1, .s2 { color: #e6db74; } // Strings
+  .na, .nb, .nc { color: #a6e22e; } // Names
+  .nf { color: #a6e22e; } // Function name
+  .o { color: #f92672; } // Operators
+  .p { color: #f8f8f2; } // Punctuation
+  .m, .mi, .mf { color: #ae81ff; } // Numbers
+}
+
+// Navigation and pagination
+.site-nav, .pagination { // Removed 'html body' prefix
+  border-top-color: #333333;
+  border-bottom-color: #333333;
+}
+
+// Footer styling
+.site-footer { // Removed 'html body' prefix
+  border-top-color: #333333;
+  color: #a0a0a0;
+}
+
+// Search styling if you have search enabled
+.search-input { // Removed 'html body' prefix
+  background-color: #2a2a2a;
+  color: #d4d4d4;
+  border-color: #444444;
+
+  &:focus {
+    border-color: #569cd6;
+  }
+}
+
+// Light mode overrides removed as requested
+/* html body.light-mode { ... } */ // Removed entire block

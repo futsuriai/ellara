@@ -160,7 +160,7 @@ Arkos emerged from the haze as they approached, stone cottages with peat smoke r
 
 The journey continued past the village, toward the river where a boat waited to carry her away from the highlands, from everything familiar, from Lyra. As the rugged hills receded behind her, Ellara felt the warmth in her chest dim, as though distance from the standing stones—or from Lyra—already threatened her connection to the Divine Spark.
 
-------
+---
 
 Months later, she would wake in her small, austere room in the Capital, reaching instinctively for the handwoven bracelet Lyra had left for her that last night in Arkos. In the predawn darkness, far from home, Ellara would touch the dried blue flower hidden and sometimes, in that moment between sleeping and waking, she would feel a familiar warmth bloom in her chest, and see a light that was neither sunstone nor candle flame but something wilder, more ancient. In that light, she would catch glimpses of a stone circle on a misty highland, a figure gathering wildflowers with dark hair loose around her shoulders, and smell the distinctive scents of heather, thyme, and peat smoke that meant home. It was a simple, profound presence, a feeling that echoed Lyra's soft plea on their last night, a yearning whisper across the miles: _Nothing more. No invocations, no rituals. Just us, as we've always been._
 

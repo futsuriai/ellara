@@ -1,9 +1,0 @@
-Perched strategically on a ridge overlooking [[Arkos]], offering a commanding view of the town and the surrounding highlands. It's built predominantly from the pale, locally quarried **[[Sunstone]]**, giving it a stark, luminous quality against the often-grey, windswept landscape. Timber is less prevalent, used mainly for roofing and internal structures. 
-
-The architecture is solid, imposing, and perhaps even incorporates some dismantled [[Highland Standing Stones]] into its foundations or boundary walls – a clear symbol of the Eulogia's dominance over older powers. The interior remains austere, functional, with a chapel, small scriptorium, dormitories, and [[Brother Sorin]]'s vital herb garden managing to thrive in protected corners. The ambient glow from the Sunstone feels constant, a beacon of imposed order against the rugged terrain and lingering superstitions.
-
-Established approximately 320 years ago as part of the Eulogian expansion into the highlands, the Priory was deliberately positioned to overshadow older sacred sites and establish visible authority over the region.
-
-Relations with townspeople have varied over generations, with periods of conflict and accommodation. Under [[Brother Sorin]]'s influence, the Priory had reached a period of relative harmony before [[Ellara]]'s departure, providing healing, education for a few local children, and support during harsh winters.
-
-The Priory's bell marks time for the entire town, its distinct tones carrying across the valley to signal important moments in the day. For [[Ellara]], these bells structured her entire childhood, becoming so ingrained that she still instinctively pauses for prayer when hearing similar tones in the Capital.

@@ -1,9 +1,0 @@
-Aris wasn't born in the [[PROVINCE]] Province. She hails from a more central, "civilized" region of the Empire, where adherence to Eulogian doctrine is unquestioned and ancient 'superstitions' are things of history books. 
-
-She arrived in [[Arkos]] over thirty years ago as a relatively young, ambitious priest, eager to bring the full light of the Eulogia to this 'backward' region. She envisioned quickly rooting out old ways and making [[Arkos]] a shining example of compliance. However, she found the local traditions far more ingrained and resistant than she anticipated. Early attempts at forceful conversion or debunking local beliefs often backfired, leading to sullen resentment rather than acceptance. 
-
-A significant incident perhaps involved her failure to 'cure' a blight on local livestock through prayer alone, while an old folk remedy seemingly worked, deeply embarrassing her. 
-
-Over the decades, her youthful fire has cooled into rigid orthodoxy and dour persistence. She sees the local ways not just as wrong, but as a personal affront and a sign of her own failure to fully impose order. Despite her stern demeanor, she genuinely cares for the souls under her charge (as she understands it), believing salvation lies _only_ in strict adherence to the Eulogia. This often put her at odds with [[Brother Sorin]], whose gentler approach she viewed as indulgent, though she begrudgingly acknowledged his ability to connect with those she could not.
-
-[[Ellara]]'s manifestations likely terrified her – was this a true spark of the Divine she couldn't control, or a dangerous echo of the very local 'spirit worship' she'd fought for years to suppress? Sending her away was, in her mind, the only safe option, though it was a decision that weighed heavily on her conscience. She hid the manifestations from others at the Priory but probably covertly sent information to someone she trusted at the [[Capital]].

@@ -1,3 +1,0 @@
-The grizzled, pragmatic Foreman of the [[Sunstone Quarry]]. Works directly under [[Kaelen Vance]] (Guild Master) but handles the dangerous day-to-day operations. Seen it all, lost fingers to the rock.
-
-Deeply knowledgeable about the stone and the highlands. Probably holds onto some old superstitions about appeasing the ground/spirits before blasting or digging, clashing sometimes with younger workers or Priory oversight.

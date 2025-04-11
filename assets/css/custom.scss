@@ -1,128 +1,33 @@
----
----
+// config/assets/css/custom.scss
 
-// Custom text styling
-body {
-  font-family: 'Georgia', serif;
-  font-size: 1.1rem;
-  line-height: 1.8;
-  color: #e6e6e6;
-  background-color: #121212;
-}
+// --- Dark Theme Variable Overrides ---
 
-// Story container styling
-.main-content {
-  max-width: 750px;
-  margin: 0 auto;
-  padding: 3rem;
-  background-color: #1a1a1a;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-  border-radius: 4px;
-}
+// Core Colors
+$body-background-color: #1e1e1e;    // Dark grey background
+$base-font-color: #d4d4d4;         // Light grey text
+$secondary-font-color: #a0a0a0;   // Medium grey secondary text
+$brand-color: #f0686a;             // Slightly brighter red for dark bg (adjust as needed)
+$anchor-color: #569cd6;            // A common blue link color for dark themes
+$border-color: #333333;            // Darker border color
 
-// Story title styling
-h1:first-child {
-  font-family: 'Garamond', 'Georgia', serif;
-  font-size: 2.5rem;
-  text-align: center;
-  margin-bottom: 2rem;
-  letter-spacing: 0.5px;
-  font-weight: normal;
-  color: #d0a85c;
-}
+// Syntax Highlighting (Example: Monokai-like theme)
+$syntax-highlighting-background-color: #272822; // Monokai background
+$syntax-keyword: #f92672;                     // Pink
+$syntax-string: #e6db74;                      // Yellow
+$syntax-comment: #75715e;                     // Grey/Green
+$syntax-variable: #f8f8f2;                    // Default text (white-ish)
+$syntax-error: #f92672;                       // Pink (often same as keyword)
+$syntax-type: #66d9ef;                        // Cyan
+$syntax-operator: #f92672;                    // Pink
+$syntax-punctuation: #f8f8f2;                 // Default text (white-ish)
+$syntax-namespace: #a6e22e;                   // Green
+$syntax-number: #ae81ff;                      // Purple
+$syntax-function: #a6e22e;                    // Green
+$syntax-class: #a6e22e;                       // Green
+$syntax-constant: #ae81ff;                   // Purple
+$syntax-scrollbar-thumb-color: #555;          // Dark scrollbar thumb
+$syntax-scrollbar-track-color: #333;         // Darker scrollbar track
 
-// First paragraph styling with drop cap
-.main-content > p:first-of-type::first-letter {
-  float: left;
-  font-family: 'Garamond', 'Georgia', serif;
-  font-size: 3.5rem;
-  line-height: 0.8;
-  padding-right: 0.5rem;
-  color: #d0a85c;
-}
-
-// Better reading experience for stories
-p {
-  margin-bottom: 1.5rem;
-  text-align: justify;
-  hyphens: auto;
-}
-
-// Section breaks
-hr {
-  border: none;
-  text-align: center;
-  margin: 2rem auto;
-  width: 60%;
-}
-
-hr:after {
-  content: "❧";
-  display: inline-block;
-  color: #d0a85c;
-  font-size: 1.5rem;
-}
-
-// Enhance typography
-h1, h2, h3, h4 {
-  font-family: 'Garamond', 'Georgia', serif;
-  margin-top: 2.5rem;
-  margin-bottom: 1.5rem;
-  color: #d0a85c;
-}
-
-// Improve link styling
-a {
-  color: #a2c4e9;
-  text-decoration: none;
-  transition: all 0.2s ease;
-  
-  &:hover {
-    color: #d0a85c;
-    text-decoration: underline;
-  }
-}
-
-// Style blockquotes more elegantly
-blockquote {
-  border-left: 2px solid #d0a85c;
-  padding: 1rem 1.5rem;
-  margin: 2rem 0;
-  font-style: italic;
-  background-color: #1c1c1c;
-  border-radius: 0 4px 4px 0;
-}
-
-// Page fade-in effect
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-.main-content {
-  animation: fadeIn 0.8s ease-in;
-}
-
-// Home/navigation links at bottom of story
-.story-navigation {
-  text-align: center;
-  margin-top: 4rem;
-  padding-top: 2rem;
-  border-top: 1px solid #333;
-  font-style: italic;
-  font-size: 0.9rem;
-}
-
-@media (max-width: 600px) {
-  .main-content {
-    padding: 1.5rem;
-  }
-  
-  h1:first-child {
-    font-size: 2rem;
-  }
-  
-  .main-content > p:first-of-type::first-letter {
-    font-size: 2.5rem;
-  }
-}
+// --- Import the main theme stylesheet ---
+// This MUST come AFTER your variable overrides.
+@import "hitchens";

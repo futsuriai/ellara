@@ -11,9 +11,9 @@ date_format: "%B %d, %Y"
 
 layout: post
 
-# sass:
-#   sass_dir: assets/css
-#   style: compressed
+sass:
+  sass_dir: assets/css 
+  style: compressed 
 
 # Enable heading anchors
 heading_anchors: true

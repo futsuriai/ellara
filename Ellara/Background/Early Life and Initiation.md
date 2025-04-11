@@ -2,7 +2,7 @@
 - Known for earnest devotion to the [[Eulogia|Eulogian faith]], unwavering belief, and sincere desire to share faith-driven insights.
 - Developed a reputation as genuine, compassionate, albeit naïve and sheltered due to the isolated nature of [[Arkos|Arkos]].
 - Daily life followed the strict regimen of [[Daily Life|Priory routines]], with prayers, study, and chores structured around bell tolls.
-- Received formal theological education from [[Brother Theron|Brother Theron]] and [[Abbot Aris]]
+- Received formal theological education from [[Brother Sorin|Brother Sorin]] and [[Abbot Aris]]
 - Found comfort in the [[Priory Layout#Garden|herb garden]], where she could connect with nature despite the Priory's austere environment.
 - Close friends with [[Lyra Meadowlight|Lyra Meadowlight]].
 - First experienced connection to the [[Spirit|Spirit]] during a traumatic event when [[Lyra Meadowlight|Lyra's]] mother was dying. Despite [[Morwen Stonehand|Morwen's]] attempts to save her with folk remedies, Ellara experienced an unexpected spiritual manifestation that frightened those present. Though she couldn't save Lyra's mother, this event created an unbreakable bond between the girls and sparked [[Abbot Aris|Abbot Aris's]] concern about Ellara's unusual connection.

@@ -26,7 +26,7 @@
 ## Important Connections
 
 - [[Relationships/Abbot Aris|Abbot Aris]] - Strict mentor and guardian who raised Ellara in the Eulogian faith
-- [[Relationships/Brother Theron|Brother Theron]] - Kind-hearted priest who taught Ellara practical skills and represented a gentler side of the Priory
+- [[Relationships/Brother Sorin|Brother Sorin]] - Kind-hearted priest who taught Ellara practical skills and represented a gentler side of the Priory
 - [[Relationships/Lyra Meadowlight|Lyra Meadowlight]] - Childhood friend from town with connections to older traditions; their friendship was discouraged by Abbot Aris
 - [[Hometown (Arkos)/Priory/Gareth Stonehand|Gareth Stonehand]] - Lay brother who maintains the Priory grounds, the most "worldly" person she regularly talked to.
 - [[Hometown (Arkos)/Town People/Morwen Stonehand|Morwen Stonehand]] - Local herbalist practicing older folk remedies, Ellara was very scared of her.
@@ -34,6 +34,6 @@
 ## Spiritual Journey
 
 - Raised in the structured environment of the Priory with its rigid daily schedule
-- Spent much time in the [[Hometown (Arkos)/Priory/Priory Layout#Scriptorium|Scriptorium]] and herb garden learning from Brother Theron
+- Spent much time in the [[Hometown (Arkos)/Priory/Priory Layout#Scriptorium|Scriptorium]] and herb garden learning from Brother Sorin
 - Experienced unusual spiritual manifestations that concerned Abbot Aris
 - Connection to an undefined [[Spirit/Spirit|Spirit]] that began during a traumatic event

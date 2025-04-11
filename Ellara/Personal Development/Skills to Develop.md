@@ -6,11 +6,11 @@ Ellara is actively working to acquire new abilities and knowledge in the Capital
 
 - **Formal Debate** - Learning the structured theological debate methods favored in the Capital's academic circles. Still uncomfortable with it but tries a bit too hard and overplays her skill in it.
 
-- **Ancient Languages** - Studied the liturgical language much more than most due to growing up in the church with a traditional Abbot.
+- **Ancient Languages** - Studied the liturgical language much more than most due to growing up in the church with a traditional Abbot. Also knows an older form of a Highland Dialect.
 
 ## Social Skills
 
-- **Court Etiquette** - Struggling to master the complex social hierarchies and protocols of Capital religious ceremonies that interact with nobility.
+- **Ecclesiastical Etiquette** - Struggling to master the complex social hierarchies and protocols of Capital religious ceremonies that interact with nobility.
 
 - **Political Awareness** - Developing a better understanding of church politics and factions, learning which battles to fight and which to concede.
 

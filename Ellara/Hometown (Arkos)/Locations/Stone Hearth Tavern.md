@@ -24,5 +24,5 @@ The primary gathering place in [[Arkos]], owned and operated by [[Town People/Ma
 
 ## Notable Events
 - Weekly gatherings of [[Quarry Guild|quarry workers]] after payday
-- Seasonal festivals where even [[Brother Theron|Brother Theron]] might make an appearance
+- Seasonal festivals where even [[Brother Sorin|Brother Sorin]] might make an appearance
 - Occasional visits from traders bringing news from the [[PROVINCE|Province]]

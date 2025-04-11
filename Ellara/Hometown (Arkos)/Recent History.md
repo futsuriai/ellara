@@ -6,4 +6,4 @@
 
 - **[[Ellara]]'s Transfer (approx. 6 months ago):** [[Ellara]]'s departure is still fresh gossip, shrouded in rumour. Was she truly sent for higher study, or did her strange 'gifts' finally cross a line with the Abbot? Her absence is felt, particularly by those few she was close to.
 
-- **Arrival of Brother Mikhael (approx. 2 months ago):** A young, zealous priest from the capital (or at least a more central seminary) arrived recently, assigned to assist Abbot Theron. His rigid interpretations and eagerness to 'purify' Akros are already causing waves.
+- **Arrival of [[Brother Mikhael]] (approx. 2 months ago):** A young, zealous priest from the capital (or at least a more central seminary) arrived recently, assigned to assist Abbot Sorin. His rigid interpretations and eagerness to 'purify' Akros are already causing waves.

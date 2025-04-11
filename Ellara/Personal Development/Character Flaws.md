@@ -14,6 +14,8 @@ Despite her genuine devotion and good intentions, Ellara has several notable cha
   
 - **Misplaced Trust** - Too quick to assume best intentions from those who show interest in highland traditions or the church, potentially making her vulnerable to manipulation.
 
+- **Preconceptions** - Grew up being taught the [[Fey]] and [[Shadowed]] are things to be feared.
+
 ## Emotional Flaws
 
 - **Suppressed Anger** - Bottles up frustrations about being removed from her home and treated with suspicion, occasionally resulting in passive-aggressive behavior or unexpected emotional outbursts.
@@ -26,7 +28,7 @@ Despite her genuine devotion and good intentions, Ellara has several notable cha
 
 - **Ritual Dependence** - Becomes anxious and disoriented when unable to perform her private spiritual rituals, showing an unhealthy attachment to specific practices.
   
-- **Dogmatic Flexibility** - Inconsistently applies religious rules—strictly adhering to highland interpretations she agrees with while not finding justifications to bend other doctrinal points that she didn't grow up with.
+- **Dogmatic Flexibility** - Inconsistently applies religious rules—strictly adhering to interpretations she agrees with while not finding justifications to bend other doctrinal points that she didn't grow up with.
 
 ## How These Flaws Manifest
 

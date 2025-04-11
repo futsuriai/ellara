@@ -1,1 +1,0 @@
-A travelling merchant who has a semi-permanent trading post in the [[Market Square]]. He brings in goods [[Arkos]] can't produce (metal tools, finer cloth, salt, news from downriver) and arranges transport for wool and other local exports (besides the [[Sunstone]], which likely has its own Imperial/Guild arrangements). More worldly than most residents.

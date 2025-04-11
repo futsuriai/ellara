@@ -1,5 +1,5 @@
-A windswept, open area near the center of town. Not much more than packed earth. Hosts infrequent market days when shepherds bring wool or traders like [[Silas Croft]] set up larger displays. Also used for public announcements from [[Reeve Borin]] or [[Abbot Aris]].
+A windswept, open area near the center of town. Not much more than packed earth. Hosts infrequent market days when shepherds bring wool or traders like [[Silae Croft]] set up larger displays. Also used for public announcements from [[Reeve Borin]] or [[Abbot Aris]].
 
-An important social gathering point where [[Ellara]] would occasionally accompany [[Brother Theron]] to collect supplies or deliver herbal remedies. For her, these rare excursions beyond the Priory walls offered glimpses of normal town life and cherished moments with [[Lyra Meadowlight|Lyra]], who would often "coincidentally" appear during market days.
+An important social gathering point where [[Ellara]] would occasionally accompany [[Brother Sorin]] to collect supplies or deliver herbal remedies. For her, these rare excursions beyond the Priory walls offered glimpses of normal town life and cherished moments with [[Lyra Meadowlight|Lyra]], who would often "coincidentally" appear during market days.
 
 During festival times, the square transforms with colorful banners and makeshift stalls selling local crafts and foods. [[Abbot Aris]] ensures the Priory maintains visible presence during these celebrations, both to demonstrate Eulogian authority and to monitor for any resurgence of older practices.

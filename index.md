@@ -1,7 +1,2 @@
-# Published Documentation
+# 404 not found.
 
-Welcome to the published documents.
-
-## Available Documents
-
-- [Dusk of the Final Day - Light Between Worlds](Dusk-of-the-Final-Day---Light-Between-Worlds)

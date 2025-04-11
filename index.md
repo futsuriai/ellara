@@ -1,2 +1,4 @@
-# 404 Not Found.
-
+---
+layout: default
+title: "404 Not Found"
+---

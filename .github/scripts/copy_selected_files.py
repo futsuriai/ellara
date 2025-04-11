@@ -60,19 +60,23 @@ def copy_selected_files(source_dir, target_dir):
     
     # Create index file
     with open(target / "index.md", "w") as f:
-        f.write("# 404 Not Found.\n\n")
+        f.write("""---
+layout: default
+title: "404 Not Found"
+---""")
 
     
     with open(target / "published.md", "w") as f:
-        f.write("# Published Documents\n\n")
-        f.write("## Available Documents\n\n")
-        
-        # Add links to all force-included files
-        for filename in sorted(FORCE_INCLUDE):
-            display_name = filename.replace('.md', '')
-            web_friendly_name = filename.replace(' ', '-')
-            link_name = web_friendly_name.replace('.md', '')
-            f.write(f"- [{display_name}]({link_name})\n")
+        f.write("""---
+layout: default
+title: "Published Documents"
+---""")
+    # Add links to all force-included files
+    for filename in sorted(FORCE_INCLUDE):
+        display_name = filename.replace('.md', '')
+        web_friendly_name = filename.replace(' ', '-')
+        link_name = web_friendly_name.replace('.md', '')
+        f.write(f"- [{display_name}]({link_name})\n")
 
     # Copy _config.yml
     shutil.copy2(config_dir / "_config.yml", target / "_config.yml")

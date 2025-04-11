@@ -72,11 +72,11 @@ layout: default
 title: "Published Documents"
 ---""")
     # Add links to all force-included files
-    for filename in sorted(FORCE_INCLUDE):
-        display_name = filename.replace('.md', '')
-        web_friendly_name = filename.replace(' ', '-')
-        link_name = web_friendly_name.replace('.md', '')
-        f.write(f"- [{display_name}]({link_name})\n")
+        for filename in sorted(FORCE_INCLUDE):
+            display_name = filename.replace('.md', '')
+            web_friendly_name = filename.replace(' ', '-')
+            link_name = web_friendly_name.replace('.md', '')
+            f.write(f"- [{display_name}]({link_name})\n")
 
     # Copy _config.yml
     shutil.copy2(config_dir / "_config.yml", target / "_config.yml")

@@ -1,0 +1,26 @@
+title: Light Between Worlds
+description: Stories from Ellara's world
+
+# Theme settings
+remote_theme: patdryburgh/hitchens
+dark_mode: true
+
+# Blog settings
+paginate: 10
+date_format: "%B %d, %Y"
+
+layout: post
+
+sass:
+  sass_dir: assets/css 
+  style: compressed 
+
+# Enable heading anchors
+heading_anchors: true
+
+# Footer content
+footer_content: "Copyright &copy; 2025"
+
+hide_credits: true
+
+hide_search: true

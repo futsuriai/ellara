@@ -9,9 +9,11 @@ dark_mode: true
 paginate: 10
 date_format: "%B %d, %Y"
 
-sass:
-  sass_dir: assets/css
-  style: compressed
+layout: post
+
+# sass:
+#   sass_dir: assets/css
+#   style: compressed
 
 # Enable heading anchors
 heading_anchors: true
@@ -19,13 +21,6 @@ heading_anchors: true
 # Footer content
 footer_content: "Copyright &copy; 2025"
 
-# Aux links for the upper right navigation
-aux_links:
-  "Return Home":
-    - "/"
+hide_credits: true
 
-# Makes Aux links open in a new tab
-aux_links_new_tab: true
-
-# Enable search
-search_enabled: true
+hide_search: true

@@ -4,8 +4,6 @@ title: "Light Between Worlds"
 author: "The Writer"
 ---
 
-# Light Between Worlds
-
 Ellara’s heart raced as she hurried along the narrow path, mist swirling around the rocky outcroppings. She'd slipped away during preparations for evening prayers, her whispered lie to Brother Sorin about the herb garden weighing heavy in her stomach. But tonight, of all nights, she couldn't bear the thought of missing this meeting.
 
 The familiar path felt different today... each stone, each bend, each patch of stubborn highland heather seemed to demand her attention, as if insisting she commit them all to memory. The gnarled rowan trees that clung tenaciously to the hillside had witnessed countless seasons, their resilient forms bearing testament to the harsh highland winds that had shaped them just as surely as they had shaped the people of Arkos. Soon these would exist only in her recollections, stored away like precious keepsakes. Her fingers instinctively touched the small sunstone talisman in her pocket, its smooth surface worn from years of similar worried touches.

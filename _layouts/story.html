@@ -16,16 +16,6 @@ layout: default
   <div class="story-content">
     {{ content }}
   </div>
-  
-  <footer class="story-footer">
-    {% if page.tags.size > 0 %}
-    <div class="story-tags">
-      {% for tag in page.tags %}
-      <span class="story-tag">{{ tag }}</span>
-      {% endfor %}
-    </div>
-    {% endif %}
-  </footer>
 </article>
 
 <style>
@@ -76,25 +66,7 @@ layout: default
     color: #a0a0a0;
   }
   
-  .story-footer {
-    margin-top: 3rem;
-    padding-top: 1rem;
-    border-top: 1px solid #333333;
-  }
-  
-  .story-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  
-  .story-tag {
-    background-color: #2a2a2a;
-    color: #a0a0a0;
-    font-size: 0.8rem;
-    padding: 0.25rem 0.5rem;
-    border-radius: 3px;
-  }
+  /* Story footer styling removed */
   
   /* Responsive adjustments */
   @media (max-width: 768px) {

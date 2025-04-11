@@ -2,8 +2,12 @@ title: Light Between Worlds
 description: Stories from Ellara's world
 
 # Theme settings
-remote_theme: pmarsceill/just-the-docs
-color_scheme: dark
+remote_theme: patdryburgh/hitchens
+dark_mode: true
+
+# Blog settings
+paginate: 10
+date_format: "%B %d, %Y"
 
 sass:
   sass_dir: assets/css

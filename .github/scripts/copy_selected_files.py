@@ -26,12 +26,15 @@ author: "The Writer"
     return front_matter + content
 
 def extract_title_from_content(content):
-    """Extract title from the first heading in the content."""
+    """Extract title from the first heading in the content and remove it."""
     # Look for a Markdown heading at the beginning of the file
     match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
     if match:
-        return match.group(1).strip()
-    return None
+        title = match.group(1).strip()
+        # Remove the title from the content
+        content = content[:match.start()] + content[match.end():]
+        return title, content.strip()
+    return None, content
 
 def copy_selected_files(source_dir, target_dir):
     source = Path(source_dir).resolve()
@@ -57,7 +60,7 @@ def copy_selected_files(source_dir, target_dir):
     
     # Create index file
     with open(target / "index.md", "w") as f:
-        f.write("# 404 not found.\n\n")
+        f.write("# 404 Not Found.\n\n")
 
     
     with open(target / "published.md", "w") as f:
@@ -119,7 +122,7 @@ def copy_selected_files(source_dir, target_dir):
                 content = f.read()
             
             # Try to extract the title from the content, or use the filename
-            title = extract_title_from_content(content)
+            title, content = extract_title_from_content(content)
             if not title:
                 title = item.name.replace('.md', '')
                 

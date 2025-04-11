@@ -1,9 +1,23 @@
 title: Light Between Worlds
-description: A collection of stories
+description: Stories from Ellara's world
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 
-# Enable or disable heading anchors
+# Enable heading anchors
 heading_anchors: true
+
+# Footer content
+footer_content: "Copyright &copy; 2025"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Return Home":
+    - "/"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Enable search
+search_enabled: true

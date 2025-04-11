@@ -1,17 +1,59 @@
----
----
+// Import the theme directly to avoid variable errors
+@import "{{ site.theme }}";
 
-// Custom styling
-@import "./color_schemes/dark";
-
+// Custom text styling
 body {
   font-family: 'Georgia', serif;
-  line-height: 1.7;
   font-size: 1.1rem;
+  line-height: 1.8;
 }
 
 .main-content {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
+}
+
+// Better reading experience for stories
+p {
+  margin-bottom: 1.5rem;
+}
+
+// Enhance typography
+h1, h2, h3, h4 {
+  font-family: 'Garamond', 'Georgia', serif;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+// Softer dark mode
+.site-header {
+  background-color: #1c1c1c;
+}
+
+.site-title {
+  font-style: italic;
+}
+
+// Better code highlighting in dark mode
+pre.highlight, code {
+  background-color: #2d2d2d;
+}
+
+// Improve link styling
+a {
+  color: #a2c4e9;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Style blockquotes more elegantly
+blockquote {
+  border-left: 4px solid #666;
+  padding: 0.5rem 1rem;
+  margin-left: 0;
+  font-style: italic;
 }

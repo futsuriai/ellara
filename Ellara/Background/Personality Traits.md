@@ -1,0 +1,5 @@
+- Deeply earnest and devout believer with genuine spiritual conviction.
+- Idealistic, occasionally naive; boundless enthusiasm for sharing religious insights.
+- Passionate and articulate about Faith, Scripture, and Theology, often engaging eagerly in discussion.
+- Holds [[Eulogia]] and the deity ([[Light Radiance]]) in highest regard.
+- Quick to indignation if her faith or church is mocked or dismissed, yet believes in redemption and guidance toward truth.

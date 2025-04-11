@@ -1,0 +1,1 @@
+A young boy (~10-12) currently in training, likely an orphan given to the Priory after [[Ellara]] left. Curious, perhaps a little intimidated by [[Abbot Aris]] and [[Brother Mikhael]].

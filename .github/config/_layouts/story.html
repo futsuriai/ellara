@@ -52,8 +52,12 @@ layout: default
     font-size: 1.1rem;
     line-height: 1.7;
     padding: 1em;
+    text-align: justify; /* Justify the text */
+    -webkit-hyphens: auto; /* Enable hyphenation for better justification */
+    -moz-hyphens: auto;
+    hyphens: auto;
   }
-  
+
   .story-content p {
     margin-bottom: 1.5rem;
   }
@@ -64,6 +68,12 @@ layout: default
     padding-left: 1rem;
     margin-left: 1rem;
     color: #a0a0a0;
+  }
+
+    /* Indent paragraphs after the first one */
+  .story-content p + p {
+    text-indent: 1.5em;
+    margin-top: 0; /* Adjust top margin for indented paragraphs if needed */
   }
   
   /* Story footer styling removed */

@@ -32,11 +32,11 @@ The accusation struck Ellara more sharply than the highland wind. Lyra deserved 
 
 A shiver ran through Ellara, cold and deep, unrelated to the evening chill. The Abbot's face swam in her mind, stern and unyielding, but now Ellara clearly saw the fear behind those piercing eyes, the fear that had dictated this departure. She recalled pity there too, mingling with the fear.
 
-"She fears the Divine Spark," Ellara continued, the term they used in secret feeling both sacred and dangerous on her tongue. "She doesn't understand the warmth, the whispers, or the light. She believes it isn't Eulogia's grace but something older, something... Shadowed." Ellara swallowed hard, the next words the most difficult. "She thinks it's dangerous. That _I_ am dangerous. Being here, in the highlands, near the stones... near _you_... she thinks it feeds it, makes it stronger." Her voice cracked. "The Capital isn't for guidance, Lyra. It's to... contain me. To correct what she sees as wrong. She's sending me away because she fears what I am, what I might become if I stay." The unspoken finality hung between them: _And she may never let me return._
+"She fears the Divine Spark," Ellara continued, the term they used in secret feeling both sacred and dangerous on her tongue. "She doesn't understand the warmth, the whispers, or the light. She believes it isn't Eulogia's grace but something older, something... Shadowed." Ellara swallowed hard, the next words the most difficult. "She thinks it's dangerous. That _I_ am dangerous. Being here, in the highlands, near the stones... near _you_... she thinks it feeds it, makes it stronger." Her voice cracked. "The Capital isn't for guidance, Lyra. She's sending me away because she fears what I am, what might happen if I stay." The unspoken finality hung between them: _And she may never let me return._
 
-They had discussed the Divine Spark many times over the years, Ellara describing the warmth that would rise within her during prayers, the way plants seemed to reach toward her in the garden, the whispers she sometimes heard when near the standing stones that no one else acknowledged. Lyra had never shown fear at these revelations, only fascination and a kind of reverent awe.
+They had discussed the Divine Spark many times over the years, the warmth that would rise within Ellara during prayers, the way plants seemed to reach toward her in the garden, the whispers she sometimes heard when near the standing stones that no one else acknowledged. Lyra had never shown fear at these revelations, only fascination and a kind of reverent awe.
 
-"But it's beautiful," Lyra insisted, her dark eyes flashing with conviction. "I was there when it first happened, with my mother. What flowed through you then wasn't false, it wasn't dangerous."
+"But it's beautiful," Lyra insisted, her dark eyes flashing resolutely. "I was there when it first happened, with my mother. What flowed through you then wasn't false, it wasn't dangerous."
 
 The memory hung between them... Lyra's mother dying despite Morwen's remedies, and Ellara, just a child, suddenly suffused with light as she held the woman's hand. It hadn't saved her, but something had passed between them, something that had both frightened and fascinated the girls ever since.
 
@@ -56,7 +56,7 @@ Ellara laughed despite herself, the sound carrying across the hillside. "He made
 
 Ellara nodded slowly, recalling the quiet afternoons in the Priory garden, Brother Sorin's gentle voice explaining the properties of plants the Abbot would have dismissed as too closely tied to folk remedies and the old ways. "He gave me seeds to plant near the eastern wall, where they'd get the most sun. Heather and moon thistle, plants that aren't traditionally part of Priory gardens."
 
-"Plants that strengthen the connection to the Divine Spark, according to my grandmother's teachings," Lyra added. She reached up to tuck a strand of dark hair behind her ear, a gesture so familiar that Ellara felt her heart constrict with preemptive loss. "He was born in the highlands. I think he understands that faith here is... different from the Capital's rigid doctrines."
+"He was born in the highlands. I think he understands that faith here is... different from the Capital's rigid doctrines," Lyra added as she reached up to tuck a strand of dark hair behind her ear, a gesture so familiar that Ellara felt her heart constrict with preemptive loss.
 
 A comfortable silence fell between them as the last light began to fade from the valley. In the distance, the first lamps were being lit in Arkos, small pinpricks of warmth against the gathering darkness. The sunstone in the Priory walls would be beginning its soft nighttime glow, barely perceptible except in the deepest night.
 
@@ -68,21 +68,19 @@ Lyra reached into her pocket and withdrew a small leather pouch, its surface dec
 
 "Just sit with me," Lyra said softly. "Nothing more. No invocations, no rituals. Just us, as we've always been."
 
-As they settled within the circle, the wind died down, and the scent of crushed thyme and heather rose around them. Ellara closed her eyes, feeling the familiar warmth building in her chest, the same sensation the Abbot had warned her against. But here, with Lyra, it felt right, necessary, even. It reminded her of summer days spent wading in cold burns, of watching golden eagles soar over the peaks beyond the quarry, of the taste of bilberries gathered from secret spots only the two of them knew.
+As they settled within the circle, the wind died down, and the scent of crushed thyme and heather rose around them. Ellara closed her eyes, feeling the familiar warmth building in her chest, the same sensation the Abbot had warned her against. But here, with Lyra, it felt right, necessary, even. It reminded her of summer days spent wading in cold burns, of watching golden eagles soar over the peaks beyond the quarry, of the taste of the tiny wild lumenberries gathered from secret spots only the two of them knew.
 
-"I've been thinking about that day a lot," Lyra said quietly. "With my mother. I think she gave you something, or awakened something that was already there. Something the Priory doesn't understand."
-
-Ellara opened her eyes to find Lyra watching her intently. "The Abbot says my connection to the divine is... unusual. That it needs shaping, directing."
+Ellara opened her eyes to find Lyra watching her intently. "The Abbot says my connection to the divine is... unusual. That it needs shaping, directing." 
 
 "Or controlling," Lyra said with a hint of bitterness. "The Eulogians have always feared what they can't explain. My grandmother told me stories about when they first came to the highlands, how they tried to destroy the standing stones but couldn't. How they built the Priory on the highest ridge to overshadow the old sacred places."
 
-She gestured toward a distant peak where ancient stones stood silhouetted against the night sky. "We highlanders have always known there are spaces between worlds, places where the veil is thin. The standing stones mark those places. That's why the Eulogians couldn't destroy them—they're anchored in something deeper than stone."
+She gestured toward a distant peak where ancient stones stood silhouetted against the night sky. "We highlanders have always known there are spaces between worlds, places where the veil is thin. The standing stones mark those places. That's why they couldn't destroy them—they're anchored in something deeper than stone."
 
-A gentle light began to pulse between their still-joined hands, neither golden like sunstone nor white like orthodox descriptions of divine radiance, but something wilder, more ancient. It reminded Ellara of the rare, blue-green glow sometimes seen by bogs on the darkest nights, what the locals called "spirit lights." She wasn't sure which of them had initiated it, or if it had simply emerged from the space between them, born of years of shared secrets and sorrows.
+A gentle light began to pulse between their still-joined hands, neither golden like sunstone nor white like orthodox descriptions of divine radiance, but something more ancient, more meaningful. It reminded Ellara of the rare, blue-green glow sometimes seen by bogs on the darkest nights, what the locals called "spirit lights." She wasn't sure which of them had initiated it, or if it had simply emerged from the space between them, born of years of shared secrets and sorrows.
 
-"It doesn't feel wrong," Ellara whispered, watching the light dance across Lyra's features, highlighting the determination in her eyes. "It feels like... like finally being able to breathe after holding my breath for too long. Like the highland air after a storm."
+"It doesn't feel wrong," Ellara whispered, watching the light dance across Lyra's features, highlighting the determination in her eyes. "It feels like... like finally being able to breathe after holding my breath for too long. Like the air after a storm."
 
-"It's not wrong," Lyra agreed. "It's just different from what they've taught you. There have always been those who could touch the space between worlds; the Priory calls them heretics, but my grandmother called them blessed."
+"It's not wrong," Lyra agreed. "It's just different from what they've taught you. There have always been those who could touch the space between worlds; the Priory calls them Shadowed, but my grandmother called them blessed."
 
 The light pulsed stronger, casting long shadows from the standing stones across the hillside. It illuminated the small circle Lyra had created, river stones arranged in a pattern that seemed oddly familiar to Ellara, though she'd never seen it before, and sprigs of herbs that Brother Sorin would never have approved for Priory use.
 
@@ -92,13 +90,13 @@ In the distance, an owl called, three haunting notes that echoed across the vall
 
 The question hung in the air between them. Ellara thought of the Priory, the only home she had ever known, with its rigid schedules marked by bell tolls, its cold stone corridors, Brother Sorin's kindly guidance, and Abbot Aris's stern but well-meant concern. She thought of the Capital, with its grand cathedral and ancient libraries, its crowds and noise and anonymity she'd only heard about. And she thought of these highlands, the craggy peaks that had defined her horizon since birth, the clear burns that fed the valley below, the standing stones with their ancient mysteries.
 
-"I don't know," Ellara admitted. "The Priory is my home, but after the Capital..." She couldn't finish the thought. Would they even want her back? Would she still be the same Ellara who had grown up within those walls, who had gathered lumenberries with Brother Sorin and learned the names of highland birds from Lyra? Or would the Capital reshape her into someone who no longer belonged to the austere beauty of these hills?
+"I don't know," Ellara admitted. "The Priory is my home, but after the Capital..." She couldn't finish the thought. Would they even want her back? Would she still be the same Ellara who had grown up within those walls, who had gathered herbs with Brother Sorin and learned the names of highland birds from Lyra? Or would the Capital reshape her into someone who no longer belonged to this land?
 
-"Then we'll find each other in the light between worlds," Lyra said, echoing a phrase from their childhood imaginings—a place neither here nor there, where the Eulogian faith and the old ways might coexist. A secret space they had talked about after Lyra's mother died, a connection that transcended physical presence. It was a phrase neither of them could remember inventing, yet it had been branded in both their souls.
+"Then we'll find each other in the light between worlds," Lyra said, echoing a phrase from their childhood imaginings, a place neither here nor there, where the Eulogian faith and the old ways might coexist. A secret space they had talked about after Lyra's mother died, a connection that transcended physical presence. It was a phrase neither of them could remember coming up with, yet it had been branded in both their souls.
 
 "How?" Ellara asked, suddenly desperate to believe it could be true. "The Capital is so far from the highlands, from these stones, from everything I've ever known."
 
-Lyra smiled, the light between their hands reflecting in her eyes. "The standing stones aren't the only places where the veil is thin. My grandmother said the Divine Spark exists everywhere, it's just harder to hear in some places than others." She leaned closer, her voice dropping to a whisper though there was no one to overhear them on the empty hillside. "When you pray, when you feel that warmth inside you that they're so afraid of, think of me. I'll do the same. We'll meet there, in that light."
+Lyra smiled, the light between their hands reflecting in her eyes. "The standing stones aren't the only places where the veil is thin." She leaned closer, her voice dropping to a whisper though there was no one to overhear them on the empty hillside. "When you pray, when you feel that warmth inside you that they're so afraid of, think of me. I'll do the same. We'll meet there, in that light."
 
 The distant toll of the Priory bell made Ellara start. The sound carried clearly across the cooling air: the first call to Vespers, the evening prayers. She would be missed soon, and on the night before her departure, she couldn't risk the Abbot's displeasure.
 
@@ -138,31 +136,17 @@ The rest of the evening passed in a blur. Prayers in the Chapel, where she avoid
 
 "Thank you, Brother Sorin," she said. "For everything you've taught me."
 
-His smile was sad but genuine. "The highlands have their own wisdom, their own way of touching the divine. Don't forget that, even in the grandeur of the Capital."
-
-Later, after the final prayers and the great silence had descended upon the Priory, Ellara stood at her narrow window, looking out toward the highlands where a small light flickered near the standing stones. Lyra, perhaps, still keeping vigil. Or merely a trick of moonlight on mist. She touched the flower, now carefully pressed between pages of her personal prayer book, and felt that strange warmth rise in her chest again.
-
-Outside her window, the night was alive with sound and scent, the distant cry of a fox, the whisper of wind through heather, the sharp, clean smell of peat and stone that meant home. The stars wheeled overhead, brighter and clearer than they ever would appear from the Capital's lamplit streets. Would she remember these constellations as viewed from the highlands, after years away? Would she forget the feeling of this thin, crisp air in her lungs?
+Later, after the final prayers and the great silence had descended upon the Priory, Ellara stood at her narrow window. Outside, the night was alive with sound and scent, the distant cry of a fox, the whisper of wind through heather, the sharp, clean smell of peat and stone that meant home. The stars wheeled overhead, brighter and clearer than they ever would appear from the Capital's lamplit streets. Would she remember these constellations as viewed from the highlands, after years away? Would she forget the feeling of this thin, crisp air in her lungs?
 
 As she prepared for sleep, folding her few belongings for the journey ahead, she discovered a small package tucked beneath her pillow, a handwoven bracelet made of local fibers dyed with mineral pigments from the quarry. The colors were those of the highlands in autumn: deep purple heather, russet bracken, the golden-brown of deer fur. With it was a scrap of parchment in Lyra's flowing script: _"Find me in the light between worlds."_
 
-Ellara ran her fingers over the bracelet, wondering how Lyra had managed to leave it here, in the heart of the Priory. She slipped it beneath her mattress, too dangerous to wear openly, too precious to leave behind.
+Ellara ran her fingers over the bracelet, wondering how Lyra had managed to leave it here, in the heart of the Priory. She fell asleep with her hand pressed against the hidden treasure, and dreamed of standing stones and ancient light, but mainly of that last lingering moment before their hands broke apart.
 
-She fell asleep with her hand pressed against the hidden treasure, and dreamed of standing stones and ancient light, of spaces between worlds where no divisions existed, where the Eulogian faith and the old ways flowed together like highland burns joining to form a mighty river.
+The journey to the Capital began before dawn, just as she had known it would. There was no opportunity to meet Lyra at the gate; Abbot Aris herself escorted Ellara to the waiting cart, along with Brother Sorin. As the cart pulled away from the only home she had ever known, Ellara looked back once. The Priory stood solemn and stark against the lightening sky, its sunstone walls catching the first rays of dawn. 
 
-The journey to the Capital began before dawn, just as she had known it would. There was no opportunity to meet Lyra at the gate; Abbot Aris herself escorted Ellara to the waiting cart, along with Brother Sorin, who pressed a small package of dried herbs into her hands with whispered instructions for their use.
-
-"For homesickness," he said softly. "The scent of highland herbs can be a comfort in strange places."
-
-As the cart pulled away from the only home she had ever known, Ellara looked back once. The Priory stood solemn and stark against the lightening sky, its sunstone walls catching the first rays of dawn. Beyond it, on the highland ridge, she thought she saw a solitary figure standing among the ancient stones, arm raised in farewell.
-
-She couldn't return the gesture, not with Abbot Aris watching, but she touched the hidden flower in her prayer book and whispered words that were not from any Eulogian teaching: "The light between worlds."
+Beyond it, on the highland ridge, she thought she saw a solitary figure standing among the ancient stones, arm raised in farewell. She couldn't return the gesture, not with Abbot Aris watching. 
 
 The cart rumbled down the stony track toward the valley below, past familiar landmarks that now seemed suddenly precious: the gnarled rowan tree where she and Lyra had picnicked on sunny days, the small burn crossing the path where they had once caught tiny, darting fish in cupped hands, the outcropping shaped like a sleeping dog that marked the halfway point to town. The light changed as they descended, the golden highland morning giving way to the blue-tinted mist that often filled the valley at dawn.
-
-Arkos emerged from the haze as they approached, stone cottages with peat smoke rising from their chimneys, the blacksmith already at work, the quarry silent but waiting for the day's labor to begin. People stopped to watch the cart pass, a few raising hands in farewell. Ellara wondered if they knew why she was leaving, if they shared the Abbot's fears or Lyra's understanding.
-
-The journey continued past the village, toward the river where a boat waited to carry her away from the highlands, from everything familiar, from Lyra. As the rugged hills receded behind her, Ellara felt the warmth in her chest dim, as though distance from the standing stones—or from Lyra—already threatened her connection to the Divine Spark.
 
 ---
 

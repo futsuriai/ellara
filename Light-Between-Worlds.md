@@ -74,7 +74,7 @@ Ellara opened her eyes to find Lyra watching her intently. "The Abbot says my co
 
 "Or controlling," Lyra said with a hint of bitterness. "The Eulogians have always feared what they can't explain. My grandmother told me stories about when they first came to the highlands, how they tried to destroy the standing stones but couldn't. How they built the Priory on the highest ridge to overshadow the old sacred places."
 
-She gestured toward a distant peak where ancient stones stood silhouetted against the night sky. "We highlanders have always known there are spaces between worlds, places where the veil is thin. The standing stones mark those places. That's why they couldn't destroy them—they're anchored in something deeper than stone."
+She gestured toward a distant peak where ancient stones stood silhouetted against the night sky. "We highlanders have always known there are spaces between worlds, places where the veil is thin. The standing stones mark those places. That's why they couldn't destroy them, they're anchored in something deeper than stone."
 
 A gentle light began to pulse between their still-joined hands, neither golden like sunstone nor white like orthodox descriptions of divine radiance, but something more ancient, more meaningful. It reminded Ellara of the rare, blue-green glow sometimes seen by bogs on the darkest nights, what the locals called "spirit lights." She wasn't sure which of them had initiated it, or if it had simply emerged from the space between them, born of years of shared secrets and sorrows.
 

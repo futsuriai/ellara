@@ -5,7 +5,7 @@ import os
 import re
 
 # Files to INCLUDE in publishing (ONLY these files will be copied)
-FORCE_INCLUDE = {'Dusk of the Final Day - Light Between Worlds.md'}
+FORCE_INCLUDE = {'Light Between Worlds.md'}
 
 # Files that should not be deleted when cleaning the target directory
 PRESERVE_FILES = {'.git', 'CNAME'}

@@ -7,7 +7,7 @@ Ellara's appearance blends her highland heritage with her adaptation to Capital 
 - **Age** - Early 20s.
 - **Build** - Slender with the wiry strength developed from highland living and Priory labor. Used to long hikes.
 - **Complexion** - Fair skin that shows traces of past sun exposure from outdoor work in Arkos.
-- **Hair** - [[TBD]] hair typically worn in a simple style that keeps it off her face, either braided or pinned back. While Capital clerics often wear elaborate styles signifying rank, she maintains the simpler approach common in Arkos.
+- **Hair** - Red hair typically worn in a simple style that keeps it off her face, either braided or pinned back. While Capital clerics often wear elaborate styles signifying rank, she maintains the simpler approach common in Arkos.
 - **Eyes** - Clear, earnest grey eyes that tend to maintain direct eye contact slightly longer than is comfortable in Capital society, a highland trait that some find either disarming or disconcerting.
 
 ## Clerical Attire

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ellara/Stories/Short Stories/Light Between Worlds.md",
+                "file": "Ellara/D&D Flavor/Mechanical Flavoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light Radiance"
+              "title": "Mechanical Flavoring"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "langua",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,23 +218,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9b6c07fb9888e265",
+  "active": "51783ecc80720bdc",
   "lastOpenFiles": [
+    "Ellara/Capital Life/Speech and Mannerisms.md",
+    "Ellara/Capital Life/Appearance and Attire.md",
+    "Ellara/D&D Flavor/Details.md",
+    "Ellara/D&D Flavor/Mechanical Flavoring.md",
+    "Ellara/Ellara.md",
+    "Ellara/Stories/Short Stories/Light Between Worlds.md",
     "Ellara/Hometown (Arkos)/Sunstone.md",
     "Ellara/Hometown (Arkos)/Highlands.md",
     "Ellara/Hometown (Arkos)/Arkos.md",
     "Ellara/Hometown (Arkos)/Highlands2.md",
     "Ellara/Hometown (Arkos)/Recent History.md",
     "Ellara/Hometown (Arkos)/Quarry Guild.md",
-    "Ellara/Ellara.md",
     "Ellara/Hometown Connections/Correspondence.md",
     "Ellara/Capital Life/Daily Rituals.md",
     "Ellara/Capital Life/Living Arrangements.md",
-    "Ellara/Capital Life/Appearance and Attire.md",
     "Ellara/Relationships/Peers.md",
     "Ellara/Relationships/Priory Elders (Hometown).md",
     "2025-04-09.md",
@@ -245,12 +249,8 @@
     "untitled folder",
     "broken links output.md",
     "Ellara/Hometown Connections/Keepsakes.md",
-    "Ellara/D&D Flavor/Details.md",
-    "Ellara/D&D Flavor/Mechanical Flavoring.md",
     "Eulogia's Divine Light.md",
     "Ellara/Hometown (Arkos)/Locations/Sunstone Quarry.md",
-    "Ellara/Hometown (Arkos)/Priory/Priory of the Steadfast Light.md",
-    "Ellara/Hometown (Arkos)/Locations/Stone Hearth Tavern.md",
     "Ellara/Open Questions",
     "Ellara/Hometown Connections",
     "Ellara/Personal Development",
@@ -260,8 +260,6 @@
     "Ellara/Hometown (Arkos)/Locations",
     "Ellara/Hometown (Arkos)/Town People",
     "Ellara/Hometown (Arkos)/Priory",
-    "Ellara/Hometown (Arkos)/Locations",
-    "Ellara/Relationships",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

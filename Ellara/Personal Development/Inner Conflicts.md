@@ -5,6 +5,7 @@ Ellara struggles with several deep tensions:
 ## Faith Conflicts
 
 - **Orthodoxy vs. Personal Experience** - Constantly battles between the rigid theological framework of Capital Eulogia and her direct spiritual experiences that don't always align with doctrine. The more traditional practices she learned through [[Lyra Meadowlight]] are also there in the background.
+- **Eulogia's Handling of Light Crystals:** The [[Eulogia]]'s initial condemnation of [[Light Crystal]]s (due to their "Shadowed" origin) and subsequent pragmatic theological justification for their use is a significant source of internal conflict. Does this reveal a flaw in the Church's infallibility? Is it a necessary adaptation? How does this reflect on her own abilities?
 
 ## Cultural Tensions
 
@@ -25,5 +26,6 @@ Ellara struggles with several deep tensions:
 ## Spiritual Identity Crisis
 
 - **Gift vs. Burden** - Alternates between viewing her unique spiritual abilities as a divine blessing and as a dangerous liability that isolates her.
+- **Uncertainty about the source and meaning of her [[Spirit|spiritual abilities]]. Are they a divine gift, a dangerous anomaly, or something connected to the ancient, "Shadowed" powers now being unearthed with Light Crystals? Her connection to the [[Highland Standing Stones]] deepens this crisis.
   
 - **Past vs. Future** - Uncertain whether to seek advancement within the Capital church structure or return to Arkos one day.

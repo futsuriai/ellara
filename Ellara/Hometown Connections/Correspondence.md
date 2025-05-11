@@ -12,7 +12,11 @@ Ellara maintains regular written contact with several people from [[Arkos]], whi
 
 ## News from Home
 
-Recent letters have contained troubling information:
+Recent letters might carry news of:
+- Increased activity and Imperial presence at the [[Sunstone Quarry]] due to [[Light Crystal]] operations.
+- Tensions with [[Brother Mikhael]] over his zealous attempts to suppress local traditions, possibly now focused on anything deemed connected to "The Age of Shadow" or Light Crystals.
+- The changing economic landscape of [[Arkos]] as Light Crystals become more prominent.
+- Concerns about the quarry's deeper, more dangerous sections where Light Crystals are mined.
 - Growing tension between [[Brother Mikhael]]'s stricter interpretations and the town's traditional practices
 - Unusual weather patterns affecting crops and the quarry operations
 - [[Quarry Guild]] disputes with imperial tax collectors

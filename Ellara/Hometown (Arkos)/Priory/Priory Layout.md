@@ -17,4 +17,4 @@ A vital, high-walled **Herb and Vegetable Garden** is situated in a sheltered sp
 ### **Bell Tower:** 
 Attached to the Chapel, its bell tolls the hours for prayer and serves as a landmark for the town.
 ### **Cellars:**
-Likely storage cellars beneath the main building, possibly incorporating older, pre-Eulogian stonework from ruins found on the site when the Priory was constructed.
+Beneath the main Priory building are old stone cellars, cool and damp, used for storage. Some of the stonework here is visibly older and of a different style than the rest of the Priory, rougher and more massive. This pre-Eulogian stonework could be explicitly suggested or rumored to be remnants from "The Age of Shadow," perhaps part of an older structure that stood on the site before the Priory was built. This might make them a place of quiet dread or secret fascination.

@@ -20,6 +20,10 @@ The Highlands region within the [[Hieroterra|Province]] is a remote, rugged, and
 
 ## Culture and Beliefs
 
+The people of the Highlands, including those in [[Arkos]], are known for their resilience, independence, and a strong connection to the land and its ancient history. While the [[Eulogia]] is the official religion, older traditions and beliefs often persist, sometimes subtly interwoven with Eulogian practices, sometimes existing in quiet opposition.
+*   **Ancient Stones:** The Highlands are dotted with ancient standing stones, circles, and cairns, like the [[Highland Standing Stones]] (e.g., the Grey Sisters) near Arkos. Local folklore often attributes spiritual significance or power to these sites.
+*   **Local Traditions:** Practices related to healing, divination, and appeasing local spirits or nature energies are common, often passed down through families. These are viewed with suspicion by orthodox Eulogian clergy like [[Abbot Aris]].
+
 - **People:** Highlanders are typically pragmatic, hardworking, resilient, and often insular, slow to trust outsiders. Loyalty tends to be local.
 - **Economy:** Primarily based on sheep farming, goat herding, and resource extraction, particularly [[Sunstone|Sunstone]] quarrying managed by entities like the [[Quarry Guild|Quarry Guild]].
 - **Beliefs:** While the [[Eulogia/Eulogia Church|Eulogian Church]] has a presence, represented by institutions like the [[Priory of the Steadfast Light|Priory of the Steadfast Light]], older traditions and folk beliefs persist, often tied to the land and the [[Highland Standing Stones|Standing Stones]]. This creates ongoing tension between orthodox doctrine and local practices. There's a quiet reverence or fear regarding the ancient stones and associated spirits or ancestors.

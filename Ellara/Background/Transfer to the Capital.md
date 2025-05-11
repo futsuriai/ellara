@@ -1,5 +1,5 @@
 - Official reason cited: "Advanced theological study," hiding the true theological friction related to [[Spirit|unusual spiritual manifestations]].
-- Relocated from [[Arkos|Arkos]] to [[Bastion City]]
+- Relocated from [[Arkos]] to [[Bastion City]].
 - Higher-ranking [[Capital Clergy|clergy in Capital]] mostly unaware; some senior clergy quietly observing.
 - Holds rank higher than acolyte but below bishop (possibly akin to a respected priest or theological scholar).
 - Departure marked by a painful separation from [[Lyra Meadowlight]] for Ellara the night before she left.

@@ -1,6 +1,6 @@
 # Church Archives
 
-The Church Archives represent the collected knowledge and historical records of [[Bastion City]] and other major ecclesiastical centers throughout the Empire.
+The Church Archives represent the collected knowledge and historical records of [[Bastion City]] and other major ecclesiastical centers throughout the [[Hariolar Empire]].
 
 ## The Capital Archives
 

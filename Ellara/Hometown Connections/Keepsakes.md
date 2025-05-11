@@ -4,7 +4,7 @@ Ellara keeps several precious items from [[../Hometown (Arkos)/Arkos|Arkos]] tha
 
 ## Religious Items
 
-- **Personal Prayer Book** - Hand-copied by Ellara during her initiate training, with margin notes from [[../Relationships/Brother Sorin|Brother Sorin]] that contain a unique perspective not found in the [[Capital|Capital]]. Contains traditional prayers and hymns specific to the Highland practice of Eulogia that differ slightly from Capital versions in wording.
+- **Personal Prayer Book** - Hand-copied by Ellara during her initiate training, with margin notes from [[../Relationships/Brother Sorin|Brother Sorin]] that contain a unique perspective not found in [[Bastion City]]. Contains traditional prayers and hymns specific to the Highland practice of Eulogia that differ slightly from Capital versions in wording.
 
 - **Miniature [[../Hometown (Arkos)/Sunstone|Sunstone]] Talisman** - A small polished stone from the [[../Hometown (Arkos)/Locations/Sunstone Quarry|quarry]] carved with the symbol of Eulogia mixed with some Highland themes. Given to her by [[Gareth Stonehand|Gareth Stonehand]] when she was young She keeps it in her pocket and often touches it when stressed.
 

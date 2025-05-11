@@ -10,7 +10,7 @@ Ellara struggles with several deep tensions:
 
 - **Highland Identity vs. Capital Assimilation** - Fears losing her cultural roots while simultaneously wanting to fit into Capital society and gain legitimacy and not be seen as an uncouth Highlander provincial.
   
-- **Communal Values vs. Hierarchical Structure** - Raised with highland communal ethics that conflict with the rigid hierarchy and individual advancement in Capital religious institutions. The sense of community in [[Arkos]] is harder to find in the more impersonal structures of the [[Capital]] church.
+- **Communal Values vs. Hierarchical Structure** - Raised with highland communal ethics that conflict with the rigid hierarchy and individual advancement in Capital religious institutions. The sense of community in [[Arkos]] is harder to find in the more impersonal structures of the [[Bastion City]]  church.
   
 - **Practical Spirituality vs. Theological Abstraction** - Loves learning about and discussing purely theoretical religious debates even when faith in [[Arkos]] was about concrete community needs.
 

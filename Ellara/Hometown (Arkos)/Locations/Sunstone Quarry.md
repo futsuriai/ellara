@@ -6,4 +6,6 @@ Work in the quarry is divided between extractors who identify and remove the raw
 
 The most valuable stones come from the deepest parts of the quarry, where workers sometimes report strange phenomena - unusual sounds, tools that move overnight, or particularly intense luminescence before major accidents. [[Old Man Hemlock]] insists on maintaining certain rituals before deep excavations, despite [[Brother Mikhael]]'s recent objections.
 
+8 years ago [[Light Crystals]] were first discovered in the quarry. The empire's surveyors set up some guidelines but so far have allowed locals to mine them as they have the most experience. As long as the crystals keep getting sent out to the empire they have not had much need to interfere.
+
 The quarry represents the economic backbone of [[Arkos]] but also serves as a physical manifestation of the tension between official Eulogian teachings and the older traditions that suggest the stone itself possesses consciousness or connection to ancestral spirits.

@@ -1,6 +1,6 @@
 # The Highlands
 
-The Highlands region within the [[PROVINCE|Province]] is a remote, rugged, and sparsely populated area characterized by its challenging terrain, distinct culture, and unique resources. It is the region where [[Arkos]] is situated.
+The Highlands region within the [[Hieroterra|Province]] is a remote, rugged, and sparsely populated area characterized by its challenging terrain, distinct culture, and unique resources. It is the region where [[Arkos]] is situated.
 
 ## Geography and Landscape
 
@@ -16,7 +16,7 @@ The Highlands region within the [[PROVINCE|Province]] is a remote, rugged, and s
 ## Climate and Atmosphere
 
 - **Weather:** The Highlands are known for being windswept and often experiencing grey, overcast skies. Mist frequently settles in the valleys, especially during dawn and dusk. The air is generally thin, crisp, and cool, particularly at higher elevations and during the evenings. Winters can be harsh.
-- **Feel:** The region has an atmosphere of remoteness, resilience, and ancient mystery. There's a palpable sense of being on the edge of the [[Empire]]. The ever-present wind, the stark beauty of the landscape, and the ancient stones contribute to a unique, sometimes melancholic, character. Distinctive scents include damp earth, peat, heather, thyme, and bog myrtle.
+- **Feel:** The region has an atmosphere of remoteness, resilience, and ancient mystery. There's a palpable sense of being on the edge of the [[Hariolar Empire]]. The ever-present wind, the stark beauty of the landscape, and the ancient stones contribute to a unique, sometimes melancholic, character. Distinctive scents include damp earth, peat, heather, thyme, and bog myrtle.
 
 ## Culture and Beliefs
 

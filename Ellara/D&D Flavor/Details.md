@@ -6,7 +6,7 @@
 - **Species:**  Human (mechanically Kalashtar)
 - **Level:** 3
 - **Hometown:** [[Arkos|Arkos]]
-- **Current Residence:** [[Capital|The Capital]]
+- **Current Residence:** [[Bastion City|The Capital of Hieroterra - Bastion City]]
 - **Appearance:** [[Appearance and Attire]]
 - **Speech:** [[Speech and Mannerisms]]
 - **Financial Status:** Modest church stipend

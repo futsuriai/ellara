@@ -8,7 +8,7 @@ Ellara maintains regular written contact with several people from [[Arkos]], whi
 
 - **[[Gareth Stonehand|Gareth Stonehand]]** - Writes infrequent but detailed letters about practical matters at the Priory - building repairs, garden harvests, and everyday happenings. His straightforward accounts provide Ellara with genuine insights into the true state of her former home.
 
-- **[[Lyra Meadowlight|Lyra Meadowlight]]** - Sends occasional messages hidden within packages of dried herbs or small crafts and on lucky days little jars of Lumenberry preserves. These are the letters Ellara most looks forward to. [[Ellara]] has not mentioned that she is struggling somewhat to adapt to the [[Capital|Capital]] because she's putting on a brave face.
+- **[[Lyra Meadowlight|Lyra Meadowlight]]** - Sends occasional messages hidden within packages of dried herbs or small crafts and on lucky days little jars of Lumenberry preserves. These are the letters Ellara most looks forward to. [[Ellara]] has not mentioned that she is struggling somewhat to adapt to [[Bastion City]] because she's putting on a brave face.
 
 ## News from Home
 

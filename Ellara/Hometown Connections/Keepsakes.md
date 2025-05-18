@@ -16,8 +16,6 @@ Ellara keeps several precious items from [[../Hometown (Arkos)/Arkos|Arkos]] tha
 
 - **River Stone** - A smooth, flat stone from the creek near the [[../Hometown (Arkos)/Locations/Highland Standing Stones|Highland Standing Stones]]. Ellara uses it as a meditation focus during her private communion with the [[../Spirit/Spirit|Spirit]].
 
-- **Hand-carved Wooden Bird** - A small, simple carving given to her by Initiate [[Lyra Meadowlight]] before her departure. She keeps it on her small personal altar.
-
 - **Map of Arkos** - Hand-drawn by Ellara, marking significant personal locations rather than official landmarks. She sometimes traces the paths with her finger before sleep, mentally walking through her hometown.
 
 ## Physical Reminders
@@ -29,3 +27,7 @@ Ellara keeps several precious items from [[../Hometown (Arkos)/Arkos|Arkos]] tha
 - **Highland Soil** - A small vial of earth from near the Priory garden, taken in secret before her departure. Sometimes when homesickness is overwhelming, she opens it briefly to smell the distinctive scent of home.
 
 - **Journal Pages** - Several loose pages from her childhood journals containing pressed flowers from walks with Lyra, with dates and locations noted in her neat script.
+
+## Gifts She's Given
+
+- **Hand-carved Wooden Bird** - A small, simple carving given to [[Lyra Meadowlight]] before Ellara's departure. Lyra keeps it in her room.

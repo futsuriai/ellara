@@ -5,8 +5,8 @@
 - **Mechanics:** [[Mechanical Flavoring|Druid]] (Circle of Stars) -- Reflavored to be more directly Clerical
 - **Species:**  Human (mechanically Kalashtar)
 - **Level:** 3
-- **Hometown:** [[Arkos|Arkos]]
-- **Current Residence:** [[Capital|The Capital]]
+- **Hometown:** [[Arkos|Arkos]] (in the Imperial Province of [[Hieroterra]])
+- **Current Residence:** [[Bastion City|Bastion City]] (Provincial Capital of Hieroterra)
 - **Appearance:** [[Appearance and Attire]]
 - **Speech:** [[Speech and Mannerisms]]
 - **Financial Status:** Modest church stipend

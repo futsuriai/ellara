@@ -19,10 +19,10 @@ The primary gathering place in [[Arkos]], owned and operated by [[Town People/Ma
 ## Menu Offerings
 - Hearty, simple meals prepared with local ingredients
 - Local ales and ciders
-- Select imported wines and spirits from the [[Capital|Capital]] for special occasions
+- Select imported wines and spirits from [[Bastion City]] for special occasions
 - Famous for [[Marta Flint|Marta's]] fresh-baked bread
 
 ## Notable Events
 - Weekly gatherings of [[Quarry Guild|quarry workers]] after payday
 - Seasonal festivals where even [[Brother Sorin|Brother Sorin]] might make an appearance
-- Occasional visits from traders bringing news from the [[PROVINCE|Province]]
+- Occasional visits from traders bringing news from the [[Hieroterra|Province]]

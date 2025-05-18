@@ -3,3 +3,9 @@ An elderly woman living on the edge of town, possibly related to [[Gareth Stoneh
 When [[Lyra Meadowlight|Lyra's]] mother fell gravely ill with a wasting fever, the family sought help from both the Priory and Morwen. As the illness progressed, Morwen requested [[Ellara]]'s assistance in gathering specific herbs, knowing the girl had been trained by [[Brother Sorin]]. During the treatment, [[Ellara]]'s first spiritual manifestation occurred - a sudden glow emanating from her hands as she held the dying woman's arm. Though Lyra's mother ultimately passed away, this event created an unbreakable bond between [[Ellara]] and [[Lyra Meadowlight|Lyra]], as well as deepening [[Abbot Aris]]'s concerns about [[Ellara]]'s unusual connection to something beyond orthodox Eulogian faith.
 
 Morwen has since watched [[Ellara]] from a distance, recognizing something in the girl that connects to older highland traditions, despite [[Ellara]]'s fear and avoidance of her.
+
+## Beliefs and Practices
+Morwen is a keeper of the older highland traditions, those that predate or exist alongside the [[Eulogia]]. She has a deep knowledge of herbal remedies, local folklore, and the significance of sites like the [[Highland Standing Stones]].
+
+## Relationship with Ellara
+Morwen was present when [[Ellara]] had her first significant spiritual manifestation, during the passing of [[Lyra Meadowlight]]'s mother. While [[Abbot Aris]] reacted with fear, suspecting something dangerously "Shadowed" (a fear amplified by the recent [[Light Crystal]] discoveries and their controversial origins), Morwen may have seen something different – a raw, powerful connection to the ancient energies of the land, perhaps even a sign of the old ways reawakening. She likely tried to offer guidance or protection to Ellara in her own way, which would have further alarmed Abbot Aris.

@@ -1,3 +1,7 @@
+Ellara was raised within the [[Priory of the Steadfast Light]] in [[Arkos]], a remote town in the Imperial Province of [[Hieroterra]]. Her early life was steeped in the traditions of the [[Eulogia]] of the Eternal Light, the official religion of The [[Hariolar Empire]].
+
+Her initiation into the Eulogian faith was overseen by [[Brother Sorin]], a kind and contemplative elder who recognized her innate spiritual sensitivity, and [[Abbot Aris]], the stern and orthodox leader of the Priory.
+
 - Sheltered upbringing in the [[Priory of the Steadfast Light|Priory of the Steadfast Light]] characterized by intensive religious instruction, communal temple life, and limited outside influence.
 - Known for earnest devotion to the [[Eulogia|Eulogian faith]], unwavering belief, and sincere desire to share faith-driven insights.
 - Developed a reputation as genuine, compassionate, albeit naïve and sheltered due to the isolated nature of [[Arkos|Arkos]].

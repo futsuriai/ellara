@@ -1,6 +1,6 @@
 # Daily Rituals
 
-Ellara maintains traditions that blend formal [[Eulogia Church|Eulogian]] observances with some Highland traditions.
+Ellara maintains traditions that blend formal [[Eulogia Church|Eulogian]] observances with some Highland traditions. Her days in [[Bastion City]] are structured around prayer, study, and service within the [[Eulogia Temple|local Eulogian temple complex]].
 
 ## Morning Rituals (Dawn)
 

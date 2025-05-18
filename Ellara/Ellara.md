@@ -37,3 +37,4 @@
 - Spent much time in the [[Hometown (Arkos)/Priory/Priory Layout#Scriptorium|Scriptorium]] and herb garden learning from Brother Sorin
 - Experienced unusual spiritual manifestations that concerned Abbot Aris
 - Connection to an undefined [[Spirit/Spirit|Spirit]] that began during a traumatic event
+- Her innate spiritual abilities manifest as a profound connection to the [[Spirit|Spirit]], which seems to resonate with ancient powers. This connection is now gaining new, alarming context with the discovery of Light Crystals in the [[Sunstone Quarry]] near her hometown.

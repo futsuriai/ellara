@@ -14,7 +14,7 @@ Ellara's way of speaking and moving distinctly marks her as a highland transplan
 
 - **Formal Address** - Struggles with the elaborate honorifics required for different ranks within Capital church hierarchy, sometimes defaulting to the simpler "Brother" or "Sister" used universally in Arkos.
 
-- **Word choices** - Uses some slang that's not common in the [[Capital|Capital]] especially in highly emotional situations.
+- **Word choices** - Uses some slang that's not common in [[Bastion City]] especially in highly emotional situations.
 
 ## Non-verbal Communication
 

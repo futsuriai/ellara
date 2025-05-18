@@ -20,7 +20,8 @@ The Guild maintains a complex relationship with the [[Priory of the Steadfast Li
 
 The Guild serves as [[Arkos]]'s economic backbone, providing:
 - Employment for local residents
-- Trade connections to the wider [[Capital|Capital]]
+- Trade connections to the wider [[Bastion City]]
+- Since the discovery of [[Light Crystal|Light Crystals]] 8 years ago, it has significantly put Arkos on the [[Hariolar Empire]]'s radar, bringing both opportunity and increased Imperial scrutiny.
 - Tax revenue and material support for local infrastructure
 - A counterbalance to the [[Priory of the Steadfast Light|Priory's]] religious authority
 

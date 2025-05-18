@@ -1,6 +1,6 @@
 # The Highlands
 
-The Highlands region within the [[PROVINCE|Province]] is a remote, rugged, and sparsely populated area characterized by its challenging terrain, distinct culture, and unique resources. It is the region where [[Arkos]] is situated.
+The Highlands region within the [[Hieroterra|Province]] is a remote, rugged, and sparsely populated area characterized by its challenging terrain, distinct culture, and unique resources. It is the region where [[Arkos]] is situated.
 
 ## Geography and Landscape
 
@@ -16,9 +16,13 @@ The Highlands region within the [[PROVINCE|Province]] is a remote, rugged, and s
 ## Climate and Atmosphere
 
 - **Weather:** The Highlands are known for being windswept and often experiencing grey, overcast skies. Mist frequently settles in the valleys, especially during dawn and dusk. The air is generally thin, crisp, and cool, particularly at higher elevations and during the evenings. Winters can be harsh.
-- **Feel:** The region has an atmosphere of remoteness, resilience, and ancient mystery. There's a palpable sense of being on the edge of the [[Empire]]. The ever-present wind, the stark beauty of the landscape, and the ancient stones contribute to a unique, sometimes melancholic, character. Distinctive scents include damp earth, peat, heather, thyme, and bog myrtle.
+- **Feel:** The region has an atmosphere of remoteness, resilience, and ancient mystery. There's a palpable sense of being on the edge of the [[Hariolar Empire]]. The ever-present wind, the stark beauty of the landscape, and the ancient stones contribute to a unique, sometimes melancholic, character. Distinctive scents include damp earth, peat, heather, thyme, and bog myrtle.
 
 ## Culture and Beliefs
+
+The people of the Highlands, including those in [[Arkos]], are known for their resilience, independence, and a strong connection to the land and its ancient history. While the [[Eulogia]] is the official religion, older traditions and beliefs often persist, sometimes subtly interwoven with Eulogian practices, sometimes existing in quiet opposition.
+*   **Ancient Stones:** The Highlands are dotted with ancient standing stones, circles, and cairns, like the [[Highland Standing Stones]] (e.g., the Grey Sisters) near Arkos. Local folklore often attributes spiritual significance or power to these sites.
+*   **Local Traditions:** Practices related to healing, divination, and appeasing local spirits or nature energies are common, often passed down through families. These are viewed with suspicion by orthodox Eulogian clergy like [[Abbot Aris]].
 
 - **People:** Highlanders are typically pragmatic, hardworking, resilient, and often insular, slow to trust outsiders. Loyalty tends to be local.
 - **Economy:** Primarily based on sheep farming, goat herding, and resource extraction, particularly [[Sunstone|Sunstone]] quarrying managed by entities like the [[Quarry Guild|Quarry Guild]].

@@ -4,7 +4,7 @@ As we rest, for some of us, it's a new env. away from home.
 
 Dream sequence start:
 
-Ysidor: as you rest, memories come back, you're looking for your mentor. A memory comes back, you're outside in your village, before you stands Marie, grey silve skin of the mountain goliath. Grey fading into purple hair in a braid. 
+Ysidor: as you rest, memories come back, you're looking for your mentor. A memory comes back, you're outside in your village, before you stands Meri, grey silve skin of the mountain goliath. Grey fading into purple hair in a braid. 
 
 "little hill, hold your form better, keep your guard up"
 ysidor: at this point he uses a hammer. he corrects his form and looks up to check if he did it right

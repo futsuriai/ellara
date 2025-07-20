@@ -9,7 +9,7 @@
 
 | PC           | What They Dreamt                                                                                                                                                                                                                                                                               | Rolls / Notes    |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| **Ysidor**   | A living memory of childhood training with his mentor **Marie**, a grey-skinned, silver-to-lilac goliath. She circles him for an hour, correcting his hammer stance—"Hold your guard higher, **little hill**." At the end she offers a curtsey bow and the blessing, "May Hero walk with you." | Normal recall    |
+| **Ysidor**   | A living memory of childhood training with his mentor **Meri**, a grey-skinned, silver-to-lilac goliath. She circles him for an hour, correcting his hammer stance—"Hold your guard higher, **little hill**." At the end she offers a curtsey bow and the blessing, "May Hero walk with you." | Normal recall    |
 | **Tsi'Nyra** | Her first sleep separated from the mycelial hivemind: a moonless, dead forest where uprooted roots stumble blindly. The psychic emptiness is crushing—a futile search for the mother tree.                                                                                                     | —                |
 | **Ellara**   | Beneath an endless firmament she again hears the "whispers of Eulogia." **Nat 20 Perception** lets her distinguish *actual* words—utterly foreign syllables she can reproduce but not comprehend. The words echo in her head, repeatable but meaningless.                                    | Critical success |
 | **Berridin** | The perennial nightmare: halfling homes engulfed in flame, parents and friends lost in the chaos. **Nat 1 Will**—he wakes sobbing and climbs a familiar roof perch to steady himself. The nightmare always feels unfinished—he can't remember his last moments with his parents.            | Critical failure |
@@ -40,7 +40,7 @@
   * Later the **Denmother** brings rumours while blushing about confiscated romance scrolls:
 
     1. A *"handsome—for a shadowed"* fixer doing nobles' dirty work in West Bastion—reliable for outsourced dirty work.
-    2. Marie the goliath was transferred to "the western" prison.
+    2. Meri the goliath was transferred to "the western" prison.
     3. Confiscated *romance scrolls* are *absolutely* being destroyed (Denmother clearly keeps and reads them all).
   * **Nat 20 Insight**—Ellara recognizes the "fixer" as Nyx from the description.
   * "Doesn't he sound handsome??" "Denmother!"
@@ -119,7 +119,7 @@ Ellara, running late after promising double study time to make up for leaving, h
 
 **Berridin rejoins**, ledger scrap in hand.
 
-* "Found it. Marie was transferred—under *personal* custody of Proctor Eduard."
+* "Found it. Meri was transferred—under *personal* custody of Proctor Eduard."
 * Ellara freezes. "Surely… you made a mistake?"
 
 ---
@@ -128,15 +128,15 @@ Ellara, running late after promising double study time to make up for leaving, h
 
 | Thread                  | Status                                                                                                                                                                                                                                       |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Marie's Whereabouts** | Last recorded under Proctor Eduard's direct custody; destination unlisted.                                                                                                                                                                   |
+| **Meri's Whereabouts** | Last recorded under Proctor Eduard's direct custody; destination unlisted.                                                                                                                                                                   |
 | **Church Involvement**   | Proctor Eduard personally involved—but in what capacity? The "people much higher" pulling strings suggest deeper corruption.                                                                                                                  |
 
 ---
 
 ### 7 · Where We are Going
 
-1. **Shadow or confront Proctor Eduard**—need to find out more about what he's planning and his connection to Marie's transfer
-2. **Investigate who is pulling the strings**—who are these "higher up people" and how are they connected to Marie?
+1. **Shadow or confront Proctor Eduard**—need to find out more about what he's planning and his connection to Meri's transfer
+2. **Investigate who is pulling the strings**—who are these "higher up people" and how are they connected to Meri?
 
 The Light's gilded façade now shows cracks; what pours through—illumination or further shadow—depends on the choices ahead.
 

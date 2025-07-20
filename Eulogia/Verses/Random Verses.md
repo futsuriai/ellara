@@ -134,7 +134,7 @@
 **Casual**: “Hand out light even if it’s refused—offering still brightens the way.”
 
 ### Kindness, Small Deeds
-
+    
 **Formal**: “Let thy smallest deeds shine, that even a smile becomes a shard of crystal against the night.”
 **Casual**: “Little acts—like a smile—cut right through the dark.”
 
@@ -197,3 +197,32 @@
 
 **Formal**: “Fix thy gaze upon the horizon of Light, and the darkness at thy feet shall forget its sting.”
 **Casual**: “Look to the sunrise; the shadows at your shoes lose bite.”
+
+### Outreach, Conversion
+
+**Formal**: “Let thy words be lanterns and thy deeds the oil within; thus may wandering souls glimpse the path and choose the rising Dawn.”
+**Casual**: “Live the Light so bright they want a lamp of their own.”
+
+### Invitation, Safe Passage
+
+**Formal**: “Build no walls of scorn at the edge of the dusk; instead, raise waystones of welcome that even the most fearful shadow may find the road to morning.”
+**Casual**: “Skip the judgment—set up signposts so the lost can head for sunrise.”
+
+### Witness, Gentle Example
+
+**Formal**: “Preach first by kindness, and only after by tongue; the hardest stone softens beneath a patient, warming ray.”
+**Casual**: “Show it before you say it—warm light beats hard words.”
+
+### Redemption, Second Dawn
+
+**Formal**: “Proclaim that the Dawn breaks twice: once upon the world, and once upon each heart that opens its shutter to receive it.”
+**Casual**: “Every day offers a second sunrise inside—just crack the window.”
+
+### Fellowship, Shared Flame
+
+**Formal**: “Extend thy torch until another wick ignites; two flames joined scorch the midnight thrice as far.”
+**Casual**: “Pass the torch—double lights cut darkness fast.”
+
+### Reunion, Guidance Restored (Neutral)
+**Formal:** “When the wandering ember finds again the hearth that first kindled it, both flame and forge grow the warmer, and the Light gains a steadier hue.”
+**Casual:** “When a spark finds its old forge again, both burn steadier.”

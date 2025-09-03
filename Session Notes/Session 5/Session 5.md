@@ -196,7 +196,7 @@ They discuss a *water purification* side project for the neglected East Side—a
 
 Future meet recommitted: The Wailing Pig, Tuesday evening.
 
-Ellara performs *rituals for the dead* outside the locked residence—an act of reverent closure for a body she does not know is absent because of her own companion. Narrative irony sharpens: blessing the void left by the Director of Research.
+Ellara performs *rituals for the dead* outside the locked residence—an act of reverent closure for a body she just realized is absent because of her own companion. Narrative irony sharpens: blessing the void left by the Director of Research.
 
 Internal Response (later, upon learning identity): A conflict between doctrinal sanctity of life, loyalty to companions, and pragmatic infiltration necessity—no easy doctrinal verse offers absolution.
 

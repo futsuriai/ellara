@@ -73,7 +73,7 @@ Dialogue:
 
 Opportunity surfaces. Guards depart, splitting. Berridin shadows the drunkest (**Stealth 16 vs Guard Nat 1, disadvantage for drunkenness**). Overconfident **Insight 4** births a plan: forge/fake a pass.
 
-**Sleight of Hand Nat 20:** He lifts house keys and a runestone/metal contrivance (a security pass)—pristine success without detection. (Though he later returns the keys, feeling guilty)
+**Sleight of Hand Nat 20:** He lifts house keys and a runestone/metal contrivance (a security pass)—pristine success without detection. He later feels a pang of guilt and returns the keys.
 
 ---
 
@@ -173,7 +173,7 @@ Status Exchanges:
 	- Exploring autonomous command designs—ethical + feasibility constraints (new tech, need for technically literate wizards).
 	- Capture/refinement of command spells would stabilize deployment.
 	- Field Test: current models (those the party fought) expected back; aggression commands set for *off‑road* (animals only) engagement.
-	- Higher‑up authorization: test order traced above Director’s nominal chain (implication of layered governance).
+	- Higher‑up authorization: test order traced above Director’s nominal chain (implication of layered governance); the "lightkeepers" are noted as being keenly interested in the results. the "lightkeepers" are noted as being keenly interested in the results.
 
 He pushes further to the high *Arcana Floor*—a tonal shift: parchment, tomes, arcane scroll arrays. Wizard‑consultants, not subordinates.
 
@@ -212,7 +212,7 @@ Dialogue Excerpts:
 * Ysidor’s invented cultural therapy: public square airing & compensatory partner rotation (“the winner sleeps with someone else”)—alien, mildly scandalous; guard incredulous (“You want one of us to be cucks?” / “Goddess of love? Heresy—THE LIGHT.”)
 * Drinking contest ensues: four shots each; guard collapses into blackout. Ysidor finishes remaining shots, pronounces a benevolent blessing: “May love guide you.”
 
-Result: Guard incapacitated—prevented from reporting to shift (soft sabotage with unintended moral angles).
+Result: Guard incapacitated—prevented from reporting to shift (soft sabotage with unintended moral angles). This was the same guard Berridin had pickpocketed earlier.
 
 ---
 
@@ -315,8 +315,7 @@ The party holds unprecedented vertical intelligence and key passes—but also a 
 
 ---
 
-*Body Count (Jack-the-Ripper Whisper):* 1 (Michelle Faberge).  
+*Body Count (Jack-the-Ripper of Bastion City):* 1 (Michelle Faberge).  
 *Moral Equilibrium:* Unstable.  
 *Operational Assets Secured:* High-value passes & comm stones.  
 *Great Unseen Below:* Still waits.
-

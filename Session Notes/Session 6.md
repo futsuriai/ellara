@@ -1,4 +1,4 @@
-# Session 6 — *A Door in the Light*
+# Session 6 — *Descent into Darkness*
 
 ## 1) Evening at Nyx’s — The Plan, the Tools, the Limits
 

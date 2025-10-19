@@ -114,11 +114,11 @@ The remaining party turned back toward the city.
 **Ellara:** "I literally just said we need to talk to Proctor Eduard."
 **Nyx:** "All of us?"
 **Ellara:** "Yes."
-**Berridin:** (Over the stone) "We need to observe how the Lighthouse responds to Meri’s disappearance."
+**Berridin:** "We need to observe how the Lighthouse responds to Meri’s disappearance."
 **Nyx:** "Maybe… but if he is implicated, and I know you don’t like this, he won’t let us leave. That’s a risk. We still need to split up and hedge our risk."
 **Ysidor:** (Touching the warpick at his side) "I’d like to speak to this Proctor, this Eduard."
-**Ellara:** (To Berridin, over the stone) "If I remember correctly, Donnathan was in charge of liaising with the Eulogia. That’s just another point for talking to the Proctor."
-**Berridin:** (Over the stone) "You know you’re my first love, but your mentor has hurt my second love. We might need to bring back Moose; we should be careful about showing a Goliath through the city."
+**Ellara:** (To Berridin) "If I remember correctly, Donnathan was in charge of liaising with the Eulogia. That’s just another point for talking to the Proctor."
+**Berridin:** "You know you’re my first love, but your mentor has hurt my second love. We might need to bring back Moose; we should be careful about showing a Goliath through the city."
 **Ellara:** "I don't know what to make of that."
 
 ---
@@ -136,8 +136,8 @@ Something had changed at the **East Gate**. A **new-model warforged** stood **in
 | **Thread** | **Status & Evidence** |
 | --- | --- |
 | **Meri** | **Alive and free**, heading for Hyrta; warns “the **engines of the Empire** aren’t slowing.” Has Ysidor's **sending stone**. |
-| **Berridin** | Accompanying Meri to **Hyrta**, communicating with the party via **sending stone**. |
-| **Ysidor’s Clock** | Stays **one month** to help address the Lighthouse, then returns home. |
+| **Berridin** | Tragically not accompanying Meri to **Hyrta**. |
+| **Ysidor’s Clock** | Staying **one month** to help address the Lighthouse, then returns home. |
 | **Team Plan** | **Ellara** to seek a **meeting with Proctor Eduard**; **Nyx** insists on **hedging** roles/egress; **Berridin** to **observe** Lighthouse reaction from a distance. |
 | **Security Posture** | East Gate: **newer warforged** posted outside/inside, both **inactive**. Lighthouse exterior: **two active modern warforged** on watch. |
 | **Political Vector** | **Eduard** personally introduces **Donnathan Reeves (Director of Relations)** to Ellara—putting the named liaison directly in the party’s orbit. |

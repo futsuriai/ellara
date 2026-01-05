@@ -2,7 +2,8 @@ nyx takes witty and leads him home, which has everyone but ellara.
 witty expressses that he needs to bathe.
 when they get there, he walks to his bathroom disrobing as he gets there. completely naked other than a purple hair cap which he puts on, and a loofa.
 nyx closess the front door which witty left open.
-he looks at the group and sits down
+ysidor sees berridin starting to pocket the silver and paintings, wondering how much they are worth.
+nyx looks at the group and sits down
 "i think he's gonna take a bath...?" @witty "can we grab whatever"
 w: "make yourself at home"
 -----
@@ -53,7 +54,8 @@ n: she's ysidor's mentor.
 w: are they happy.
 y: she's content i would say.
 w: sounds cheery. 
-b: go finish your bath. 
+b: go finish your bath.
+nyx: the adults are talking. 
 w closes the door.
 
 berridin intelligence check: dirty 1. he's concerned about getting there on time with warforged on the way.
@@ -89,7 +91,7 @@ berridn prods w: do you have enough money for the hot air balloon.
 w: yeah, they can charge it to my family's account
 b: no no, lady jocintha. how much would a hot air balloon cost.
 j: i am no tinkerer or merchant but i would assume a cheap one... 100 gold or so? 
-b (oh nyx should have that)
+b (oh nyx should have that) - nyx gets chills down his spine.
 w: oh wow that's only like 2 days salary for din.
 j gently puts a hand on him: darling we spoke of this, no servant is worth that much... din was it, are you trying to rob this man blind.
 b: i charge by services procured.
@@ -109,35 +111,51 @@ b: how much gold do you have on you?
 w: 25.
 b: how are you gonna keep paying me if you don't have more gold.
 w: we agreed you'd handle expenses
+b: i thought i was gonna attach myself to you and get rich quick, but it seems i'm going back to my original benefactor, nyx. i'm taking a leave of absence.
 w: can you still make me suits
 b: we'll see
 ---
 b: we're going to try to procure a hot air balloon.
-nyx: does anyone know how to use them
+nyx: does anyone here know how to use them
 w: i know about gas, i understand thermodynamics.
+b: can you make argon somehow?
+nyx: oh boy.
 b: it'll be around 200 gold.
-<fill in>
+nyx: i don't have that kind of funds on me.
+w: i'm money poor. i'm just a billionaire down on his luck.
+b: god damn it.
+ellara (over stone): what do you mean hot air balloon? like in the sky? how does that work? is that safe?
+nyx takes out a knife and starts playing with it: finder's fee...
+nyx: how big is the basket? can we fit?
+w: wind and heat, my dear. depending on the wind, a week to six months.
+b: witty, do you have a map?
 
 they go to a map, with pins of his favorite places.
 nyx: so yu don't have a plan
 w: we have a concept of a plan.
-<fill in more>
+nyx: here's our milk toast idea. as mr moneybags single handedly funding this, i need more to go off of.
+ysidor: 30% stake.
+b: who has the best map skills?
 servival checks: nyx 16. you know it's 4 weeks, nnw, 4 weeks by foot. if you took a hot air balloon you could cut down the time, but the war forged would take a while, longer than 4 weeks. a large army would go also around 4 weeks. in a carriage probably 2 weeks. hot air depends on the winds. 
 witty cuts a lock of din's hair. throws them out the window to judge the wind. intelligence check w/ advantage. 12. if you could keep the winds favorable also around 2 weeks. if not. who knows.-
 
 din: do you want to vote on what to do?
 din: ysidor you're such a... you have one element left to conquer, you've conquered the earth. think of what yo ucould conquer in the skies. nyx, this is really a great place to flex your fancy warddrobe and i  think there's some potential that we could get there really really fast. 
 nyx: look, i'm warming to the idea. but if the weather is against us... we could double our time.
-...
+ellara: if the winds are against you, you just not making it.
+witty: so could we procure some horses and hang them from ropes from the hot air balloon so that if it happens, we have an additional one, or we can like float just high enough off the ground.
+berridin: holy shit.
 nyx: ok i'm fine with the hot air balloon.
-<fill in more>
+nyx: but you gotta get me the cheapest price. and if i find out you're taking off the top...
+b: i'm ready to haggle.
+w: i really trust him. he's been over the highest level of integrity. never lied to me once.
 
 nyx to witty puts a hand on him: you're a good guy. (then walks away)
 nyx: alright lets go. 
 
 they all decide to go check out the hot air balloon place.
 ---
-<gm description>
+description: big craft shop, gnomes, dwarves, halflings, elves working. loud blacksmith noises, metal being worked, different smells. entrance has a counter with someone working on documents.
 a dwarf is manning the place.
 berridin walks in
 B; hello we are looking to procure a hot air balloon and heard this is the place.
@@ -172,16 +190,31 @@ d: no.
 nyx: sorry can i speak to my friends. 
 dwarf: as i said we do have prior clients, unless you wish to pay they will be prioritiized.
 ellara: s-see i think tihs is a sign we were not meant to go in the air.
-<some more>
+b: why don't we put a deposit down and get an airship later? ask for a loaner?
+b: do you have a hot air balloon that can be pulled by horses? like a floating carriage? paragliding?
+d: no. we don't sell stuff on the first place. i understand the appeal but we do not have such a thing.
+b: can it be upgraded later? what is your most exciting hot air balloon tech?
+d: no post sales modification. new contract. we are not the duskbreaker lighthouse. we are a facility that creates devices. no r&d.
 witty: can we steal someone's hot air balloon. 
 nyx: sorry, this is not going to work. there will be soldiers there by the time the balloon is even ready. 
 witty: what if you put a deposit down, then when it's ready we get it delivered. 
-<some more>
+nyx: money on delivery... (eye roll).
 nyx: thank you so much for your time, we realize a carriage would be better.
 witty bows after thanking for his time
 ---
-<more>
-
+ellara goes to the seminary to pick up her stuff. she finds proctor eduard.
+e: i might have to be away for a while. related to the goliath business. i will continue my studies on the way.
+eduard: i understand. you do add a lot to the seminary but i understand the calling. go forth, you have my blessing.
 proctor eduard hands her a book: Josephine's insights on the nature of eulogia. (early church theology)
+e: wow. i won't misplace your trust.
 
-<more>
+group rents horses/carriage.
+nyx: 30 gold is great.
+berridin haggles: how about 20 gold?
+dwarf: 28.
+b: meet me in the middle at 24.
+d: 26.
+b: deal.
+nyx: i heard the whole thing. 26 it is.
+berridin pockets the 4 gold difference as a "finder's fee".
+they leave the city. it's late afternoon.

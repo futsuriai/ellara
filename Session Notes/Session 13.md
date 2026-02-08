@@ -41,7 +41,7 @@ After a long rest, they left at first light. Nyx rode a horse and Ysidor guided 
 - **Animal Handling:** Nyx **12**, Ysidor **15** (Nyx struggled but held the line)
 - They passed **sleeping Warforged** along the gate as they left Bastion
 
-In the padded carriage, Berridin confronted Ellara about **Proctor Eduard**. He said he overheard Eduard, the Duke, the Princess, and **Donnathan Reeves** discussing the light crystal situation, and claimed Eduard said Ellara was "wrapped around his finger." Ellara doubted Berridin but agreed to be careful. Berridin then cast **Disguise Self** to mimic Eduard and reenact the words, rolling **Performance 10**. The GM ruled Ellara could decide whether to believe it.
+In the padded carriage, Berridin confronted Ellara about **Proctor Eduard**. He said he overheard Eduard, the Duke, the Princess, and **Donnathan Reeves** discussing the light crystal situation, and claimed Eduard said Ellara was "wrapped around his finger." Ellara doubted Berridin. Berridin then cast **Disguise Self** to mimic Eduard and reenact the words, rolling **Performance 10**. The GM ruled Ellara could decide whether to believe it, she was not convinced.
 
 ---
 
@@ -100,3 +100,20 @@ Ellara prayed over the body with Nyx; he told her, "I do bad things, but I'm not
 Witty brewed another elixir (**resilience**, with **boldness** from the prior day). On the road, Witty tinkered in the carriage while Ellara read intently.
 
 On the **seventh day**, the party crested a hill and saw **Ysidor's village** in the distance—and a nearby **Grand Duke encampment** with smoke and roughly **20 soldiers**. The session ended with a **level up** for the party.
+
+---
+
+## Where We Stand
+
+| Thread | Status |
+| :--- | :--- |
+| **Meri / Black Swan** | The party killed a bounty hunter sent after Meri. A note read **"Hyrda"** and an encampment of **~20 Grand Duke soldiers** sits near Ysidor's village. |
+| **Whitman Debt** | Berridin and Witty secured a **1,000g loan** against the Whitman estate (**100g/month**; estate at risk if unpaid). |
+| **Eduard & Ellara** | Berridin warned Ellara that Eduard may be complicit with the Duke and Reeves; she did not really believe him. |
+| **Ellara's Shock** | This was the first time Ellara saw someone killed up close; she's visibly shaken and trying to reconcile it. |
+| **Witty's Prep** | Witty is building tools and elixirs (resilience + boldness) and can now **replicate magic items** to prepare for more ambushes. |
+
+**Next Steps:**
+*   Reach Hyrda and assess the Grand Duke's presence near the village.
+*   Decide how to handle further bounty hunters targeting Meri.
+*   Figure out repayment or leverage for the Whitman loan.

@@ -131,12 +131,12 @@ lady: samantha.
 witty: is that a mrs samantha or?
 lady: pardom me?
 witty: well samantha jr here is her dad around?
-lady: oh yes, the father, it would seem... i come from outside the city, some merchant's son promised me the world, but once julia was born she cast us aside.
+lady: oh yes, the father, it would seem... i come from outside the city, some merchant's son promised me the world, but once little julia was born he cast us aside.
 ysidor is crying fully: such a strong mom, doing the best you can. 
 ellara: can you tell us who this man was, i would like to report him when we are back to the city.
 lady: he has too much money to face consequences... i think his name was something dupree... 
 nyx is by the fire, watching, on the name he leans in.
-lady: from the dupree family, brandon.
+lady: from the dupree family, brenton.
 nyx: i'm sorry to hear that.
 witty: in which direction are you heading?
 lady: not too much farther, in a few days there's a split in the road before my parent's.
@@ -144,7 +144,9 @@ witty: would you like to travel with us?
 lady: i couldn't
 nyx: come with us.
 witty: i can take a horse and give you my spot in the carriage.
-lady: well if you insist i don't mind...
+lady: well if you insist i don't mind... what kind of sicko do you think i am
+witty: says he can ride next to ysidor, they'll be great friends.
+gm says the baby is swaddled and she just got him to settle, so she doesn't want to show his face.
 nyx looking at her rolls investigation: 14. he realizes, he's seen this before, this is a disguise, this is a spell, disguise self. and for a moment he sees beyond it, something familiar. nyx of all people. it's someone in his industry. 
 organization: 
 
@@ -186,7 +188,7 @@ berridin: 2 attacks first. nat 20. 13 damage. he tosses the dagger and as it goe
 combat is over
 ---
 nyx searches the body, he finds the tools of the trade. and a note saying "hyrda". 
-nyx tells everyone. she was on her way to go after meri. this may not be the last time we encounter a bounty hunter.
+nyx tells everyone. she was on her way to go after meri. this may not be the last time we encounter a bounty hunter; more may be after meri, so heads on a swivel.
 berridin: thanks nyx for being wary. good that you're distrustful.
 ysidor turns back to the group: ok but where is the baby.
 he starts looking. "scatter around the baby is around somewhere"
@@ -218,5 +220,6 @@ ellara smiles slighty but says nothing.
 witty makes another elixir... it's a... resilience (boldness generated the previous day).
 in the carriage. witty tinkering. ellara reading very intently. 
 next few days go smoothly. on the 7th day. a late morning cresting a hill. you'll be able to see the village in the distance. ysidor sees a small encampment, smoke rising from it, the livery of the grand duke. tents, 20 or so soldiers. Also see your village.
+gm says everyone levels up at the end of the session.
 
 session... ends..

@@ -107,9 +107,11 @@ animal handling: nyx(12), ysidor(15). nyx struggles a little but is mostly fine.
 we see the sleeping warforged on the sides as we exit the gate. and now we're on the main road. during the ride in a nice and padded carriage. 
 
 berridin decides to talk to ellara:
-<Fill in based on transcript>
-berridin: performance check to act as eduard and repeat it. 10.
-<fill in more>
+asks about her relationship with Proctor Eduard; she says he's the dean, respected, trustworthy, and looking into things at high levels.
+berridin says he overheard the duke, princess, Proctor Eduard, and Donnathan Reeves discussing the light crystal issue at the party; says Eduard seemed in cahoots and mentioned Ellara was wrapped around his finger.
+ellara doubts berridin (says he's cried wolf, hard to believe he snuck up on them), but appreciates the warning and says she'll be careful.
+berridin casts disguise self as Proctor Eduard to repeat the words and rolls a performance check to sell it. 10.
+gm says ellara decides if she believes it.
 ---
 houses and now farther and farther apart. the road is getting a bit rougher. ysidor remembers the path. it's more woodsy. occassionally see worn paths and lights. we settle in to camp by the evening. eat evening meal. see from the shadows we hear branches breaking and a young lady comes into the campfire, she has a a baby on her back.
 
@@ -120,9 +122,10 @@ ysidor: can i see the baby?
 lady: i'm just trying to get him to settle and cries if others hold him. 
 ysidor: oh ok, if i could see him before he falls asleep that would be great.
 ellara: do you need some food, we have some extra rations 
-<fill in>
+lady says she's been traveling a few weeks and doesn't want to impose, but her stomach growls.
+ellara says it's the duty of those in the light to provide and offers food; ysidor says hyr would want them to share the love around the campfire.
 ysidor: yes hyr would want us to share the love of everyone around the campfire.
-lady: thank you so much, <she eats with one hand>
+lady: thank you so much, she eats with one hand while holding the baby
 witty: so what's your name?
 lady: samantha.
 witty: is that a mrs samantha or?

@@ -41,8 +41,6 @@ berridin says witty is needed to identify the explosives.
 
 witty asks whether any of the stone goliaths nearby would help them kill the 20 soldiers.
 
-ellara: "fine, take the explosives and then you can go."
-
 this is not really a separate stealth/non-stealth job. to plant the explosives, they still have to get into the cave, and the encampment is close enough to the mouth that it is probably guarded.
 
 kind of one all-in operation:
@@ -254,7 +252,7 @@ nyx starts asking about nonlethal poison options she's seen before.
 
 nyx asks about plant-based paralytics or sleep agents, something that could incapacitate humanoids for a while instead of killing them.
 
-ellara has some herb knowledge, though it apparently has not come up before.
+ellara has some herb knowledge, though she has not come up before and does not volunteer too much about it at the time. 
 
 nyx to the group: "if we don't want to kill them outright, and we aren't strong enough for a full-on assault, we need to knock them out one way or another."
 
@@ -320,7 +318,7 @@ berridin suggests maybe the gas could be used somehow to separate the living sol
 
 ---
 
-talar, quietly: "don't worry. i understand actions may have to be taken. if the army gets here and does what they mean to do, these stone goliaths are the ones that will be suffering. so doing nothing is not really a choice."
+ellara, quietly: "don't worry. i understand actions may have to be taken. if the army gets here and does what they mean to do, these stone goliaths are the ones that will be suffering. so doing nothing is not really a choice."
 
 ellara asks if there is any grey fungus that usually grows on the northern side of the mines.
 
@@ -358,9 +356,9 @@ ellara and ysidor head into the woods to look for the fungus.
 
 berridin and nyx go scout the mine some more, get their bearings, see if they missed anything.
 
-witty joins ellara/ysidor, helping with a possible poison setup and glassware.
+witty stays at ysidor's house setting up a lab, helping with a possible poison setup and glassware.
 
-a local passerby/marry clocks the group as odd company.
+a local passerby/meri clocks the group as odd company.
 
 after some searching through old-growth trees, ysidor leads them to fungus matching what ellara described.
 
@@ -550,7 +548,7 @@ berridin takes the time to climb and sneak up that side. stealth 20, gets past u
 
 ---
 
-berridin: "mix, do you want to approach from the western side? or maybe the south side? ... it doesn't really matter, actually."
+berridin: "nyx, do you want to approach from the western side? or maybe the south side? ... it doesn't really matter, actually."
 
 they can move around the area; the map markers are just markers.
 
@@ -584,19 +582,19 @@ nyx stops talking and goes in, trying to play it like she forgot something insid
 
 nyx: "i forgot something inside."
 
-she hops back in, a little rushed, covering the move like a normal mistake.
+he hops back in, a little rushed, covering the move like a normal mistake.
 
 nyx: "sorry about that. i should have checked before."
 
 ---
 
-nyx hurries back, more of a jog than a stroll, trying to look like she just forgot something.
+nyx hurries back, more of a jog than a stroll, trying to look like he just forgot something.
 
 stops near the mess area and spots the captain with some soldiers eating.
 
 nyx: "guard captain,"
 
-she takes a quick look inside from the side. pretty open layout, benches and tables.
+he takes a quick look inside from the side. pretty open layout, benches and tables.
 
 food prep is happening toward the back by the fire pit.
 
@@ -606,7 +604,7 @@ nyx considers casually checking the storage while passing, but mostly just clock
 
 ---
 
-nyx checks another area, realizes this is sleeping quarters, not what she wanted. nyx: "ugh, that's not where it is." keeps moving lower through camp, staying low and trying to scout one more spot before the lower watch can see her.
+nyx checks another area, realizes this is sleeping quarters, not what he wanted. nyx: "ugh, that's not where it is." keeps moving lower through camp, staying low and trying to scout one more spot before the lower watch can see her.
 
 this area is around charlie's tent and the others. two soldiers are chatting and laughing by the fire.
 
@@ -634,19 +632,19 @@ nyx changes approach and decides to stealth in instead, trying to move around to
 
 nyx stops sneaking and just walks into camp acting like a normal soldier, then turns it into a light jog like she forgot something and is hurrying back.
 
-captain stops her.
+captain stops him.
 captain: "that's not how you greet your superior officer."
 nyx: "hey! sir! commander."
 captain: "what are you doing back?"
 nyx: "it's my fault. i forgot something and i'm running back to get it."
-captain: "did you meet berridin again? a week's salary deducted."
+captain: "did you meet 'em again? a week's salary deducted."
 nyx: "no!"
 captain: "go on soldier, go back soon."
 nyx: "yes, sir. very sorry, sir."
 
 nyx gives a big salute and runs off.
 
-she spots the food behind the captain and heads toward the direction of the smell / food prep area.
+he spots the food behind the captain and heads toward the direction of the smell / food prep area.
 
 ---
 
@@ -662,7 +660,7 @@ nyx: "i forgot something in my tent."
 
 ---
 
-nyx says she used the excuse that she forgot something in the tent.
+nyx says he used the excuse that he forgot something in the tent.
 
 nyx saw the mess hall, saw where everything was being cooked. thinks they have something to work with, but they still do not know where the poison is yet. nyx says she cannot stay any longer.
 
@@ -677,11 +675,11 @@ nyx just turns, keeps going, and gets back to the group.
 
 ---
 
-nyx reports back. says she did the best she could and any more would have blown her cover. says the captain was in the mess hall, where the food was being prepared and served. she was able to pretend she forgot something and that got them off her back.
+nyx reports back. says he did the best he could and any more would have blown her cover. says the captain was in the mess hall, where the food was being prepared and served. he was able to pretend he forgot something and that got them off her back.
 
 ---
 
-nyx says if they had caught her rummaging around, not good; she didn’t get as much information as she wanted.
+nyx says if they had caught him rummaging around, not good; he didn’t get as much information as he wanted.
 
 berridin wants to get away from the cliff by the encampment before talking more.
 
@@ -807,14 +805,11 @@ north of that: areas nyx could not access.
 nyx got identified almost immediately as the person they were disguised as, so couldn’t move around much.
 
 did confirm the mess hall and the food-prep source for the poisoning plan.
-
----
-
-witty: "that was kind of the key thing we needed to know."
-
 ---
 
 nyx admits they were focused on finding the food source and did not see any explosives.
+
+witty: "that was kind of the key thing we needed to know."
 
 nyx: "i was focused on finding a source of food for the poisoning. i did not see any explosives."
 
@@ -885,10 +880,6 @@ ellara is unsure. her herbal knowledge is mostly about avoiding effects, not mak
 ---
 
 nyx asks if there are any historically known poisons with known recipes, the kind everybody in noble circles would have heard of.
-
-ellara: "not like cyanide."
-
-brief back-and-forth about cyanide / almonds / the smell of it.
 
 ellara treats it like basic noble education, the sort of poison lore nobles get warned about.
 
@@ -2077,8 +2068,6 @@ the party surrenders.
 they are stripped of weapons and gear and thrown into cages with the bodies of their teammates.
 
 between berridin and leontia, the downed party members can be brought back up, but everyone is still imprisoned.
-
-ellara: "guys, guys, guys. we made it into their camp. exactly where we wanted to be."
 
 witty catches a glimpse of the edge of a barrel while being moved.
 

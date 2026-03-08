@@ -54,9 +54,9 @@ Nyx and Berridin went to scout the encampment while Ellara and Ysidor continued 
 
 The disguise portion of the recon was mixed at best. Berridin's attempt to imitate one of the cave guards went badly enough to be unusable. Nyx's disguise worked better, but only barely: good enough to get in, not good enough to move freely without scrutiny.
 
-Nyx pushed deeper into camp alone, pretending to be a guard who had forgotten something. The captain stopped her and corrected her like a superior officer, even joking that she had probably run into Berridin again and earned herself another week's pay deduction. That exchange told the party something important: the camp had a social rhythm and internal familiarity that made casual infiltration dangerous.
+Nyx pushed deeper into camp alone, pretending to be a guard who had forgotten something. The captain stopped him and corrected him like a superior officer, even joking that he had probably run into Berridin again and earned himself another week's pay deduction. That exchange told the party something important: the camp had a social rhythm and internal familiarity that made casual infiltration dangerous.
 
-Still, the recon was a success. Nyx found the **mess hall**, confirmed where the **food was being prepared**, saw where soldiers slept, and mapped enough of the camp for the others to work from. What she did **not** manage to find were the explosives.
+Still, the recon was a success. Nyx found the **mess hall**, confirmed where the **food was being prepared**, saw where soldiers slept, and mapped enough of the camp for the others to work from. What he did **not** manage to find were the explosives.
 
 That left the party with a hard choice: go forward anyway with partial information, or spend even more time planning and risk losing the moment entirely.
 
@@ -91,7 +91,7 @@ Berridin committed hard, breaking from invisibility and going after the guard ca
 
 The rest of the party tried to stabilize the field from multiple angles:
 - **Ellara** used *Moonbeam* for area control, repeatedly trying to catch the captain and clustered enemies in its small radius.
-- **Nyx** repositioned constantly, using movement and cover to get shots where possible, and at one point used her Raven Queen movement to find a better firing angle.
+- **Nyx** repositioned constantly, using movement and cover to get shots where possible, and at one point used his Raven Queen movement to find a better firing angle.
 - **Witty** had one of the biggest moments of the fight, dropping **Acid Splash** on a cluster of four archers and hitting all of them at once.
 - **Ysidor** kept contributing where he could, including landing a hit on a soldier and casting **Shield of Faith** on Berridin to keep him standing a little longer.
 
@@ -126,8 +126,36 @@ The party surrendered.
 
 They were stripped of their weapons, armor, and belongings and thrown into **cages** with their fallen companions. Between Berridin and Leontia, the downed party members could at least be brought back up, but everyone remained imprisoned inside the encampment.
 
-Ellara, somehow still finding the most cursed version of optimism possible, summed up the situation with perfect disastrous logic:
-
-**Ellara:** *"Guys, guys, guys. We made it into their camp. Exactly where we wanted to be."*
 
 One final consolation remained: because Witty had been the farthest away and least observed at the moment of surrender, there was at least a chance he managed to hide **a small item or token** before giving himself up.
+
+---
+
+## Where We Stand
+
+| Thread | Status |
+| :--- | :--- |
+| **Party Status** | The whole party is now imprisoned in camp cages, disarmed and stripped of gear. Berridin and Ellara went down in the fight but can be brought back up between Berridin and Leontia. |
+| **Encampment Damage** | The poison affected about **40%** of the banquet, mostly weaker troops. Core threats (**archers + captain**) remained active and swung the fight. |
+| **Mine-Collapse Plan** | Stalled. The party did not secure explosives, did not plant charges, and did not advance to the cave phase. |
+| **Meri & Hyrda** | Meri was warned over sending stone that the mission failed and the party surrendered. She is still outside camp with the village, but time pressure remains. |
+| **Enemy Strength Read** | Post-fight numbers explained the collapse: regular soldiers around **16 HP**, while archers and captain were around **75 HP**. |
+
+---
+
+## Next Steps
+
+1. Survive imprisonment and recover from the failed assault while watching for immediate execution risk.
+2. Figure out what, if anything, Witty managed to keep hidden and what tools remain available inside the cages.
+3. Collect camp intel from captivity: key carriers, guard rotations, gear storage, and cage security.
+4. Decide whether the first break attempt is stealth, deception, brute force, or coordination with outside help from Meri.
+5. Rebuild the mine strategy only after escape: reacquire explosives, reassess timeline, and account for the surviving encampment force.
+
+---
+
+## Notable Character Moments
+
+- **Ellara and Ysidor** finding the right fungus and helping pivot toward nonlethal incapacitation.
+- **Nyx** pulling high-risk recon in disguise and confirming the mess hall flow.
+- **Berridin** committing to a solo invisible infiltration to deliver the poison.
+- **Witty** landing a max-damage **Acid Splash** across four archers at once.

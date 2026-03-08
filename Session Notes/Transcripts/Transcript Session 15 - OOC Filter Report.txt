@@ -1,0 +1,51 @@
+Linewise OOC Filter Report
+Input: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15.txt
+Filtered: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15 - OOC Removed.txt
+Ambiguous: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15 - Ambiguous.txt
+Total lines: 6396
+Kept lines: 6355
+Removed OOC lines: 41
+Ambiguous lines: 10
+
+Removed lines:
+[line 7][ooc_strong] [00:00:04] Witty: Thanks, Craig.
+[line 11][ooc_strong] [00:00:10] GM: I forgot about that. Thank you, Andres.
+[line 13][ooc_strong] [00:00:14] GM: Thanks, Craig. Thanks, girly.
+[line 37][ooc_weak] [00:01:08] Nyx: And every year us having climate change records.
+[line 47][ooc_weak] [00:01:35] GM: Stock crash of 08.
+[line 55][ooc_weak] [00:01:47] GM: but then, like, COVID and all of this,
+[line 66][ooc_weak] [00:02:12] GM: on the Guinness World Book of Records?
+[line 172][ooc_strong] [00:06:25] Nyx: past... Bobby, correct me if I'm wrong.
+[line 253][ooc_strong] [00:09:27] Nyx: is... So, Bobby, the question
+[line 345][ooc_weak] [00:12:54] Nyx: In Halo 1, like, somebody, like,
+[line 646][ooc_weak] [00:25:34] Witty: Could, could we, could we take some of that hot sauce from last, from dinner?
+[line 664][ooc_strong] [00:26:25] Nyx: Oh, Bobby,
+[line 677][ooc_strong] [00:26:55] GM: Sorry, I mute it because I want to
+[line 994][ooc_strong] [00:41:32] Nyx: Well, I guess... Well, Bobby,
+[line 1040][ooc_strong] [00:44:10] Nyx: Can you hear me? Yeah.
+[line 1045][ooc_weak] [00:44:35] Witty: And so it, we're just gonna have like a little flash scene of like Breaking Bad of me like putting up plastic sheeting over all the windows.
+[line 1085][ooc_strong] [00:46:46] GM: It's Arthur.
+[line 1086][ooc_strong] [00:46:47] GM: I want to make sure I mute myself while he's doing it.
+[line 1392][ooc_strong] [00:57:33] Berridin: Bobby, just for like, we're kind of giving it a wide berth around the...
+[line 1729][ooc_strong] [01:11:24] Nyx: oh shit, I gotta go
+[line 2262][ooc_weak] [01:32:33] Berridin: breaking bad, isn't it?
+[line 3002][ooc_strong] [02:04:27] Nyx: I don't know, Bobby, you have to tell me.
+[line 3237][ooc_strong] [02:18:35] Nyx: Why can't I scroll fucking Discord?
+[line 3442][ooc_strong] [02:27:27] Berridin: You muted Bobby.
+[line 3444][ooc_strong] [02:27:30] Witty: Can't hear you, Bobby.
+[line 3451][ooc_strong] [02:27:44] Berridin: As long as we're logical, that means Bobby's not going to punish us.
+[line 5149][ooc_strong] [03:37:43] Berridin: Andres is just reading his character sheet.
+[line 5491][ooc_strong] [03:51:54] Berridin: Andres, can you cast...
+[line 5826][ooc_strong] [04:06:33] Nyx: Can I move around here, Bobby?
+[line 6188][ooc_strong] [04:19:56] Nyx: I gotta go to Perry.
+[line 6203][ooc_weak] [04:20:25] Nyx: with the Nighthawks?
+[line 6204][ooc_weak] [04:20:27] Nyx: There's a version of the Nighthawks painting
+[line 6210][ooc_weak] [04:20:39] Nyx: It's Spider-Man
+[line 6289][ooc_strong] [04:23:20] GM: Oh, this is the session ending.
+[line 6311][ooc_strong] [04:24:00] GM: I think our next session is next Sunday.
+[line 6315][ooc_strong] [04:24:09] GM: because I know Arthur has to go for his walk and stuff.
+[line 6317][ooc_strong] [04:24:13] GM: It's that time.
+[line 6320][ooc_weak] [04:24:15] Nyx: dinner. Alright.
+[line 6337][ooc_strong] [04:24:40] Nyx: Bobby! This is
+[line 6354][ooc_strong] [04:24:52] Nyx: the same group... Well, minus Matt.
+[line 6367][ooc_weak] [04:25:10] Nyx: snuck like Solid Snake,

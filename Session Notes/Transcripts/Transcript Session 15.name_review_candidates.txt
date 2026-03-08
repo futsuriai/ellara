@@ -1,0 +1,6432 @@
+Potential Name Review Candidates (post name-pass)
+Source: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15.txt
+Count: 1607
+
+Line 2 [00:00:00] GM
+  Tokens: Like
+  Text: Like, oh god.
+
+Line 3 [00:00:01] Berridin
+  Tokens: Jesus
+  Text: Oh Jesus!
+
+Line 4 [00:00:01] Ellara
+  Tokens: It's
+  Text: I mean that's part of the schedule. It's literally, literally in like there's like a one to one to reissue the shit.
+
+Line 7 [00:00:04] Witty
+  Tokens: Thanks
+  Text: Thanks, Craig.
+
+Line 8 [00:00:06] Ysidor
+  Tokens: Improv, Reptile, Wall
+  Text: Improv, Reptile, The Wall.
+
+Line 11 [00:00:10] GM
+  Tokens: Thank
+  Text: I forgot about that. Thank you, Andres.
+
+Line 13 [00:00:14] GM
+  Tokens: Thanks
+  Text: Thanks, Craig. Thanks, girly.
+
+Line 15 [00:00:18] Berridin
+  Tokens: Past
+  Text: Past the point.
+
+Line 18 [00:00:24] GM
+  Tokens: Shoot
+  Text: Shoot the shit.
+
+Line 19 [00:00:28] GM
+  Tokens: Shoot
+  Text: Shoot the shit. Yeah.
+
+Line 22 [00:00:42] GM
+  Tokens: Because
+  Text: Because, like, I'm gonna live to 100.
+
+Line 27 [00:00:56] GM
+  Tokens: Like
+  Text: I'm like, please don't. Like, for me.
+
+Line 29 [00:00:58] GM
+  Tokens: Personally
+  Text: Personally.
+
+Line 34 [00:01:05] Nyx
+  Tokens: Fine
+  Text: Fine.
+
+Line 35 [00:01:06] Nyx
+  Tokens: I'll
+  Text: I'll take it.
+
+Line 38 [00:01:09] Nyx
+  Tokens: Every
+  Text: Every year.
+
+Line 42 [00:01:27] GM
+  Tokens: You're
+  Text: You're like, what?
+
+Line 44 [00:01:29] GM
+  Tokens: Like
+  Text: Like, obviously,
+
+Line 45 [00:01:31] GM
+  Tokens: Canadian
+  Text: it didn't impact as much because Canadian,
+
+Line 47 [00:01:35] GM
+  Tokens: Stock
+  Text: Stock crash of 08.
+
+Line 49 [00:01:39] Nyx
+  Tokens: Since
+  Text: Since last year.
+
+Line 50 [00:01:39] GM
+  Tokens: There's
+  Text: There's...
+
+Line 54 [00:01:45] GM
+  Tokens: There's
+  Text: There's probably a bunch of stuff I'm forgetting,
+
+Line 55 [00:01:47] GM
+  Tokens: COVID
+  Text: but then, like, COVID and all of this,
+
+Line 57 [00:01:51] GM
+  Tokens: Fuck
+  Text: Fuck me.
+
+Line 58 [00:01:53] GM
+  Tokens: Fuck
+  Text: Fuck me.
+
+Line 62 [00:02:00] GM
+  Tokens: It's
+  Text: It's the hottest summer so far.
+
+Line 65 [00:02:10] GM
+  Tokens: Mother, Nature
+  Text: Mother Nature, why do you want to be published
+
+Line 66 [00:02:12] GM
+  Tokens: Book, Guinness, Records, World
+  Text: on the Guinness World Book of Records?
+
+Line 69 [00:02:20] Berridin
+  Tokens: Miners
+  Text: Miners!
+
+Line 71 [00:02:30] GM
+  Tokens: She's
+  Text: She's like, watch me, bitch.
+
+Line 72 [00:02:34] Nyx
+  Tokens: It's
+  Text: It's like I was just in every time.
+
+Line 76 [00:02:46] GM
+  Tokens: Last
+  Text: Last we arrived. Wow.
+
+Line 81 [00:02:56] GM
+  Tokens: Last
+  Text: Last episode. Oh, my God.
+
+Line 83 [00:02:58] GM
+  Tokens: Start
+  Text: Start of the last session...
+
+Line 85 [00:03:02] GM
+  Tokens: Start
+  Text: Start of the last session,
+
+Line 90 [00:03:12] GM
+  Tokens: During
+  Text: During your stay there,
+
+Line 113 [00:03:58] GM
+  Tokens: Like
+  Text: Like...
+
+Line 114 [00:04:00] Ysidor
+  Tokens: Alright
+  Text: Alright, redact that.
+
+Line 120 [00:04:08] GM
+  Tokens: With
+  Text: With some miners,
+
+Line 138 [00:04:50] Ysidor
+  Tokens: Hames
+  Text: I know I'm going with Hames because it makes the most sense for Ysidor, since he's from here.
+
+Line 139 [00:04:56] Ysidor
+  Tokens: Dublin, Stealth
+  Text: And also Stealth is in Dublin, huh?
+
+Line 141 [00:05:05] Ysidor
+  Tokens: Sorry
+  Text: Sorry buddy.
+
+Line 143 [00:05:08] Nyx
+  Tokens: I'll, What's
+  Text: stealth, I'll go... What's the soft
+
+Line 153 [00:05:28] Ysidor
+  Tokens: That's
+  Text: That's fire.
+
+Line 156 [00:05:33] Berridin
+  Tokens: Unless
+  Text: Unless there's some sort of video conferencing call on these sending stones.
+
+Line 159 [00:05:44] Witty
+  Tokens: Goliaths, Stone
+  Text: How many of the Stone Goliaths are in the area that would be like, willing to help us kill these 20 soldiers? Is that a possibility?
+
+Line 161 [00:05:48] Ellara
+  Tokens: Fine
+  Text: Fine, take the explosives and then you can go.
+
+Line 163 [00:06:06] GM
+  Tokens: Well
+  Text: Well, you... I mean, you have to get into the cave,
+
+Line 171 [00:06:23] Nyx
+  Tokens: We'd
+  Text: get... We'd have to sneak
+
+Line 178 [00:06:37] Nyx
+  Tokens: It's
+  Text: It's probably around the
+
+Line 183 [00:06:47] Nyx
+  Tokens: Then
+  Text: the cave. Then that team,
+
+Line 185 [00:06:51] Nyx
+  Tokens: Either
+  Text: to... Either that's
+
+Line 187 [00:06:55] Nyx
+  Tokens: They're
+  Text: the bait. They're going to, you know, make...
+
+Line 189 [00:06:59] Nyx
+  Tokens: Draw
+  Text: Draw that camp, the
+
+Line 193 [00:07:08] Nyx
+  Tokens: There's
+  Text: There's some... There's some
+
+Line 220 [00:08:11] Berridin
+  Tokens: Easy
+  Text: Easy.
+
+Line 221 [00:08:13] Nyx
+  Tokens: Easy
+  Text: Easy!
+
+Line 222 [00:08:14] Nyx
+  Tokens: Easy
+  Text: Easy!
+
+Line 223 [00:08:15] Nyx
+  Tokens: Magic
+  Text: Magic! Okay.
+
+Line 224 [00:08:17] Berridin
+  Tokens: It's
+  Text: It's gonna be easy.
+
+Line 240 [00:08:50] Nyx
+  Tokens: They'll
+  Text: They'll draw in
+
+Line 247 [00:09:03] Ellara
+  Tokens: Unless
+  Text: No, because the people we're drawing in are still like a week or so away, right? Unless we're setting it up for the current terrorism.
+
+Line 248 [00:09:16] Nyx
+  Tokens: That's
+  Text: That's right, they're not here.
+
+Line 250 [00:09:17] GM
+  Tokens: There
+  Text: There is...
+
+Line 266 [00:09:50] GM
+  Tokens: There
+  Text: There is also
+
+Line 272 [00:10:02] Nyx
+  Tokens: Then
+  Text: Okay. Then I change the plan.
+
+Line 303 [00:11:14] GM
+  Tokens: They'd
+  Text: They'd be more
+
+Line 309 [00:11:23] GM
+  Tokens: You're
+  Text: You're level four.
+
+Line 317 [00:11:40] Nyx
+  Tokens: Look
+  Text: Look, hey,
+
+Line 321 [00:11:47] GM
+  Tokens: Have
+  Text: Have you considered wiping up the whole camp?
+
+Line 322 [00:11:49] GM
+  Tokens: There's
+  Text: There's no judgement in this space.
+
+Line 324 [00:11:53] Nyx
+  Tokens: There's
+  Text: There's no harm in
+
+Line 329 [00:11:59] GM
+  Tokens: Scooby
+  Text: This is like some Scooby
+
+Line 330 [00:12:01] Nyx
+  Tokens: I've, There
+  Text: I say. There, I've said my
+
+Line 339 [00:12:39] Nyx
+  Tokens: Layers
+  Text: Layers.
+
+Line 342 [00:12:47] Nyx
+  Tokens: It's
+  Text: It's the meme, like, where they...
+
+Line 343 [00:12:49] Ellara
+  Tokens: It's, Presumably, What's
+  Text: Presumably. What's the ecosystem in this area? It's like a mountain. How close is it to the highlands?
+
+Line 347 [00:12:58] Nyx
+  Tokens: Chief's
+  Text: Master Chief's helmet,
+
+Line 351 [00:13:08] Berridin
+  Tokens: We're
+  Text: We're gonna be so stealthy.
+
+Line 353 [00:13:10] Nyx
+  Tokens: Iberdon
+  Text: I think Iberdon, Witty,
+
+Line 359 [00:13:27] Nyx
+  Tokens: It's
+  Text: It's one or the other.
+
+Line 360 [00:13:32] Nyx
+  Tokens: Because
+  Text: Because we can't take 20 guys.
+
+Line 362 [00:13:38] Nyx
+  Tokens: Nonsense
+  Text: Yeah, yeah. Nonsense.
+
+Line 365 [00:14:10] Witty
+  Tokens: Unless
+  Text: Unless anybody else thinks that they are, you know, more experienced with building explosives.
+
+Line 371 [00:14:35] Berridin
+  Tokens: Halflings
+  Text: Halflings are very peaceful people.
+
+Line 376 [00:14:54] Berridin
+  Tokens: After
+  Text: After we extract the explosives or the gunpowder from the camp.
+
+Line 377 [00:15:01] Berridin
+  Tokens: We'll
+  Text: We'll continue on into the mines.
+
+Line 382 [00:15:20] Berridin
+  Tokens: Druid
+  Text: Druid Ellara to make poison.
+
+Line 390 [00:15:34] Nyx
+  Tokens: Like
+  Text: Like, they'll just join up with
+
+Line 399 [00:15:54] Witty
+  Tokens: Could
+  Text: Could we, so we have about a week, right?
+
+Line 401 [00:16:03] Witty
+  Tokens: Give, Like
+  Text: Like poison their food or something like that? Give them some, you know, while we're infiltrating?
+
+Line 402 [00:16:07] Nyx
+  Tokens: Good
+  Text: Good ol' botched...
+
+Line 407 [00:16:29] Ellara
+  Tokens: Lara
+  Text: I guess the reason I'm asking is just because Lara grew up in the highlands, she knows a lot of herbs and stuff.
+
+Line 408 [00:16:31] GM
+  Tokens: Well
+  Text: Well, this is at the foot of the mountains.
+
+Line 418 [00:16:51] GM
+  Tokens: There
+  Text: There is like,
+
+Line 428 [00:17:17] Ellara
+  Tokens: Like
+  Text: Like what's the...
+
+Line 430 [00:17:20] GM
+  Tokens: Just
+  Text: Just give me a little nature or something.
+
+Line 431 [00:17:22] GM
+  Tokens: It's
+  Text: It's like survival.
+
+Line 433 [00:17:24] GM
+  Tokens: Let's
+  Text: Let's just see.
+
+Line 435 [00:17:33] Ysidor
+  Tokens: I'll
+  Text: I'll pay for Ysidor and all this.
+
+Line 436 [00:17:33] Berridin
+  Tokens: Damn
+  Text: Damn.
+
+Line 437 [00:17:35] Nyx
+  Tokens: It's
+  Text: It's the meme that you sent.
+
+Line 439 [00:17:39] Nyx
+  Tokens: Terrible
+  Text: Terrible torture with healing magic.
+
+Line 444 [00:17:51] GM
+  Tokens: You're
+  Text: You're like, what the fuck?
+
+Line 447 [00:18:00] GM
+  Tokens: Digit
+  Text: Digit private role.
+
+Line 450 [00:18:09] Ellara
+  Tokens: It's
+  Text: It's a 24.
+
+Line 451 [00:18:10] Ellara
+  Tokens: I'll
+  Text: I'll paste the screenshot.
+
+Line 479 [00:19:19] Ellara
+  Tokens: Uh-huh
+  Text: Uh-huh.
+
+Line 480 [00:19:20] Berridin
+  Tokens: Infiltrate
+  Text: Infiltrate the camp.
+
+Line 481 [00:19:22] Berridin
+  Tokens: Identify
+  Text: Identify and steal the explosives.
+
+Line 483 [00:19:26] Berridin
+  Tokens: Simultaneously
+  Text: Simultaneously leave poison to slow or incapacitate the guard troops there.
+
+Line 485 [00:19:40] Berridin
+  Tokens: Help
+  Text: Help evacuate the miners if they're there.
+
+Line 491 [00:19:55] Berridin
+  Tokens: That's
+  Text: That's totally true.
+
+Line 503 [00:20:17] GM
+  Tokens: Digit
+  Text: So did Digit do it all?
+
+Line 509 [00:20:28] Berridin
+  Tokens: Does
+  Text: Does that help?
+
+Line 511 [00:20:29] Berridin
+  Tokens: Sorry
+  Text: Sorry.
+
+Line 524 [00:20:54] Nyx
+  Tokens: That's
+  Text: That's true.
+
+Line 527 [00:21:10] Witty
+  Tokens: Like
+  Text: Like, uh, so there should be venting tunnels, um,
+
+Line 531 [00:21:22] Witty
+  Tokens: Cage, National, Nicolas, Treasure
+  Text: I know this from National Treasure with, with Nicolas Cage.
+
+Line 541 [00:21:36] Nyx
+  Tokens: Din's
+  Text: Din's gonna...
+
+Line 542 [00:21:39] Witty
+  Tokens: Maybe
+  Text: Maybe, maybe that's why they're not really, you know, as aware of it.
+
+Line 545 [00:21:51] GM
+  Tokens: Grease
+  Text: Grease them up?
+
+Line 546 [00:21:55] Nyx
+  Tokens: We're
+  Text: We're gonna mission impossible Din.
+
+Line 547 [00:21:57] Nyx
+  Tokens: Just
+  Text: Just down the ventilation shaft.
+
+Line 550 [00:22:01] GM
+  Tokens: Didn't
+  Text: Didn't just cover
+
+Line 551 [00:22:03] Ysidor
+  Tokens: Chemical
+  Text: Chemical warfare.
+
+Line 553 [00:22:08] GM
+  Tokens: Sorry
+  Text: Sorry.
+
+Line 559 [00:22:22] Nyx
+  Tokens: What's
+  Text: What's the final plan?
+
+Line 560 [00:22:24] Nyx
+  Tokens: Thank
+  Text: Okay. Thank you.
+
+Line 563 [00:22:28] Nyx
+  Tokens: Alright
+  Text: Alright, well let's just... let's all agree on it.
+
+Line 575 [00:22:45] Berridin
+  Tokens: Army, Bigger
+  Text: I thought we're trying to trap the Bigger Army?
+
+Line 576 [00:22:45] Nyx
+  Tokens: We're
+  Text: We're gonna poison a smaller group of 20.
+
+Line 582 [00:23:05] Nyx
+  Tokens: I've
+  Text: Yeah, I've...
+
+Line 583 [00:23:09] Witty
+  Tokens: Montezuma's, Revenge
+  Text: Montezuma's Revenge.
+
+Line 589 [00:23:19] Nyx
+  Tokens: Then
+  Text: Then they can't...
+
+Line 606 [00:24:00] Ellara
+  Tokens: She's
+  Text: She's just thinking.
+
+Line 607 [00:24:02] Ellara
+  Tokens: Because
+  Text: Because she wants to avoid killing people. So maybe poisoning them but not killing them is a compromise.
+
+Line 609 [00:24:13] Ysidor
+  Tokens: Preferably
+  Text: Preferably, I would like the villagers to, and my village to remain unharmed.
+
+Line 616 [00:24:32] Berridin
+  Tokens: Right
+  Text: Right?
+
+Line 617 [00:24:32] Nyx
+  Tokens: Well
+  Text: Well, if we go...
+
+Line 632 [00:25:07] Nyx
+  Tokens: Let's
+  Text: Let's say it all works out,
+
+Line 636 [00:25:15] Nyx
+  Tokens: They're
+  Text: They're gonna sideswipe,
+
+Line 641 [00:25:25] Nyx
+  Tokens: Right
+  Text: Right?
+
+Line 642 [00:25:27] Nyx
+  Tokens: Because
+  Text: Because they're still there.
+
+Line 646 [00:25:34] Witty
+  Tokens: Could
+  Text: Could, could we, could we take some of that hot sauce from last, from dinner?
+
+Line 653 [00:25:49] Nyx
+  Tokens: That's
+  Text: That's for all I care.
+
+Line 661 [00:26:17] Berridin
+  Tokens: Then
+  Text: Then we can release the gas. It just seems like gas is a bit hard to
+
+Line 662 [00:26:20] Berridin
+  Tokens: Control
+  Text: Control might hurt the surrounding environment
+
+Line 666 [00:26:29] Nyx
+  Tokens: Would
+  Text: Would Nyx,
+
+Line 667 [00:26:31] Nyx
+  Tokens: Assassin, Bounty, Hunter
+  Text: because he's Bounty Hunter Assassin,
+
+Line 671 [00:26:42] Nyx
+  Tokens: Ellara's
+  Text: up to Ellara's,
+
+Line 674 [00:26:48] Nyx
+  Tokens: Oleander
+  Text: whatever fantasy Oleander is
+
+Line 675 [00:26:50] Nyx
+  Tokens: Foxglove
+  Text: in the C. Foxglove?
+
+Line 677 [00:26:55] GM
+  Tokens: Sorry
+  Text: Sorry, I mute it because I want to
+
+Line 679 [00:27:03] Nyx
+  Tokens: Nature's
+  Text: Nature's minus one, so maybe no.
+
+Line 681 [00:27:07] GM
+  Tokens: Well
+  Text: Well, no, but like
+
+Line 687 [00:27:18] Nyx
+  Tokens: Right
+  Text: Right. Okay.
+
+Line 694 [00:27:33] Nyx
+  Tokens: Here's
+  Text: Here's why.
+
+Line 696 [00:27:35] Nyx
+  Tokens: Here's
+  Text: Here's my shenanigan.
+
+Line 704 [00:27:48] GM
+  Tokens: Undress
+  Text: Undress asked
+
+Line 712 [00:28:01] Ellara
+  Tokens: Exactly
+  Text: Exactly.
+
+Line 714 [00:28:04] Berridin
+  Tokens: We're
+  Text: We're such natural at this
+
+Line 716 [00:28:09] Nyx
+  Tokens: Would
+  Text: Would you...
+
+Line 717 [00:28:11] Berridin
+  Tokens: Sorry
+  Text: Sorry, what's the timeline again for?
+
+Line 718 [00:28:11] Nyx
+  Tokens: Very
+  Text: Yeah. Very, very
+
+Line 723 [00:28:22] GM
+  Tokens: Alex
+  Text: So wait, Alex,
+
+Line 742 [00:29:00] Nyx
+  Tokens: That's
+  Text: That's good. That's good.
+
+Line 743 [00:29:01] GM
+  Tokens: Like
+  Text: Like, like,
+
+Line 766 [00:29:41] Nyx
+  Tokens: Right
+  Text: Right? They cause paralysis.
+
+Line 770 [00:29:49] Nyx
+  Tokens: Would
+  Text: Would you
+
+Line 774 [00:29:57] Nyx
+  Tokens: That's
+  Text: They exist. That's a real thing.
+
+Line 776 [00:30:01] Nyx
+  Tokens: Would
+  Text: Would you be aware
+
+Line 783 [00:30:25] Nyx
+  Tokens: I'll
+  Text: to ask this? If it is, I'll
+
+Line 784 [00:30:27] Nyx
+  Tokens: I'll
+  Text: retract it and I'll take it away.
+
+Line 793 [00:30:48] Nyx
+  Tokens: Right
+  Text: one way or another. Right?
+
+Line 794 [00:30:50] Nyx
+  Tokens: Does
+  Text: Does anybody...
+
+Line 798 [00:30:58] Nyx
+  Tokens: Does
+  Text: sort of concoctions. Does
+
+Line 810 [00:31:28] Ysidor
+  Tokens: Because
+  Text: Because I literally saved a man's life.
+
+Line 812 [00:31:35] GM
+  Tokens: There's
+  Text: There's a difference of knowing your
+
+Line 818 [00:31:47] GM
+  Tokens: Would
+  Text: Would you reasonably
+
+Line 825 [00:32:16] Nyx
+  Tokens: Just
+  Text: Just so you guys know,
+
+Line 826 [00:32:18] Nyx
+  Tokens: Rix's
+  Text: Rix's plan, he's thinking,
+
+Line 831 [00:32:28] Nyx
+  Tokens: Like
+  Text: in there. Like,
+
+Line 840 [00:32:43] Nyx
+  Tokens: It's
+  Text: It's like,
+
+Line 842 [00:32:47] Nyx
+  Tokens: Don't
+  Text: Don't make people...
+
+Line 845 [00:32:53] GM
+  Tokens: I'll
+  Text: around here, I'll say you I'll give
+
+Line 856 [00:33:15] Ysidor
+  Tokens: Hasn't
+  Text: Hasn't even been established.
+
+Line 869 [00:33:47] Witty
+  Tokens: That's
+  Text: That's, that's gotta be a...
+
+Line 870 [00:33:50] Nyx
+  Tokens: Nick's
+  Text: Okay, so, Nick's gonna be like,
+
+Line 884 [00:34:18] Witty
+  Tokens: We're
+  Text: We're gonna collapse the mine on the warforged though, right?
+
+Line 885 [00:34:19] Ysidor
+  Tokens: I'll
+  Text: I'll take it back.
+
+Line 893 [00:34:47] Nyx
+  Tokens: Before
+  Text: Before the week is
+
+Line 900 [00:35:09] Ellara
+  Tokens: Then
+  Text: Then what?
+
+Line 908 [00:35:35] Ellara
+  Tokens: Because
+  Text: Because some of this might require longer term dosing if we wanted to.
+
+Line 915 [00:36:12] Berridin
+  Tokens: Soldiers
+  Text: Soldiers here tie them up. Is that that possible to avoid killing them think about the
+
+Line 916 [00:36:30] Berridin
+  Tokens: Kevin
+  Text: big Kevin is in front of the mine, right and
+
+Line 918 [00:36:37] GM
+  Tokens: There
+  Text: mouth. There is a space like you have to walk
+
+Line 922 [00:36:42] Berridin
+  Tokens: Does
+  Text: Does it make sense?
+
+Line 924 [00:36:45] Berridin
+  Tokens: Ruby, Would
+  Text: Would it make sense to Ruby even be able to bait the incoming army if the encampment is not just functioning like normal?
+
+Line 926 [00:36:55] Berridin
+  Tokens: Imagine
+  Text: Imagine there'd be some sort of communication that might trigger them, right? So I don't know
+
+Line 932 [00:37:37] Berridin
+  Tokens: Lara
+  Text: Lara if we if we if we do this we we poison them or something so we can allow the stone glides to tie them up
+
+Line 936 [00:37:56] Berridin
+  Tokens: Think
+  Text: Think just everyone's everyone's on the same page right because we're gonna collapse a mine on these people
+
+Line 937 [00:38:02] Berridin
+  Tokens: Like
+  Text: I don't know about that part actually about what what he just said though. Like is it just gonna be warforged? Is it just gonna be?
+
+Line 940 [00:38:11] Witty
+  Tokens: Correct, Woody's
+  Text: Correct? Uh, I was gonna say, I think Woody's probably maybe gonna like set up a, a, like a lab that he needs to make the explosives.
+
+Line 943 [00:38:18] Ellara
+  Tokens: She's
+  Text: She's...
+
+Line 957 [00:39:22] Ellara
+  Tokens: Talar
+  Text: Talar kind of quietly says, don't worry.
+
+Line 963 [00:39:43] Ellara
+  Tokens: Hines
+  Text: Do you know if there's any grey fungus that usually grows on the northern side of Hines?
+
+Line 970 [00:40:15] Berridin
+  Tokens: Poison
+  Text: Poison concoction research
+
+Line 975 [00:40:34] Berridin
+  Tokens: Should
+  Text: Should we uh
+
+Line 976 [00:40:36] Berridin
+  Tokens: Should
+  Text: Should we uh, should we check some things out?
+
+Line 977 [00:40:38] Berridin
+  Tokens: Let's
+  Text: Let's see if we can actually get this poison going
+
+Line 982 [00:40:52] Nyx
+  Tokens: Let's
+  Text: Let's just see if we can actually figure out,
+
+Line 988 [00:41:04] Berridin
+  Tokens: We'll
+  Text: We'll think about it soon
+
+Line 989 [00:41:09] Berridin
+  Tokens: It'll, We'll
+  Text: It'll come to us, okay? We'll have a team name
+
+Line 990 [00:41:10] Nyx
+  Tokens: Great
+  Text: Great idea.
+
+Line 991 [00:41:16] Berridin
+  Tokens: Maybe
+  Text: Who is familiar enough. I know Witty has some background with this. Maybe he can help identify
+
+Line 992 [00:41:27] Berridin
+  Tokens: Maybe
+  Text: Who is familiar enough. I know Witty has some background with this. Maybe he can help identify
+
+Line 994 [00:41:32] Nyx
+  Tokens: Well
+  Text: Well, I guess... Well, Bobby,
+
+Line 1007 [00:41:56] Ysidor
+  Tokens: Sorry
+  Text: Sorry, it goes, well, there's a few plants in the area that could amount to poison.
+
+Line 1010 [00:42:33] Ellara
+  Tokens: Your
+  Text: Your village might know it by some other name.
+
+Line 1011 [00:42:38] Ellara
+  Tokens: Soporif
+  Text: But we call it Soporif...
+
+Line 1012 [00:42:45] Ellara
+  Tokens: Soporifungus
+  Text: Soporifungus.
+
+Line 1013 [00:42:47] Ellara
+  Tokens: S-O-P-O-R
+  Text: I guess it's S-O-P-O-R.
+
+Line 1014 [00:42:48] Ysidor
+  Tokens: Super
+  Text: Super fungus.
+
+Line 1019 [00:42:56] Ellara
+  Tokens: It's
+  Text: It's just kind of like a grey, kind of looks like a lichen.
+
+Line 1020 [00:42:59] Ellara
+  Tokens: Usually
+  Text: Usually grows on old trees.
+
+Line 1021 [00:43:03] Ellara
+  Tokens: Sometimes
+  Text: Sometimes...
+
+Line 1022 [00:43:04] Ysidor
+  Tokens: There's
+  Text: There's something that fits the description.
+
+Line 1024 [00:43:08] Ysidor
+  Tokens: There
+  Text: There are quite a few old trees in this area.
+
+Line 1026 [00:43:16] Ysidor
+  Tokens: Could
+  Text: Could be moss, but we can check it out.
+
+Line 1033 [00:43:37] GM
+  Tokens: Laura's
+  Text: it sounds like you're sorry. Laura's going
+
+Line 1036 [00:43:43] GM
+  Tokens: What's
+  Text: What's everyone else up
+
+Line 1039 [00:44:01] Berridin
+  Tokens: Understand
+  Text: Understand if we missed anything.
+
+Line 1041 [00:44:10] GM
+  Tokens: Winnie
+  Text: Winnie? Are you going to
+
+Line 1045 [00:44:35] Witty
+  Tokens: Breaking
+  Text: And so it, we're just gonna have like a little flash scene of like Breaking Bad of me like putting up plastic sheeting over all the windows.
+
+Line 1048 [00:44:44] Ellara
+  Tokens: That's
+  Text: That's very kind of you.
+
+Line 1050 [00:44:51] GM
+  Tokens: Marry's
+  Text: Marry's
+
+Line 1052 [00:44:55] GM
+  Tokens: Like
+  Text: Like walk by like
+
+Line 1059 [00:45:09] GM
+  Tokens: After
+  Text: After a while in the woods like
+
+Line 1067 [00:45:37] Berridin
+  Tokens: That's
+  Text: That's awesome.
+
+Line 1069 [00:45:47] Ellara
+  Tokens: While
+  Text: While we're walking...
+
+Line 1072 [00:45:51] Ellara
+  Tokens: Talar
+  Text: I just want to make sure that Talar
+
+Line 1083 [00:46:44] Berridin
+  Tokens: Sorry
+  Text: Sorry, I'm just literally watching.
+
+Line 1085 [00:46:46] GM
+  Tokens: Arthur, It's
+  Text: It's Arthur.
+
+Line 1087 [00:46:48] Berridin
+  Tokens: That's
+  Text: That's awesome.
+
+Line 1089 [00:46:53] GM
+  Tokens: It's
+  Text: It's not you, Avi.
+
+Line 1090 [00:46:56] GM
+  Tokens: Let's
+  Text: Let's see.
+
+Line 1095 [00:47:12] GM
+  Tokens: It's
+  Text: It's a better kind of suited animal.
+
+Line 1097 [00:47:15] Ellara
+  Tokens: Sure
+  Text: Sure.
+
+Line 1106 [00:47:34] GM
+  Tokens: Baldur's, Gate, It's
+  Text: It's from Baldur's Gate 3.
+
+Line 1109 [00:47:48] Ellara
+  Tokens: She'll
+  Text: She'll keep checking.
+
+Line 1110 [00:47:49] Ellara
+  Tokens: She'll
+  Text: She'll keep checking periodically.
+
+Line 1112 [00:47:52] GM
+  Tokens: Like
+  Text: Like, you find, like,
+
+Line 1114 [00:47:58] GM
+  Tokens: Like
+  Text: Like, deer, but deer wouldn't be keen to doing that kind of stuff, right?
+
+Line 1117 [00:48:12] Berridin
+  Tokens: Maybe
+  Text: Maybe we can look out for the exact number of guards.
+
+Line 1119 [00:48:14] GM
+  Tokens: Well
+  Text: Well, a little...
+
+Line 1121 [00:48:21] Berridin
+  Tokens: Anything
+  Text: Anything that we can easily poison, like, collectively, I guess, like their water source or whatever, or their ale.
+
+Line 1124 [00:48:35] Berridin
+  Tokens: We're
+  Text: We're in a BTT.
+
+Line 1125 [00:48:36] Nyx
+  Tokens: That's
+  Text: Ale is pretty good. That's a good idea,
+
+Line 1129 [00:48:46] GM
+  Tokens: It's
+  Text: It's like I prepare stuff.
+
+Line 1131 [00:48:49] Berridin
+  Tokens: Such
+  Text: Such a good DM.
+
+Line 1135 [00:48:59] Berridin
+  Tokens: Allows
+  Text: Allows us to build air machines and balloons.
+
+Line 1137 [00:49:06] Nyx
+  Tokens: It's
+  Text: the... It's the bean counter
+
+Line 1143 [00:49:12] GM
+  Tokens: Winning
+  Text: Winning might not have a house in the future, but you know.
+
+Line 1149 [00:49:31] GM
+  Tokens: You're
+  Text: You're going to see...
+
+Line 1155 [00:49:36] GM
+  Tokens: There
+  Text: There.
+
+Line 1156 [00:49:36] GM
+  Tokens: Start
+  Text: Start session.
+
+Line 1157 [00:49:37] GM
+  Tokens: Whoops
+  Text: Whoops.
+
+Line 1158 [00:49:37] GM
+  Tokens: Sorry
+  Text: Sorry.
+
+Line 1159 [00:49:39] Nyx
+  Tokens: Great
+  Text: Great, yeah.
+
+Line 1166 [00:49:47] Berridin
+  Tokens: It's
+  Text: It's ritzier.
+
+Line 1168 [00:49:50] Berridin
+  Tokens: Type
+  Text: Type thing.
+
+Line 1172 [00:49:55] GM
+  Tokens: There
+  Text: There is some build on the hill on the side.
+
+Line 1177 [00:50:06] Ellara
+  Tokens: Perfect
+  Text: Perfect.
+
+Line 1181 [00:50:18] GM
+  Tokens: Looks
+  Text: Looks to be a mess hall.
+
+Line 1186 [00:50:31] GM
+  Tokens: Again
+  Text: Again, more training area, weapon areas with the commander's tent up...
+
+Line 1187 [00:50:35] GM
+  Tokens: With
+  Text: With a big...
+
+Line 1191 [00:50:47] Berridin
+  Tokens: That's
+  Text: That's awesome.
+
+Line 1193 [00:50:47] GM
+  Tokens: There's
+  Text: There's...
+
+Line 1194 [00:50:48] Berridin
+  Tokens: That's
+  Text: That's awesome.
+
+Line 1200 [00:50:59] Berridin
+  Tokens: Alex
+  Text: I wonder if, like, if that's something that we can, I know we talked about this before with Alex, and I can find, like, a virtual tabletop that I can actually do that, where you can move the pieces and do it.
+
+Line 1232 [00:51:20] GM
+  Tokens: Whoops
+  Text: Whoops.
+
+Line 1233 [00:51:21] GM
+  Tokens: Pretend
+  Text: Pretend you don't see that.
+
+Line 1239 [00:51:40] GM
+  Tokens: Like
+  Text: Like, so that north archer would have eyes on the entrance over here.
+
+Line 1242 [00:51:44] GM
+  Tokens: There
+  Text: There, I would say there's two soldiers in front of the lines to kind of deter any of
+
+Line 1246 [00:52:00] Berridin
+  Tokens: Let's
+  Text: Let's see.
+
+Line 1248 [00:52:02] Berridin
+  Tokens: Let's
+  Text: Let's try a zombieak.
+
+Line 1253 [00:52:26] GM
+  Tokens: Actually
+  Text: Actually, the two northern archers would have the line of sight on the mine entrance.
+
+Line 1255 [00:52:32] GM
+  Tokens: Meri's, They're
+  Text: They're mostly staying within their encampment, kind of to Meri's earlier point.
+
+Line 1258 [00:52:37] GM
+  Tokens: They're
+  Text: They're not really trying to aggregate the sit aggravate the situation at all.
+
+Line 1259 [00:52:43] GM
+  Tokens: They're
+  Text: They're more because they know there's an oncoming kind of yeah, north northeast.
+
+Line 1273 [00:53:37] Berridin
+  Tokens: Mine's
+  Text: Mine's to the north, yeah.
+
+Line 1274 [00:53:40] Nyx
+  Tokens: Maybe
+  Text: I just want to clarify. Maybe I missed this.
+
+Line 1285 [00:54:01] Berridin
+  Tokens: That's
+  Text: That's why I wanted to spy on the people at the cave entrance.
+
+Line 1291 [00:54:14] Nyx
+  Tokens: We're
+  Text: We're assuming that
+
+Line 1295 [00:54:22] Nyx
+  Tokens: There's
+  Text: There's only 20 and some other people.
+
+Line 1296 [00:54:24] Nyx
+  Tokens: Everyone's
+  Text: Everyone's gonna know each other.
+
+Line 1301 [00:54:37] Berridin
+  Tokens: There's
+  Text: There's a couple guards at the cave entrance.
+
+Line 1302 [00:54:40] Berridin
+  Tokens: Replicate
+  Text: Replicate them.
+
+Line 1315 [00:55:01] Berridin
+  Tokens: Someone
+  Text: Someone real, right?
+
+Line 1319 [00:55:07] Nyx
+  Tokens: What's
+  Text: What's the backup plan
+
+Line 1332 [00:55:28] GM
+  Tokens: They're
+  Text: They're back in the village.
+
+Line 1340 [00:55:57] Berridin
+  Tokens: That's
+  Text: That's not an option.
+
+Line 1342 [00:55:59] Berridin
+  Tokens: Can't
+  Text: Can't get caught.
+
+Line 1349 [00:56:12] Nyx
+  Tokens: We're
+  Text: We're off. We're off picking flowers.
+
+Line 1350 [00:56:13] Berridin
+  Tokens: Their
+  Text: Their poison hunting.
+
+Line 1354 [00:56:15] Nyx
+  Tokens: They're
+  Text: Okay. They're picking
+
+Line 1356 [00:56:17] GM
+  Tokens: Picking
+  Text: Picking flowers.
+
+Line 1357 [00:56:18] GM
+  Tokens: Ysidor's
+  Text: One is renewing Ysidor's house to make it into a lab.
+
+Line 1365 [00:56:38] Nyx
+  Tokens: Just
+  Text: Just so that they're aware,
+
+Line 1373 [00:56:54] Nyx
+  Tokens: It's
+  Text: put... It's a scouting
+
+Line 1374 [00:56:56] Nyx
+  Tokens: It's
+  Text: It's a scouting now.
+
+Line 1378 [00:57:05] Berridin
+  Tokens: That's
+  Text: That's so intense.
+
+Line 1380 [00:57:09] Nyx
+  Tokens: It's
+  Text: It's sad.
+
+Line 1383 [00:57:17] Nyx
+  Tokens: What's
+  Text: What's the other side?
+
+Line 1386 [00:57:24] Berridin
+  Tokens: Because
+  Text: Because I'm also like, I don't know if I know this.
+
+Line 1398 [00:57:48] GM
+  Tokens: We're
+  Text: We're going to.
+
+Line 1401 [00:57:51] GM
+  Tokens: I've
+  Text: If you're trying to enter, that's where I've been.
+
+Line 1402 [00:57:52] GM
+  Tokens: Like
+  Text: Like, so we're all going to start rolling.
+
+Line 1434 [00:58:29] GM
+  Tokens: They're
+  Text: They're kind of there.
+
+Line 1440 [00:58:47] GM
+  Tokens: Then
+  Text: Then from a minute or a few minutes there.
+
+Line 1442 [00:58:52] GM
+  Tokens: There's
+  Text: There's nothing special you're going to see.
+
+Line 1448 [00:59:11] Berridin
+  Tokens: Like
+  Text: Like, could we feasibly copy them?
+
+Line 1452 [00:59:40] Berridin
+  Tokens: Let's
+  Text: Let's, I'm just, let's roll the deception.
+
+Line 1455 [00:59:52] Nyx
+  Tokens: I've
+  Text: So I've always
+
+Line 1456 [00:59:57] Berridin
+  Tokens: Disguise
+  Text: Disguise ourselves.
+
+Line 1463 [01:00:17] Berridin
+  Tokens: Spell
+  Text: Spell sauce, yeah, yeah.
+
+Line 1466 [01:00:19] Nyx
+  Tokens: It's, None
+  Text: None for me. It's...
+
+Line 1472 [01:00:35] GM
+  Tokens: All's
+  Text: You still almost died, so you know what? All's fair.
+
+Line 1473 [01:00:39] GM
+  Tokens: All's
+  Text: All's fair. I had a fubba roll to not like kill people. In universe you have no idea how rolls are.
+
+Line 1475 [01:00:45] Berridin
+  Tokens: Let's
+  Text: Let's see how our, let's see how our deception rolls, Nyx, because...
+
+Line 1478 [01:00:52] Berridin
+  Tokens: Rolls
+  Text: Rolls in universe, or should I refer to that?
+
+Line 1482 [01:01:01] GM
+  Tokens: Like
+  Text: Yeah, no. Like in universe the equivalent is how well it's executed, right?
+
+Line 1483 [01:01:02] Nyx
+  Tokens: It'll
+  Text: It'll do it.
+
+Line 1485 [01:01:08] GM
+  Tokens: Like
+  Text: Like if the next roll a one you'd be like well that's an interesting choice you're supposed to
+
+Line 1487 [01:01:14] GM
+  Tokens: With
+  Text: go for like a woman and you're very mask presenting right now. With a big big beard
+
+Line 1489 [01:01:21] GM
+  Tokens: Like
+  Text: I don't recall them having a beard. Like what's the news? So Berridin, yeah you just see Berridin
+
+Line 1490 [01:01:26] Berridin
+  Tokens: Like, Orange
+  Text: Like Orange Man.
+
+Line 1491 [01:01:26] Nyx
+  Tokens: Like, Really
+  Text: Really badly done. Like, the makeup
+
+Line 1494 [01:01:32] Nyx
+  Tokens: Alright
+  Text: Alright.
+
+Line 1498 [01:01:36] Nyx
+  Tokens: Let's
+  Text: So I'm gonna go with deception. Let's see.
+
+Line 1501 [01:01:52] Nyx
+  Tokens: That's
+  Text: That's a good...
+
+Line 1502 [01:01:56] GM
+  Tokens: Like
+  Text: like completely miss the mark. Like on like you've seen Berridin do disguises and maybe
+
+Line 1504 [01:02:13] Nyx
+  Tokens: That's
+  Text: That's a mouthful of mist.
+
+Line 1506 [01:02:15] GM
+  Tokens: Hair, Still
+  Text: Still halfling. Hair like um vaguely like but like the clothing in part of your disguise
+
+Line 1508 [01:02:27] GM
+  Tokens: I'll
+  Text: is like full humanoid size. I'll sit. Nyx looks very generic.
+
+Line 1511 [01:02:36] Berridin
+  Tokens: Fantastic
+  Text: Fantastic.
+
+Line 1517 [01:02:43] Berridin
+  Tokens: I've
+  Text: I've got the fabric, though.
+
+Line 1518 [01:02:46] Berridin
+  Tokens: Nyx's
+  Text: How does Nyx's deception look?
+
+Line 1523 [01:02:59] GM
+  Tokens: He's
+  Text: And the character's generic. He's a generic man.
+
+Line 1524 [01:03:03] Nyx
+  Tokens: Alright
+  Text: Alright, alright.
+
+Line 1525 [01:03:03] Ellara
+  Tokens: That's
+  Text: That's what I was going for.
+
+Line 1531 [01:03:22] Nyx
+  Tokens: Alright
+  Text: Alright.
+
+Line 1532 [01:03:23] Berridin
+  Tokens: Barodon
+  Text: Can I, before you go, I was, can I, does Barodon see down this kind of like path on the eastern
+
+Line 1535 [01:03:35] GM
+  Tokens: Like
+  Text: Like the little mountain ridges. Um so yeah I would say that so obviously the north side's a big fall.
+
+Line 1536 [01:03:36] Berridin
+  Tokens: Ridge
+  Text: Ridge. I wonder if there's any way I can
+
+Line 1554 [01:05:01] GM
+  Tokens: Like
+  Text: Like I think given enough time you can climb the question is more of can you do it stealthy without like can you just sneak it?
+
+Line 1555 [01:05:10] Berridin
+  Tokens: Without
+  Text: Without alerting people.
+
+Line 1560 [01:05:14] Berridin
+  Tokens: I've
+  Text: I've been doing so well
+
+Line 1565 [01:05:28] GM
+  Tokens: That's
+  Text: That's not how that works.
+
+Line 1567 [01:05:33] Berridin
+  Tokens: That's
+  Text: That's almost impossible, right?
+
+Line 1569 [01:05:37] GM
+  Tokens: Javi, That's
+  Text: That's not how that works Javi.
+
+Line 1572 [01:05:51] Berridin
+  Tokens: I'll
+  Text: Yeah, I'll see if I can
+
+Line 1575 [01:06:00] GM
+  Tokens: We're
+  Text: We're not in combat like if we're if we're in combat bullet time that would be a different question.
+
+Line 1585 [01:06:33] Nyx
+  Tokens: Right
+  Text: Right? So you want me to...
+
+Line 1589 [01:06:40] GM
+  Tokens: Someone
+  Text: Someone put it there I had them all on the left side.
+
+Line 1596 [01:06:55] GM
+  Tokens: It's
+  Text: It's not actually it's the second time pretending to be a soldier.
+
+Line 1597 [01:06:59] GM
+  Tokens: It's
+  Text: It's the one under the roof.
+
+Line 1608 [01:07:22] Nyx
+  Tokens: I'll
+  Text: So I'll do this in the middle, or maybe
+
+Line 1613 [01:07:32] Nyx
+  Tokens: Like
+  Text: Like...
+
+Line 1616 [01:07:38] Nyx
+  Tokens: Draw
+  Text: Draw? No, draw.
+
+Line 1617 [01:07:51] GM
+  Tokens: Like
+  Text: Like meow.
+
+Line 1618 [01:07:53] Nyx
+  Tokens: Draw
+  Text: Draw something, and I can't...
+
+Line 1619 [01:07:55] Nyx
+  Tokens: Hang, It's
+  Text: It's not letting me erase it. Hang on, I'm just erasing it.
+
+Line 1622 [01:08:03] Nyx
+  Tokens: Objects
+  Text: Objects, ruler,
+
+Line 1630 [01:08:22] Nyx
+  Tokens: Alright, Your
+  Text: Alright. Your bombing run...
+
+Line 1636 [01:08:34] Nyx
+  Tokens: Alright, Ragnarok
+  Text: Alright, Ragnarok.
+
+Line 1637 [01:08:36] Berridin
+  Tokens: It's
+  Text: It's a campaign.
+
+Line 1639 [01:08:38] Nyx
+  Tokens: Guys
+  Text: Guys, I'm trying to be serious here.
+
+Line 1641 [01:08:42] Nyx
+  Tokens: It's
+  Text: It's very serious.
+
+Line 1649 [01:08:56] Nyx
+  Tokens: Let's
+  Text: Let's see, there's a table.
+
+Line 1650 [01:08:58] Nyx
+  Tokens: I'll
+  Text: I'll check here, and then I want to check here.
+
+Line 1653 [01:09:04] Nyx
+  Tokens: These
+  Text: These three are...
+
+Line 1654 [01:09:06] Nyx
+  Tokens: Here
+  Text: Here, here, and right here.
+
+Line 1663 [01:09:18] Nyx
+  Tokens: Alright
+  Text: Alright.
+
+Line 1678 [01:09:40] Nyx
+  Tokens: Alright
+  Text: Alright, so everything...
+
+Line 1687 [01:09:54] Nyx
+  Tokens: Well
+  Text: Well, okay, so I can't go anywhere...
+
+Line 1691 [01:10:02] Nyx
+  Tokens: Everything
+  Text: Everything else, all this here,
+
+Line 1699 [01:10:16] Nyx
+  Tokens: Alright
+  Text: Alright, well, warehouse or something.
+
+Line 1702 [01:10:21] Nyx
+  Tokens: Alright
+  Text: Alright, alright.
+
+Line 1705 [01:10:30] GM
+  Tokens: Charlie
+  Text: Charlie uh you're not due back yet.
+
+Line 1706 [01:10:31] Berridin
+  Tokens: Look
+  Text: Look at the tech!
+
+Line 1707 [01:10:31] Nyx
+  Tokens: Alright
+  Text: Alright, enough talk.
+
+Line 1713 [01:10:47] GM
+  Tokens: Charlie
+  Text: Oh Charlie.
+
+Line 1715 [01:10:52] Nyx
+  Tokens: Sorry
+  Text: Sorry about that.
+
+Line 1718 [01:11:00] GM
+  Tokens: Well
+  Text: Well probably gonna bitch about you later.
+
+Line 1719 [01:11:03] GM
+  Tokens: Don't
+  Text: Don't not that I blame him.
+
+Line 1722 [01:11:07] Nyx
+  Tokens: Alright
+  Text: Alright, thanks.
+
+Line 1728 [01:11:22] Nyx
+  Tokens: It's
+  Text: It's like, you know you fucked up, and you're like,
+
+Line 1732 [01:11:30] Nyx
+  Tokens: Guard
+  Text: Guard captain,
+
+Line 1743 [01:12:01] Nyx
+  Tokens: Like
+  Text: Like a peek inside?
+
+Line 1745 [01:12:06] GM
+  Tokens: There's
+  Text: There's just benches and tables.
+
+Line 1747 [01:12:08] GM
+  Tokens: Well
+  Text: Well they're just gonna do them.
+
+Line 1750 [01:12:15] Nyx
+  Tokens: They're
+  Text: They're just eating there. Okay.
+
+Line 1751 [01:12:15] GM
+  Tokens: Actually
+  Text: Actually they're probably preparing them now that I think of it a little bit harder.
+
+Line 1754 [01:12:22] GM
+  Tokens: Because
+  Text: Because I'm not sure.
+
+Line 1759 [01:12:43] GM
+  Tokens: You're
+  Text: You're actually what you see here is storage.
+
+Line 1764 [01:12:56] Nyx
+  Tokens: Casually
+  Text: Casually?
+
+Line 1765 [01:12:58] Nyx
+  Tokens: Like
+  Text: Like, as I'm walking by,
+
+Line 1770 [01:13:15] GM
+  Tokens: There's
+  Text: There's a little tent with probably other stuff inside.
+
+Line 1771 [01:13:16] Nyx
+  Tokens: Right
+  Text: Right. Okay.
+
+Line 1777 [01:13:28] Nyx
+  Tokens: That's
+  Text: That's not where it is.
+
+Line 1778 [01:13:30] Nyx
+  Tokens: I'll
+  Text: I'll just kind of make a little... ugh.
+
+Line 1781 [01:13:36] Nyx
+  Tokens: Because
+  Text: Because this is the only other place that I can
+
+Line 1785 [01:13:49] Nyx
+  Tokens: Before
+  Text: Before this guy
+
+Line 1791 [01:14:04] GM
+  Tokens: Charlie's
+  Text: This is where um Charlie's tent would be and everyone else.
+
+Line 1794 [01:14:14] GM
+  Tokens: They're
+  Text: They're laughing.
+
+Line 1796 [01:14:17] Nyx
+  Tokens: I've
+  Text: anywhere that I've looked?
+
+Line 1806 [01:14:43] Ellara
+  Tokens: We'll
+  Text: We'll know if you...
+
+Line 1813 [01:14:55] GM
+  Tokens: Which
+  Text: Which one?
+
+Line 1816 [01:15:00] GM
+  Tokens: Well
+  Text: Well they're not really looking paying attention to they're looking outwards mostly.
+
+Line 1817 [01:15:05] Nyx
+  Tokens: Those
+  Text: I'm sorry. Those guys
+
+Line 1818 [01:15:05] GM
+  Tokens: Again
+  Text: Again they're kind of looking out towards the road mostly.
+
+Line 1820 [01:15:09] Nyx
+  Tokens: They're
+  Text: I'm here, right? They're not suspicious
+
+Line 1823 [01:15:15] Nyx
+  Tokens: Dude
+  Text: Dude,
+
+Line 1825 [01:15:20] Nyx
+  Tokens: Cool
+  Text: Okay, fine. Cool.
+
+Line 1833 [01:15:38] GM
+  Tokens: You're
+  Text: You're trying not to draw attention while you're walking out in the open.
+
+Line 1835 [01:15:41] Nyx
+  Tokens: Alright
+  Text: Okay. Alright.
+
+Line 1841 [01:15:53] Nyx
+  Tokens: Like
+  Text: Like, when you're trying to, like,
+
+Line 1847 [01:16:09] Nyx
+  Tokens: That's
+  Text: That's a good point. Yeah, walking by
+
+Line 1848 [01:16:11] Nyx
+  Tokens: Right
+  Text: is not a good idea. Right now
+
+Line 1854 [01:16:21] GM
+  Tokens: Nick's
+  Text: Nick's having a mental breakdown.
+
+Line 1855 [01:16:23] GM
+  Tokens: Nick's, While
+  Text: While Nick's having a mental breakdown,
+
+Line 1859 [01:16:31] GM
+  Tokens: Also
+  Text: Also Din you fully have the line of sight where you are of like a fire pit.
+
+Line 1861 [01:16:35] Berridin
+  Tokens: Alright
+  Text: Alright?
+
+Line 1862 [01:16:38] Berridin
+  Tokens: It's
+  Text: It's fine.
+
+Line 1865 [01:16:48] GM
+  Tokens: It's
+  Text: It's all open so they just see you.
+
+Line 1873 [01:17:05] Nyx
+  Tokens: That's
+  Text: That's it. Yeah, yeah.
+
+Line 1875 [01:17:07] Nyx
+  Tokens: That's
+  Text: That's my only choice.
+
+Line 1879 [01:17:10] GM
+  Tokens: Charlie
+  Text: Hey Charlie.
+
+Line 1880 [01:17:11] Nyx
+  Tokens: Hello
+  Text: Hello, fellow kids.
+
+Line 1882 [01:17:17] Nyx
+  Tokens: Alright
+  Text: Alright.
+
+Line 1888 [01:17:28] GM
+  Tokens: That's
+  Text: That's not how you greet your superior officer.
+
+Line 1890 [01:17:31] Nyx
+  Tokens: Commander
+  Text: Commander.
+
+Line 1892 [01:17:39] Nyx
+  Tokens: It's
+  Text: It's my fault. I forgot
+
+Line 1899 [01:17:51] Nyx
+  Tokens: Very
+  Text: Very sorry, sir.
+
+Line 1902 [01:17:59] GM
+  Tokens: You're
+  Text: You're running that way?
+
+Line 1910 [01:18:12] Nyx
+  Tokens: Well
+  Text: Well, I'm running, I'm running to the
+
+Line 1911 [01:18:14] Nyx
+  Tokens: Well
+  Text: Well, I have to, I want to run
+
+Line 1917 [01:18:29] GM
+  Tokens: Charlie
+  Text: Charlie, Charlie let's lower your tensions.
+
+Line 1923 [01:18:41] Nyx
+  Tokens: Maybe
+  Text: Maybe we should have talked more about what I was actually going to do.
+
+Line 1937 [01:19:13] Nyx
+  Tokens: Sorry
+  Text: Sorry about that. And then I go back
+
+Line 1946 [01:19:31] Nyx
+  Tokens: I've
+  Text: I've kind of
+
+Line 1951 [01:19:45] Nyx
+  Tokens: Kind
+  Text: Kind of a botched operation.
+
+Line 1957 [01:20:01] GM
+  Tokens: Nick
+  Text: So why is it always the messiest people that Nick impersonates?
+
+Line 1967 [01:20:25] Nyx
+  Tokens: I've, They've, You're
+  Text: They've, I've been seen. You're immediately
+
+Line 1971 [01:20:36] Nyx
+  Tokens: Well
+  Text: tent. Well,
+
+Line 1977 [01:20:51] Berridin
+  Tokens: It's
+  Text: It's likely...
+
+Line 1978 [01:20:55] Nyx
+  Tokens: Well
+  Text: Well, we don't even know where the poison is yet.
+
+Line 1980 [01:20:58] Berridin
+  Tokens: It's
+  Text: It's probably like all other poisons in the world.
+
+Line 1983 [01:21:06] GM
+  Tokens: Meanwhile, Winnie's
+  Text: Meanwhile Winnie's offended like oh that's our point.
+
+Line 2000 [01:21:48] GM
+  Tokens: Like
+  Text: Like the archer's like oh yeah so another week's pay deducted eh?
+
+Line 2002 [01:21:54] GM
+  Tokens: Have
+  Text: Have fun.
+
+Line 2006 [01:22:00] GM
+  Tokens: Charlie, Poor
+  Text: Poor Charlie.
+
+Line 2008 [01:22:04] Berridin
+  Tokens: We've
+  Text: We've got some information.
+
+Line 2011 [01:22:11] Nyx
+  Tokens: Anything
+  Text: Anything else
+
+Line 2028 [01:22:46] Berridin
+  Tokens: It's, Let's
+  Text: It's totally fine. Let's get off
+
+Line 2034 [01:22:59] GM
+  Tokens: Practically
+  Text: Practically if you climbed up that would need to be a stealth check.
+
+Line 2038 [01:23:10] Nyx
+  Tokens: Mountaineering
+  Text: Mountaineering stealth,
+
+Line 2051 [01:23:39] Berridin
+  Tokens: Let's
+  Text: Okay. Let's walk back.
+
+Line 2052 [01:23:41] GM
+  Tokens: Well
+  Text: Well they're talking on their way back right?
+
+Line 2065 [01:24:01] Berridin
+  Tokens: We're
+  Text: We're just walking back.
+
+Line 2066 [01:24:01] Nyx
+  Tokens: There's
+  Text: There's like a big stewed hall.
+
+Line 2071 [01:24:09] Ellara
+  Tokens: Like
+  Text: Like, are we there?
+
+Line 2082 [01:24:31] Berridin
+  Tokens: Like
+  Text: Like, is this, like, a new thing for you?
+
+Line 2098 [01:25:02] Berridin
+  Tokens: Nyx's
+  Text: Nyx's back here.
+
+Line 2108 [01:25:21] Berridin
+  Tokens: That's
+  Text: That's...
+
+Line 2111 [01:25:25] Nyx
+  Tokens: Nick
+  Text: Nick says nothing,
+
+Line 2112 [01:25:27] Berridin
+  Tokens: Very
+  Text: Very good.
+
+Line 2128 [01:26:03] GM
+  Tokens: Well
+  Text: Well I figured you'd be able to find the fungus and that.
+
+Line 2139 [01:26:23] Ellara
+  Tokens: Like
+  Text: Like this.
+
+Line 2142 [01:26:30] Ellara
+  Tokens: Have
+  Text: Have you seen these mushrooms?
+
+Line 2146 [01:26:48] Ysidor
+  Tokens: Those
+  Text: Those tend to grow close to the base of a mountain.
+
+Line 2148 [01:26:51] GM
+  Tokens: It's
+  Text: It's the loudspeaker.
+
+Line 2152 [01:26:59] Ellara
+  Tokens: Might
+  Text: Might depend on what...
+
+Line 2154 [01:27:14] Ysidor
+  Tokens: ASMR
+  Text: Oh, ASMR.
+
+Line 2157 [01:27:15] GM
+  Tokens: I'll, Ysidor's
+  Text: I'll say you both got back to Ysidor's house before the other two and uh Witty has gone
+
+Line 2160 [01:27:24] Ellara
+  Tokens: Well
+  Text: Well, let's see first what they came up with once we see them.
+
+Line 2161 [01:27:29] Ellara
+  Tokens: There's
+  Text: There's definitely a lot of herbs I recognize and some I don't around here that might come
+
+Line 2165 [01:27:55] Witty
+  Tokens: While
+  Text: While I'm setting up a, I don't know, a laboratory at a visitor's house.
+
+Line 2173 [01:28:44] Ysidor
+  Tokens: What's
+  Text: What's the chance that my house is not making it out alive from this production?
+
+Line 2178 [01:29:12] Witty
+  Tokens: I've
+  Text: Uh, but rest assured I've done this plenty of times.
+
+Line 2180 [01:29:21] Witty
+  Tokens: Almost
+  Text: Almost.
+
+Line 2181 [01:29:25] Ysidor
+  Tokens: Well
+  Text: Well, let's hope this time is not a learning experience, but rather just a successful one.
+
+Line 2182 [01:29:25] Witty
+  Tokens: Well
+  Text: Well, you have to learn somehow.
+
+Line 2183 [01:29:29] Witty
+  Tokens: Mistakes
+  Text: Mistakes are part of the learning process.
+
+Line 2185 [01:29:38] Witty
+  Tokens: I've
+  Text: And I've, I've, I've learned a lot of lessons.
+
+Line 2186 [01:29:42] Witty
+  Tokens: We'll
+  Text: We'll, we'll, we'll be good.
+
+Line 2187 [01:29:48] Ysidor
+  Tokens: Barry
+  Text: Okay, just make sure Barry doesn't get involved.
+
+Line 2188 [01:29:53] Witty
+  Tokens: We'll
+  Text: We'll be good, I promise you.
+
+Line 2190 [01:29:59] Witty
+  Tokens: He's
+  Text: He's good for it.
+
+Line 2192 [01:30:07] Ysidor
+  Tokens: Well
+  Text: Well, I think Ellara has everything she needs.
+
+Line 2194 [01:30:13] Witty
+  Tokens: Well
+  Text: Well, where are we going to steal?
+
+Line 2196 [01:30:20] Berridin
+  Tokens: How's
+  Text: How's the...
+
+Line 2197 [01:30:21] Berridin
+  Tokens: How's
+  Text: How's the...
+
+Line 2201 [01:30:36] Nyx
+  Tokens: Nick
+  Text: And Nick goes,
+
+Line 2204 [01:30:47] Witty
+  Tokens: Well
+  Text: Well, do you know, what about explosives?
+
+Line 2207 [01:31:04] Ysidor
+  Tokens: There
+  Text: There are things she needs.
+
+Line 2208 [01:31:05] Ysidor
+  Tokens: There
+  Text: There are some mushrooms we might need later, but for now I think we're good.
+
+Line 2209 [01:31:10] Ysidor
+  Tokens: Interesting
+  Text: Interesting.
+
+Line 2214 [01:31:17] Ellara
+  Tokens: Really
+  Text: Really?
+
+Line 2216 [01:31:20] Ysidor
+  Tokens: Lara
+  Text: Yes, it returns to Lara and just asks, was that ever in consideration?
+
+Line 2224 [01:31:43] Ellara
+  Tokens: It's
+  Text: It's just like...
+
+Line 2226 [01:31:44] Ellara
+  Tokens: It's
+  Text: It's like...
+
+Line 2228 [01:31:46] Ellara
+  Tokens: I've
+  Text: I assume the answer is probably yes, given what I've heard about soldiers.
+
+Line 2230 [01:31:48] Ysidor
+  Tokens: Cooking
+  Text: Cooking? What?
+
+Line 2253 [01:32:24] Ysidor
+  Tokens: Shots
+  Text: Shots fired.
+
+Line 2256 [01:32:26] GM
+  Tokens: High
+  Text: High out of his mind.
+
+Line 2257 [01:32:27] GM
+  Tokens: Witty's
+  Text: He wants a hit of Witty's uh gas.
+
+Line 2258 [01:32:28] GM
+  Tokens: Then
+  Text: Then he's coming out like the full.
+
+Line 2263 [01:32:38] Nyx
+  Tokens: I'll
+  Text: I'll just say, you know, I'll basically tell
+
+Line 2298 [01:33:51] Nyx
+  Tokens: Nick's
+  Text: Nick's just
+
+Line 2310 [01:34:08] Ellara
+  Tokens: Wait
+  Text: Wait.
+
+Line 2312 [01:34:12] Nyx
+  Tokens: Nick
+  Text: So Nick just kind of
+
+Line 2318 [01:34:24] Nyx
+  Tokens: However
+  Text: However, there was
+
+Line 2334 [01:34:56] Berridin
+  Tokens: Because
+  Text: Because once we incapacitate them, then we can...
+
+Line 2335 [01:34:59] Berridin
+  Tokens: Search
+  Text: Search the camp.
+
+Line 2337 [01:35:02] Nyx
+  Tokens: Nick's
+  Text: Nick's will follow, yeah, here's the thing
+
+Line 2342 [01:35:10] GM
+  Tokens: It's
+  Text: It's alcohol was.
+
+Line 2343 [01:35:11] GM
+  Tokens: Spitting
+  Text: Spitting gas.
+
+Line 2345 [01:35:14] Nyx
+  Tokens: Nick
+  Text: So you have, so Nick just looks at me and goes,
+
+Line 2349 [01:35:22] Nyx
+  Tokens: Even
+  Text: Even with the
+
+Line 2365 [01:35:58] Witty
+  Tokens: Wasn't
+  Text: Wasn't, wasn't Din with you?
+
+Line 2366 [01:36:00] Witty
+  Tokens: Absolutely
+  Text: Absolutely.
+
+Line 2367 [01:36:01] Nyx
+  Tokens: Nick
+  Text: And so, Nick
+
+Line 2370 [01:36:07] Nyx
+  Tokens: Nick
+  Text: ass. Nick just looks at Din and he
+
+Line 2374 [01:36:15] Nyx
+  Tokens: There
+  Text: feeling bad. There was something
+
+Line 2392 [01:36:52] Witty
+  Tokens: Din's
+  Text: I would never, I would never question Din's, Din's integrity and, and wanting to help and, and being a help.
+
+Line 2398 [01:37:19] Berridin
+  Tokens: There's
+  Text: There's a void in my memory.
+
+Line 2399 [01:37:19] Witty
+  Tokens: Thanks
+  Text: Thanks to...
+
+Line 2402 [01:37:28] GM
+  Tokens: Spray
+  Text: Spray.
+
+Line 2403 [01:37:29] GM
+  Tokens: Tent
+  Text: Tent.
+
+Line 2404 [01:37:30] GM
+  Tokens: Coffee
+  Text: Coffee.
+
+Line 2406 [01:37:33] Berridin
+  Tokens: Just
+  Text: Just from like a
+
+Line 2427 [01:38:15] Nyx
+  Tokens: Because
+  Text: Because all the
+
+Line 2449 [01:39:11] Nyx
+  Tokens: Thanks
+  Text: Thanks, disembodied
+
+Line 2450 [01:39:11] GM
+  Tokens: Don't
+  Text: Don't know what it is.
+
+Line 2451 [01:39:12] GM
+  Tokens: Aren't
+  Text: Aren't archer soldiers.
+
+Line 2453 [01:39:17] Berridin
+  Tokens: We're
+  Text: We're going to still need to
+
+Line 2455 [01:39:19] Ysidor
+  Tokens: Sure
+  Text: Sure.
+
+Line 2456 [01:39:19] Nyx
+  Tokens: Well
+  Text: Well, the guys were
+
+Line 2469 [01:39:48] Berridin
+  Tokens: Things
+  Text: Things like that.
+
+Line 2470 [01:39:49] Berridin
+  Tokens: Unless
+  Text: Unless you can make the poison
+
+Line 2477 [01:40:01] Berridin
+  Tokens: How's
+  Text: How's the poisoning going?
+
+Line 2478 [01:40:03] Berridin
+  Tokens: Since
+  Text: Since we're interrogating each other now.
+
+Line 2479 [01:40:07] Ellara
+  Tokens: Well
+  Text: Well, it's not really a poison.
+
+Line 2491 [01:40:38] Ellara
+  Tokens: There
+  Text: There are some that kind of work like that.
+
+Line 2499 [01:41:02] Berridin
+  Tokens: Also
+  Text: Also, is it possible to add
+
+Line 2507 [01:41:20] Berridin
+  Tokens: Some
+  Text: Some bow people.
+
+Line 2510 [01:41:25] Berridin
+  Tokens: He's
+  Text: He's got dual crossbows, guys.
+
+Line 2516 [01:41:46] Ellara
+  Tokens: There's
+  Text: There's a few.
+
+Line 2519 [01:41:53] GM
+  Tokens: Like
+  Text: Like, I can give.
+
+Line 2523 [01:41:58] GM
+  Tokens: Like
+  Text: Like cyanide's the much more obvious one.
+
+Line 2524 [01:41:59] Nyx
+  Tokens: Nick, Would
+  Text: Would Nick, looking at
+
+Line 2525 [01:41:59] GM
+  Tokens: Apple
+  Text: Apple seeds?
+
+Line 2527 [01:42:03] Nyx
+  Tokens: Nick
+  Text: but I guess Nick would just pose to the group
+
+Line 2532 [01:42:15] Nyx
+  Tokens: Like
+  Text: of them. Like, it's just like everybody,
+
+Line 2538 [01:42:27] Nyx
+  Tokens: Victorian
+  Text: during the Victorian
+
+Line 2539 [01:42:29] Nyx
+  Tokens: Like
+  Text: times. Like, it was really
+
+Line 2541 [01:42:32] Ysidor
+  Tokens: Something
+  Text: Something about your career?
+
+Line 2543 [01:42:33] Nyx
+  Tokens: Well
+  Text: Well, no, because
+
+Line 2547 [01:42:39] Nyx
+  Tokens: That's, Well
+  Text: almonds, right? That's right. Well, same deal.
+
+Line 2549 [01:42:40] Ellara
+  Tokens: It's
+  Text: It's not almond.
+
+Line 2550 [01:42:41] Nyx
+  Tokens: Same
+  Text: Same deal.
+
+Line 2555 [01:42:45] Nyx
+  Tokens: Same
+  Text: Yeah. Same deal.
+
+Line 2556 [01:42:47] Nyx
+  Tokens: Like
+  Text: Like, there's some almond in the almonds.
+
+Line 2560 [01:43:05] GM
+  Tokens: These
+  Text: These were popular fifty years ago.
+
+Line 2561 [01:43:05] Ellara
+  Tokens: These
+  Text: These are the poisons you need to watch out for.
+
+Line 2562 [01:43:06] Witty
+  Tokens: I've
+  Text: And I, I've heard of one.
+
+Line 2563 [01:43:08] Nyx
+  Tokens: Exactly
+  Text: Yeah. Exactly!
+
+Line 2566 [01:43:13] Berridin
+  Tokens: That's
+  Text: That's awesome.
+
+Line 2573 [01:44:06] Witty
+  Tokens: Exactly
+  Text: Exactly.
+
+Line 2578 [01:44:21] Berridin
+  Tokens: Lethally
+  Text: Lethally, actually.
+
+Line 2581 [01:44:41] Witty
+  Tokens: Could
+  Text: Could we turn a, you know, mushrooms or wheat or some sort of plant, grind it up,
+
+Line 2582 [01:44:43] GM
+  Tokens: Group
+  Text: Group science project.
+
+Line 2598 [01:45:15] Berridin
+  Tokens: Horse
+  Text: Horse?
+
+Line 2606 [01:45:53] Witty
+  Tokens: What's
+  Text: What's the weather like outside?
+
+Line 2613 [01:46:17] Ellara
+  Tokens: Because
+  Text: Because it probably will act reasonably fast depending on concentration.
+
+Line 2615 [01:46:27] Ellara
+  Tokens: There
+  Text: There was another point.
+
+Line 2616 [01:46:33] GM
+  Tokens: Without
+  Text: at night. Without
+
+Line 2617 [01:46:38] Witty
+  Tokens: Could
+  Text: Could we make a tea and then disguise somebody to go around and deliver this tea,
+
+Line 2620 [01:46:53] Ellara
+  Tokens: There
+  Text: There was another herb that I was considering.
+
+Line 2625 [01:47:08] Ellara
+  Tokens: Eventually
+  Text: Eventually when they wake up to daylight they would be effectively blinded.
+
+Line 2629 [01:47:29] Ellara
+  Tokens: Just
+  Text: Just, I don't know if dilated eyes in daylight would be quite sufficient to really disable them
+
+Line 2632 [01:47:41] Ellara
+  Tokens: Captured
+  Text: Captured.
+
+Line 2642 [01:48:30] Ellara
+  Tokens: Does
+  Text: Does not cause any effects.
+
+Line 2644 [01:48:39] Ellara
+  Tokens: It's
+  Text: It's a real mushroom.
+
+Line 2652 [01:49:17] Ellara
+  Tokens: Pretty
+  Text: Pretty sick.
+
+Line 2657 [01:49:26] Witty
+  Tokens: Trojan
+  Text: Yeah, Trojan.
+
+Line 2658 [01:49:26] Witty
+  Tokens: Well
+  Text: Well, I mean, how, how would we get them to, to drink, celebrate something?
+
+Line 2660 [01:49:33] Ellara
+  Tokens: It's
+  Text: It's not just I.
+
+Line 2663 [01:49:39] Ellara
+  Tokens: Because
+  Text: Because if they're having a beer with their food it would trigger almost immediately.
+
+Line 2665 [01:49:46] Ellara
+  Tokens: Problematic
+  Text: Problematic.
+
+Line 2667 [01:49:53] Berridin
+  Tokens: Could
+  Text: Could we...
+
+Line 2668 [01:49:54] Berridin
+  Tokens: Could
+  Text: Could we grab him
+
+Line 2673 [01:50:09] Ellara
+  Tokens: That's
+  Text: That's the part that I don't see a path to.
+
+Line 2674 [01:50:12] Ellara
+  Tokens: Laura, That's
+  Text: That's why, as Laura was saying, ideally the plan would be to kind of hide their alcohol for a day or two.
+
+Line 2675 [01:50:13] Ysidor
+  Tokens: It's
+  Text: It's fantasy rent coming up soon.
+
+Line 2677 [01:50:23] Ysidor
+  Tokens: What's
+  Text: What's a reasonable amount?
+
+Line 2682 [01:50:46] GM
+  Tokens: Everyone's
+  Text: Everyone's not going to eat at the same time, and
+
+Line 2685 [01:51:00] Ellara
+  Tokens: Give
+  Text: Give them something to celebrate.
+
+Line 2687 [01:51:07] Ellara
+  Tokens: Triggering
+  Text: Triggering the latent...
+
+Line 2688 [01:51:10] Ellara
+  Tokens: Whatever
+  Text: Whatever.
+
+Line 2698 [01:51:42] Berridin
+  Tokens: Because
+  Text: Because...
+
+Line 2701 [01:51:45] Berridin
+  Tokens: Taking
+  Text: Taking their ale...
+
+Line 2703 [01:51:49] Berridin
+  Tokens: I've, Nick's
+  Text: I've seen Nick's improv
+
+Line 2710 [01:52:05] Witty
+  Tokens: Goliath
+  Text: How much, how much ale can a stone Goliath drink compared to 20 normal soldiers?
+
+Line 2712 [01:52:14] GM
+  Tokens: Compared
+  Text: Compared to an individual
+
+Line 2714 [01:52:20] Witty
+  Tokens: Like
+  Text: Like how many, like Ysidor, how much,
+
+Line 2716 [01:52:41] GM
+  Tokens: Goliath
+  Text: I would say a stone Goliath
+
+Line 2728 [01:53:24] Ysidor
+  Tokens: Like
+  Text: Like, I think a full barrel would kill a human.
+
+Line 2730 [01:53:28] Ysidor
+  Tokens: Although
+  Text: Although, what if we fake the village's surrender and then they'd have cause to celebrate because their whole campaign is based on this village, no?
+
+Line 2731 [01:53:37] Berridin
+  Tokens: Could
+  Text: Could we just spill it?
+
+Line 2738 [01:53:53] GM
+  Tokens: Does
+  Text: Does that count?
+
+Line 2742 [01:54:03] Witty
+  Tokens: Goliaths
+  Text: Are stone Goliaths known for any like special brew or like liquor that is a delicacy that
+
+Line 2746 [01:54:18] Ellara
+  Tokens: Purify
+  Text: Purify food and drink.
+
+Line 2749 [01:54:21] Ellara
+  Tokens: Which
+  Text: Which would lose poison.
+
+Line 2751 [01:54:24] Nyx
+  Tokens: Technically
+  Text: Technically correct, which is
+
+Line 2752 [01:54:24] Ellara
+  Tokens: It's
+  Text: It's a poison, right?
+
+Line 2753 [01:54:26] Ellara
+  Tokens: Isn't
+  Text: Isn't it?
+
+Line 2757 [01:54:30] Berridin
+  Tokens: We're
+  Text: We're trying to get them
+
+Line 2761 [01:54:35] Ellara
+  Tokens: It's
+  Text: It's poison.
+
+Line 2768 [01:54:46] Ellara
+  Tokens: Sure
+  Text: Sure.
+
+Line 2773 [01:54:52] Ellara
+  Tokens: Leaves
+  Text: Leaves the safe to drink part.
+
+Line 2780 [01:55:08] Ellara
+  Tokens: Because
+  Text: Because it's like a ten minute cast.
+
+Line 2781 [01:55:13] Ellara
+  Tokens: Even
+  Text: Even if it's a purifying...
+
+Line 2784 [01:55:22] Ellara
+  Tokens: Either
+  Text: Either that or we can just do the one that acts faster.
+
+Line 2788 [01:55:31] Ellara
+  Tokens: Celebration
+  Text: Celebration.
+
+Line 2791 [01:55:38] Berridin
+  Tokens: That's
+  Text: That's a time in, right?
+
+Line 2808 [01:56:14] Berridin
+  Tokens: That's
+  Text: That's kind of interesting.
+
+Line 2815 [01:56:30] Berridin
+  Tokens: Would
+  Text: Would we still...
+
+Line 2816 [01:56:35] Berridin
+  Tokens: Would
+  Text: Would we still need to...
+
+Line 2817 [01:56:39] Berridin
+  Tokens: Would
+  Text: Would we still need to somehow
+
+Line 2825 [01:57:05] Ysidor
+  Tokens: Moonshine-esque
+  Text: I feel like it wouldn't be very refined. It would be like, yeah, Moonshine-esque.
+
+Line 2827 [01:57:07] Berridin
+  Tokens: Aztec
+  Text: Aztec tribes turning on each other.
+
+Line 2829 [01:57:33] Witty
+  Tokens: Don't
+  Text: Don't they scare something?
+
+Line 2831 [01:57:45] GM
+  Tokens: Remember
+  Text: Remember,
+
+Line 2832 [01:57:45] Witty
+  Tokens: Blinded
+  Text: Blinded.
+
+Line 2840 [01:58:09] GM
+  Tokens: They're
+  Text: They're just poisoned.
+
+Line 2841 [01:58:11] Berridin
+  Tokens: Kind
+  Text: Kind of like
+
+Line 2845 [01:58:14] Berridin
+  Tokens: Stongelias
+  Text: as the Stongelias.
+
+Line 2857 [01:58:53] Ysidor
+  Tokens: Carlsbad
+  Text: Carlsbad wouldn't be needed here.
+
+Line 2858 [01:58:54] Berridin
+  Tokens: Let's
+  Text: Let's do it. Let's just go.
+
+Line 2859 [01:58:55] Berridin
+  Tokens: Let's
+  Text: Let's just do it.
+
+Line 2861 [01:58:58] Berridin
+  Tokens: Fake
+  Text: Fake surrender.
+
+Line 2878 [01:59:34] Berridin
+  Tokens: Something
+  Text: Something of the sort.
+
+Line 2895 [02:00:11] Ellara
+  Tokens: Because
+  Text: Because yeah, it does sound very suspicious.
+
+Line 2897 [02:00:15] Ellara
+  Tokens: Give
+  Text: Give up and be like...
+
+Line 2898 [02:00:16] Ellara
+  Tokens: Here's
+  Text: Here's some free...
+
+Line 2899 [02:00:17] Ellara
+  Tokens: Just
+  Text: Just alcohol.
+
+Line 2900 [02:00:19] Ellara
+  Tokens: Lara
+  Text: Lara just interjects and says...
+
+Line 2903 [02:00:37] Witty
+  Tokens: Local
+  Text: Local women?
+
+Line 2907 [02:00:47] Ellara
+  Tokens: Just
+  Text: Just disappointed.
+
+Line 2909 [02:00:51] Nyx
+  Tokens: It's
+  Text: It's looking...
+
+Line 2910 [02:00:52] Witty
+  Tokens: Well
+  Text: Well, I, I like, I like it.
+
+Line 2911 [02:00:53] Nyx
+  Tokens: Anastasia
+  Text: Anastasia?
+
+Line 2913 [02:00:58] Witty
+  Tokens: Like
+  Text: Like are any of the soldiers like, you know, this is, this happens in an occupying force.
+
+Line 2915 [02:01:04] Ellara
+  Tokens: Don't
+  Text: Don't they believe in free love?
+
+Line 2916 [02:01:06] Ysidor
+  Tokens: Didn't
+  Text: Didn't they just get here though, like a few weeks ago?
+
+Line 2917 [02:01:06] Ellara
+  Tokens: Racism
+  Text: Racism?
+
+Line 2925 [02:01:38] Witty
+  Tokens: Like
+  Text: Like the difference between humans and.
+
+Line 2926 [02:01:39] Ellara
+  Tokens: Racism
+  Text: Racism?
+
+Line 2927 [02:01:40] Witty
+  Tokens: Races
+  Text: Races?
+
+Line 2928 [02:01:41] Witty
+  Tokens: Races
+  Text: Races?
+
+Line 2930 [02:01:43] Witty
+  Tokens: Races
+  Text: Races, uh, compatibility and having children on.
+
+Line 2935 [02:01:55] Witty
+  Tokens: That's
+  Text: That's a long enough for gestation, right?
+
+Line 2938 [02:02:00] Ysidor
+  Tokens: Education
+  Text: Education is really lacking.
+
+Line 2941 [02:02:01] Witty
+  Tokens: It's
+  Text: It's a honeypot.
+
+Line 2943 [02:02:02] Ellara
+  Tokens: Lara
+  Text: And Lara just thinks to herself...
+
+Line 2944 [02:02:03] Ellara
+  Tokens: Nobility
+  Text: Nobility...
+
+Line 2945 [02:02:04] Ellara
+  Tokens: Nobility
+  Text: Nobility is scary.
+
+Line 2946 [02:02:05] Ellara
+  Tokens: Poison
+  Text: Poison is more just like...
+
+Line 2949 [02:02:13] GM
+  Tokens: They're
+  Text: They're kind of free.
+
+Line 2950 [02:02:15] GM
+  Tokens: Goliaths
+  Text: The stone Goliaths
+
+Line 2965 [02:03:00] Witty
+  Tokens: Unfortunately
+  Text: Unfortunately.
+
+Line 2967 [02:03:07] Ysidor
+  Tokens: Let's
+  Text: Let's just do like a native situation. Let's sign a treaty, they don't respect it, and let's just like, let this keep going.
+
+Line 2968 [02:03:11] Berridin
+  Tokens: We're
+  Text: We're close.
+
+Line 2969 [02:03:16] Berridin
+  Tokens: We're
+  Text: We're just going to figure out
+
+Line 2971 [02:03:17] Witty
+  Tokens: Could
+  Text: Could we, could we, could we, could we fake the surrender of a village, negotiate a treaty,
+
+Line 2974 [02:03:24] Berridin
+  Tokens: Maybe
+  Text: Maybe we could
+
+Line 2995 [02:04:07] Nyx
+  Tokens: Alex
+  Text: Alex talking, but his kit. I didn't realize
+
+Line 2997 [02:04:15] Berridin
+  Tokens: Holy
+  Text: Holy shit.
+
+Line 3005 [02:04:33] Nyx
+  Tokens: Because
+  Text: Because I have one.
+
+Line 3012 [02:04:54] Berridin
+  Tokens: Basic
+  Text: Basic poison can make,
+
+Line 3015 [02:04:59] Berridin
+  Tokens: It's
+  Text: It's just regular poison damage,
+
+Line 3020 [02:05:06] GM
+  Tokens: It's
+  Text: It's just you add
+
+Line 3024 [02:05:11] Nyx
+  Tokens: Alright
+  Text: So, I, okay. Alright.
+
+Line 3025 [02:05:11] GM
+  Tokens: Alex, Every
+  Text: Every time Alex decides to make a choice, it doesn't go
+
+Line 3030 [02:05:23] Berridin
+  Tokens: It's
+  Text: It's sometimes better for us
+
+Line 3033 [02:05:28] Berridin
+  Tokens: Just
+  Text: how it executes and then just to keep it going. Just that point. I think I might...
+
+Line 3042 [02:06:14] Berridin
+  Tokens: We're
+  Text: We're just reverting back. Why are we doing this? Can we just attack?
+
+Line 3046 [02:06:19] Witty
+  Tokens: Well
+  Text: Well, no, no, no, just poison them at the, at the party.
+
+Line 3049 [02:06:24] Ysidor
+  Tokens: Realistically
+  Text: Realistically.
+
+Line 3050 [02:06:25] Ysidor
+  Tokens: Realistically
+  Text: Realistically, yeah, I think we could take them.
+
+Line 3055 [02:06:56] Berridin
+  Tokens: We'll
+  Text: incapacitate the guard captain. We'll just say like, okay, you can only bring like three people
+
+Line 3056 [02:07:01] Berridin
+  Tokens: Maybe
+  Text: in there or whatever, and then we have stone goliaths, right? I don't know. Maybe that might
+
+Line 3059 [02:07:16] Ysidor
+  Tokens: Let's
+  Text: Let's see where this takes us.
+
+Line 3064 [02:07:32] Nyx
+  Tokens: Like
+  Text: Like the capture has to be...
+
+Line 3065 [02:07:33] GM
+  Tokens: Isn't
+  Text: Isn't that what Avi just said?
+
+Line 3067 [02:07:38] Nyx
+  Tokens: Like
+  Text: Like we just...
+
+Line 3070 [02:07:54] Berridin
+  Tokens: Aether, Sorry
+  Text: anything would observe that the captain has left by himself or in a small band? Sorry, Aether,
+
+Line 3074 [02:08:07] GM
+  Tokens: Little
+  Text: Little hell.
+
+Line 3079 [02:08:21] Ysidor
+  Tokens: Nope
+  Text: Nope.
+
+Line 3080 [02:08:23] GM
+  Tokens: Little
+  Text: Little hell.
+
+Line 3084 [02:08:36] Ysidor
+  Tokens: It's
+  Text: It's a, um, gathering for, um, mushrooms.
+
+Line 3099 [02:09:18] GM
+  Tokens: You're
+  Text: You're an expert.
+
+Line 3100 [02:09:22] Nyx
+  Tokens: Dear
+  Text: Dear one,
+
+Line 3103 [02:09:27] Ysidor
+  Tokens: Food
+  Text: Food.
+
+Line 3104 [02:09:28] Berridin
+  Tokens: Sorry
+  Text: I didn't mean to cut you off. Let me... Sorry, if I could jump in. Oh, big hill.
+
+Line 3113 [02:10:04] Ysidor
+  Tokens: Like
+  Text: Like, okay.
+
+Line 3114 [02:10:05] Ysidor
+  Tokens: He's
+  Text: He's more scared of Meri than like any of the warforged or anything.
+
+Line 3115 [02:10:09] Ysidor
+  Tokens: Cause
+  Text: Cause he knows Meri could like, back him the fuck down.
+
+Line 3121 [02:10:27] GM
+  Tokens: Goliath
+  Text: say, the stone Goliath surrendered?
+
+Line 3130 [02:11:14] Berridin
+  Tokens: Ma'am
+  Text: Ma'am, mountain, rock, big mama. We wanted to... We have a poison concoction that we can infiltrate
+
+Line 3131 [02:11:16] GM
+  Tokens: Look
+  Text: Look, city folks are awfully strange, but the one thing the
+
+Line 3139 [02:12:14] Berridin
+  Tokens: Poison, That's
+  Text: Poison is how we've gotten to this point. So yeah. That's why we're thinking if it was a show
+
+Line 3143 [02:12:40] Berridin
+  Tokens: Ideally, That's
+  Text: would be reasonable? Yeah. That's... Ideally, yeah, we have to lure the leader out. Yeah.
+
+Line 3144 [02:12:43] GM
+  Tokens: Well
+  Text: Well, I'm not the captain, so I wouldn't know what would be
+
+Line 3163 [02:13:27] Witty
+  Tokens: Who's
+  Text: Who's this, um, this ledge right here.
+
+Line 3165 [02:13:42] Ysidor
+  Tokens: He's
+  Text: He's still learning.
+
+Line 3166 [02:13:42] GM
+  Tokens: Your
+  Text: Your friend is calling me strange things again.
+
+Line 3170 [02:13:58] GM
+  Tokens: I've
+  Text: Um, I've minimally.
+
+Line 3171 [02:14:00] GM
+  Tokens: Interacted
+  Text: Interacted with them.
+
+Line 3176 [02:14:21] GM
+  Tokens: Cause
+  Text: Cause right now there is no initial route from their point of view.
+
+Line 3177 [02:14:35] Berridin
+  Tokens: It's
+  Text: It's tough. It's tough. It's tough. It's tough to do the simultaneous poison thing.
+
+Line 3184 [02:14:56] GM
+  Tokens: There's
+  Text: There's not a lot of them.
+
+Line 3186 [02:14:59] Nyx
+  Tokens: Your
+  Text: Your daily potion.
+
+Line 3191 [02:15:28] Berridin
+  Tokens: Let's, We're
+  Text: if we attempt to bring down the entire encampment? Okay. Let's... Okay. We're not going to get any
+
+Line 3193 [02:15:33] GM
+  Tokens: Well
+  Text: Well, here's the thing.
+
+Line 3199 [02:15:50] GM
+  Tokens: Because
+  Text: Because anyone who has any strength is going to go into the lines and help us retrieve some of the superior.
+
+Line 3200 [02:16:09] Berridin
+  Tokens: Let's
+  Text: help then. Let's assume that we have, we can actually pull off the poisoning of the majority of
+
+Line 3202 [02:16:21] Berridin
+  Tokens: Western
+  Text: on the wall. We know that we can, we can ascend the Western cliff and possibly put Nyx there,
+
+Line 3214 [02:17:21] Ysidor
+  Tokens: Pretty
+  Text: Pretty much not really.
+
+Line 3215 [02:17:23] Berridin
+  Tokens: Tier
+  Text: Tier one.
+
+Line 3219 [02:17:39] Nyx
+  Tokens: I'll
+  Text: I'll be posting up, I guess.
+
+Line 3230 [02:18:21] Berridin
+  Tokens: Let's
+  Text: Let's check that.
+
+Line 3234 [02:18:31] Nyx
+  Tokens: Where's
+  Text: Where's the link for the map again?
+
+Line 3235 [02:18:33] Nyx
+  Tokens: Alright
+  Text: Alright.
+
+Line 3237 [02:18:35] Nyx
+  Tokens: Discord
+  Text: Why can't I scroll fucking Discord?
+
+Line 3238 [02:18:37] Berridin
+  Tokens: Right
+  Text: Right here, I put a thumbs up on it.
+
+Line 3239 [02:18:42] Berridin
+  Tokens: It's
+  Text: It's about 160 feet from that ledge, 150, 155.
+
+Line 3243 [02:19:04] Berridin
+  Tokens: Does
+  Text: Does he have to?
+
+Line 3245 [02:19:08] GM
+  Tokens: There
+  Text: There is an arranged weapon.
+
+Line 3252 [02:19:31] GM
+  Tokens: From
+  Text: From 60 to 120, above 60 feet to 120, you roll with disadvantage.
+
+Line 3254 [02:19:36] GM
+  Tokens: After
+  Text: After 120, you can't hit.
+
+Line 3266 [02:19:58] Berridin
+  Tokens: We're
+  Text: We're not gods right now.
+
+Line 3271 [02:20:08] Berridin
+  Tokens: Nyx's
+  Text: as like to line the tip of Nyx's arrows so that if he does hit,
+
+Line 3274 [02:20:17] Ellara
+  Tokens: Supper
+  Text: Supper.
+
+Line 3275 [02:20:18] Ellara
+  Tokens: Like
+  Text: Like it makes them tired.
+
+Line 3276 [02:20:19] Ellara
+  Tokens: Like
+  Text: Like basically unable to wake up.
+
+Line 3278 [02:20:22] Ellara
+  Tokens: Like
+  Text: Like fast acting is a relative term.
+
+Line 3279 [02:20:24] Berridin
+  Tokens: Mm-hmm
+  Text: Mm-hmm.
+
+Line 3284 [02:20:33] GM
+  Tokens: Here's
+  Text: Here's the thing.
+
+Line 3291 [02:20:44] GM
+  Tokens: Whatever
+  Text: Whatever number you get is the percentage of the camp
+
+Line 3293 [02:20:49] Ellara
+  Tokens: Rolling
+  Text: Rolling a three.
+
+Line 3294 [02:20:51] Ellara
+  Tokens: Like
+  Text: Like...
+
+Line 3307 [02:21:00] GM
+  Tokens: Nick, Then
+  Text: Then if you want, obviously, Nick has a poisoner kit,
+
+Line 3322 [02:21:56] GM
+  Tokens: From
+  Text: From 31 to 120, you roll with disadvantage.
+
+Line 3325 [02:22:10] Witty
+  Tokens: Gaurd
+  Text: Gaurd like would the guard be able to see somebody standing on a sledge?
+
+Line 3328 [02:22:22] Witty
+  Tokens: Well
+  Text: Well that's 72 feet away from, what, east?
+
+Line 3333 [02:22:33] GM
+  Tokens: Because
+  Text: Because you have a hand crossbow, those are shorter range.
+
+Line 3336 [02:22:42] Witty
+  Tokens: From
+  Text: From that to here, is 72 feet.
+
+Line 3341 [02:22:56] Nyx
+  Tokens: Well
+  Text: Yep. Well,
+
+Line 3348 [02:23:17] Nyx
+  Tokens: Just
+  Text: Just a, yeah,
+
+Line 3351 [02:23:25] Berridin
+  Tokens: He's
+  Text: He's going to be up here, and then we need someone to kill this guy.
+
+Line 3352 [02:23:28] Berridin
+  Tokens: Maybe
+  Text: Maybe Ysidor can climb up or something to try to simultaneously take these two out.
+
+Line 3369 [02:24:08] Nyx
+  Tokens: Walk
+  Text: Walk in my...
+
+Line 3373 [02:24:24] Berridin
+  Tokens: That's
+  Text: That's awesome.
+
+Line 3381 [02:25:02] Nyx
+  Tokens: Because
+  Text: Yeah. Yeah. Because it's like,
+
+Line 3390 [02:25:19] Nyx
+  Tokens: Everybody
+  Text: Everybody could be a boss for all we know.
+
+Line 3391 [02:25:21] Nyx
+  Tokens: Exactly
+  Text: Exactly. And we won't know
+
+Line 3405 [02:25:52] GM
+  Tokens: That's
+  Text: That's how that works.
+
+Line 3406 [02:25:54] Nyx
+  Tokens: That's
+  Text: That's not? Or it is?
+
+Line 3408 [02:25:56] GM
+  Tokens: That's
+  Text: That's how that is.
+
+Line 3410 [02:25:58] GM
+  Tokens: Advantage
+  Text: Advantage, disadvantage comes together and makes flat.
+
+Line 3419 [02:26:24] Witty
+  Tokens: I'll
+  Text: And I could definitely hit an enemy because I'll be within 80.
+
+Line 3420 [02:26:29] Nyx
+  Tokens: I'll
+  Text: So I'll be rolling
+
+Line 3444 [02:27:30] Witty
+  Tokens: Can't
+  Text: Can't hear you, Bobby.
+
+Line 3451 [02:27:44] Berridin
+  Tokens: Bobby's
+  Text: As long as we're logical, that means Bobby's not going to punish us.
+
+Line 3452 [02:27:49] GM
+  Tokens: Just
+  Text: Just, you know, shit will happen.
+
+Line 3453 [02:27:51] GM
+  Tokens: Logical
+  Text: Logical conclusions will happen.
+
+Line 3456 [02:27:53] GM
+  Tokens: That's
+  Text: That's all I try to do.
+
+Line 3460 [02:28:13] Nyx
+  Tokens: Should
+  Text: Should be, like,
+
+Line 3467 [02:28:25] Ellara
+  Tokens: Because
+  Text: Because...
+
+Line 3471 [02:28:30] Ellara
+  Tokens: Like
+  Text: Like long range?
+
+Line 3480 [02:28:49] Ellara
+  Tokens: Only
+  Text: Only I had fireball.
+
+Line 3481 [02:28:51] Ysidor
+  Tokens: Also
+  Text: Also, I'm close range, but I also have, um, I can bless three of you.
+
+Line 3485 [02:29:01] GM
+  Tokens: Like
+  Text: Like, the mess hall.
+
+Line 3486 [02:29:02] GM
+  Tokens: Like
+  Text: Like, if a bunch of people are in the...
+
+Line 3487 [02:29:03] GM
+  Tokens: That's
+  Text: That's all right.
+
+Line 3488 [02:29:04] GM
+  Tokens: You're
+  Text: You're not going to, like, rain.
+
+Line 3489 [02:29:07] GM
+  Tokens: Fireball
+  Text: Fireball, yes.
+
+Line 3490 [02:29:07] Ellara
+  Tokens: Just
+  Text: Just fireball attempts.
+
+Line 3491 [02:29:09] GM
+  Tokens: Fireball
+  Text: Fireball is a great equalizer in that case.
+
+Line 3495 [02:29:16] GM
+  Tokens: Fireball
+  Text: I said I cast Fireball.
+
+Line 3496 [02:29:18] Ellara
+  Tokens: Guiding
+  Text: Guiding bolt and moonbeam are both 120 feet.
+
+Line 3499 [02:29:23] Ellara
+  Tokens: Moonbeam
+  Text: Moonbeam from 120 feet is kind of a stick.
+
+Line 3502 [02:29:28] GM
+  Tokens: It's
+  Text: It's only ten minutes.
+
+Line 3515 [02:29:45] Ellara
+  Tokens: I've
+  Text: I've acted.
+
+Line 3518 [02:29:51] Nyx
+  Tokens: Obviously
+  Text: Obviously, you do what you want.
+
+Line 3527 [02:30:09] Nyx
+  Tokens: Overwatch
+  Text: will be providing Overwatch,
+
+Line 3534 [02:30:23] Nyx
+  Tokens: That's
+  Text: poison. That's where we are
+
+Line 3535 [02:30:28] Nyx
+  Tokens: It's
+  Text: right now. It's up to you with whatever you want
+
+Line 3537 [02:30:33] Ellara
+  Tokens: I've
+  Text: I've been...
+
+Line 3539 [02:30:42] Ellara
+  Tokens: Like
+  Text: Like...
+
+Line 3540 [02:30:43] Ellara
+  Tokens: Seem
+  Text: Seem almost...
+
+Line 3541 [02:30:47] Ellara
+  Tokens: Like
+  Text: Like...
+
+Line 3542 [02:30:48] Ellara
+  Tokens: That's
+  Text: That's the wrong term.
+
+Line 3543 [02:30:50] Ellara
+  Tokens: Seem
+  Text: Seem almost prescient for...
+
+Line 3550 [02:31:02] Ellara
+  Tokens: Take
+  Text: Take 30.
+
+Line 3557 [02:31:17] Ellara
+  Tokens: Village
+  Text: Village.
+
+Line 3558 [02:31:18] Ellara
+  Tokens: Like
+  Text: Like...
+
+Line 3559 [02:31:19] Ellara
+  Tokens: Take
+  Text: Take this other innocent village and run those sick experiments.
+
+Line 3568 [02:31:44] Ysidor
+  Tokens: Which
+  Text: Which gives you 1d4 on attack rolls or saves.
+
+Line 3574 [02:32:08] Berridin
+  Tokens: You're
+  Text: You're not going to be able to infiltrate the camp with me.
+
+Line 3575 [02:32:11] Berridin
+  Tokens: We're
+  Text: We're just going to have you right outside.
+
+Line 3578 [02:32:18] GM
+  Tokens: Bless
+  Text: Bless is only ten minutes.
+
+Line 3594 [02:32:47] Ysidor
+  Tokens: Wendy
+  Text: Wendy.
+
+Line 3597 [02:32:48] Ysidor
+  Tokens: Oops
+  Text: Oops.
+
+Line 3613 [02:32:55] Berridin
+  Tokens: Let's
+  Text: Let's do it.
+
+Line 3619 [02:33:13] GM
+  Tokens: Traveling, Troop
+  Text: Traveling Troop shows up in the middle of nowhere.
+
+Line 3621 [02:33:22] Berridin
+  Tokens: That's
+  Text: That's true.
+
+Line 3622 [02:33:23] GM
+  Tokens: It's
+  Text: It's the energy of the previous campaign.
+
+Line 3626 [02:33:37] GM
+  Tokens: Winnie
+  Text: ... like, Winnie.
+
+Line 3629 [02:33:41] GM
+  Tokens: Winnie
+  Text: Not Winnie.
+
+Line 3630 [02:33:42] GM
+  Tokens: Sorry
+  Text: Sorry.
+
+Line 3631 [02:33:43] GM
+  Tokens: Wait
+  Text: Wait, who's making the poison first?
+
+Line 3635 [02:33:52] Ellara
+  Tokens: Right
+  Text: Right?
+
+Line 3636 [02:33:53] Ellara
+  Tokens: Because
+  Text: Because...
+
+Line 3638 [02:33:57] GM
+  Tokens: You're
+  Text: You're both hesitating.
+
+Line 3640 [02:33:58] GM
+  Tokens: Like
+  Text: Like, aren't we working together?
+
+Line 3644 [02:34:04] Ellara
+  Tokens: We're
+  Text: We're...
+
+Line 3645 [02:34:05] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3646 [02:34:05] Ellara
+  Tokens: That's
+  Text: That's eight people.
+
+Line 3648 [02:34:07] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3649 [02:34:08] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3650 [02:34:09] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3654 [02:34:27] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3655 [02:34:28] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3656 [02:34:29] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3657 [02:34:30] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3658 [02:34:31] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3659 [02:34:32] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3660 [02:34:33] GM
+  Tokens: It's
+  Text: It's being made.
+
+Line 3661 [02:34:34] GM
+  Tokens: We're
+  Text: We're going to start at Din.
+
+Line 3668 [02:34:55] GM
+  Tokens: You're
+  Text: You're going to go through the gate.
+
+Line 3670 [02:35:00] GM
+  Tokens: Roll
+  Text: Roll.
+
+Line 3675 [02:35:04] Berridin
+  Tokens: Should
+  Text: Should I just be invisible?
+
+Line 3678 [02:35:08] Ellara
+  Tokens: That's
+  Text: That's 20.
+
+Line 3679 [02:35:10] GM
+  Tokens: You're
+  Text: You're like, I'm gonna disappear.
+
+Line 3682 [02:35:15] Berridin
+  Tokens: That's
+  Text: That's the most illusion-based magic.
+
+Line 3686 [02:35:23] Nyx
+  Tokens: Quick
+  Text: do that again. Quick, quick note,
+
+Line 3687 [02:35:39] GM
+  Tokens: Roll, Samarrakena
+  Text: Roll Samarrakena.
+
+Line 3688 [02:35:40] Berridin
+  Tokens: That's
+  Text: That's good enough for me.
+
+Line 3691 [02:35:51] Berridin
+  Tokens: Cast
+  Text: Cast invisibility.
+
+Line 3692 [02:35:55] Berridin
+  Tokens: Second
+  Text: Second level spell.
+
+Line 3696 [02:35:59] Berridin
+  Tokens: Christ, Jesus
+  Text: Jesus Christ.
+
+Line 3699 [02:36:00] GM
+  Tokens: What's
+  Text: What's the duration of invisibility?
+
+Line 3702 [02:36:04] GM
+  Tokens: Cool
+  Text: Cool.
+
+Line 3703 [02:36:05] GM
+  Tokens: Isn't
+  Text: Isn't this the...
+
+Line 3711 [02:36:17] Nyx
+  Tokens: Just
+  Text: invisibility? Just remember
+
+Line 3714 [02:36:30] Nyx
+  Tokens: It's
+  Text: It's an empty pile.
+
+Line 3716 [02:36:32] Nyx
+  Tokens: It's
+  Text: It's an object
+
+Line 3721 [02:36:39] GM
+  Tokens: Actually
+  Text: Actually, wait, no, if he's holding the object when he does it, it's invisible.
+
+Line 3722 [02:36:41] Nyx
+  Tokens: Amazing
+  Text: Amazing, we're good.
+
+Line 3725 [02:36:47] Nyx
+  Tokens: Done, You're
+  Text: Done. You're kidding.
+
+Line 3730 [02:36:53] Berridin
+  Tokens: That's
+  Text: That's good to go.
+
+Line 3733 [02:36:57] Berridin
+  Tokens: Cool
+  Text: Cool.
+
+Line 3734 [02:37:06] GM
+  Tokens: You're
+  Text: You're going to be at the back here.
+
+Line 3743 [02:37:22] Berridin
+  Tokens: Fine
+  Text: Fine.
+
+Line 3747 [02:37:26] Berridin
+  Tokens: Should
+  Text: Should I move my character?
+
+Line 3761 [02:38:02] Berridin
+  Tokens: Cool
+  Text: Cool.
+
+Line 3762 [02:38:02] Berridin
+  Tokens: I've
+  Text: I've sucked the poison in.
+
+Line 3765 [02:38:08] Berridin
+  Tokens: That'd
+  Text: That'd be tough.
+
+Line 3779 [02:38:42] GM
+  Tokens: Witty's
+  Text: I didn't see Witty's roll.
+
+Line 3788 [02:39:34] GM
+  Tokens: Just
+  Text: Just roll it twice.
+
+Line 3790 [02:39:35] GM
+  Tokens: Make
+  Text: Make sure they're public.
+
+Line 3791 [02:39:35] Ellara
+  Tokens: Plus
+  Text: Plus...
+
+Line 3792 [02:39:36] Ellara
+  Tokens: Everyone
+  Text: Everyone...
+
+Line 3794 [02:39:37] GM
+  Tokens: Just
+  Text: Just.
+
+Line 3795 [02:39:37] GM
+  Tokens: Make
+  Text: Make sure you have rolling to everyone on.
+
+Line 3802 [02:39:50] Nyx
+  Tokens: Plus
+  Text: Yeah. Plus four.
+
+Line 3806 [02:39:54] Berridin
+  Tokens: It's
+  Text: It's closest to...
+
+Line 3818 [02:40:08] GM
+  Tokens: Wait
+  Text: Wait, I can't.
+
+Line 3822 [02:40:28] GM
+  Tokens: Wait
+  Text: Wait.
+
+Line 3827 [02:40:41] Berridin
+  Tokens: It's
+  Text: It's nice knowing all you guys.
+
+Line 3830 [02:40:48] GM
+  Tokens: There
+  Text: There is going to be.
+
+Line 3831 [02:40:50] GM
+  Tokens: It's
+  Text: It's 4.6.
+
+Line 3833 [02:40:52] GM
+  Tokens: Take
+  Text: Take these.
+
+Line 3835 [02:40:56] GM
+  Tokens: You're
+  Text: You're going to take.
+
+Line 3836 [02:40:57] GM
+  Tokens: Let's
+  Text: Let's see.
+
+Line 3841 [02:41:02] GM
+  Tokens: Like
+  Text: Like not drop dead.
+
+Line 3844 [02:41:09] GM
+  Tokens: We're
+  Text: We're going to do.
+
+Line 3853 [02:41:19] Berridin
+  Tokens: Whoa
+  Text: Whoa.
+
+Line 3863 [02:41:26] Witty
+  Tokens: Only
+  Text: Only three?
+
+Line 3871 [02:41:37] GM
+  Tokens: We're
+  Text: We're ALL out of the guys that were in the mess hall.
+
+Line 3882 [02:42:09] Nyx
+  Tokens: Alright
+  Text: Alright, I'm covering all your
+
+Line 3892 [02:42:32] GM
+  Tokens: Because
+  Text: Because you're not above.
+
+Line 3900 [02:42:49] Nyx
+  Tokens: Alright
+  Text: Alright, I'm gonna go
+
+Line 3905 [02:42:57] GM
+  Tokens: It's
+  Text: It's really.
+
+Line 3915 [02:43:19] Nyx
+  Tokens: Sorry
+  Text: Sorry guys. Um,
+
+Line 3918 [02:43:25] Nyx
+  Tokens: Alright
+  Text: Alright, I'm rolling flat.
+
+Line 3932 [02:43:49] Nyx
+  Tokens: Right
+  Text: this? Right? If one,
+
+Line 3936 [02:43:56] GM
+  Tokens: It's
+  Text: It's flat, yeah.
+
+Line 3937 [02:43:57] GM
+  Tokens: Roll
+  Text: Roll disadvantage for your first attack.
+
+Line 3938 [02:44:00] Nyx
+  Tokens: Alright
+  Text: Okay, got it. Alright.
+
+Line 3947 [02:44:17] Nyx
+  Tokens: Alright
+  Text: way. Alright, so I'm gonna click on
+
+Line 3949 [02:44:21] Nyx
+  Tokens: I've
+  Text: to do this, I've never done this before with
+
+Line 3959 [02:44:41] GM
+  Tokens: Roll
+  Text: Roll again.
+
+Line 3963 [02:44:50] GM
+  Tokens: Roll
+  Text: Roll again, disadvantage.
+
+Line 3968 [02:45:03] GM
+  Tokens: Anything
+  Text: Anything else?
+
+Line 3977 [02:45:20] GM
+  Tokens: You're
+  Text: You're not going to get it.
+
+Line 3978 [02:45:21] GM
+  Tokens: There's
+  Text: There's no cover there.
+
+Line 3982 [02:45:27] GM
+  Tokens: Archer
+  Text: Archer A. No.
+
+Line 3983 [02:45:31] Nyx
+  Tokens: Like
+  Text: Like put camo on?
+
+Line 3984 [02:45:33] Nyx
+  Tokens: Like
+  Text: Like green?
+
+Line 3985 [02:45:37] Nyx
+  Tokens: Like
+  Text: Like basic camo?
+
+Line 3986 [02:45:39] Nyx
+  Tokens: Alright
+  Text: Alright. Yeah,
+
+Line 3988 [02:45:40] GM
+  Tokens: Archer
+  Text: Archer B. I have to be.
+
+Line 3990 [02:45:48] GM
+  Tokens: Actually, I'll
+  Text: Actually, I'll say you and Witty have partial cover,
+
+Line 3993 [02:45:56] Nyx
+  Tokens: There
+  Text: okay. There you are.
+
+Line 3996 [02:46:00] GM
+  Tokens: Let's
+  Text: Let's see.
+
+Line 4000 [02:46:13] GM
+  Tokens: Cool
+  Text: Cool.
+
+Line 4001 [02:46:20] GM
+  Tokens: Going, Nick's
+  Text: Going after Nick's 11 doesn't hit, right?
+
+Line 4006 [02:46:34] GM
+  Tokens: I'll
+  Text: I'll roll damage.
+
+Line 4008 [02:46:37] GM
+  Tokens: That's
+  Text: That's the wrong damage dice.
+
+Line 4009 [02:46:39] GM
+  Tokens: Sorry
+  Text: Sorry.
+
+Line 4011 [02:46:46] GM
+  Tokens: She's
+  Text: She's going to stay there.
+
+Line 4012 [02:46:48] GM
+  Tokens: Archer
+  Text: Archer A. Oh, god.
+
+Line 4015 [02:46:58] GM
+  Tokens: She's
+  Text: She's going to go wee.
+
+Line 4016 [02:47:01] GM
+  Tokens: Archer
+  Text: Archer B. Why did they all roll so well?
+
+Line 4017 [02:47:07] GM
+  Tokens: Archer
+  Text: Oh, Archer B is here.
+
+Line 4019 [02:47:09] GM
+  Tokens: Archer
+  Text: Archer B is going to go.
+
+Line 4020 [02:47:12] GM
+  Tokens: Also
+  Text: Also, why didn't?
+
+Line 4022 [02:47:17] GM
+  Tokens: None
+  Text: None of the archers got incapacitated.
+
+Line 4023 [02:47:19] GM
+  Tokens: Sorry
+  Text: Sorry.
+
+Line 4026 [02:47:28] GM
+  Tokens: Nick's, They're
+  Text: They're going to go for Nick's first.
+
+Line 4029 [02:47:36] GM
+  Tokens: Cool
+  Text: Cool.
+
+Line 4035 [02:47:51] GM
+  Tokens: Archer
+  Text: Archer C is down here.
+
+Line 4039 [02:48:08] GM
+  Tokens: Let's
+  Text: Let's see.
+
+Line 4040 [02:48:10] GM
+  Tokens: Does
+  Text: Does a dirty 20 hit?
+
+Line 4048 [02:48:33] GM
+  Tokens: Cool
+  Text: Cool.
+
+Line 4050 [02:48:36] GM
+  Tokens: Archer, Nick's
+  Text: Archer that Nick's shot is going to shoot back.
+
+Line 4052 [02:48:44] GM
+  Tokens: Misses
+  Text: Misses.
+
+Line 4053 [02:48:44] GM
+  Tokens: Misses
+  Text: Misses.
+
+Line 4054 [02:48:45] GM
+  Tokens: Misses
+  Text: Misses.
+
+Line 4055 [02:48:45] GM
+  Tokens: Misses
+  Text: Misses.
+
+Line 4056 [02:48:46] GM
+  Tokens: Misses
+  Text: Misses.
+
+Line 4057 [02:48:46] GM
+  Tokens: Misses
+  Text: Misses.
+
+Line 4058 [02:48:47] GM
+  Tokens: Misses
+  Text: Misses.
+
+Line 4071 [02:49:33] GM
+  Tokens: There's
+  Text: There's those במ�.
+
+Line 4072 [02:49:36] GM
+  Tokens: Take
+  Text: Take your time and shoot.
+
+Line 4073 [02:49:37] Berridin
+  Tokens: Christ
+  Text: Christ, I have no idea what to do.
+
+Line 4074 [02:49:43] GM
+  Tokens: They're
+  Text: They're just using his full.
+
+Line 4077 [02:49:55] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4078 [02:49:55] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4079 [02:49:55] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4080 [02:49:55] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4081 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4082 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4083 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4084 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4085 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4086 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4087 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4088 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4089 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4090 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4091 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4092 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4093 [02:49:56] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4094 [02:49:57] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4095 [02:49:57] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4096 [02:49:58] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4097 [02:49:58] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4098 [02:49:58] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4099 [02:49:59] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4100 [02:49:59] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4101 [02:49:59] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4102 [02:49:59] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4103 [02:49:59] Berridin
+  Tokens: Who's
+  Text: Who's the...
+
+Line 4105 [02:49:59] GM
+  Tokens: Barridon
+  Text: Barridon, your turn.
+
+Line 4108 [02:50:03] GM
+  Tokens: You're
+  Text: You're invisible.
+
+Line 4109 [02:50:04] GM
+  Tokens: Inside
+  Text: Inside the tent.
+
+Line 4113 [02:50:24] Berridin
+  Tokens: Maybe
+  Text: Maybe that might give Nyx and Witty a little bit more time.
+
+Line 4121 [02:51:15] Berridin
+  Tokens: I'll
+  Text: Yeah, I'll just go for it. I won't be curious.
+
+Line 4124 [02:51:49] GM
+  Tokens: Then
+  Text: Then it's a bunch of soldiers, Ellara, Witty, and Ysidor take the end.
+
+Line 4130 [02:52:01] GM
+  Tokens: Well
+  Text: Well, no all the archers went though.
+
+Line 4138 [02:52:29] GM
+  Tokens: Missability
+  Text: The one that gives you advantage when you come out of Missability.
+
+Line 4146 [02:53:13] Berridin
+  Tokens: It's
+  Text: that's a property of not the spell. It's just the fact of being invisible. Yeah, the condition
+
+Line 4153 [02:53:58] Berridin
+  Tokens: Because, That's
+  Text: the first attack that I make? Because I make four attacks. Okay. That's fine. Because I
+
+Line 4158 [02:54:22] Berridin
+  Tokens: I'll
+  Text: Um, okay. Uh, so this is the first one I'll run advantage. Okay. Um, as part of this,
+
+Line 4159 [02:54:31] Nyx
+  Tokens: Y'all
+  Text: Y'all have cool guys. Are you down?
+
+Line 4175 [02:56:51] Berridin
+  Tokens: What's
+  Text: What's the opportunity? I think he just rolls it like to see if he gets,
+
+Line 4179 [02:57:19] Berridin
+  Tokens: Let's
+  Text: the, the, the opportunity attack. Let's see. Let's see what this guy, this guy, how much damage he
+
+Line 4185 [02:57:59] Nyx
+  Tokens: I'll
+  Text: I'll be sad that maybe they're made of paper.
+
+Line 4188 [02:58:04] Berridin
+  Tokens: Thank
+  Text: We wish rolled higher. Oh my God. Thank God. 15 does not hit. Thank God. Okay.
+
+Line 4210 [02:58:39] Berridin
+  Tokens: Who's
+  Text: Who's attacking right now? Can we take out the guard captain? Can you kill me at all?
+
+Line 4213 [02:58:53] Witty
+  Tokens: South
+  Text: South?
+
+Line 4222 [02:59:33] GM
+  Tokens: He's
+  Text: Yeah, he's gonna go here. Oh my god. He's gonna go here.
+
+Line 4226 [02:59:57] GM
+  Tokens: Fuck, There's, Where's
+  Text: Where's G? There's a G? Fuck me.
+
+Line 4227 [03:00:01] GM
+  Tokens: Thank
+  Text: Why did I have to say there's like 20... Oh, I already moved G. Thank god.
+
+Line 4228 [03:00:07] GM
+  Tokens: Then
+  Text: Ellara, your turn. Then Witty, then Ysidor.
+
+Line 4232 [03:00:24] Ellara
+  Tokens: It's
+  Text: It's five feet.
+
+Line 4233 [03:00:28] Ellara
+  Tokens: Checking
+  Text: Checking some stuff.
+
+Line 4235 [03:00:43] GM
+  Tokens: Moonbeam, You're
+  Text: Moonbeam is fairly good. You're like, do I have the right side?
+
+Line 4236 [03:00:48] Ellara
+  Tokens: Just
+  Text: Just in case.
+
+Line 4237 [03:00:51] Ellara
+  Tokens: Just
+  Text: Just checking.
+
+Line 4239 [03:00:54] GM
+  Tokens: It's
+  Text: Yeah, so if you want to get the captain, I say you can get the two top two, or you can get the three soldiers. It's up to you.
+
+Line 4242 [03:01:13] Ellara
+  Tokens: Maybe
+  Text: Maybe very five feet.
+
+Line 4249 [03:01:38] Ellara
+  Tokens: What's
+  Text: What's the range on that?
+
+Line 4256 [03:02:20] GM
+  Tokens: Also
+  Text: Also, look at this.
+
+Line 4257 [03:02:22] GM
+  Tokens: White
+  Text: White fluff that's just like passed out on the floor.
+
+Line 4258 [03:02:25] GM
+  Tokens: Remember
+  Text: Remember, you can only do one fluffy, slutty spell at a time.
+
+Line 4260 [03:02:27] Witty
+  Tokens: Cool
+  Text: Cool.
+
+Line 4261 [03:02:30] Nyx
+  Tokens: That's
+  Text: That's just on the couch over there.
+
+Line 4264 [03:02:34] Nyx
+  Tokens: I've
+  Text: What I've realized, though,
+
+Line 4265 [03:02:34] Ellara
+  Tokens: Bonus
+  Text: Bonus action.
+
+Line 4266 [03:02:36] Ellara
+  Tokens: Just
+  Text: Just, uh...
+
+Line 4267 [03:02:41] GM
+  Tokens: Honestly
+  Text: Honestly, I thought you guys were just gonna sneak in.
+
+Line 4270 [03:02:54] Ellara
+  Tokens: Naive
+  Text: I... Naive.
+
+Line 4277 [03:03:12] Nyx
+  Tokens: It's
+  Text: It's all pent up.
+
+Line 4282 [03:03:23] Ellara
+  Tokens: Bonus
+  Text: Bonus action. PA plus wisdom.
+
+Line 4283 [03:03:24] GM
+  Tokens: Imperial, We're
+  Text: We're gonna incorporate in multiple Imperial provinces.
+
+Line 4287 [03:03:37] Nyx
+  Tokens: Wait
+  Text: Wait.
+
+Line 4289 [03:03:40] Ellara
+  Tokens: It's
+  Text: My wisdom modifier is plus four, right? It's not the attack.
+
+Line 4294 [03:03:57] GM
+  Tokens: Moonbeam
+  Text: Moonbeam in your hand.
+
+Line 4295 [03:03:57] Ellara
+  Tokens: Contration
+  Text: Contration.
+
+Line 4298 [03:04:04] Ellara
+  Tokens: Whatever
+  Text: Oh no. I don't know. Whatever.
+
+Line 4299 [03:04:06] Ellara
+  Tokens: I'll
+  Text: Okay, I'll just do, probably...
+
+Line 4300 [03:04:09] Ellara
+  Tokens: Moonbeam
+  Text: Moonbeam.
+
+Line 4301 [03:04:11] Ellara
+  Tokens: Here
+  Text: Here.
+
+Line 4304 [03:04:17] Ellara
+  Tokens: Adderall
+  Text: The Adderall.
+
+Line 4305 [03:04:20] Ellara
+  Tokens: Ghost
+  Text: Ghost spells.
+
+Line 4306 [03:04:22] Ellara
+  Tokens: Here, Moonbeam
+  Text: Moonbeam. Here.
+
+Line 4307 [03:04:27] Ellara
+  Tokens: Moonbeam
+  Text: Uh, Moonbeam is...
+
+Line 4309 [03:04:39] GM
+  Tokens: Weird
+  Text: Weird.
+
+Line 4317 [03:05:09] GM
+  Tokens: Captain's
+  Text: Captain's looking hurt.
+
+Line 4318 [03:05:17] GM
+  Tokens: He's
+  Text: He's taking half.
+
+Line 4321 [03:05:25] GM
+  Tokens: You're
+  Text: You're gonna hide behind your side.
+
+Line 4323 [03:05:29] Ellara
+  Tokens: Because
+  Text: Because it seems like things are going really poorly.
+
+Line 4326 [03:05:36] GM
+  Tokens: Mm-hmm
+  Text: Mm-hmm.
+
+Line 4327 [03:05:36] Ellara
+  Tokens: Wall
+  Text: Wall sheet.
+
+Line 4328 [03:05:38] Ellara
+  Tokens: It's, What's
+  Text: It's like a... What's it called?
+
+Line 4329 [03:05:40] Ellara
+  Tokens: Bonus, Where'd
+  Text: Where'd it go? Bonus action.
+
+Line 4330 [03:05:42] Ellara
+  Tokens: Like
+  Text: Like, well, the starry form thing activates, but...
+
+Line 4338 [03:05:57] GM
+  Tokens: Allara
+  Text: Allara beside you just starts glowing.
+
+Line 4341 [03:06:02] GM
+  Tokens: Concentration
+  Text: Concentration is if you take damage, you have to either beat a...
+
+Line 4343 [03:06:06] Ellara
+  Tokens: Which
+  Text: Which is it? The...
+
+Line 4353 [03:06:43] GM
+  Tokens: Concentrate
+  Text: Concentrate it.
+
+Line 4356 [03:06:48] GM
+  Tokens: It's
+  Text: It's still a 10.
+
+Line 4360 [03:06:51] GM
+  Tokens: That's
+  Text: That's why, like, on con casters, like, on any caster holding con, just doing any kind of damage can break it.
+
+Line 4361 [03:07:05] Ellara
+  Tokens: Very
+  Text: Very strange.
+
+Line 4363 [03:07:08] GM
+  Tokens: Well
+  Text: Well...
+
+Line 4365 [03:07:12] Ellara
+  Tokens: Because, Vesper
+  Text: Because, like, then what's the point of the Vesper team dragon,
+
+Line 4366 [03:07:13] GM
+  Tokens: Well
+  Text: Well, if...
+
+Line 4374 [03:07:30] Ellara
+  Tokens: I'll
+  Text: Okay, yeah, maybe I'll do that one.
+
+Line 4375 [03:07:31] GM
+  Tokens: Like
+  Text: Like, for you to roll.
+
+Line 4377 [03:07:32] Ellara
+  Tokens: That's
+  Text: That's the...
+
+Line 4379 [03:07:35] Ellara
+  Tokens: Let's
+  Text: Let's do wisdom, intelligence, and concentration saves.
+
+Line 4380 [03:07:39] Ellara
+  Tokens: Maybe
+  Text: Maybe.
+
+Line 4389 [03:07:51] Ellara
+  Tokens: Wisdom
+  Text: Wisdom, intelligence checks, but then a constitution save.
+
+Line 4397 [03:08:05] Ellara
+  Tokens: Like
+  Text: Like, when do you do a raw wisdom check?
+
+Line 4400 [03:08:15] GM
+  Tokens: It's
+  Text: It's a check when he does illusions.
+
+Line 4403 [03:08:21] Ellara
+  Tokens: I've
+  Text: I feel like I've never had to do a check for...
+
+Line 4404 [03:08:24] Ellara
+  Tokens: I've, Like
+  Text: Like, I've done the abilities that depend on them, but...
+
+Line 4409 [03:08:32] GM
+  Tokens: You're
+  Text: You're up on the ledge.
+
+Line 4411 [03:08:41] Witty
+  Tokens: Sorry
+  Text: Sorry, bud.
+
+Line 4420 [03:09:16] Witty
+  Tokens: Archer
+  Text: Archer B.
+
+Line 4421 [03:09:18] Witty
+  Tokens: Just
+  Text: Just, I think 50 is 58 feet away.
+
+Line 4425 [03:09:28] GM
+  Tokens: Fair
+  Text: Fair.
+
+Line 4426 [03:09:29] GM
+  Tokens: Valid
+  Text: Valid.
+
+Line 4429 [03:09:33] GM
+  Tokens: Wait
+  Text: Wait.
+
+Line 4432 [03:09:36] Witty
+  Tokens: Roll
+  Text: Roll a 13.
+
+Line 4434 [03:09:44] Witty
+  Tokens: Where's
+  Text: Where's the 7 plus 6?
+
+Line 4450 [03:10:20] GM
+  Tokens: Going
+  Text: Going on top, they wouldn't have the angle under the tent and you wouldn't have the angle
+
+Line 4452 [03:10:27] Witty
+  Tokens: That's
+  Text: That's okay.
+
+Line 4455 [03:10:34] Witty
+  Tokens: I've
+  Text: And I've missed every attack I've added.
+
+Line 4460 [03:10:42] Witty
+  Tokens: Over
+  Text: Over here.
+
+Line 4464 [03:10:45] Witty
+  Tokens: There's
+  Text: There's kind of a void of enemies over here.
+
+Line 4467 [03:10:52] GM
+  Tokens: They're
+  Text: They're all distracted.
+
+Line 4473 [03:11:03] Witty
+  Tokens: Nice
+  Text: Nice.
+
+Line 4475 [03:11:06] Witty
+  Tokens: I'll
+  Text: I'll hang out.
+
+Line 4484 [03:11:56] Ysidor
+  Tokens: I'll
+  Text: So myself and Berridin I'll add two.
+
+Line 4491 [03:12:08] Ysidor
+  Tokens: That's
+  Text: That's my action.
+
+Line 4502 [03:12:34] Berridin
+  Tokens: That'd
+  Text: That'd be nice. I need to live. Can you get the guard captain in that?
+
+Line 4504 [03:12:42] GM
+  Tokens: Most
+  Text: Most disappointed I know ever.
+
+Line 4520 [03:13:23] GM
+  Tokens: Free
+  Text: Free action.
+
+Line 4522 [03:13:25] Nyx
+  Tokens: Laura
+  Text: I tell Laura
+
+Line 4548 [03:14:22] Nyx
+  Tokens: Archer
+  Text: Archer B, B,
+
+Line 4550 [03:14:28] GM
+  Tokens: They're
+  Text: They're different archers by accident.
+
+Line 4552 [03:14:30] GM
+  Tokens: Same
+  Text: Same stat block, just legacy versus...
+
+Line 4579 [03:15:32] GM
+  Tokens: Restrain
+  Text: Restrain means attack rolls against them have advantage and their attack rolls have disadvantage.
+
+Line 4599 [03:16:36] GM
+  Tokens: It's
+  Text: It's at the beginning of their turn they have to do.
+
+Line 4600 [03:16:38] GM
+  Tokens: You'll
+  Text: You'll only know once it's their turn.
+
+Line 4609 [03:16:50] GM
+  Tokens: Archer, Strength
+  Text: Archer B. Strength save.
+
+Line 4612 [03:16:56] GM
+  Tokens: What's
+  Text: What's your DC?
+
+Line 4613 [03:16:58] GM
+  Tokens: Does
+  Text: Does not matter there.
+
+Line 4615 [03:17:03] GM
+  Tokens: Does
+  Text: Does not matter.
+
+Line 4626 [03:17:34] Nyx
+  Tokens: Like
+  Text: what am I allowed to do now? Like, I can't,
+
+Line 4629 [03:17:41] GM
+  Tokens: Hold
+  Text: Hold on.
+
+Line 4630 [03:17:43] Nyx
+  Tokens: Ideas
+  Text: All right, okay. Ideas, ideas, ideas.
+
+Line 4641 [03:18:10] Nyx
+  Tokens: It's
+  Text: It's too far away.
+
+Line 4642 [03:18:12] Nyx
+  Tokens: Hunter's, I'll, Mark
+  Text: I'll cast, uh, Hunter's Mark on
+
+Line 4643 [03:18:14] Nyx
+  Tokens: Archer
+  Text: Archer B.
+
+Line 4646 [03:18:20] GM
+  Tokens: Hunter's, Mark
+  Text: Hunter's Mark.
+
+Line 4648 [03:18:26] GM
+  Tokens: Notice
+  Text: Notice, by the way, where you're at on both parts.
+
+Line 4649 [03:18:27] Nyx
+  Tokens: Forget
+  Text: Oh, okay, then, you know what? Forget it.
+
+Line 4653 [03:18:37] GM
+  Tokens: Archer
+  Text: On both part Archer B, even though they're out, they, you have advantage on them and
+
+Line 4665 [03:19:07] Nyx
+  Tokens: Like
+  Text: out of, they're out of sight. Like, I'm going to, like,
+
+Line 4667 [03:19:11] Nyx
+  Tokens: I'll
+  Text: And then next turn I'll just run back to the front.
+
+Line 4668 [03:19:13] Nyx
+  Tokens: Because
+  Text: Because I'm, I'm
+
+Line 4672 [03:19:24] GM
+  Tokens: Bonus
+  Text: Bonus action, you're dual wielding.
+
+Line 4676 [03:19:36] Nyx
+  Tokens: I'll
+  Text: do that. Okay, I'll do one
+
+Line 4682 [03:19:47] Nyx
+  Tokens: Actions
+  Text: Actions, alright, I'm
+
+Line 4684 [03:19:56] Nyx
+  Tokens: Just
+  Text: Just one crossbow.
+
+Line 4685 [03:19:57] GM
+  Tokens: Flat
+  Text: Flat.
+
+Line 4686 [03:19:57] GM
+  Tokens: Flat
+  Text: Flat.
+
+Line 4691 [03:20:04] GM
+  Tokens: Roll
+  Text: Roll damage.
+
+Line 4692 [03:20:05] GM
+  Tokens: Voila
+  Text: Voila.
+
+Line 4694 [03:20:12] Nyx
+  Tokens: I'll
+  Text: I'll go hide.
+
+Line 4699 [03:20:20] GM
+  Tokens: Honestly
+  Text: Honestly.
+
+Line 4706 [03:20:33] GM
+  Tokens: Your
+  Text: Your strength save.
+
+Line 4708 [03:20:35] GM
+  Tokens: It's
+  Text: It's.
+
+Line 4709 [03:20:38] GM
+  Tokens: Your
+  Text: Your spell save is 12.
+
+Line 4719 [03:20:55] Nyx
+  Tokens: Armor
+  Text: see that? Armor class?
+
+Line 4725 [03:21:07] Ellara
+  Tokens: Only
+  Text: Only if he ends his turn as much as I do.
+
+Line 4730 [03:21:12] GM
+  Tokens: Anyways
+  Text: Anyways.
+
+Line 4731 [03:21:13] Nyx
+  Tokens: Sorry
+  Text: Sorry, sorry, no, no, no, yeah, yeah, yeah.
+
+Line 4734 [03:21:16] GM
+  Tokens: It's
+  Text: It's only.
+
+Line 4736 [03:21:18] GM
+  Tokens: Wait
+  Text: Wait.
+
+Line 4741 [03:21:23] GM
+  Tokens: That's
+  Text: That's fine.
+
+Line 4746 [03:21:28] GM
+  Tokens: That's
+  Text: That's the end of their turn.
+
+Line 4747 [03:21:29] GM
+  Tokens: Archer
+  Text: Archer.
+
+Line 4760 [03:21:42] GM
+  Tokens: Oops
+  Text: Oops.
+
+Line 4765 [03:21:47] GM
+  Tokens: Applause
+  Text: Applause.
+
+Line 4769 [03:21:58] GM
+  Tokens: Some
+  Text: Some.
+
+Line 4771 [03:22:00] GM
+  Tokens: Wahl
+  Text: Wahl.
+
+Line 4772 [03:22:01] GM
+  Tokens: Well
+  Text: Well.
+
+Line 4773 [03:22:02] GM
+  Tokens: Archer
+  Text: Archer D.
+
+Line 4776 [03:22:05] GM
+  Tokens: Wait
+  Text: Wait.
+
+Line 4777 [03:22:06] GM
+  Tokens: Where's
+  Text: Where's the other archer?
+
+Line 4781 [03:22:10] GM
+  Tokens: Bitches
+  Text: Bitches up here.
+
+Line 4782 [03:22:11] GM
+  Tokens: Apologies
+  Text: Apologies.
+
+Line 4783 [03:22:14] GM
+  Tokens: Archer
+  Text: Archer B...
+
+Line 4785 [03:22:16] GM
+  Tokens: They're
+  Text: They're going to.
+
+Line 4786 [03:22:17] GM
+  Tokens: They're
+  Text: They're going to have no issue, here.
+
+Line 4788 [03:22:20] Berridin
+  Tokens: Does
+  Text: Does not hit. I'm scared right now. Yes. Yeah.
+
+Line 4797 [03:22:45] GM
+  Tokens: Let's
+  Text: Let's see.
+
+Line 4798 [03:22:46] GM
+  Tokens: It's
+  Text: It's going to be two times attack.
+
+Line 4799 [03:22:50] GM
+  Tokens: Roll
+  Text: Roll 15.
+
+Line 4800 [03:22:54] GM
+  Tokens: Doesn't
+  Text: Doesn't hit, right?
+
+Line 4801 [03:22:57] GM
+  Tokens: Let's
+  Text: Let's see.
+
+Line 4803 [03:23:02] GM
+  Tokens: Look
+  Text: Look at you.
+
+Line 4804 [03:23:06] GM
+  Tokens: Dirty
+  Text: Dirty 20 hits.
+
+Line 4805 [03:23:14] GM
+  Tokens: Right
+  Text: Right?
+
+Line 4807 [03:23:17] GM
+  Tokens: Dirty
+  Text: Dirty 20 hits?
+
+Line 4816 [03:23:32] GM
+  Tokens: Archer, Well
+  Text: Well, Archer C is going to go to this door.
+
+Line 4818 [03:23:43] GM
+  Tokens: Attack
+  Text: Attack.
+
+Line 4823 [03:23:50] GM
+  Tokens: They're
+  Text: They're going to aim at you one more time.
+
+Line 4831 [03:24:14] GM
+  Tokens: Right
+  Text: Right?
+
+Line 4843 [03:24:46] GM
+  Tokens: It's
+  Text: It's OK.
+
+Line 4845 [03:24:49] GM
+  Tokens: Longsword
+  Text: Longsword makes two attacks.
+
+Line 4848 [03:24:59] GM
+  Tokens: Sure
+  Text: Sure.
+
+Line 4850 [03:25:03] GM
+  Tokens: He's
+  Text: He's down.
+
+Line 4856 [03:25:34] GM
+  Tokens: Didn't
+  Text: Didn't.
+
+Line 4857 [03:25:35] GM
+  Tokens: Didn't
+  Text: Didn't.
+
+Line 4858 [03:25:35] GM
+  Tokens: Roll
+  Text: Roll a death save.
+
+Line 4860 [03:25:39] Berridin
+  Tokens: Let's
+  Text: Okay. Let's see. Oh my God.
+
+Line 4875 [03:26:10] GM
+  Tokens: They're
+  Text: They're B and B is going to attack Ysidor.
+
+Line 4882 [03:26:33] Ysidor
+  Tokens: Nope
+  Text: Nope.
+
+Line 4884 [03:26:38] GM
+  Tokens: Does
+  Text: Does a 14 hit?
+
+Line 4885 [03:26:51] GM
+  Tokens: Does
+  Text: Does another 14 hit?
+
+Line 4888 [03:26:55] GM
+  Tokens: Like
+  Text: Like, OK.
+
+Line 4890 [03:27:03] GM
+  Tokens: They're
+  Text: They're going to a rush here.
+
+Line 4891 [03:27:06] GM
+  Tokens: They're
+  Text: They're just running.
+
+Line 4893 [03:27:10] GM
+  Tokens: They're
+  Text: They're not doing any attacks.
+
+Line 4896 [03:27:12] GM
+  Tokens: They're
+  Text: They're full on running.
+
+Line 4897 [03:27:13] GM
+  Tokens: That's
+  Text: That's why.
+
+Line 4898 [03:27:16] Ysidor
+  Tokens: Sucked
+  Text: Sucked up.
+
+Line 4901 [03:27:23] Berridin
+  Tokens: Christ, Holy, Jesus, Thank
+  Text: Meri, come back. Holy crap. Oh my God. Thank you. Jesus Christ.
+
+Line 4903 [03:27:27] GM
+  Tokens: Wait
+  Text: Wait, is there?
+
+Line 4904 [03:27:28] GM
+  Tokens: Who's
+  Text: Who's G?
+
+Line 4909 [03:27:44] GM
+  Tokens: Cool
+  Text: Cool.
+
+Line 4910 [03:27:45] GM
+  Tokens: Cool
+  Text: Cool.
+
+Line 4911 [03:27:46] GM
+  Tokens: Golden
+  Text: Golden alarm.
+
+Line 4912 [03:27:48] GM
+  Tokens: It's
+  Text: It's your turn.
+
+Line 4916 [03:27:54] Ellara
+  Tokens: Let's
+  Text: Let's see.
+
+Line 4917 [03:27:57] GM
+  Tokens: Thing
+  Text: Thing.
+
+Line 4919 [03:28:04] GM
+  Tokens: It's
+  Text: It's a concentration.
+
+Line 4920 [03:28:05] GM
+  Tokens: Moonbeam
+  Text: I'd like to change Moonbeam.
+
+Line 4921 [03:28:09] GM
+  Tokens: Moonbeam
+  Text: But originally, like, Moonbeam is kind of once is a bonus action to move and doesn't count as casting a spell.
+
+Line 4926 [03:28:23] Ellara
+  Tokens: Still
+  Text: Still...
+
+Line 4938 [03:28:48] GM
+  Tokens: Moonbeam
+  Text: Why doesn't it say the rule about Moonbeam?
+
+Line 4940 [03:28:56] Ellara
+  Tokens: Still
+  Text: Still
+
+Line 4943 [03:29:00] GM
+  Tokens: It's
+  Text: It's an.
+
+Line 4945 [03:29:07] GM
+  Tokens: It's
+  Text: It's 60 feet.
+
+Line 4946 [03:29:08] GM
+  Tokens: Sorry
+  Text: Sorry.
+
+Line 4948 [03:29:10] GM
+  Tokens: Apologies
+  Text: Apologies.
+
+Line 4951 [03:29:13] GM
+  Tokens: It's
+  Text: It's an action to move it.
+
+Line 4953 [03:29:15] GM
+  Tokens: Winnie
+  Text: Winnie, then a few store.
+
+Line 4956 [03:29:18] GM
+  Tokens: You're
+  Text: You're not passing.
+
+Line 4965 [03:29:49] Ellara
+  Tokens: Hands
+  Text: Oh, because you would have to do Lay On Hands.
+
+Line 4983 [03:30:13] GM
+  Tokens: Well
+  Text: Well, I didn't know under action bonus sections.
+
+Line 4984 [03:30:28] Witty
+  Tokens: American
+  Text: I'm really distracted by this American flag.
+
+Line 4990 [03:31:23] Ellara
+  Tokens: Feet, Misty, Step
+  Text: If I use the Feet version of Misty Step, does that count as a spell?
+
+Line 4995 [03:31:50] Ellara
+  Tokens: Misty, Step
+  Text: So then I could have 30 feet, and then Misty Step to be just here.
+
+Line 4996 [03:32:14] Ellara
+  Tokens: Cure, Wounds
+  Text: And then I can do Cure Wounds.
+
+Line 4998 [03:32:25] Ellara
+  Tokens: Might
+  Text: Might as well do level 3.
+
+Line 4999 [03:32:31] Ellara
+  Tokens: Moonbeam
+  Text: Moonbeam would hit me, right?
+
+Line 5001 [03:32:42] Ellara
+  Tokens: I'll
+  Text: Yeah, then I guess I'll just heal.
+
+Line 5002 [03:32:45] Ellara
+  Tokens: Where'd
+  Text: Where'd it go?
+
+Line 5007 [03:32:57] GM
+  Tokens: Baron
+  Text: Baron in getting brought up.
+
+Line 5008 [03:33:01] Berridin
+  Tokens: Thank
+  Text: Thank you, sir.
+
+Line 5011 [03:33:08] Berridin
+  Tokens: Cause
+  Text: You guys, you guys, you guys got to draw their fire though. Cause, um, they're just aiming
+
+Line 5013 [03:33:14] Witty
+  Tokens: American
+  Text: It just looks like an American flag.
+
+Line 5017 [03:33:27] Ellara
+  Tokens: Golden
+  Text: Golden Ellara.
+
+Line 5018 [03:33:30] Witty
+  Tokens: Nick
+  Text: Nick,
+
+Line 5025 [03:33:37] Witty
+  Tokens: Before
+  Text: Before I go off any farther,
+
+Line 5028 [03:33:44] Nyx
+  Tokens: Thank
+  Text: half. Thank you, sir.
+
+Line 5029 [03:33:52] Witty
+  Tokens: Let's
+  Text: Let's see if I can touch you.
+
+Line 5034 [03:34:04] Witty
+  Tokens: I'll
+  Text: So, I'll...
+
+Line 5035 [03:34:04] Witty
+  Tokens: I'll
+  Text: I'll move down to him to touch him.
+
+Line 5040 [03:34:11] Witty
+  Tokens: I'll
+  Text: And I'll cast a cure wounds.
+
+Line 5041 [03:34:15] Nyx
+  Tokens: Thank
+  Text: Thank you.
+
+Line 5043 [03:34:22] Nyx
+  Tokens: Back
+  Text: Back in the front.
+
+Line 5046 [03:34:23] GM
+  Tokens: What's
+  Text: What's happening?
+
+Line 5047 [03:34:24] Nyx
+  Tokens: Years
+  Text: I know, I know. Years!
+
+Line 5049 [03:34:26] Nyx
+  Tokens: Years
+  Text: Years of bro-doing!
+
+Line 5052 [03:34:38] Berridin
+  Tokens: It's
+  Text: at us now because they can't really attack you guys. It's like you guys just standing
+
+Line 5053 [03:34:40] Witty
+  Tokens: Well
+  Text: Well, look how far away I am.
+
+Line 5057 [03:34:43] Witty
+  Tokens: We're
+  Text: We're going to draw their fire to...
+
+Line 5058 [03:34:45] Witty
+  Tokens: There's
+  Text: There's a wall.
+
+Line 5059 [03:34:46] Witty
+  Tokens: There's
+  Text: There's a rock.
+
+Line 5060 [03:34:48] Witty
+  Tokens: Archer
+  Text: Archer B is the only...
+
+Line 5062 [03:34:50] Witty
+  Tokens: Archer
+  Text: Archer B is the only one.
+
+Line 5078 [03:35:04] Witty
+  Tokens: There's
+  Text: There's a full hour of invisibility available to him.
+
+Line 5079 [03:35:11] Witty
+  Tokens: Exactly
+  Text: Exactly.
+
+Line 5080 [03:35:12] Witty
+  Tokens: Exactly
+  Text: Exactly.
+
+Line 5082 [03:35:13] Berridin
+  Tokens: It's
+  Text: It's like 27 damage on that guard captain.
+
+Line 5086 [03:35:20] Berridin
+  Tokens: Because
+  Text: you guys up there was so you could rein damage. Because you had the rage I don't know.
+
+Line 5089 [03:35:25] Witty
+  Tokens: It'd
+  Text: It'd take me four turns, literally,
+
+Line 5092 [03:35:30] Berridin
+  Tokens: It's
+  Text: It's like, yeah, you're celebrating this healing situation going on with lead.
+
+Line 5094 [03:35:35] Berridin
+  Tokens: Then
+  Text: Then I was half dead two seconds ago.
+
+Line 5095 [03:35:35] Witty
+  Tokens: You're
+  Text: You're right.
+
+Line 5096 [03:35:39] Berridin
+  Tokens: Laura
+  Text: Laura has telephoned her right into the front lines.
+
+Line 5098 [03:35:42] Witty
+  Tokens: You're
+  Text: You're looking good now.
+
+Line 5102 [03:35:44] Ellara
+  Tokens: Saiyan, Super
+  Text: Super Saiyan one.
+
+Line 5103 [03:35:46] Witty
+  Tokens: Alright
+  Text: Alright, I'm...
+
+Line 5107 [03:35:53] GM
+  Tokens: Ysitor's
+  Text: That means it's Ysitor's turn.
+
+Line 5108 [03:36:03] Ysidor
+  Tokens: Soldier
+  Text: Soldier.
+
+Line 5117 [03:36:21] GM
+  Tokens: That's
+  Text: Yeah, earlier. That's why he has damage.
+
+Line 5121 [03:36:29] Ellara
+  Tokens: Guard
+  Text: I didn't damage the Guard Captain.
+
+Line 5125 [03:36:35] Ellara
+  Tokens: He's
+  Text: I didn't clean-kill him. He's gone.
+
+Line 5128 [03:36:46] GM
+  Tokens: Roll
+  Text: Okay. Roll your attack.
+
+Line 5129 [03:36:52] Ellara
+  Tokens: Slaughter, Strike
+  Text: If you're one of the ones that got a 10, and you also do a Slaughter Strike to give yourself advantage,
+
+Line 5133 [03:36:56] GM
+  Tokens: Roll
+  Text: Roll your damage.
+
+Line 5134 [03:36:57] Berridin
+  Tokens: Like
+  Text: Like 15 HP? 14 HP? I'm not sure.
+
+Line 5137 [03:37:10] GM
+  Tokens: He's
+  Text: He's dead.
+
+Line 5138 [03:37:21] Ysidor
+  Tokens: Actually
+  Text: Actually do I have bonus actions?
+
+Line 5151 [03:37:45] Ysidor
+  Tokens: I'll
+  Text: myself and I'll heal like 10 points. Okay. No, because I'm gonna take an opportunity attack.
+
+Line 5154 [03:37:59] GM
+  Tokens: Okie
+  Text: Okie dokie.
+
+Line 5158 [03:38:09] Nyx
+  Tokens: Well
+  Text: Well, I'm going to be moving first.
+
+Line 5161 [03:38:15] Nyx
+  Tokens: Sorry
+  Text: Sorry, I should have said that. I'm going to move all the way
+
+Line 5176 [03:38:49] GM
+  Tokens: It's, She's
+  Text: It's for anyone else. She's fine now.
+
+Line 5181 [03:39:03] Nyx
+  Tokens: Alright
+  Text: I can do it. Alright, well, I'm going to
+
+Line 5182 [03:39:08] Nyx
+  Tokens: Dreadful
+  Text: I'm going to go with a Dreadful
+
+Line 5183 [03:39:10] Nyx
+  Tokens: Once, Strike
+  Text: Strike. Once per turn
+
+Line 5194 [03:39:36] Nyx
+  Tokens: Hang
+  Text: Hang on, here's the...
+
+Line 5196 [03:39:48] Nyx
+  Tokens: Grave, Zephyr's
+  Text: You know the Zephyr's Grave, where it's under
+
+Line 5202 [03:39:59] Ellara
+  Tokens: Exactly
+  Text: Exactly.
+
+Line 5205 [03:40:02] Nyx
+  Tokens: Strike, Zephyr
+  Text: So I'm going to cast Zephyr Strike.
+
+Line 5208 [03:40:10] Nyx
+  Tokens: Effect
+  Text: do I just click Effect? Do I just
+
+Line 5213 [03:40:20] Nyx
+  Tokens: Once
+  Text: enemy attacks. Once before
+
+Line 5226 [03:40:46] Nyx
+  Tokens: Right
+  Text: Right. Yep.
+
+Line 5228 [03:40:49] Ellara
+  Tokens: Dreadful, Strike
+  Text: And do you also get Dreadful Strike, or no?
+
+Line 5230 [03:40:51] Berridin
+  Tokens: Does
+  Text: Does that still interact with the Vex so you can give your regular hit?
+
+Line 5231 [03:40:51] Nyx
+  Tokens: Just
+  Text: Just attack. Just 21 hits.
+
+Line 5236 [03:40:59] GM
+  Tokens: He'll
+  Text: He'll get the dex on the next.
+
+Line 5237 [03:41:04] GM
+  Tokens: Like
+  Text: Like, it'll be the next round.
+
+Line 5240 [03:41:09] GM
+  Tokens: You're
+  Text: You're 1d8.
+
+Line 5243 [03:41:15] Nyx
+  Tokens: Alright
+  Text: Alright, let's do it.
+
+Line 5247 [03:41:24] Nyx
+  Tokens: I'll
+  Text: I'll do that.
+
+Line 5249 [03:41:26] Nyx
+  Tokens: That's
+  Text: I'm going to roll the 1d8. That's
+
+Line 5252 [03:41:32] Nyx
+  Tokens: Dreadful, Strike
+  Text: Dreadful Strike, um,
+
+Line 5256 [03:41:39] Berridin
+  Tokens: Like
+  Text: Like 6 points more if you can?
+
+Line 5258 [03:41:44] Berridin
+  Tokens: Nice
+  Text: Nice.
+
+Line 5260 [03:41:44] GM
+  Tokens: Score
+  Text: Score.
+
+Line 5263 [03:41:47] GM
+  Tokens: Archer
+  Text: Archer B is hurt.
+
+Line 5264 [03:41:50] GM
+  Tokens: Anything
+  Text: Anything else?
+
+Line 5274 [03:42:16] GM
+  Tokens: These
+  Text: These...
+
+Line 5281 [03:42:33] Ellara
+  Tokens: It's
+  Text: It's automatic.
+
+Line 5287 [03:43:04] GM
+  Tokens: Another
+  Text: Another 10 doesn't hit.
+
+Line 5291 [03:43:17] GM
+  Tokens: Sorry
+  Text: Sorry, going through the letters.
+
+Line 5293 [03:43:25] GM
+  Tokens: That's
+  Text: That hits. That's a 19.
+
+Line 5294 [03:43:33] GM
+  Tokens: That's
+  Text: That's 7.
+
+Line 5300 [03:43:43] GM
+  Tokens: You're
+  Text: You're being so gay over here.
+
+Line 5301 [03:43:45] GM
+  Tokens: Archer
+  Text: Archer D.
+
+Line 5303 [03:43:49] Ellara
+  Tokens: We'll
+  Text: We'll see.
+
+Line 5307 [03:43:53] Ellara
+  Tokens: That's
+  Text: That's not it.
+
+Line 5311 [03:44:00] GM
+  Tokens: Archer
+  Text: Okay, Archer...
+
+Line 5314 [03:44:03] GM
+  Tokens: Archer
+  Text: Okay, now Archer C is going to attack Ysidor.
+
+Line 5317 [03:44:09] GM
+  Tokens: Ellara's
+  Text: Ellara's like...
+
+Line 5320 [03:44:14] GM
+  Tokens: Does
+  Text: Does not protect Ysidor.
+
+Line 5322 [03:44:16] GM
+  Tokens: Damage
+  Text: Damage to Ysidor.
+
+Line 5326 [03:44:22] Ysidor
+  Tokens: Bitch, Endurance, Stone
+  Text: Okay. Bitch you thought? Oh my god. Yeah. Yes it does. I'm gonna use Stone Endurance, however,
+
+Line 5328 [03:44:30] GM
+  Tokens: It's
+  Text: It's...
+
+Line 5329 [03:44:31] GM
+  Tokens: We're
+  Text: We're down.
+
+Line 5330 [03:44:31] GM
+  Tokens: We're
+  Text: We're down to the captain.
+
+Line 5331 [03:44:33] GM
+  Tokens: Baron
+  Text: The captain looks at Baron and is like,
+
+Line 5333 [03:44:39] GM
+  Tokens: It's
+  Text: It's time to fix that.
+
+Line 5349 [03:45:12] GM
+  Tokens: Salop
+  Text: Are you still alive, Salop?
+
+Line 5352 [03:45:19] Ellara
+  Tokens: Wait
+  Text: Wait, who had the plus rolls from... I thought it was to attack roll, not to damage.
+
+Line 5359 [03:45:27] Berridin
+  Tokens: Some
+  Text: Some...
+
+Line 5360 [03:45:29] Berridin
+  Tokens: Some
+  Text: Some...
+
+Line 5361 [03:45:31] Berridin
+  Tokens: Some
+  Text: Some... minor illusion wall trickery
+
+Line 5366 [03:45:40] GM
+  Tokens: Just
+  Text: Just saying.
+
+Line 5376 [03:46:01] Berridin
+  Tokens: Like
+  Text: Like...
+
+Line 5377 [03:46:05] Berridin
+  Tokens: Like
+  Text: Like kind of go in there.
+
+Line 5378 [03:46:07] Berridin
+  Tokens: With
+  Text: With my...
+
+Line 5379 [03:46:08] GM
+  Tokens: With
+  Text: With what spell...
+
+Line 5380 [03:46:11] Berridin
+  Tokens: Just
+  Text: Just my minor illusion.
+
+Line 5382 [03:46:17] GM
+  Tokens: Image, Mirror
+  Text: I would say Mirror Image would be your best defense, but...
+
+Line 5387 [03:46:28] GM
+  Tokens: Wait
+  Text: Wait, wait!
+
+Line 5388 [03:46:29] GM
+  Tokens: Minor
+  Text: Minor illusion...
+
+Line 5393 [03:46:35] GM
+  Tokens: Burn
+  Text: Burn.
+
+Line 5396 [03:46:40] Berridin
+  Tokens: Even
+  Text: Even though it's...
+
+Line 5398 [03:46:43] GM
+  Tokens: Illusion, Image, Minor, Mirror
+  Text: Yeah, but also Mirror Image is inaction and Minor Illusion is...
+
+Line 5399 [03:46:43] GM
+  Tokens: Illusion, Image, Minor, Mirror
+  Text: Yeah, but also Mirror Image is inaction and Minor Illusion is a cantrip.
+
+Line 5400 [03:46:44] GM
+  Tokens: Illusion, Image, Minor, Mirror
+  Text: Yeah, but also Mirror Image is inaction and Minor Illusion is a cantrip.
+
+Line 5417 [03:47:32] Berridin
+  Tokens: I'll
+  Text: So I'll cast mirror image.
+
+Line 5419 [03:47:36] Berridin
+  Tokens: Half
+  Text: Half hit thing.
+
+Line 5420 [03:47:38] Berridin
+  Tokens: Which
+  Text: Which might make me live.
+
+Line 5431 [03:47:59] Berridin
+  Tokens: I'll
+  Text: So I'll do that.
+
+Line 5432 [03:48:01] Berridin
+  Tokens: I'll
+  Text: I'll cast that wall.
+
+Line 5439 [03:48:15] Berridin
+  Tokens: Whereas
+  Text: Whereas.
+
+Line 5441 [03:48:19] Berridin
+  Tokens: Like
+  Text: Like I can kind of tell them that it's...
+
+Line 5452 [03:49:00] Berridin
+  Tokens: Kinda
+  Text: Kinda.
+
+Line 5454 [03:49:06] Berridin
+  Tokens: It's
+  Text: It's not gonna help.
+
+Line 5456 [03:49:14] Berridin
+  Tokens: Without
+  Text: Without having to check it.
+
+Line 5463 [03:49:34] Berridin
+  Tokens: I'll, That's
+  Text: No no no. That's why I said I'll...
+
+Line 5473 [03:49:55] Berridin
+  Tokens: Cause
+  Text: Cause then I can at least try to activate my defensive flourish.
+
+Line 5476 [03:50:01] Berridin
+  Tokens: Shit
+  Text: Shit.
+
+Line 5479 [03:50:13] Berridin
+  Tokens: Sorry
+  Text: Sorry.
+
+Line 5480 [03:50:24] Ellara
+  Tokens: Also
+  Text: Also too far away to help.
+
+Line 5496 [03:52:39] Ellara
+  Tokens: Wait
+  Text: Wait, where he's going, then, is the door.
+
+Line 5502 [03:53:14] Ellara
+  Tokens: Action
+  Text: Action accomplished.
+
+Line 5503 [03:53:15] Ellara
+  Tokens: Action
+  Text: Action economy-wise, I don't want to do.
+
+Line 5505 [03:53:18] Ellara
+  Tokens: Trash
+  Text: Trash.
+
+Line 5506 [03:53:26] Ellara
+  Tokens: From
+  Text: From probably...
+
+Line 5507 [03:53:28] Nyx
+  Tokens: Should
+  Text: Should I just move
+
+Line 5508 [03:53:36] Ysidor
+  Tokens: Good
+  Text: anymore. Good news. So we all have to take, oh my god, grab up the campaign here, I guess. I will
+
+Line 5511 [03:53:59] Nyx
+  Tokens: Because
+  Text: platform? Because I have to be within
+
+Line 5516 [03:54:30] Ellara
+  Tokens: Alright
+  Text: Alright.
+
+Line 5517 [03:54:31] Ellara
+  Tokens: Let's
+  Text: Let's do the moonbeam here.
+
+Line 5521 [03:54:57] Ellara
+  Tokens: Maybe
+  Text: Maybe that's what I have to do.
+
+Line 5522 [03:55:02] Ellara
+  Tokens: Just
+  Text: Just attack.
+
+Line 5524 [03:55:06] Ellara
+  Tokens: Woody
+  Text: Woody is going to maybe attack here.
+
+Line 5528 [03:55:16] Ellara
+  Tokens: I'll
+  Text: I'll just move the moonbeam here.
+
+Line 5530 [03:55:21] Berridin
+  Tokens: Heat, Metal
+  Text: Heat Metal on...
+
+Line 5533 [03:55:25] Berridin
+  Tokens: Does
+  Text: Does that...
+
+Line 5535 [03:55:27] Berridin
+  Tokens: Does
+  Text: Does that automatically damage him?
+
+Line 5537 [03:55:42] Berridin
+  Tokens: Moonbeam, You'll
+  Text: You'll always hit with Moonbeam, right?
+
+Line 5538 [03:55:44] Berridin
+  Tokens: Like
+  Text: Like if that gets...
+
+Line 5541 [03:55:49] Berridin
+  Tokens: Maybe
+  Text: Maybe they nerfed it.
+
+Line 5552 [03:56:30] Ellara
+  Tokens: Let's
+  Text: Let's do these three.
+
+Line 5554 [03:56:38] Ellara
+  Tokens: Really
+  Text: Really?
+
+Line 5558 [03:56:49] GM
+  Tokens: Because
+  Text: Because...
+
+Line 5562 [03:56:55] GM
+  Tokens: Maybe
+  Text: Maybe the captain will do bad.
+
+Line 5563 [03:56:59] Berridin
+  Tokens: I've
+  Text: Yeah, I've been thinking about that, but then I'm like...
+
+Line 5565 [03:57:03] GM
+  Tokens: Roll
+  Text: Roll your damage and it gets plus two.
+
+Line 5571 [03:57:17] GM
+  Tokens: Damage
+  Text: Damage.
+
+Line 5575 [03:57:23] Ellara
+  Tokens: There's
+  Text: There's no...
+
+Line 5577 [03:57:25] Ellara
+  Tokens: It's
+  Text: It's already at max level.
+
+Line 5578 [03:57:26] Ellara
+  Tokens: Exactly
+  Text: Exactly.
+
+Line 5593 [03:57:40] GM
+  Tokens: You're
+  Text: You're like, give me a level three spell slot, you bitch.
+
+Line 5610 [03:58:11] Ellara
+  Tokens: Can't
+  Text: Can't.
+
+Line 5611 [03:58:12] Ellara
+  Tokens: Can't
+  Text: Can't.
+
+Line 5612 [03:58:13] Ellara
+  Tokens: Can't
+  Text: Can't.
+
+Line 5613 [03:58:14] Ellara
+  Tokens: Can't
+  Text: Can't.
+
+Line 5614 [03:58:15] Ellara
+  Tokens: Can't
+  Text: Can't.
+
+Line 5615 [03:58:16] Ellara
+  Tokens: Can't
+  Text: Can't.
+
+Line 5628 [03:58:31] Ellara
+  Tokens: Hall, Mess
+  Text: How does the Mess Hall work?
+
+Line 5630 [03:58:35] GM
+  Tokens: Because
+  Text: Because they have line of sight.
+
+Line 5635 [03:58:40] Ellara
+  Tokens: Because
+  Text: Because there's no wall part in that.
+
+Line 5636 [03:58:42] GM
+  Tokens: Like
+  Text: Like, that's line of sight-ish.
+
+Line 5638 [03:59:03] GM
+  Tokens: Just
+  Text: Just letting you know, you technically can use silvery barbs on any attack you see.
+
+Line 5639 [03:59:09] Ellara
+  Tokens: We're
+  Text: We're going to have that.
+
+Line 5642 [03:59:15] Berridin
+  Tokens: Worried
+  Text: Worried that I'm just gonna re-roll into a crit.
+
+Line 5643 [03:59:19] GM
+  Tokens: Imagine
+  Text: Imagine.
+
+Line 5647 [03:59:25] GM
+  Tokens: Check
+  Text: Check it!
+
+Line 5650 [03:59:30] Berridin
+  Tokens: Moonbeam
+  Text: Moonbeam away.
+
+Line 5651 [03:59:32] Berridin
+  Tokens: It's
+  Text: It's actually very in character.
+
+Line 5653 [03:59:35] Ellara
+  Tokens: Right
+  Text: Right. No.
+
+Line 5663 [03:59:55] Berridin
+  Tokens: Misty, Step
+  Text: Ellara, can you Misty Step away?
+
+Line 5666 [04:00:03] Witty
+  Tokens: Google, Maybe
+  Text: Maybe I made a Google Doc.
+
+Line 5671 [04:00:27] Ellara
+  Tokens: Theoretically
+  Text: Theoretically.
+
+Line 5672 [04:00:29] Ellara
+  Tokens: Technically
+  Text: I don't know. Technically it shows us half.
+
+Line 5675 [04:00:40] Ellara
+  Tokens: I've
+  Text: I don't know if I've ever...
+
+Line 5677 [04:00:42] Ellara
+  Tokens: Hell
+  Text: Hell yeah.
+
+Line 5678 [04:00:50] Berridin
+  Tokens: Misty, Step
+  Text: Can you Misty Step away?
+
+Line 5683 [04:00:54] Berridin
+  Tokens: Nice
+  Text: Nice.
+
+Line 5686 [04:01:03] Witty
+  Tokens: Alright, K'na
+  Text: Alright, so K'na.
+
+Line 5688 [04:01:10] GM
+  Tokens: Mm-hmm
+  Text: Mm-hmm.
+
+Line 5695 [04:01:29] Witty
+  Tokens: It's
+  Text: It's a cantrip.
+
+Line 5702 [04:01:50] Witty
+  Tokens: Alright
+  Text: Alright.
+
+Line 5707 [04:02:11] Witty
+  Tokens: Alright
+  Text: Alright.
+
+Line 5708 [04:02:12] Witty
+  Tokens: Alright
+  Text: Alright.
+
+Line 5710 [04:02:14] GM
+  Tokens: That's
+  Text: That's...
+
+Line 5711 [04:02:21] GM
+  Tokens: We're
+  Text: We're the monkeys.
+
+Line 5712 [04:02:23] GM
+  Tokens: That's
+  Text: That's...
+
+Line 5715 [04:02:24] Witty
+  Tokens: Winnie
+  Text: Hey, Winnie to the rescue!
+
+Line 5716 [04:02:28] GM
+  Tokens: Hold
+  Text: Hold on.
+
+Line 5719 [04:02:34] Witty
+  Tokens: Let's
+  Text: Let's go!
+
+Line 5722 [04:02:37] GM
+  Tokens: Roll
+  Text: Roll your damage.
+
+Line 5723 [04:02:37] GM
+  Tokens: Roll
+  Text: Roll your damage.
+
+Line 5724 [04:02:37] GM
+  Tokens: Roll
+  Text: Roll your damage.
+
+Line 5725 [04:02:37] GM
+  Tokens: Roll
+  Text: Roll your damage.
+
+Line 5727 [04:02:41] GM
+  Tokens: Unless
+  Text: Unless you upcast it, yeah.
+
+Line 5737 [04:03:03] GM
+  Tokens: It's
+  Text: It's part of your kit.
+
+Line 5738 [04:03:05] GM
+  Tokens: Still
+  Text: Still.
+
+Line 5743 [04:03:10] Witty
+  Tokens: Let's
+  Text: Let's go.
+
+Line 5746 [04:03:13] GM
+  Tokens: Let's
+  Text: Let's go.
+
+Line 5749 [04:03:23] Witty
+  Tokens: Because
+  Text: Because I think that was 30.
+
+Line 5756 [04:03:32] GM
+  Tokens: You're
+  Text: You're going to...
+
+Line 5762 [04:03:44] Witty
+  Tokens: Winnie
+  Text: That leaves something for the future Winnie.
+
+Line 5765 [04:03:47] Witty
+  Tokens: Alright
+  Text: Alright.
+
+Line 5766 [04:03:50] GM
+  Tokens: Adore
+  Text: Yes, Adore.
+
+Line 5767 [04:03:52] GM
+  Tokens: Buddy
+  Text: Buddy.
+
+Line 5768 [04:03:59] Ysidor
+  Tokens: Assault, Fucking, Soldier, Unfortunately
+  Text: hit Soldier G. Unfortunately, I do not have any other attacks. Fucking dammit. Assault, cast,
+
+Line 5771 [04:04:21] Ysidor
+  Tokens: Baron, Faith, Jesus, Shield
+  Text: um, like a bonus action, Shield of Faith on Baron. Baron is a plus two to his AC. Jesus.
+
+Line 5772 [04:04:28] GM
+  Tokens: There
+  Text: There it is.
+
+Line 5773 [04:04:32] GM
+  Tokens: Nice
+  Text: Nice.
+
+Line 5774 [04:04:39] GM
+  Tokens: Nice
+  Text: Nice.
+
+Line 5775 [04:04:41] GM
+  Tokens: Berridin's
+  Text: Berridin's harder to hit.
+
+Line 5782 [04:04:57] GM
+  Tokens: Twice
+  Text: Twice your movement, but you also have the...
+
+Line 5783 [04:05:00] GM
+  Tokens: Queen, Raven
+  Text: the feature, the Raven Queen.
+
+Line 5784 [04:05:02] GM
+  Tokens: You're
+  Text: You're going to have disadvantage shooting them.
+
+Line 5786 [04:05:06] Nyx
+  Tokens: Ravencreen
+  Text: Ravencreen jump, which
+
+Line 5792 [04:05:18] Nyx
+  Tokens: I'll
+  Text: Yeah, I'll do the...
+
+Line 5811 [04:05:58] Nyx
+  Tokens: North
+  Text: places. North of the
+
+Line 5812 [04:06:01] Ellara
+  Tokens: What's
+  Text: What's your...
+
+Line 5814 [04:06:05] GM
+  Tokens: Like, North
+  Text: Like, North is a tent.
+
+Line 5819 [04:06:17] Ellara
+  Tokens: Disadvantage
+  Text: Disadvantage, frozen rock, because you're too far away.
+
+Line 5827 [04:06:35] Nyx
+  Tokens: Alright
+  Text: Alright, I'm going to do that. I'm going to do that
+
+Line 5828 [04:06:35] GM
+  Tokens: Like
+  Text: Like, where?
+
+Line 5829 [04:06:36] GM
+  Tokens: I've
+  Text: I've seen a lot of dots.
+
+Line 5831 [04:06:40] GM
+  Tokens: Like
+  Text: Like, there?
+
+Line 5834 [04:06:45] GM
+  Tokens: Between, Queen, Raven
+  Text: Between your movement and your Raven Queen,
+
+Line 5838 [04:06:56] GM
+  Tokens: Queen, Raven
+  Text: So, I would say with your Raven Queen,
+
+Line 5847 [04:07:25] Nyx
+  Tokens: Who's
+  Text: I'm going to go for... Who's the
+
+Line 5849 [04:07:29] Nyx
+  Tokens: Nice
+  Text: most damaged? Seven? Nice.
+
+Line 5850 [04:07:31] GM
+  Tokens: Archer, South
+  Text: South Archer B.
+
+Line 5852 [04:07:48] Nyx
+  Tokens: Hang
+  Text: Okay, and then... Hang on
+
+Line 5855 [04:07:58] Nyx
+  Tokens: There
+  Text: of damage. There we go.
+
+Line 5856 [04:08:03] GM
+  Tokens: Nice
+  Text: Nice.
+
+Line 5860 [04:08:12] Nyx
+  Tokens: Moonbeam
+  Text: Moonbeam! Yeah.
+
+Line 5861 [04:08:12] GM
+  Tokens: Archers
+  Text: All the Archers are now together.
+
+Line 5862 [04:08:17] GM
+  Tokens: Nice
+  Text: Nice convenient.
+
+Line 5864 [04:08:21] Nyx
+  Tokens: Time
+  Text: Time for
+
+Line 5866 [04:08:23] GM
+  Tokens: Fireball
+  Text: Fireball!
+
+Line 5868 [04:08:30] Nyx
+  Tokens: Blast, Eldritch
+  Text: yeah, yeah! An Eldritch Blast
+
+Line 5879 [04:08:45] Berridin
+  Tokens: It's
+  Text: Okay. Yep. It's good. It's good so far.
+
+Line 5882 [04:08:49] Berridin
+  Tokens: Sure
+  Text: Sure.
+
+Line 5887 [04:09:00] GM
+  Tokens: Roll
+  Text: Roll your D6.
+
+Line 5894 [04:09:17] GM
+  Tokens: That's
+  Text: That's how it works?
+
+Line 5904 [04:09:37] GM
+  Tokens: You're
+  Text: Yeah, yeah. You're good.
+
+Line 5915 [04:09:58] GM
+  Tokens: Twenty
+  Text: Twenty four.
+
+Line 5918 [04:10:02] Berridin
+  Tokens: Shit
+  Text: Shit.
+
+Line 5923 [04:10:10] Berridin
+  Tokens: I'll
+  Text: I'll try. Okay.
+
+Line 5924 [04:10:13] GM
+  Tokens: They'll
+  Text: They'll be here, only, for two.
+
+Line 5929 [04:10:22] GM
+  Tokens: Roll
+  Text: Roll your...
+
+Line 5932 [04:10:28] GM
+  Tokens: You're
+  Text: Yeah. You're good.
+
+Line 5933 [04:10:30] Berridin
+  Tokens: Christ, Jesus
+  Text: Jesus Christ.
+
+Line 5934 [04:10:32] Berridin
+  Tokens: From
+  Text: From who?
+
+Line 5940 [04:10:43] Berridin
+  Tokens: Damn
+  Text: Damn. Why can't our archers
+
+Line 5944 [04:10:46] GM
+  Tokens: There's
+  Text: There's a 19... remember you have plus 2 to your AC from, uh...
+
+Line 5952 [04:11:04] Berridin
+  Tokens: That's
+  Text: That's not good.
+
+Line 5956 [04:11:10] Berridin
+  Tokens: Really
+  Text: Really not good.
+
+Line 5960 [04:11:19] Berridin
+  Tokens: Thank
+  Text: Thank god.
+
+Line 5964 [04:11:27] GM
+  Tokens: They're
+  Text: They're gonna shoot at Ellara.
+
+Line 5965 [04:11:29] GM
+  Tokens: Plus
+  Text: Plus 3. Plus 6. 9 doesn't hit.
+
+Line 5972 [04:11:49] Ellara
+  Tokens: Haha
+  Text: Haha.
+
+Line 5974 [04:11:51] Berridin
+  Tokens: She's
+  Text: She's close. Okay.
+
+Line 5976 [04:11:54] GM
+  Tokens: Kicks
+  Text: Kicks Berridin aside.
+
+Line 5977 [04:11:57] GM
+  Tokens: Stab
+  Text: Stab you! He could permanently KO you right now.
+
+Line 5978 [04:11:59] Berridin
+  Tokens: That's
+  Text: That's rude.
+
+Line 5979 [04:12:00] Ysidor
+  Tokens: Harsh, It's, Need
+  Text: Harsh. Okay. Need that. No, I do not. It's another message to Meri. New message.
+
+Line 5980 [04:12:01] Berridin
+  Tokens: That's
+  Text: That's pretty rude.
+
+Line 5984 [04:12:08] GM
+  Tokens: He's
+  Text: He's going to attack Ellara.
+
+Line 5985 [04:12:11] GM
+  Tokens: It's
+  Text: It's a plus 6.
+
+Line 5986 [04:12:13] Ellara
+  Tokens: Sure
+  Text: Sure.
+
+Line 5991 [04:12:28] Ellara
+  Tokens: Before
+  Text: Before...
+
+Line 5995 [04:12:30] Ellara
+  Tokens: What's
+  Text: What's it called?
+
+Line 5996 [04:12:31] GM
+  Tokens: Let's
+  Text: Oh, yeah! Let's do that!
+
+Line 6001 [04:12:43] Berridin
+  Tokens: Amazing, Stop
+  Text: Amazing. Stop doing that stupid
+
+Line 6004 [04:12:51] GM
+  Tokens: It's
+  Text: It's a plus 4!
+
+Line 6005 [04:12:52] Berridin
+  Tokens: That's
+  Text: That's tough. Oh, yeah.
+
+Line 6007 [04:12:59] Ellara
+  Tokens: It's
+  Text: It's not looking great because nobody left with AOE.
+
+Line 6016 [04:13:27] GM
+  Tokens: We'll
+  Text: We'll go back to the...
+
+Line 6017 [04:13:29] GM
+  Tokens: We'll
+  Text: We'll return from the light.
+
+Line 6021 [04:13:58] GM
+  Tokens: Probably
+  Text: Probably lost track of you.
+
+Line 6025 [04:14:07] GM
+  Tokens: We're
+  Text: Oh! We're still in combat.
+
+Line 6027 [04:14:08] Witty
+  Tokens: What's
+  Text: What's going on here besides another Acid Splash?
+
+Line 6028 [04:14:09] GM
+  Tokens: He's
+  Text: He's basically saying,
+
+Line 6033 [04:14:28] Witty
+  Tokens: Let's
+  Text: Let's be real.
+
+Line 6034 [04:14:45] Ellara
+  Tokens: Well
+  Text: Well, we're...
+
+Line 6038 [04:15:01] Nyx
+  Tokens: Retreat
+  Text: Retreat?
+
+Line 6041 [04:15:08] GM
+  Tokens: Arrest
+  Text: Arrest you and put you in, like, the cages you see off to the side.
+
+Line 6042 [04:15:11] GM
+  Tokens: Just
+  Text: Just letting you know.
+
+Line 6043 [04:15:13] GM
+  Tokens: Strip
+  Text: Strip you of your...
+
+Line 6044 [04:15:14] GM
+  Tokens: Items
+  Text: Items.
+
+Line 6045 [04:15:15] GM
+  Tokens: He's
+  Text: He's asking for you to surrender.
+
+Line 6046 [04:15:20] Witty
+  Tokens: We're
+  Text: We're the only two people with shots to retreat here.
+
+Line 6047 [04:15:24] Witty
+  Tokens: From
+  Text: From a high point...
+
+Line 6057 [04:15:48] GM
+  Tokens: Like
+  Text: Like, there's enough eyes to know, like, there was...
+
+Line 6060 [04:15:52] GM
+  Tokens: Like
+  Text: Like, there's enough sol-
+
+Line 6061 [04:15:53] GM
+  Tokens: Like
+  Text: Like, you guys are outnumbered.
+
+Line 6063 [04:15:55] GM
+  Tokens: More
+  Text: More plausible deniability.
+
+Line 6065 [04:15:59] GM
+  Tokens: Especially
+  Text: Especially Nyx.
+
+Line 6074 [04:16:08] GM
+  Tokens: Especially
+  Text: Especially Nyx.
+
+Line 6079 [04:16:19] Nyx
+  Tokens: Alright
+  Text: Alright.
+
+Line 6083 [04:16:24] Witty
+  Tokens: Allegedly
+  Text: Allegedly.
+
+Line 6084 [04:16:25] Witty
+  Tokens: Allegedly
+  Text: Allegedly.
+
+Line 6087 [04:16:28] Witty
+  Tokens: Perfect
+  Text: Perfect.
+
+Line 6094 [04:16:37] Nyx
+  Tokens: Like
+  Text: Like, we're away from each
+
+Line 6099 [04:16:47] Nyx
+  Tokens: Maybe
+  Text: maybe... Maybe
+
+Line 6104 [04:17:02] Nyx
+  Tokens: We'll
+  Text: see where it goes. We'll look for an
+
+Line 6107 [04:17:10] Nyx
+  Tokens: Does
+  Text: Does Ysidor have a sending stone?
+
+Line 6108 [04:17:12] Berridin
+  Tokens: That's
+  Text: right? That's why...
+
+Line 6109 [04:17:14] Berridin
+  Tokens: That's
+  Text: That's why they can do this. Okay.
+
+Line 6118 [04:17:35] GM
+  Tokens: Archers
+  Text: Archers could get after Nyx.
+
+Line 6126 [04:17:57] Berridin
+  Tokens: Never
+  Text: Never had it, I think so.
+
+Line 6128 [04:17:59] Berridin
+  Tokens: Gave
+  Text: Gave it to Meri.
+
+Line 6136 [04:18:07] Berridin
+  Tokens: Successful
+  Text: Successful attack.
+
+Line 6140 [04:18:16] Nyx
+  Tokens: Smacking
+  Text: Smacking it against the table.
+
+Line 6143 [04:18:21] Ellara
+  Tokens: Hell
+  Text: Hell yeah.
+
+Line 6145 [04:18:23] Ysidor
+  Tokens: Let's
+  Text: Let's take some aid. Yeah. Oh my god.
+
+Line 6146 [04:18:24] Nyx
+  Tokens: Alright
+  Text: Alright.
+
+Line 6148 [04:18:26] Nyx
+  Tokens: I'll
+  Text: I'll do it. I go. I message
+
+Line 6151 [04:18:32] Nyx
+  Tokens: Plans
+  Text: have... Plans have gone
+
+Line 6162 [04:18:57] Nyx
+  Tokens: Well
+  Text: Well, I first sent that message to...
+
+Line 6166 [04:19:07] GM
+  Tokens: You're
+  Text: You're all in a hurry to go.
+
+Line 6172 [04:19:16] Nyx
+  Tokens: They're
+  Text: They're probably
+
+Line 6185 [04:19:40] GM
+  Tokens: You're
+  Text: You're all, you know, you come, surrender, you're stripped of all your arms, your weapons,
+
+Line 6187 [04:19:53] GM
+  Tokens: Baron, Leontia
+  Text: I think between you all, like, good Baron, Leontia, you can bring them back up.
+
+Line 6188 [04:19:56] Nyx
+  Tokens: Perry
+  Text: I gotta go to Perry.
+
+Line 6193 [04:20:13] Nyx
+  Tokens: What's
+  Text: What's the thing
+
+Line 6195 [04:20:14] GM
+  Tokens: Doing
+  Text: Doing it for the gram.
+
+Line 6196 [04:20:15] Berridin
+  Tokens: It's
+  Text: It's not about
+
+Line 6197 [04:20:15] Ellara
+  Tokens: Guys
+  Text: Guys, guys, guys.
+
+Line 6201 [04:20:20] Ellara
+  Tokens: Exactly
+  Text: Exactly where we want it to be.
+
+Line 6203 [04:20:25] Nyx
+  Tokens: Nighthawks
+  Text: with the Nighthawks?
+
+Line 6204 [04:20:27] Nyx
+  Tokens: Nighthawks, There's
+  Text: There's a version of the Nighthawks painting
+
+Line 6207 [04:20:33] Nyx
+  Tokens: Instead
+  Text: Instead of just the random...
+
+Line 6210 [04:20:39] Nyx
+  Tokens: It's, Spider-Man
+  Text: It's Spider-Man
+
+Line 6217 [04:20:53] Nyx
+  Tokens: It's
+  Text: It's like... And that is how I feel
+
+Line 6223 [04:21:05] Berridin
+  Tokens: It's
+  Text: or fail. It's just part of the
+
+Line 6225 [04:21:09] Berridin
+  Tokens: It's
+  Text: It's just part of the story. Yeah.
+
+Line 6227 [04:21:13] Witty
+  Tokens: Like
+  Text: Like, 6 HP.
+
+Line 6232 [04:21:21] GM
+  Tokens: I'll
+  Text: Witty, I'll give you this.
+
+Line 6236 [04:21:32] GM
+  Tokens: I'll
+  Text: I'll give you that.
+
+Line 6245 [04:21:49] Nyx
+  Tokens: Alright, Just
+  Text: Alright. Just to recap
+
+Line 6248 [04:22:02] Nyx
+  Tokens: Like
+  Text: Like, what happened with the poisoning aspect
+
+Line 6249 [04:22:04] Nyx
+  Tokens: Right, That's
+  Text: in the... Right? That's it.
+
+Line 6254 [04:22:10] Berridin
+  Tokens: There
+  Text: down. There was a what?
+
+Line 6259 [04:22:23] GM
+  Tokens: They're
+  Text: They're, like, the easiest.
+
+Line 6278 [04:22:55] Berridin
+  Tokens: Above
+  Text: of us, right? Above us?
+
+Line 6279 [04:22:57] GM
+  Tokens: Well
+  Text: Well, it's.
+
+Line 6283 [04:23:07] Nyx
+  Tokens: Ballers, Gate
+  Text: Our Ballers Gate prison
+
+Line 6293 [04:23:28] Nyx
+  Tokens: Time
+  Text: Yeah. Time for making
+
+Line 6294 [04:23:28] GM
+  Tokens: You're
+  Text: You're all stripped of your armor.
+
+Line 6295 [04:23:30] GM
+  Tokens: You're
+  Text: You're all your items.
+
+Line 6299 [04:23:44] GM
+  Tokens: You're
+  Text: You're screwed, glued, and tattooed.
+
+Line 6315 [04:24:09] GM
+  Tokens: Arthur
+  Text: because I know Arthur has to go for his walk and stuff.
+
+Line 6317 [04:24:13] GM
+  Tokens: It's
+  Text: It's that time.
+
+Line 6320 [04:24:15] Nyx
+  Tokens: Alright
+  Text: dinner. Alright.
+
+Line 6321 [04:24:17] Nyx
+  Tokens: Alright
+  Text: Alright, guys.
+
+Line 6322 [04:24:19] Nyx
+  Tokens: That's
+  Text: We lived. That's...
+
+Line 6324 [04:24:20] Ellara
+  Tokens: Technically
+  Text: Technically.
+
+Line 6325 [04:24:22] GM
+  Tokens: Debatable
+  Text: Debatable.
+
+Line 6327 [04:24:23] GM
+  Tokens: Don't
+  Text: Don't kill your characters.
+
+Line 6329 [04:24:25] Berridin
+  Tokens: GG's, It's
+  Text: It's the story. GG's.
+
+Line 6335 [04:24:38] Witty
+  Tokens: Someone
+  Text: Someone...
+
+Line 6348 [04:24:47] GM
+  Tokens: They're
+  Text: They're just going to sneak in and steal some stuff.
+
+Line 6354 [04:24:52] Nyx
+  Tokens: Well
+  Text: the same group... Well, minus Matt.
+
+Line 6360 [04:24:56] Nyx
+  Tokens: Like
+  Text: Like, a ten-minute
+
+Line 6361 [04:24:58] Nyx
+  Tokens: Mission
+  Text: session... Mission
+
+Line 6376 [04:25:22] GM
+  Tokens: KO'd
+  Text: And, like, they, like, one-hit KO'd each one, Matt.
+
+Line 6377 [04:25:25] GM
+  Tokens: Like
+  Text: Like, literally.
+
+Line 6386 [04:25:40] Nyx
+  Tokens: We're
+  Text: We're, like, crawling
+
+Line 6388 [04:25:43] GM
+  Tokens: You're
+  Text: You're, like, level 11 or 12.
+
+Line 6390 [04:25:46] Nyx
+  Tokens: Eleven
+  Text: Eleven. Yeah, you're like...
+
+Line 6392 [04:25:48] Nyx
+  Tokens: Like
+  Text: Like, an elephant
+
+Line 6394 [04:25:52] Nyx
+  Tokens: Like
+  Text: Like...
+
+Line 6396 [04:25:53] GM
+  Tokens: I'll
+  Text: I'll.
+

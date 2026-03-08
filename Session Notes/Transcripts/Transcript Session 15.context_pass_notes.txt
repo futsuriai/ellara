@@ -1,0 +1,7 @@
+Context cleanup applied (manual high-confidence only):
+- Line 1033: removed obvious ASR fragment before "Ellara's going"
+- Line 2921: reduced broken stutter phrase to readable equivalent
+- Line 4953: "a few store" -> "Ysidor" based on turn-order context
+- Line 6316: "suitcase something" -> "stash something" based on sentence context
+
+Audio-targeted recheck was run but produced mostly low-confidence cross-talk/offset suggestions, so no broad auto-rewrite was applied.

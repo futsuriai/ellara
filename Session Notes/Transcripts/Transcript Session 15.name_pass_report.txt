@@ -1,0 +1,564 @@
+Session 15 Name Pass Report
+Source: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15.txt
+Backup: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15.pre_name_pass_backup.txt
+Total changed lines: 108
+
+Key counts:
+- Alara -> Ellara: 34
+- Baradun -> Berridin: 19
+- Mary -> Meri: 18
+- Nix -> Nyx: 16
+- Isidore -> Ysidor: 13
+- Isidor -> Ysidor: 10
+- Whitty -> Witty: 7
+- Yesidor -> Ysidor: 2
+- warforges -> warforged: 2
+- Auduin -> Odwin: 1
+- Gilda -> Hýrda: 1
+- Ilara -> Ellara: 1
+- Sudoku army -> ducal army: 1
+- Witte -> Witty: 1
+- Ysdor -> Ysidor: 1
+
+Line-by-line changes:
+
+Line 86
+  OLD: [00:03:04] GM: we had just arrived in Gilda,
+  NEW: [00:03:04] GM: we had just arrived in Hýrda,
+  RULES: Gilda->Hýrda x1
+
+Line 88
+  OLD: [00:03:08] GM: of Mary and Ysdor.
+  NEW: [00:03:08] GM: of Meri and Ysidor.
+  RULES: Ysdor->Ysidor x1; Mary->Meri x1
+
+Line 94
+  OLD: [00:03:20] GM: Auduin, as well as Mary,
+  NEW: [00:03:20] GM: Odwin, as well as Meri,
+  RULES: Auduin->Odwin x1; Mary->Meri x1
+
+Line 262
+  OLD: [00:09:44] GM: the Sudoku army
+  NEW: [00:09:44] GM: the ducal army
+  RULES: Sudoku army->ducal army x1
+
+Line 270
+  OLD: [00:09:58] GM: warforges
+  NEW: [00:09:58] GM: warforged
+  RULES: warforges->warforged x1
+
+Line 380
+  OLD: [00:15:07] Berridin: I assume we're leaving Isidore and Mary and Alara up to the bait.
+  NEW: [00:15:07] Berridin: I assume we're leaving Ysidor and Meri and Ellara up to the bait.
+  RULES: Isidore->Ysidor x1; Alara->Ellara x1; Mary->Meri x1
+
+Line 382
+  OLD: [00:15:20] Berridin: Druid Alara to make poison.
+  NEW: [00:15:20] Berridin: Druid Ellara to make poison.
+  RULES: Alara->Ellara x1
+
+Line 489
+  OLD: [00:19:51] Berridin: Isidore?
+  NEW: [00:19:51] Berridin: Ysidor?
+  RULES: Isidore->Ysidor x1
+
+Line 601
+  OLD: [00:23:48] Witty: I don't know, Alara, if, are you, Alara, are you okay with creating something that, that kills 20 people in their sleep?
+  NEW: [00:23:48] Witty: I don't know, Ellara, if, are you, Ellara, are you okay with creating something that, that kills 20 people in their sleep?
+  RULES: Alara->Ellara x2
+
+Line 621
+  OLD: [00:24:38] Berridin: Nix has just zero regard for like here, like life at all!
+  NEW: [00:24:38] Berridin: Nyx has just zero regard for like here, like life at all!
+  RULES: Nix->Nyx x1
+
+Line 671
+  OLD: [00:26:42] Nyx: up to Alara's,
+  NEW: [00:26:42] Nyx: up to Ellara's,
+  RULES: Alara->Ellara x1
+
+Line 697
+  OLD: [00:27:37] Nyx: Alara said
+  NEW: [00:27:37] Nyx: Ellara said
+  RULES: Alara->Ellara x1
+
+Line 752
+  OLD: [00:29:17] Nyx: So this is what I'm gonna ask Alara.
+  NEW: [00:29:17] Nyx: So this is what I'm gonna ask Ellara.
+  RULES: Alara->Ellara x1
+
+Line 753
+  OLD: [00:29:19] Nyx: So Nyx turns to Alara and goes,
+  NEW: [00:29:19] Nyx: So Nyx turns to Ellara and goes,
+  RULES: Alara->Ellara x1
+
+Line 877
+  OLD: [00:34:04] GM: Mary puts it in something when I was
+  NEW: [00:34:04] GM: Meri puts it in something when I was
+  RULES: Mary->Meri x1
+
+Line 1255
+  OLD: [00:52:32] GM: They're mostly staying within their encampment, kind of to Mary's earlier point.
+  NEW: [00:52:32] GM: They're mostly staying within their encampment, kind of to Meri's earlier point.
+  RULES: Mary->Meri x1
+
+Line 1357
+  OLD: [00:56:18] GM: One is renewing Isidor's house to make it into a lab.
+  NEW: [00:56:18] GM: One is renewing Ysidor's house to make it into a lab.
+  RULES: Isidor->Ysidor x1
+
+Line 1489
+  OLD: [01:01:21] GM: I don't recall them having a beard. Like what's the news? So Baradun, yeah you just see Baradun
+  NEW: [01:01:21] GM: I don't recall them having a beard. Like what's the news? So Berridin, yeah you just see Berridin
+  RULES: Baradun->Berridin x2
+
+Line 1502
+  OLD: [01:01:56] GM: like completely miss the mark. Like on like you've seen Baradun do disguises and maybe
+  NEW: [01:01:56] GM: like completely miss the mark. Like on like you've seen Berridin do disguises and maybe
+  RULES: Baradun->Berridin x1
+
+Line 1503
+  OLD: [01:02:03] GM: maybe it just didn't pay enough attention or close enough but Baradun looks still a halfling size.
+  NEW: [01:02:03] GM: maybe it just didn't pay enough attention or close enough but Berridin looks still a halfling size.
+  RULES: Baradun->Berridin x1
+
+Line 1552
+  OLD: [01:04:53] Berridin: hill where Baradun is?
+  NEW: [01:04:53] Berridin: hill where Berridin is?
+  RULES: Baradun->Berridin x1
+
+Line 1695
+  OLD: [01:10:09] Berridin: I don't know if Baradun can see what's going on
+  NEW: [01:10:09] Berridin: I don't know if Berridin can see what's going on
+  RULES: Baradun->Berridin x1
+
+Line 2054
+  OLD: [01:23:43] Berridin: Nix, you basically found out
+  NEW: [01:23:43] Berridin: Nyx, you basically found out
+  RULES: Nix->Nyx x1
+
+Line 2078
+  OLD: [01:24:21] Berridin: Nix, I'm just wondering,
+  NEW: [01:24:21] Berridin: Nyx, I'm just wondering,
+  RULES: Nix->Nyx x1
+
+Line 2098
+  OLD: [01:25:02] Berridin: Nix's back here.
+  NEW: [01:25:02] Berridin: Nyx's back here.
+  RULES: Nix->Nyx x1
+
+Line 2100
+  OLD: [01:25:06] Berridin: Nix,
+  NEW: [01:25:06] Berridin: Nyx,
+  RULES: Nix->Nyx x1
+
+Line 2101
+  OLD: [01:25:06] Berridin: Nix,
+  NEW: [01:25:06] Berridin: Nyx,
+  RULES: Nix->Nyx x1
+
+Line 2122
+  OLD: [01:25:47] GM: Isidor and Alara you've had a fruitful search.
+  NEW: [01:25:47] GM: Ysidor and Ellara you've had a fruitful search.
+  RULES: Isidor->Ysidor x1; Alara->Ellara x1
+
+Line 2150
+  OLD: [01:26:53] GM: Isidor.
+  NEW: [01:26:53] GM: Ysidor.
+  RULES: Isidor->Ysidor x1
+
+Line 2157
+  OLD: [01:27:15] GM: I'll say you both got back to Isidor's house before the other two and uh Witty has gone
+  NEW: [01:27:15] GM: I'll say you both got back to Ysidor's house before the other two and uh Witty has gone
+  RULES: Isidor->Ysidor x1
+
+Line 2192
+  OLD: [01:30:07] Ysidor: Well, I think Alara has everything she needs.
+  NEW: [01:30:07] Ysidor: Well, I think Ellara has everything she needs.
+  RULES: Alara->Ellara x1
+
+Line 2195
+  OLD: [01:30:14] GM: Baradun and Nyx arrive.
+  NEW: [01:30:14] GM: Berridin and Nyx arrive.
+  RULES: Baradun->Berridin x1
+
+Line 2206
+  OLD: [01:30:55] Berridin: identification go, Isidor?
+  NEW: [01:30:55] Berridin: identification go, Ysidor?
+  RULES: Isidor->Ysidor x1
+
+Line 2210
+  OLD: [01:31:12] Berridin: Yeah, Nix found out that
+  NEW: [01:31:12] Berridin: Yeah, Nyx found out that
+  RULES: Nix->Nyx x1
+
+Line 2411
+  OLD: [01:37:43] Berridin: Nix has such a wealth
+  NEW: [01:37:43] Berridin: Nyx has such a wealth
+  RULES: Nix->Nyx x1
+
+Line 2430
+  OLD: [01:38:22] Berridin: Nix has no equal.
+  NEW: [01:38:22] Berridin: Nyx has no equal.
+  RULES: Nix->Nyx x1
+
+Line 2504
+  OLD: [01:41:15] Berridin: faster. I think Nix was shooting a bow.
+  NEW: [01:41:15] Berridin: faster. I think Nyx was shooting a bow.
+  RULES: Nix->Nyx x1
+
+Line 2607
+  OLD: [01:45:53] Ellara: Alara just kind of grabs the lichen fungus they had.
+  NEW: [01:45:53] Ellara: Ellara just kind of grabs the lichen fungus they had.
+  RULES: Alara->Ellara x1
+
+Line 2631
+  OLD: [01:47:40] Ellara: She looks at Nix.
+  NEW: [01:47:40] Ellara: She looks at Nyx.
+  RULES: Nix->Nyx x1
+
+Line 2714
+  OLD: [01:52:20] Witty: Like how many, like Isidore, how much,
+  NEW: [01:52:20] Witty: Like how many, like Ysidor, how much,
+  RULES: Isidore->Ysidor x1
+
+Line 2834
+  OLD: [01:57:47] Witty: Oh, Isidore.
+  NEW: [01:57:47] Witty: Oh, Ysidor.
+  RULES: Isidore->Ysidor x1
+
+Line 2958
+  OLD: [02:02:42] Ysidor: And Mary certainly wouldn't be happy to hear that anyone is sleeping with someone of the soldiers and find out about a family 20 years down the line to reveal the truth.
+  NEW: [02:02:42] Ysidor: And Meri certainly wouldn't be happy to hear that anyone is sleeping with someone of the soldiers and find out about a family 20 years down the line to reveal the truth.
+  RULES: Mary->Meri x1
+
+Line 3085
+  OLD: [02:08:40] Ysidor: And Nix did things at the camp.
+  NEW: [02:08:40] Ysidor: And Nyx did things at the camp.
+  RULES: Nix->Nyx x1
+
+Line 3088
+  OLD: [02:08:56] Ysidor: I turn to Nix.
+  NEW: [02:08:56] Ysidor: I turn to Nyx.
+  RULES: Nix->Nyx x1
+
+Line 3114
+  OLD: [02:10:05] Ysidor: He's more scared of Mary than like any of the warforges or anything.
+  NEW: [02:10:05] Ysidor: He's more scared of Meri than like any of the warforged or anything.
+  RULES: warforges->warforged x1; Mary->Meri x1
+
+Line 3115
+  OLD: [02:10:09] Ysidor: Cause he knows Mary could like, back him the fuck down.
+  NEW: [02:10:09] Ysidor: Cause he knows Meri could like, back him the fuck down.
+  RULES: Mary->Meri x1
+
+Line 3202
+  OLD: [02:16:21] Berridin: on the wall. We know that we can, we can ascend the Western cliff and possibly put Nix there,
+  NEW: [02:16:21] Berridin: on the wall. We know that we can, we can ascend the Western cliff and possibly put Nyx there,
+  RULES: Nix->Nyx x1
+
+Line 3269
+  OLD: [02:20:01] Berridin: But can you allow us to use the poison that Alara makes
+  NEW: [02:20:01] Berridin: But can you allow us to use the poison that Ellara makes
+  RULES: Alara->Ellara x1
+
+Line 3330
+  OLD: [02:22:27] GM: Baradun was there before.
+  NEW: [02:22:27] GM: Berridin was there before.
+  RULES: Baradun->Berridin x1
+
+Line 3352
+  OLD: [02:23:28] Berridin: Maybe Isidor can climb up or something to try to simultaneously take these two out.
+  NEW: [02:23:28] Berridin: Maybe Ysidor can climb up or something to try to simultaneously take these two out.
+  RULES: Isidor->Ysidor x1
+
+Line 3459
+  OLD: [02:28:06] GM: And where's Alara and Isidore doing this?
+  NEW: [02:28:06] GM: And where's Ellara and Ysidor doing this?
+  RULES: Isidore->Ysidor x1; Alara->Ellara x1
+
+Line 3461
+  OLD: [02:28:15] Nyx: safe. And Isidor should be
+  NEW: [02:28:15] Nyx: safe. And Ysidor should be
+  RULES: Isidor->Ysidor x1
+
+Line 3472
+  OLD: [02:28:31] Berridin: Do you guys, Alara and Isidore, do you have ways to deal with...
+  NEW: [02:28:31] Berridin: Do you guys, Ellara and Ysidor, do you have ways to deal with...
+  RULES: Isidore->Ysidor x1; Alara->Ellara x1
+
+Line 3511
+  OLD: [02:29:41] Nyx: and says, Alara,
+  NEW: [02:29:41] Nyx: and says, Ellara,
+  RULES: Alara->Ellara x1
+
+Line 3516
+  OLD: [02:29:47] Nyx: So, Alara,
+  NEW: [02:29:47] Nyx: So, Ellara,
+  RULES: Alara->Ellara x1
+
+Line 3523
+  OLD: [02:30:01] Nyx: magic. I will be with Baradun,
+  NEW: [02:30:01] Nyx: magic. I will be with Berridin,
+  RULES: Baradun->Berridin x1
+
+Line 3525
+  OLD: [02:30:05] Nyx: Baradun with
+  NEW: [02:30:05] Nyx: Berridin with
+  RULES: Baradun->Berridin x1
+
+Line 3565
+  OLD: [02:31:30] Berridin: And Isidore will have to outside the area of the encampment when the moment strikes.
+  NEW: [02:31:30] Berridin: And Ysidor will have to outside the area of the encampment when the moment strikes.
+  RULES: Isidore->Ysidor x1
+
+Line 3580
+  OLD: [02:32:28] Berridin: mountain, and Isidore and Alara will enter through the south gate, and we go to war.
+  NEW: [02:32:28] Berridin: mountain, and Ysidor and Ellara will enter through the south gate, and we go to war.
+  RULES: Isidore->Ysidor x1; Alara->Ellara x1
+
+Line 3585
+  OLD: [02:32:40] Ysidor: So do I turn to Mary and be like, so about that surrendering part.
+  NEW: [02:32:40] Ysidor: So do I turn to Meri and be like, so about that surrendering part.
+  RULES: Mary->Meri x1
+
+Line 3615
+  OLD: [02:32:59] Ysidor: I don't want to loom end, but I feel like I would protect Alara.
+  NEW: [02:32:59] Ysidor: I don't want to loom end, but I feel like I would protect Ellara.
+  RULES: Alara->Ellara x1
+
+Line 3767
+  OLD: [02:38:16] GM: For your Nix and Witty.
+  NEW: [02:38:16] GM: For your Nyx and Witty.
+  RULES: Nix->Nyx x1
+
+Line 3990
+  OLD: [02:45:48] GM: Actually, I'll say you and Whitty have partial cover,
+  NEW: [02:45:48] GM: Actually, I'll say you and Witty have partial cover,
+  RULES: Whitty->Witty x1
+
+Line 4036
+  OLD: [02:47:54] GM: She sees Alara and Yesidor.
+  NEW: [02:47:54] GM: She sees Ellara and Ysidor.
+  RULES: Yesidor->Ysidor x1; Alara->Ellara x1
+
+Line 4037
+  OLD: [02:48:00] GM: Oh, Alara, you're going to be shot at.
+  NEW: [02:48:00] GM: Oh, Ellara, you're going to be shot at.
+  RULES: Alara->Ellara x1
+
+Line 4038
+  OLD: [02:48:07] GM: Oh, come on, Alara.
+  NEW: [02:48:07] GM: Oh, come on, Ellara.
+  RULES: Alara->Ellara x1
+
+Line 4113
+  OLD: [02:50:24] Berridin: Maybe that might give Nix and Whitty a little bit more time.
+  NEW: [02:50:24] Berridin: Maybe that might give Nyx and Witty a little bit more time.
+  RULES: Whitty->Witty x1; Nix->Nyx x1
+
+Line 4118
+  OLD: [02:50:48] Berridin: taking him down. At least if I don't succeed, I can make my way towards Ilara and Isidore.
+  NEW: [02:50:48] Berridin: taking him down. At least if I don't succeed, I can make my way towards Ellara and Ysidor.
+  RULES: Isidore->Ysidor x1; Ilara->Ellara x1
+
+Line 4124
+  OLD: [02:51:49] GM: Then it's a bunch of soldiers, Alara, Witte, and Yesidor take the end.
+  NEW: [02:51:49] GM: Then it's a bunch of soldiers, Ellara, Witty, and Ysidor take the end.
+  RULES: Yesidor->Ysidor x1; Alara->Ellara x1; Witte->Witty x1
+
+Line 4228
+  OLD: [03:00:07] GM: Alara, your turn. Then Whitty, then Isidor.
+  NEW: [03:00:07] GM: Ellara, your turn. Then Witty, then Ysidor.
+  RULES: Isidor->Ysidor x1; Whitty->Witty x1; Alara->Ellara x1
+
+Line 4253
+  OLD: [03:02:05] Ellara: How many is Baradun? Is there a fucking Baradun?
+  NEW: [03:02:05] Ellara: How many is Berridin? Is there a fucking Berridin?
+  RULES: Baradun->Berridin x2
+
+Line 4399
+  OLD: [03:08:13] GM: So, like, Baradun is not a save.
+  NEW: [03:08:13] GM: So, like, Berridin is not a save.
+  RULES: Baradun->Berridin x1
+
+Line 4414
+  OLD: [03:08:44] Ellara: She does move behind Isidore.
+  NEW: [03:08:44] Ellara: She does move behind Ysidor.
+  RULES: Isidore->Ysidor x1
+
+Line 4472
+  OLD: [03:11:01] GM: And then, Isidore, your turn.
+  NEW: [03:11:01] GM: And then, Ysidor, your turn.
+  RULES: Isidore->Ysidor x1
+
+Line 4480
+  OLD: [03:11:35] Ysidor: On myself and Baradun, cause that's why I have visibility on.
+  NEW: [03:11:35] Ysidor: On myself and Berridin, cause that's why I have visibility on.
+  RULES: Baradun->Berridin x1
+
+Line 4484
+  OLD: [03:11:56] Ysidor: So myself and Baradun I'll add two.
+  NEW: [03:11:56] Ysidor: So myself and Berridin I'll add two.
+  RULES: Baradun->Berridin x1
+
+Line 4894
+  OLD: [03:27:11] Ysidor: Alara.
+  NEW: [03:27:11] Ysidor: Ellara.
+  RULES: Alara->Ellara x1
+
+Line 4895
+  OLD: [03:27:12] Ysidor: Mary.
+  NEW: [03:27:12] Ysidor: Meri.
+  RULES: Mary->Meri x1
+
+Line 4901
+  OLD: [03:27:23] Berridin: Mary, come back. Holy crap. Oh my God. Thank you. Jesus Christ.
+  NEW: [03:27:23] Berridin: Meri, come back. Holy crap. Oh my God. Thank you. Jesus Christ.
+  RULES: Mary->Meri x1
+
+Line 5017
+  OLD: [03:33:27] Ellara: Golden Alara.
+  NEW: [03:33:27] Ellara: Golden Ellara.
+  RULES: Alara->Ellara x1
+
+Line 5118
+  OLD: [03:36:24] GM: Alara took out
+  NEW: [03:36:24] GM: Ellara took out
+  RULES: Alara->Ellara x1
+
+Line 5279
+  OLD: [03:42:28] GM: I'm sorry, Alara.
+  NEW: [03:42:28] GM: I'm sorry, Ellara.
+  RULES: Alara->Ellara x1
+
+Line 5312
+  OLD: [03:44:00] Ellara: The light detected Alara.
+  NEW: [03:44:00] Ellara: The light detected Ellara.
+  RULES: Alara->Ellara x1
+
+Line 5317
+  OLD: [03:44:09] GM: Alara's like...
+  NEW: [03:44:09] GM: Ellara's like...
+  RULES: Alara->Ellara x1
+
+Line 5525
+  OLD: [03:55:10] Ellara: And Isidor here.
+  NEW: [03:55:10] Ellara: And Ysidor here.
+  RULES: Isidor->Ysidor x1
+
+Line 5663
+  OLD: [03:59:55] Berridin: Alara, can you Misty Step away?
+  NEW: [03:59:55] Berridin: Ellara, can you Misty Step away?
+  RULES: Alara->Ellara x1
+
+Line 5674
+  OLD: [04:00:37] GM: What is 11, Alara?
+  NEW: [04:00:37] GM: What is 11, Ellara?
+  RULES: Alara->Ellara x1
+
+Line 5775
+  OLD: [04:04:41] GM: Baradun's harder to hit.
+  NEW: [04:04:41] GM: Berridin's harder to hit.
+  RULES: Baradun->Berridin x1
+
+Line 5872
+  OLD: [04:08:38] GM: Baradun.
+  NEW: [04:08:38] GM: Berridin.
+  RULES: Baradun->Berridin x1
+
+Line 5964
+  OLD: [04:11:27] GM: They're gonna shoot at Alara.
+  NEW: [04:11:27] GM: They're gonna shoot at Ellara.
+  RULES: Alara->Ellara x1
+
+Line 5976
+  OLD: [04:11:54] GM: Kicks Baradun aside.
+  NEW: [04:11:54] GM: Kicks Berridin aside.
+  RULES: Baradun->Berridin x1
+
+Line 5979
+  OLD: [04:12:00] Ysidor: Harsh. Okay. Need that. No, I do not. It's another message to Mary. New message.
+  NEW: [04:12:00] Ysidor: Harsh. Okay. Need that. No, I do not. It's another message to Meri. New message.
+  RULES: Mary->Meri x1
+
+Line 5984
+  OLD: [04:12:08] GM: He's going to attack Alara.
+  NEW: [04:12:08] GM: He's going to attack Ellara.
+  RULES: Alara->Ellara x1
+
+Line 6006
+  OLD: [04:12:53] GM: Alara is also dead.
+  NEW: [04:12:53] GM: Ellara is also dead.
+  RULES: Alara->Ellara x1
+
+Line 6009
+  OLD: [04:13:05] GM: Baradun death saves?
+  NEW: [04:13:05] GM: Berridin death saves?
+  RULES: Baradun->Berridin x1
+
+Line 6019
+  OLD: [04:13:47] GM: Whitty...
+  NEW: [04:13:47] GM: Witty...
+  RULES: Whitty->Witty x1
+
+Line 6064
+  OLD: [04:15:56] GM: I would say there's not enough plausible deniability for either Whitty or Nyx.
+  NEW: [04:15:56] GM: I would say there's not enough plausible deniability for either Witty or Nyx.
+  RULES: Whitty->Witty x1
+
+Line 6075
+  OLD: [04:16:09] GM: Whitty has the most plausible deniability, but, like, he recently acid splashed a bunch
+  NEW: [04:16:09] GM: Witty has the most plausible deniability, but, like, he recently acid splashed a bunch
+  RULES: Whitty->Witty x1
+
+Line 6107
+  OLD: [04:17:10] Nyx: Does Isidor have a sending stone?
+  NEW: [04:17:10] Nyx: Does Ysidor have a sending stone?
+  RULES: Isidor->Ysidor x1
+
+Line 6110
+  OLD: [04:17:14] GM: Yeah, you would have five soldiers storm Isidore, then you have archers have full...
+  NEW: [04:17:14] GM: Yeah, you would have five soldiers storm Ysidor, then you have archers have full...
+  RULES: Isidore->Ysidor x1
+
+Line 6119
+  OLD: [04:17:36] GM: Whitty could possibly get away if you guys continue with your turn.
+  NEW: [04:17:36] GM: Witty could possibly get away if you guys continue with your turn.
+  RULES: Whitty->Witty x1
+
+Line 6121
+  OLD: [04:17:42] GM: They would keep Isidore distracted, even if they don't bring him down this turn.
+  NEW: [04:17:42] GM: They would keep Ysidor distracted, even if they don't bring him down this turn.
+  RULES: Isidore->Ysidor x1
+
+Line 6123
+  OLD: [04:17:54] GM: Mary still has it.
+  NEW: [04:17:54] GM: Meri still has it.
+  RULES: Mary->Meri x1
+
+Line 6128
+  OLD: [04:17:59] Berridin: Gave it to Mary.
+  NEW: [04:17:59] Berridin: Gave it to Meri.
+  RULES: Mary->Meri x1
+
+Line 6131
+  OLD: [04:18:01] Berridin: Yeah, Mary,
+  NEW: [04:18:01] Berridin: Yeah, Meri,
+  RULES: Mary->Meri x1
+
+Line 6133
+  OLD: [04:18:03] Nyx: I message Mary.
+  NEW: [04:18:03] Nyx: I message Meri.
+  RULES: Mary->Meri x1
+
+Line 6135
+  OLD: [04:18:05] Nyx: I message Mary quickly.
+  NEW: [04:18:05] Nyx: I message Meri quickly.
+  RULES: Mary->Meri x1
+
+Line 6149
+  OLD: [04:18:28] Nyx: Mary, and I tell her
+  NEW: [04:18:28] Nyx: Meri, and I tell her
+  RULES: Mary->Meri x1
+

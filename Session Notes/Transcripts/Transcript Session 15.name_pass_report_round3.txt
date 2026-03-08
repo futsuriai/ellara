@@ -1,0 +1,191 @@
+Session 15 Name Pass Report - Round 3
+Source: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15.txt
+Total changed lines: 36
+
+Key counts:
+- Din -> Berridin: 30
+- Dan -> Berridin: 4
+- Laura -> Ellara: 4
+
+Line-by-line changes:
+
+Line 367
+  OLD: [00:14:20] Witty: Din, I think it would be you would be the only, uh, you know, I know your people sometimes, you know, can be terrorists, and I didn't know that.
+  NEW: [00:14:20] Witty: Berridin, I think it would be you would be the only, uh, you know, I know your people sometimes, you know, can be terrorists, and I didn't know that.
+  RULES: Din->Berridin x1
+
+Line 543
+  OLD: [00:21:43] Witty: But, uh, something that, that Din could fit through, assuredly, exists.
+  NEW: [00:21:43] Witty: But, uh, something that, that Berridin could fit through, assuredly, exists.
+  RULES: Din->Berridin x1
+
+Line 546
+  OLD: [00:21:55] Nyx: We're gonna mission impossible Din.
+  NEW: [00:21:55] Nyx: We're gonna mission impossible Berridin.
+  RULES: Din->Berridin x1
+
+Line 983
+  OLD: [00:40:54] Nyx: as Din just said,
+  NEW: [00:40:54] Nyx: as Berridin just said,
+  RULES: Din->Berridin x1
+
+Line 1033
+  OLD: [00:43:37] GM: it sounds like you're sorry. Laura's going
+  NEW: [00:43:37] GM: it sounds like you're sorry. Ellara's going
+  RULES: Laura->Ellara x1
+
+Line 1147
+  OLD: [00:49:25] GM: So, this would be what Din and Nyx would see.
+  NEW: [00:49:25] GM: So, this would be what Berridin and Nyx would see.
+  RULES: Din->Berridin x1
+
+Line 1377
+  OLD: [00:57:03] Nyx: Nyx and Din are dead.
+  NEW: [00:57:03] Nyx: Nyx and Berridin are dead.
+  RULES: Din->Berridin x1
+
+Line 1510
+  OLD: [01:02:34] Nyx: Din, Din,
+  NEW: [01:02:34] Nyx: Berridin, Berridin,
+  RULES: Din->Berridin x2
+
+Line 1512
+  OLD: [01:02:36] Nyx: Din, I don't know what you're
+  NEW: [01:02:36] Nyx: Berridin, I don't know what you're
+  RULES: Din->Berridin x1
+
+Line 1515
+  OLD: [01:02:40] Nyx: Din, they're gonna
+  NEW: [01:02:40] Nyx: Berridin, they're gonna
+  RULES: Din->Berridin x1
+
+Line 1717
+  OLD: [01:10:59] GM: I'm leaving Dan alone.
+  NEW: [01:10:59] GM: I'm leaving Berridin alone.
+  RULES: Dan->Berridin x1
+
+Line 1858
+  OLD: [01:16:28] GM: Din what are you doing just watching him?
+  NEW: [01:16:28] GM: Berridin what are you doing just watching him?
+  RULES: Din->Berridin x1
+
+Line 1859
+  OLD: [01:16:31] GM: Also Din you fully have the line of sight where you are of like a fire pit.
+  NEW: [01:16:31] GM: Also Berridin you fully have the line of sight where you are of like a fire pit.
+  RULES: Din->Berridin x1
+
+Line 1893
+  OLD: [01:17:41] GM: Did you meet Dan again?
+  NEW: [01:17:41] GM: Did you meet Berridin again?
+  RULES: Dan->Berridin x1
+
+Line 2094
+  OLD: [01:24:53] Berridin: I still imagine Din in his shitty
+  NEW: [01:24:53] Berridin: I still imagine Berridin in his shitty
+  RULES: Din->Berridin x1
+
+Line 2265
+  OLD: [01:32:42] Nyx: Dan. I was like,
+  NEW: [01:32:42] Nyx: Berridin. I was like,
+  RULES: Dan->Berridin x1
+
+Line 2293
+  OLD: [01:33:45] Witty: So, so, so they, they clocked you right away, but what was, what was Din doing during this time?
+  NEW: [01:33:45] Witty: So, so, so they, they clocked you right away, but what was, what was Berridin doing during this time?
+  RULES: Din->Berridin x1
+
+Line 2365
+  OLD: [01:35:58] Witty: Wasn't, wasn't Din with you?
+  NEW: [01:35:58] Witty: Wasn't, wasn't Berridin with you?
+  RULES: Din->Berridin x1
+
+Line 2368
+  OLD: [01:36:03] Nyx: looks at Din and
+  NEW: [01:36:03] Nyx: looks at Berridin and
+  RULES: Din->Berridin x1
+
+Line 2369
+  OLD: [01:36:05] Nyx: saying that Din just kind of saved my
+  NEW: [01:36:05] Nyx: saying that Berridin just kind of saved my
+  RULES: Din->Berridin x1
+
+Line 2370
+  OLD: [01:36:07] Nyx: ass. Nyx just looks at Din and he
+  NEW: [01:36:07] Nyx: ass. Nyx just looks at Berridin and he
+  RULES: Din->Berridin x1
+
+Line 2371
+  OLD: [01:36:09] Nyx: goes, Din,
+  NEW: [01:36:09] Nyx: goes, Berridin,
+  RULES: Din->Berridin x1
+
+Line 2372
+  OLD: [01:36:11] Nyx: Din was
+  NEW: [01:36:11] Nyx: Berridin was
+  RULES: Din->Berridin x1
+
+Line 2394
+  OLD: [01:37:00] Witty: But Din, Din, you said you were a lookout, so you were up above, right?
+  NEW: [01:37:00] Witty: But Berridin, Berridin, you said you were a lookout, so you were up above, right?
+  RULES: Din->Berridin x2
+
+Line 2674
+  OLD: [01:50:12] Ellara: That's why, as Laura was saying, ideally the plan would be to kind of hide their alcohol for a day or two.
+  NEW: [01:50:12] Ellara: That's why, as Ellara was saying, ideally the plan would be to kind of hide their alcohol for a day or two.
+  RULES: Laura->Ellara x1
+
+Line 2729
+  OLD: [01:53:25] GM: I love Din, the most
+  NEW: [01:53:25] GM: I love Berridin, the most
+  RULES: Din->Berridin x1
+
+Line 3661
+  OLD: [02:34:34] GM: We're going to start at Din.
+  NEW: [02:34:34] GM: We're going to start at Berridin.
+  RULES: Din->Berridin x1
+
+Line 3662
+  OLD: [02:34:35] GM: Din has to sneak in.
+  NEW: [02:34:35] GM: Berridin has to sneak in.
+  RULES: Din->Berridin x1
+
+Line 3663
+  OLD: [02:34:43] Berridin: I think they seem to like Dan more.
+  NEW: [02:34:43] Berridin: I think they seem to like Berridin more.
+  RULES: Dan->Berridin x1
+
+Line 3666
+  OLD: [02:34:53] GM: Din, how are you sneaking in?
+  NEW: [02:34:53] GM: Berridin, how are you sneaking in?
+  RULES: Din->Berridin x1
+
+Line 4522
+  OLD: [03:13:25] Nyx: I tell Laura
+  NEW: [03:13:25] Nyx: I tell Ellara
+  RULES: Laura->Ellara x1
+
+Line 4795
+  OLD: [03:22:33] GM: So B and D are going to shoot at Din.
+  NEW: [03:22:33] GM: So B and D are going to shoot at Berridin.
+  RULES: Din->Berridin x1
+
+Line 4796
+  OLD: [03:22:41] GM: B shoot at Din.
+  NEW: [03:22:41] GM: B shoot at Berridin.
+  RULES: Din->Berridin x1
+
+Line 4865
+  OLD: [03:25:49] GM: Din is alive.
+  NEW: [03:25:49] GM: Berridin is alive.
+  RULES: Din->Berridin x1
+
+Line 5076
+  OLD: [03:34:59] Witty: I believe Din had an hour of invisibility.
+  NEW: [03:34:59] Witty: I believe Berridin had an hour of invisibility.
+  RULES: Din->Berridin x1
+
+Line 5096
+  OLD: [03:35:39] Berridin: Laura has telephoned her right into the front lines.
+  NEW: [03:35:39] Berridin: Ellara has telephoned her right into the front lines.
+  RULES: Laura->Ellara x1
+

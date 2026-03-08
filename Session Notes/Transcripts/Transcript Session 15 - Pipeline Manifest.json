@@ -1,0 +1,35 @@
+{
+  "session": "15",
+  "audio_dir": "/home/babu/source/craig-GMNUKowRrjIC",
+  "speaker_audio_files": [
+    "/home/babu/source/craig-GMNUKowRrjIC/1-icegecko.aac",
+    "/home/babu/source/craig-GMNUKowRrjIC/2-aurusoriale.aac",
+    "/home/babu/source/craig-GMNUKowRrjIC/3-luscious_egg.aac",
+    "/home/babu/source/craig-GMNUKowRrjIC/4-pushanka.aac",
+    "/home/babu/source/craig-GMNUKowRrjIC/5-ellanelle.aac",
+    "/home/babu/source/craig-GMNUKowRrjIC/6-sultanofsalty.aac"
+  ],
+  "speaker_transcripts_dir": "/home/babu/source/dnd/src/assets/sessions/transcripts/Session 15",
+  "combined_transcript_raw": "/home/babu/source/craig-GMNUKowRrjIC/session-15-combined.txt",
+  "combined_transcript_normalized": "/home/babu/source/craig-GMNUKowRrjIC/session-15-combined-normalized.txt",
+  "dnd_session_raw": "/home/babu/source/dnd/src/assets/sessions/transcripts/session_15_raw.txt",
+  "ellara_transcript": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15.txt",
+  "ooc_removed": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15 - OOC Removed.txt",
+  "ambiguous": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15 - Ambiguous.txt",
+  "ooc_report": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15 - OOC Filter Report.txt",
+  "raw_notes_source": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15 - OOC Removed.txt",
+  "raw_notes_chunk_dir": "/home/babu/source/ellara/Session Notes/Raw Session 15 Chunks",
+  "raw_notes_chunk_manifest": "/home/babu/source/ellara/Session Notes/Raw Session 15 Chunks/chunks_manifest.json",
+  "raw_session_output": "/home/babu/source/ellara/Session Notes/Raw Session 15.md",
+  "raw_notes_provider": "",
+  "session_notes_output": "/home/babu/source/ellara/Session Notes/Session 15.md",
+  "session_notes_provider": "",
+  "line_counts": {
+    "combined_normalized": 6396,
+    "ellara_transcript": 6396,
+    "ooc_removed": 6355,
+    "ambiguous": 10,
+    "raw_session_output": 749,
+    "session_notes_output": 0
+  }
+}

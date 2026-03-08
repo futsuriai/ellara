@@ -1,0 +1,96 @@
+Audio Context Review (large-v3 local snapshot, beam=8, per-line subprocess timeout)
+Candidates reviewed: 23
+Different outputs: 23
+
+Line 138 [00:04:50] Ysidor
+  OLD: I know I'm going with Hames because it makes the most sense for Ysidor, since he's from here.
+  NEW: I know I'm going the caves, because it makes the most sense for Zidane, since he's from here.
+
+Line 820 [00:31:57] Ysidor
+  OLD: So maybe there's one that makes you, I don't know, like, I don't know.
+  NEW: so maybe like like there's one that makes you I don't know like pass out like I don't know
+
+Line 868 [00:33:45] Nyx
+  OLD: Yeah, yeah, yeah.
+  NEW: Thank you.
+
+Line 1033 [00:43:37] GM
+  OLD: it sounds like you're sorry. Ellara's going
+  NEW: So, it sounds like Isidore and Lara's going moth hunting, uh, fungus hunting.
+
+Line 1147 [00:49:25] GM
+  OLD: So, this would be what Berridin and Nyx would see.
+  NEW: yeah so um this would be what barry uh what din and nix would see this is the encampment
+
+Line 1314 [00:54:59] Nyx
+  OLD: Yeah, yeah, yeah.
+  NEW: I agree with that
+
+Line 1465 [01:00:18] Berridin
+  OLD: Yeah, yeah, yeah.
+  NEW: oh yeah yeah yeah yeah yeah yeah yeah okay okay i remember that like the last campaign
+
+Line 1542 [01:04:17] Berridin
+  OLD: Yeah, yeah, yeah.
+  NEW: Okay. Yeah. Yeah. Yeah. Okay.
+
+Line 1571 [01:05:44] Berridin
+  OLD: Okay, okay, okay.
+  NEW: okay okay okay um uh yeah i'll see if i can roll to get up get up
+
+Line 1717 [01:10:59] GM
+  OLD: I'm leaving Berridin alone.
+  NEW: Ah, Charlie. Leaving Dan alone, eh? Well, probably going to bitch about you later. Not that I blame him.
+
+Line 1893 [01:17:41] GM
+  OLD: Did you meet Berridin again?
+  NEW: Police salary deducted.
+
+Line 2293 [01:33:45] Witty
+  OLD: So, so, so they, they clocked you right away, but what was, what was Berridin doing during this time?
+  NEW: That was kind of the key thing we need to know
+
+Line 2921 [02:01:23] Witty
+  OLD: I don't know what interst, I don't know what, uh, what, inner, what do we, what do we call
+  NEW: what I don't know what
+
+Line 3029 [02:05:17] Nyx
+  OLD: Yeah, yeah, yeah.
+  NEW: Okay, so I, okay, alright, alright, it wasn't one of those, hi, I can actually teleport.
+
+Line 3307 [02:21:00] GM
+  OLD: Then if you want, obviously, Nyx has a poisoner kit,
+  NEW: Then if you want, obviously
+
+Line 4373 [03:07:29] Ellara
+  OLD: Okay, okay, okay.
+  NEW: that aspect where let's do wisdom intelligence and concentration saves
+
+Line 4522 [03:13:25] Nyx
+  OLD: I tell Ellara
+  NEW: okay i tell the laura to burn that uh the the the roof the banded roof of the mess hall
+
+Line 4553 [03:14:32] Nyx
+  OLD: Yeah, yeah, yeah.
+  NEW: okay okay cool so archer one two and those three archers in there i'm gonna hit that
+
+Line 4953 [03:29:15] GM
+  OLD: Witty, then a few store.
+  NEW: i apologize it's an action to move it it used to be a bonus action that was broken
+
+Line 5463 [03:49:34] Berridin
+  OLD: No no no. That's why I said I'll...
+  NEW: Okay. No, no, no, that's why I said I'll... I won't pass the... Can I use my bonus action to just do a dagger attack? Yeah.
+
+Line 6316 [04:24:12] Witty
+  OLD: So Witty was the farthest away and unseen, so he probably had some time to suitcase something
+  NEW: That is time for me
+
+Line 6371 [04:25:16] Nyx
+  OLD: Yeah, yeah, yeah!
+  NEW: instead we snuck like solid snake like crawling around for two hours
+
+Line 6384 [04:25:35] Nyx
+  OLD: Yeah, yeah, yeah.
+  NEW: I'm going to use a wire to, like, look in the keyboard.
+

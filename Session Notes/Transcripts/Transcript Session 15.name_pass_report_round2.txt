@@ -1,0 +1,210 @@
+Session 15 Name Pass Report - Round 2
+Source: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 15.txt
+Total changed lines: 39
+
+Key counts:
+- Nick -> Nyx: 11
+- Nick's -> Nyx's: 9
+- Winnie -> Witty: 7
+- Baron -> Berridin: 5
+- Lara -> Ellara: 5
+- Din's -> Berridin's: 3
+- Iberdon -> Berridin: 1
+
+Line-by-line changes:
+
+Line 353
+  OLD: [00:13:10] Nyx: I think Iberdon, Witty,
+  NEW: [00:13:10] Nyx: I think Berridin, Witty,
+  RULES: Iberdon->Berridin x1
+
+Line 407
+  OLD: [00:16:29] Ellara: I guess the reason I'm asking is just because Lara grew up in the highlands, she knows a lot of herbs and stuff.
+  NEW: [00:16:29] Ellara: I guess the reason I'm asking is just because Ellara grew up in the highlands, she knows a lot of herbs and stuff.
+  RULES: Lara->Ellara x1
+
+Line 541
+  OLD: [00:21:36] Nyx: Din's gonna...
+  NEW: [00:21:36] Nyx: Berridin's gonna...
+  RULES: Din's->Berridin's x1
+
+Line 870
+  OLD: [00:33:50] Nyx: Okay, so, Nick's gonna be like,
+  NEW: [00:33:50] Nyx: Okay, so, Nyx's gonna be like,
+  RULES: Nick's->Nyx's x1
+
+Line 932
+  OLD: [00:37:37] Berridin: Lara if we if we if we do this we we poison them or something so we can allow the stone glides to tie them up
+  NEW: [00:37:37] Berridin: Ellara if we if we if we do this we we poison them or something so we can allow the stone glides to tie them up
+  RULES: Lara->Ellara x1
+
+Line 1041
+  OLD: [00:44:10] GM: Winnie? Are you going to
+  NEW: [00:44:10] GM: Witty? Are you going to
+  RULES: Winnie->Witty x1
+
+Line 1854
+  OLD: [01:16:21] GM: Nick's having a mental breakdown.
+  NEW: [01:16:21] GM: Nyx's having a mental breakdown.
+  RULES: Nick's->Nyx's x1
+
+Line 1855
+  OLD: [01:16:23] GM: While Nick's having a mental breakdown,
+  NEW: [01:16:23] GM: While Nyx's having a mental breakdown,
+  RULES: Nick's->Nyx's x1
+
+Line 1957
+  OLD: [01:20:01] GM: So why is it always the messiest people that Nick impersonates?
+  NEW: [01:20:01] GM: So why is it always the messiest people that Nyx impersonates?
+  RULES: Nick->Nyx x1
+
+Line 1983
+  OLD: [01:21:06] GM: Meanwhile Winnie's offended like oh that's our point.
+  NEW: [01:21:06] GM: Meanwhile Witty's offended like oh that's our point.
+  RULES: Winnie->Witty x1
+
+Line 2111
+  OLD: [01:25:25] Nyx: Nick says nothing,
+  NEW: [01:25:25] Nyx: Nyx says nothing,
+  RULES: Nick->Nyx x1
+
+Line 2201
+  OLD: [01:30:36] Nyx: And Nick goes,
+  NEW: [01:30:36] Nyx: And Nyx goes,
+  RULES: Nick->Nyx x1
+
+Line 2216
+  OLD: [01:31:20] Ysidor: Yes, it returns to Lara and just asks, was that ever in consideration?
+  NEW: [01:31:20] Ysidor: Yes, it returns to Ellara and just asks, was that ever in consideration?
+  RULES: Lara->Ellara x1
+
+Line 2298
+  OLD: [01:33:51] Nyx: Nick's just
+  NEW: [01:33:51] Nyx: Nyx's just
+  RULES: Nick's->Nyx's x1
+
+Line 2312
+  OLD: [01:34:12] Nyx: So Nick just kind of
+  NEW: [01:34:12] Nyx: So Nyx just kind of
+  RULES: Nick->Nyx x1
+
+Line 2337
+  OLD: [01:35:02] Nyx: Nick's will follow, yeah, here's the thing
+  NEW: [01:35:02] Nyx: Nyx's will follow, yeah, here's the thing
+  RULES: Nick's->Nyx's x1
+
+Line 2345
+  OLD: [01:35:14] Nyx: So you have, so Nick just looks at me and goes,
+  NEW: [01:35:14] Nyx: So you have, so Nyx just looks at me and goes,
+  RULES: Nick->Nyx x1
+
+Line 2367
+  OLD: [01:36:01] Nyx: And so, Nick
+  NEW: [01:36:01] Nyx: And so, Nyx
+  RULES: Nick->Nyx x1
+
+Line 2370
+  OLD: [01:36:07] Nyx: ass. Nick just looks at Din and he
+  NEW: [01:36:07] Nyx: ass. Nyx just looks at Din and he
+  RULES: Nick->Nyx x1
+
+Line 2392
+  OLD: [01:36:52] Witty: I would never, I would never question Din's, Din's integrity and, and wanting to help and, and being a help.
+  NEW: [01:36:52] Witty: I would never, I would never question Berridin's, Berridin's integrity and, and wanting to help and, and being a help.
+  RULES: Din's->Berridin's x2
+
+Line 2524
+  OLD: [01:41:59] Nyx: Would Nick, looking at
+  NEW: [01:41:59] Nyx: Would Nyx, looking at
+  RULES: Nick->Nyx x1
+
+Line 2527
+  OLD: [01:42:03] Nyx: but I guess Nick would just pose to the group
+  NEW: [01:42:03] Nyx: but I guess Nyx would just pose to the group
+  RULES: Nick->Nyx x1
+
+Line 2703
+  OLD: [01:51:49] Berridin: I've seen Nick's improv
+  NEW: [01:51:49] Berridin: I've seen Nyx's improv
+  RULES: Nick's->Nyx's x1
+
+Line 2900
+  OLD: [02:00:19] Ellara: Lara just interjects and says...
+  NEW: [02:00:19] Ellara: Ellara just interjects and says...
+  RULES: Lara->Ellara x1
+
+Line 2943
+  OLD: [02:02:02] Ellara: And Lara just thinks to herself...
+  NEW: [02:02:02] Ellara: And Ellara just thinks to herself...
+  RULES: Lara->Ellara x1
+
+Line 3307
+  OLD: [02:21:00] GM: Then if you want, obviously, Nick has a poisoner kit,
+  NEW: [02:21:00] GM: Then if you want, obviously, Nyx has a poisoner kit,
+  RULES: Nick->Nyx x1
+
+Line 3626
+  OLD: [02:33:37] GM: ... like, Winnie.
+  NEW: [02:33:37] GM: ... like, Witty.
+  RULES: Winnie->Witty x1
+
+Line 3629
+  OLD: [02:33:41] GM: Not Winnie.
+  NEW: [02:33:41] GM: Not Witty.
+  RULES: Winnie->Witty x1
+
+Line 4001
+  OLD: [02:46:20] GM: Going after Nick's 11 doesn't hit, right?
+  NEW: [02:46:20] GM: Going after Nyx's 11 doesn't hit, right?
+  RULES: Nick's->Nyx's x1
+
+Line 4026
+  OLD: [02:47:28] GM: They're going to go for Nick's first.
+  NEW: [02:47:28] GM: They're going to go for Nyx's first.
+  RULES: Nick's->Nyx's x1
+
+Line 4050
+  OLD: [02:48:36] GM: Archer that Nick's shot is going to shoot back.
+  NEW: [02:48:36] GM: Archer that Nyx's shot is going to shoot back.
+  RULES: Nick's->Nyx's x1
+
+Line 4953
+  OLD: [03:29:15] GM: Winnie, then a few store.
+  NEW: [03:29:15] GM: Witty, then a few store.
+  RULES: Winnie->Witty x1
+
+Line 5007
+  OLD: [03:32:57] GM: Baron in getting brought up.
+  NEW: [03:32:57] GM: Berridin in getting brought up.
+  RULES: Baron->Berridin x1
+
+Line 5018
+  OLD: [03:33:30] Witty: Nick,
+  NEW: [03:33:30] Witty: Nyx,
+  RULES: Nick->Nyx x1
+
+Line 5331
+  OLD: [03:44:33] GM: The captain looks at Baron and is like,
+  NEW: [03:44:33] GM: The captain looks at Berridin and is like,
+  RULES: Baron->Berridin x1
+
+Line 5715
+  OLD: [04:02:24] Witty: Hey, Winnie to the rescue!
+  NEW: [04:02:24] Witty: Hey, Witty to the rescue!
+  RULES: Winnie->Witty x1
+
+Line 5762
+  OLD: [04:03:44] Witty: That leaves something for the future Winnie.
+  NEW: [04:03:44] Witty: That leaves something for the future Witty.
+  RULES: Winnie->Witty x1
+
+Line 5771
+  OLD: [04:04:21] Ysidor: um, like a bonus action, Shield of Faith on Baron. Baron is a plus two to his AC. Jesus.
+  NEW: [04:04:21] Ysidor: um, like a bonus action, Shield of Faith on Berridin. Berridin is a plus two to his AC. Jesus.
+  RULES: Baron->Berridin x2
+
+Line 6187
+  OLD: [04:19:53] GM: I think between you all, like, good Baron, Leontia, you can bring them back up.
+  NEW: [04:19:53] GM: I think between you all, like, good Berridin, Leontia, you can bring them back up.
+  RULES: Baron->Berridin x1
+

@@ -1,0 +1,35 @@
+{
+  "session": "16",
+  "audio_dir": "/home/babu/source/session-16",
+  "speaker_audio_files": [
+    "/home/babu/source/session-16/1-pushanka.flac",
+    "/home/babu/source/session-16/2-aurusoriale.flac",
+    "/home/babu/source/session-16/3-icegecko.flac",
+    "/home/babu/source/session-16/4-ellanelle.flac",
+    "/home/babu/source/session-16/5-sultanofsalty.flac",
+    "/home/babu/source/session-16/6-luscious_egg.flac"
+  ],
+  "speaker_transcripts_dir": "/home/babu/source/dnd/src/assets/sessions/transcripts/Session 16",
+  "combined_transcript_raw": "/home/babu/source/session-16/session-16-combined.txt",
+  "combined_transcript_normalized": "/home/babu/source/session-16/session-16-combined-normalized.txt",
+  "dnd_session_raw": "/home/babu/source/dnd/src/assets/sessions/transcripts/session_16_raw.txt",
+  "ellara_transcript": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 16.txt",
+  "ooc_removed": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 16 - OOC Removed.txt",
+  "ambiguous": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 16 - Ambiguous.txt",
+  "ooc_report": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 16 - OOC Filter Report.txt",
+  "raw_notes_source": "/home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 16 - OOC Removed.txt",
+  "raw_notes_chunk_dir": "/home/babu/source/ellara/Session Notes/Raw Session 16 Chunks",
+  "raw_notes_chunk_manifest": "/home/babu/source/ellara/Session Notes/Raw Session 16 Chunks/chunks_manifest.json",
+  "raw_session_output": "/home/babu/source/ellara/Session Notes/Raw Session 16.md",
+  "raw_notes_provider": "codex",
+  "session_notes_output": "/home/babu/source/ellara/Session Notes/Session 16.md",
+  "session_notes_provider": "codex",
+  "line_counts": {
+    "combined_normalized": 4126,
+    "ellara_transcript": 4126,
+    "ooc_removed": 4102,
+    "ambiguous": 0,
+    "raw_session_output": 2244,
+    "session_notes_output": 157
+  }
+}

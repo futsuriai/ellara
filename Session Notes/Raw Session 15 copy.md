@@ -22,7 +22,7 @@ The order of operations was clarified: the party must secure the explosives befo
 ---
 The party discusses a plan to deal with the cave and the soldiers nearby. One team would sneak past the encampment at the cave mouth, steal gunpowder from the camp, carry it into the cave, and plant explosives before slipping back out. A second team would create a disturbance, draw the camp’s soldiers into the cave, and then escape before the charges bring the cavern down.
 
-The GM notes that if they go into the cave, other people, including miners gathering supplies, will also be inside.
+The GM notes that if they go into the cave, other people, including miners gathering suppuies, will also be inside.
 
 ---
 

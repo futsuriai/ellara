@@ -1,0 +1,34 @@
+Linewise OOC Filter Report
+Input: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 16.txt
+Filtered: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 16 - OOC Removed.txt
+Ambiguous: /home/babu/source/ellara/Session Notes/Transcripts/Transcript Session 16 - Ambiguous.txt
+Total lines: 4126
+Kept lines: 4102
+Removed OOC lines: 24
+Ambiguous lines: 0
+
+Removed lines:
+[line 27][ooc_strong] [00:01:59] Ysidor: Oh, I could have said... Oh, really? Imagine Bobby just introduced it, is it now? He's like, so the prison is not for food. What do you guys do? You could be like...
+[line 121][ooc_strong] [00:06:52] GM: I will say there's nothing to lag.
+[line 962][ooc_strong] [00:46:41] Ellara: Can you hear me? Well, do you hear me?
+[line 1455][ooc_strong] [01:05:17] Nyx: Like it's 12 goals, but Bobby, it all depends on Bobby.
+[line 1486][ooc_strong] [01:06:46] Nyx: Whenever I, I'll be a man whenever I'm quiet for Andres.
+[line 1648][ooc_strong] [01:12:44] Nyx: Matt.
+[line 1796][ooc_weak] [01:18:20] Ysidor: Like the spiderman.
+[line 1845][ooc_strong] [01:20:09] GM: uh, Andres,
+[line 2004][ooc_strong] [01:25:04] Nyx: How old? The history. It depends on the history, Bobby.
+[line 2069][ooc_strong] [01:26:40] GM: No, Andres is, like, sharing it's, like, blue skies in Toronto.
+[line 2406][ooc_strong] [01:42:21] Nyx: So, Bobby, would we have seen, would the Knicks have seen where, I saw the gray, the gray.
+[line 2533][ooc_strong] [01:47:36] Nyx: So Bobby, how do you want us to do this?
+[line 2601][ooc_strong] [01:49:04] Ellara: When Bobby's back...
+[line 2603][ooc_strong] [01:49:05] Ellara: When Bobby's back,
+[line 2630][ooc_strong] [01:49:56] Nyx: No, Bobby's not here.
+[line 2646][ooc_strong] [01:50:37] Nyx: Andres, you're cutting out.
+[line 2726][ooc_strong] [01:53:09] Nyx: Okay. So is Bobby
+[line 2807][ooc_strong] [01:55:26] Nyx: How high up, Bobby,
+[line 3057][ooc_strong] [02:02:15] Nyx: I'm gonna go to that question, Bobby.
+[line 3308][ooc_strong] [02:11:16] Berridin: actually oh i can actually make an action okay oh okay okay okay um okay yeah so i'm sorry matt
+[line 3311][ooc_strong] [02:11:26] Berridin: matt can go first yeah right next to it um the guard on the hill with nick can create like an
+[line 3872][ooc_strong] [02:33:45] Nyx: Okay. Bobby, if I dash, can I, so yeah. So here's my idea. My idea is I go grab a horse
+[line 3945][ooc_strong] [02:36:46] Nyx: Oh man. All right. All right. Awesome. Well, we'll figure out the rest next session.
+[line 4106][ooc_strong] [02:44:48] Ysidor: I gotta go, I gotta check him out.

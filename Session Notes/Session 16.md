@@ -11,7 +11,7 @@ The session picked up only minutes after the surrender. The party had been strip
 
 The cages were thick wood braced with metal, set directly on packed dirt. The camp’s **mess hall** sat in view, and the party could see guards moving through the open center of camp while the captain and his soldiers decided what to do with them.
 
-Even in that condition, the group immediately started testing the limits of captivity. Ellara still had her amulet, and Berridin tried to scrounge some kind of makeshift focus from his clothing and the dirt around him. Nyx, still reeling and apologizing, focused on the practical loss that mattered most to her: **her crossbows were gone**.
+Even in that condition, the group immediately started testing the limits of captivity. Ellara still had her amulet, and Berridin tried to scrounge some kind of makeshift focus from his clothing and the dirt around him. Nyx, still reeling and apologizing, focused on the practical loss that mattered most to him: **his crossbows were gone**.
 
 Ellara then tried to heal herself without drawing attention. She attempted to be subtle, but her **disadvantaged Stealth check came up a 3**. The spell still worked and restored **14 HP**, but the guards noticed at once, rattled the cage, and warned her that there would be **no more Eulogian magic**.
 
@@ -65,13 +65,11 @@ The remaining prisoners paid for it immediately.
 
 The captain returned, enraged, and had **Nyx, Berridin, and Witty** dragged from their cages, bound together, and chained around a pole near the medical tents. When Berridin tried to buy himself a little life back with **Healing Word**, the captain answered by striking him hard enough to erase almost all of it: Berridin dropped back to **2 HP**. After that, the guards gagged them to prevent further spellcasting.
 
-Nyx still found a way out. Using the **Blessing of the Raven Queen**, she teleported free of the restraints and bolted for the western woods, leaving the chains behind her. That left only **Berridin and Witty** in captivity.
+Nyx still found a way out. Using the **Blessing of the Raven Queen**, he teleported free of the restraints and bolted for the western woods, leaving the chains behind him. That left only **Berridin and Witty** in captivity.
 
-The captain, now fully out of patience, threatened mutilation if the prisoners kept testing him. When he tried to confirm where the escapees had gone, Witty answered with the worst possible choice:
+The captain, now fully out of patience, threatened mutilation if the prisoners kept testing him. When he tried to confirm where the escapees had gone, Witty would have answered with the worst possible choice:
 
-**Witty:** *“Your mom’s house.”*
-
-For that, he took a hit and had his gag pulled even tighter.
+**Witty:** *“Your mom’s house.”* But "luckily" he was gagged.
 
 ---
 

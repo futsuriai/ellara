@@ -771,7 +771,7 @@ berridin asks if there's a goodberry and says he'll take one.
 
 ---
 
-nyx hands berridin a goodberry, all she can spare.
+nyx hands berridin a goodberry, all he can spare.
 
 berridin gets a little strength back.
 
@@ -870,11 +870,11 @@ nyx suggests a fallback if they can get out at all: go meet up with c door, then
 
 nyx: "we can't go and kill everybody."
 
-nyx is not getting her hopes up. immediate danger, pressure of combat, not many options right now.
+nyx is not getting his hopes up. immediate danger, pressure of combat, not many options right now.
 
 ---
 
-nyx teleports out of the camp and heads straight for where she thinks he was headed.
+nyx teleports out of the camp and heads straight for where he thinks ysidor was headed.
 
 west gate, not east.
 
@@ -902,23 +902,23 @@ nyx: "where that body is in the middle and the fence, the fence being those logs
 
 ---
 
-nyx checks the grid, asks what a square/block is. gm says 1 square = 5 feet. from the middle she can still yeet herself over.
+nyx checks the grid, asks what a square/block is. gm says 1 square = 5 feet. from the middle he can still yeet himself over.
 
 nyx: "dishonored, dishonored corvo style."
 
-nyx goes for it. plan is to get out, rejoin the others, see the door, and then figure out how to rescue their comrades. she can't do anything useful while stuck in the camp.
+nyx goes for it. plan is to get out, rejoin the others, see the door, and then figure out how to rescue their comrades. he can't do anything useful while stuck in the camp.
 
 ---
 
-all of a sudden the chains get slack/slapped as she moves.
+all of a sudden the chains get slack/slapped as he moves.
 
 ---
 
-nyx still has the cloth gag in her mouth; the chains stay behind.
+nyx still has the cloth gag in his mouth; the chains stay behind.
 
 guards confused, trying to figure out what the hell is going on.
 
-no archers in place to shoot at her.
+no archers in place to shoot at him.
 
 nyx runs off into the woods.
 
@@ -1082,9 +1082,9 @@ nyx: "the soldiers are going to obviously come here."
 
 nyx says they were going to do that anyway. not that it makes it better. no excuses.
 
-problem is they do not have their armor. nyx does not have her crossbows. no weapons. all of it is back at camp.
+problem is they do not have their armor. nyx does not have his crossbows. no weapons. all of it is back at camp.
 
-nyx says she is used to working alone, taking out targets alone, not handling all of this.
+nyx says he is used to working alone, taking out targets alone, not handling all of this.
 
 ---
 
@@ -1134,7 +1134,7 @@ not sure what they can do here.
 ellara is still confused.
 ellara: "how did i make it out in a minute?"
 
-nyx says she has a blessing that lets her teleport, but she can only use it twice a day.
+nyx says he has a blessing that lets him teleport, but he can only use it twice a day.
 
 ---
 
@@ -1172,7 +1172,7 @@ nyx starts wondering about his age / how old he is. not really explored yet. gm 
 
 ---
 
-nyx hints this might have happened before, then stops herself. doesn't want to say too much.
+nyx hints this might have happened before, then stops himself. doesn't want to say too much.
 
 gm establishes nyx is a few hundred years old, at least as far as everyone else currently knows.
 
@@ -1337,7 +1337,7 @@ nyx is fairly confident they have not moved them, but they should double check. 
 
 ellara: "do you know where they put our possessions?"
 
-nyx says she does, and confirms she saw where they were taken.
+nyx says he does, and confirms he saw where they were taken.
 
 ---
 
@@ -1516,7 +1516,7 @@ if they grab a horse, ysidor goes in with the horse.
 plan shifts to getting their stuff first before doing anything else.
 
 nyx plans to snipe, ellara uses magic, but only after the gear is recovered.
-nyx gets her crossbows back.
+nyx gets his crossbows back.
 party goes to grab all their gear.
 
 ---
@@ -1535,7 +1535,7 @@ gm asks how the group is approaching this from lower ground.
 
 nyx starts to set up to snipe from here, then checks the shot.
 
-gm says she can't fire an arrow from that position.
+gm says he can't fire an arrow from that position.
 
 ---
 
@@ -1592,7 +1592,7 @@ nyx and ellara come out at the same time from their separate positions, trying t
 
 ellara: "we'll see."
 
-nyx goes for the soldier closest to her.
+nyx goes for the soldier closest to him.
 ysidor goes for the horse.
 
 nyx: "yeah, that's perfect."
@@ -1621,7 +1621,7 @@ berridin and woody are technically in combat too, but still tied up.
 
 surprise round. nyx and ellara go first; nyx goes first.
 
-nyx casts hunter's mark on the enemy, using 1 of her free casts.
+nyx casts hunter's mark on the enemy, using 1 of his free casts.
 
 ---
 
@@ -1658,7 +1658,7 @@ ysidor first doesn't commit, says he would advance, then changes his mind and wa
 combat starts officially.
 
 nyx's turn.
-nyx says the effect only works if she hits.
+nyx says the effect only works if he hits.
 nyx uses both crossbows.
 first crossbow attack.
 
@@ -1683,7 +1683,7 @@ gm turns to berridin. muzzle restrained, chained up. berridin struggles against 
 ---
 
 soldier goes toward nyx.
-soldier climbs 15 feet straight up to reach her, apparently even in full armor.
+soldier climbs 15 feet straight up to reach him, apparently even in full armor.
 attack on nyx, 21 to hit.
 nyx takes 8 damage.
 
@@ -1857,13 +1857,13 @@ gm checks for any other actions. berridin: "nope"
 
 ---
 
-top of the round. nyx has an enemy 5 feet beside her.
+top of the round. nyx has an enemy 5 feet beside him.
 
 nyx: "can i push him off?"
 nyx: "can i yeet him?"
 nyx wants to shove/yeet him wherever he takes the most fall damage.
 
-gm asks which way she’s yeeting him. nyx keeps trying to line it up for maximum fall damage.
+gm asks which way he’s yeeting him. nyx keeps trying to line it up for maximum fall damage.
 
 ---
 
@@ -1871,7 +1871,7 @@ nyx tries to shove him east, toward the side where he would take the most fall d
 
 gm pauses, checking the shove ruling as a contested strength check.
 
-nyx hesitates and reconsiders if it means moving the whole thing / if there is something else she could do instead.
+nyx hesitates and reconsiders if it means moving the whole thing / if there is something else he could do instead.
 
 ---
 
@@ -1895,13 +1895,13 @@ nyx: "i'm going to use zephyr strike on this guy."
 
 nyx lays out the spell:
 movement won't provoke opportunity attacks until the spell ends.
-once before it ends, she can give herself advantage on one weapon attack roll.
+once before it ends, he can give himself advantage on one weapon attack roll.
 that attack gets an extra 1d8 force damage on a hit.
-whether she hits or misses, walking speed goes up by 30 feet until end of turn.
+whether he hits or misses, walking speed goes up by 30 feet until end of turn.
 
 plan is zephyr strike, attack him with the crossbows, then bounce/reposition.
 
-gm starts clarifying that if she wants to keep the advantage, the order of movement/attack matters here because she's in melee with a ranged weapon.
+gm starts clarifying that if he wants to keep the advantage, the order of movement/attack matters here because he's in melee with a ranged weapon.
 
 ---
 
@@ -1917,16 +1917,16 @@ zephyr strike gives nyx extra movement, about 55 feet total to work with. nyx st
 
 nyx looks at the wall / drop options, considers jumping down and getting to a horse.
 
-gm says she can get to the horse easily, but jumping off the deep side would need some kind of roll.
+gm says he can get to the horse easily, but jumping off the deep side would need some kind of roll.
 
 nyx checks whether there are any open spots on the horses for someone else to ride.
 
 gm: "no."
 gm says there’s only one horse with ysidor.
 
-nyx drops the horse idea and asks how far she can make it with movement.
+nyx drops the horse idea and asks how far he can make it with movement.
 
-gm says if she wants a horse she’d have to go to ellara, but with 55 feet she can get to the indicated spot.
+gm says if he wants a horse he’d have to go to ellara, but with 55 feet he can get to the indicated spot.
 
 nyx heads there instead of risking the jump.
 

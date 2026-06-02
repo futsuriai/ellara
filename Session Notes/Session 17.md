@@ -1,181 +1,155 @@
 # Session 17 — *The Mountain Wakes*
 
-**Locales:** Hýrda village · Ysidor’s house · Fields and sparse woods near the occupied mine · Ducal mine encampment · Hýrda mine interior  
+**Locales:** Hýrda · Ysidor’s house · Fields near the occupied mine · Ducal mine encampment · Hýrda mine interior
 **Time:** Night after the escape → next morning and day → night
 
 ---
 
-## 1) After the Cages — Rest Before Strategy
+## 1) Hýrda After the Cages
 
-The party returned to **Hýrda** battered, freed, and not entirely intact. A good chunk of them had just escaped captivity after being arrested; **Ysidor** had smote his cage open, **Berridin** had made it out at only **2 HP**, and everyone had eventually recovered their equipment.
+The party returned to **Hýrda** battered and barely ahead of disaster. They had escaped the Grand Duke’s soldiers after the arrests; Ysidor had smote his cage open, the group had recovered their equipment, and they had brought back a barrel of explosives. But they had not had a long rest, the encampment still held roughly twenty soldiers, including archers and tougher fighters who had already bloodied them badly, and reinforcements were still coming in something under a week.
 
-What they had **not** recovered was the money. The captain had taken all their belongings, and while the gear came back, the coins did not. Berridin had been carrying the shared pile: roughly **1,000-2,000 gp**. On top of that, the debt tied to **Witty’s house** still hung over them.
+Berridin, at **2 HP**, was in no state for strategy. Nyx sketched a rough map of the mine mouth and camp area and forced the central question: where should the explosives go?
 
-The larger problem remained unchanged: the **Grand Duke’s army** was still coming, with soldiers and warforged or automaton support. The army was a little under a week out, slowed by supplies and constructs, but still coming. The standing plan was to lure them into the mine, set explosives, and collapse or trap them inside. The difficulty was that the mine still had soldiers posted around it, and the party had never completed the second half of the original plan: sneaking in and preparing the mine itself.
-
-Nyx sketched what little they knew of the mine mouth and encampment.
-
-**Nyx:** "I guess that's the first question, is like, are we putting explosives in the mine, or at the mouth of the mine to collapse it?"
+**Nyx:** "Are we putting explosives in the mine, or at the mouth of the mine to collapse it?"
 
 **Witty:** "Do we want to, like, lure them deeply in and trap them and make them suffer? Or do we just want to, like, end it at once, you know?"
 
-**Nyx:** "So what you're saying is, do we want to close the mouth of the cave with them inside, or do we want to collapse the mountain?"
+Nyx framed the choice as sealing the cave mouth with the army inside, or collapsing the mountain itself.
 
-Nyx admitted that if left to him, he would choose the mountain.
+**Nyx:** "Someone else has to come up with the decision. I'm going to choose to collapse the mountain."
 
-Witty tried to hand the moral call to Berridin, who was in no condition to receive it.
+Witty asked Berridin, “a morally strong individual with strong convictions,” for input.
 
 **Berridin:** "I would love to make an input on this, but I am severely, severely dying right now."
 
 **Berridin:** "I very much like to go to sleep, my friends."
 
-That settled it. They were too exhausted, too injured, and too frayed to plan well.
+Nyx saw Berridin fading and tabled the planning.
 
-**Nyx:** "Alright, look, let's just... Let's just go get some rest, and in the morning, let's figure this shit out."
+**Nyx:** "Look, we had a really tough time. Let's just stay on it... Let's just go get some rest, and in the morning, let's figure this shit out."
 
 ---
 
-## 2) Milk, Missing Gold, and the Long Rest
+## 2) Milk, Missing Gold, and Sleep
 
-Before bed, Witty asked Berridin for milk. Berridin, nearly dead but still Berridin, agreed. The milk had to be built fresh.
+Before bed, Witty asked Berridin for a glass of milk. Berridin, somehow still polite through near-death, agreed.
 
-The missing gold then became impossible to ignore.
+Then Berridin realized the gold was gone.
+
+**Berridin:** "Does anyone know where all my gold is?"
 
 **Berridin:** "I had like a thousand of them. It is completely gone."
 
-Witty briefly wondered if it was his gold.
+The group pieced together the truth: the captain had taken all their confiscated belongings, and while the party recovered their gear, the shared gold was not among it.
 
-**Berridin:** "It's our gold. It's a shared pile of gold. That I was holding for us."
+**Nyx:** "I didn't... I didn't see any gold in our gear."
 
-The GM clarified the sequence: the captain had taken all their stuff; the party recovered equipment, but the coins were not with it. Berridin marked the gold as a secondary objective, though he only half-understood the debt situation and suspected he might somehow be responsible for paying it back. He also floated the possibility that he might be moving into Nyx’s place.
+**Nyx:** "There's no gold."
 
-Nyx realized the money problem was now real.
+That made the debt problem real again. The loan still existed, and Berridin was not entirely clear on how repayment worked.
 
-**Nyx:** "This whole money thing is starting to piss me off."
+**Berridin:** "I'm not financially savvy enough to understand how these loans work. But I think I have to pay it back at some point."
 
-He considered throwing Berridin off a cliff and did not, mostly because it would make the financial problem even more annoying.
+He wondered whether he might be moving into Nyx’s place, and then tried to pass his debts on to Nyx if that was legally possible. Nyx had the quiet realization that the financial fallout was now everyone’s problem.
 
-Meanwhile, **Witty** was shaken in a way the group had not seen before. This may have been the first time he had ever been in true danger. He climbed onto a thatched roof, sat alone for a while, drank warm fresh yak milk, and questioned himself.
+Witty, meanwhile, was shaken. The fight seemed to have been his first true brush with lethal danger. He climbed onto the roof with warm, freshly squeezed yak milk and sat alone for a while.
 
 **Witty:** "It's delicious."
 
-The party took a full **long rest**. Hit points, spell slots, and long-rest resources returned.
+The party finally took a **long rest**. Hit points, spell slots, and long-rest resources returned.
 
 ---
 
-## 3) Morning Plans — The Mine, the Army, and a Scout
+## 3) Morning at Ysidor’s House
 
-The next morning, Nyx brought the map back out. He could sketch the camp and the front of the mine, but not the interior.
+The next morning, Nyx brought the map back out. The party knew the front of the mine and the camp, not the mine interior.
 
-Berridin woke groggy and confused.
+Berridin woke groggy and several plans behind.
 
 **Berridin:** "I'm ready to poison the grog again. I think that's what we're doing next. Let's proceed with that plan."
 
-He had to be filled in on the failed chaos of the previous day.
+Ellara and Nyx had to explain that the grog plan had already gone catastrophically sideways.
 
 **Berridin:** "Wait, are you guys telling me that I attempted to solo kill the captain? In the middle of the Hýrda Ducal Encampment?"
 
 **Nyx:** "Maybe that is correct."
 
-That was enough for Berridin.
-
 **Berridin:** "Okay, perfect. I'm ready. I am not doing any more plans now."
 
-They clarified the stakes. The army would arrive in roughly a week, a little less now. The party could travel faster than the army, but the army was slower because of its supplies and warforged. They had one barrel of gunpowder, but the village and rebels also needed ore from the main mine to make weapons. If the party simply destroyed or collapsed the mine, they would also shut down Hýrda’s access to crucial supplies.
+Witty sat nearby with yak milk and a fantasy Bunsen burner, apparently pasteurizing it. He did not offer any to Berridin, assuming Berridin preferred his yak milk unpasteurized.
 
-The mine itself was probably on alert, but the level of alert was uncertain. Ellara wondered whether local stone goliaths might still be allowed inside to mine. They had not been. Witty suggested disguises. There was even talk of a trench-coat stone goliath stack.
+The broader stakes were still ugly. The Grand Duke’s force was moving slower than the party because of warforged, soldiers, and supplies, but it was still coming. The village also needed ore from the mine to make weapons, meaning the party could not simply destroy the mine without first trying to recover supplies.
 
-**Nyx:** "When you trench coat an avalanche."
+Berridin suggested a limited scout: check whether the two guards at the mine mouth had been reinforced, and do it without engaging.
 
-Berridin pushed for a more practical first step: scout the mine entrance without engaging. Last time, there had been two guards at the cave mouth before the party alerted everyone. If that had changed, the whole plan changed.
+**Berridin:** "Why don't we go check to see if we can even mine the mine, or if they actually increase the guards on that point."
 
-Berridin would cast **Invisibility** and scout. Nyx did not like sending him alone, but Nyx did not have Invisibility. Berridin brought Witty as support, mostly because Witty had **+6 Arcana** and could check for magical detection from a distance.
+Nyx agreed. Berridin would cast **Invisibility** and scout ahead. Nyx refused to let him go entirely alone, but stayed back. Witty came along at Berridin’s request to check for magical detection before the spell went up.
 
 ---
 
-## 4) Invisible Scout, Ant Collector
+## 4) The Invisible Scout and the Ants
 
-Berridin and Witty approached through sparse trees and three-foot grass. From a distance, they could see **two figures at the cave mouth**. Witty crawled on all fours. Berridin committed fully to the commando crawl.
+Berridin and Witty approached through sparse trees and three-foot grass. From a distance, they could see **two figures at the cave mouth**. Witty crawled on all fours. Berridin committed to a full prone crawl.
 
-Witty checked for magic from range (**Arcana 10**). He detected nothing, though he could not be sure whether that meant there was nothing or whether they were too far away.
+Witty scanned for magical barriers (**Arcana 10**) and detected nothing, though distance left the result uncertain. Berridin cast **Invisibility** and continued alone, knowing the spell was active because he was concentrating on it.
 
-Rather than risk moving closer together, Berridin cast **Invisibility** and continued alone. Witty stayed well back, still shaken from the previous day.
+Witty stayed behind. Yesterday’s danger had shaken him to his core.
 
-Berridin’s scout was careful and quiet. With **Perception 14**, he confirmed:
+Berridin moved through the tall grass toward the cave. With **Perception 14**, he confirmed there were still only two visible guards at the entrance. Looking back toward camp, he saw someone in the northern archery/lookout tower occasionally watching the mine mouth. No obvious new guard setup had appeared.
 
-- **Two guards** still stood at the cave mouth.
-- No one else appeared to be outside the cave.
-- One person was in the **northern archery/lookout tower**, occasionally looking toward the cave.
-- The mine guard setup did not appear significantly changed.
-- The cave mouth was wide enough for Berridin to slip inside without touching either guard.
+The cave mouth was wide enough to enter without touching the guards, so Berridin walked in invisibly, resisting the urge to do cartwheels. Inside, the air was cooler, the passage about three meters wide, and the light from outside faded quickly. He heard no guards. There was airflow deeper in, but no crawlable ventilation shaft. A dark side chamber lay farther in, where a light spell might be safer, but Berridin decided he had enough information: no extra guards seemed to be stationed inside the entrance.
 
-Inside, the cave was cooler and dark. Berridin had no darkvision and could not risk a light near the entrance. The passage began around three meters wide. He heard no guards. There was some airflow moving deeper into the mine, and a darker side chamber sat a little farther in. He considered Dancing Lights but decided he had enough.
+While he was gone, Witty noticed a line of ants. Curiosity took over. With a **natural 20 Survival check** for a total of **19**, he followed them to a large hidden mound and remembered that the ants were a useful alchemical ingredient. He carefully collected some in a jar with air holes, a twig, and a leaf.
 
-**Berridin:** "We know that they didn't station any more guards into the mine right now."
+When Berridin returned, Witty was gone. Berridin tried to track him (**Survival 12**) but found only badly disturbed grass. He whispered into the sending stone.
 
-He turned back.
+**Berridin:** "Witty, Witty, where are you?"
 
-Witty, meanwhile, had found ants.
+Witty did not have a sending stone; Ysidor had given his to Meri. The message went back to town instead.
 
-A line of ants in the grass caught his attention, and curiosity took over. He followed them with a surprisingly successful **Survival 19** and found a large ant mound. He remembered these ants were useful as an alchemical ingredient, though difficult to collect because they bite and sting. He wrote notebook observations, linking the ants to his recent brush with death, then carefully scooped some into a jar with air holes, a twig, and a leaf.
+Eventually Witty realized he was alone and made a bird call he thought Berridin would recognize (**Performance dirty 20**). Berridin heard it, failed to identify it (**Nature/Intelligence 6**), and concluded it was a gorgeous unfamiliar bird.
 
-When Berridin returned, Witty was gone.
-
-Berridin tried to track him (**Survival 12**) but the grass was too disturbed. He whispered into his sending stone, trying to reach Witty, only to be reminded that Witty did not have a sending stone. The message went back to town instead.
-
-Nyx heard it and started heading out, bringing a knife.
-
-Witty eventually realized he was alone and popped up to look. Neither he nor Berridin spotted the other. Witty used his bird knowledge and made a call he thought Berridin would recognize (**Performance dirty 20**). Berridin heard it, failed to identify it properly, and concluded it was a beautiful real bird.
-
-**Berridin:** "What a lovely bird."
-
-After more wandering, whistling, and mutual confusion, they found each other.
+After more tracking, whistling, and mutual confusion, Berridin and Witty found each other.
 
 **Witty:** "Oh, Berridin, you heard the bird, too?"
 
 **Berridin:** "Yeah, Witty, where the fuck were you? What did the ants do for us?"
 
-Witty proudly presented the ants. Berridin reported that he had the information they actually came for, and they headed back.
+Witty showed him the ants. Berridin reported that he had the actual scouting information, and they headed back.
 
 ---
 
 ## 5) Hýrda, Hýr, and Arcos
 
-While Berridin and Witty scouted, Ysidor gave Ellara a tour of Hýrda. She was interested because the village was so unlike what she knew. No one here knew about the Truth in the way she did.
-
-She asked about local religion.
+While Berridin and Witty were away, Ysidor gave Ellara a tour of Hýrda. Ellara was trying to understand the village, because no one here knew the Truth as she knew it.
 
 **Ellara:** "So there really isn't an Eulogian church? Eulogian temple?"
 
-Ysidor said the people of Hýrda knew of Eulogian Seminary, but it did not really stick here.
+Ysidor said Hýrda knew of the Eulogian Seminary, but it did not really stick here.
 
 **Ysidor:** "We're much more fond of Hýr."
 
-He explained Hýr as best he could: a deity of the mountain and of love, remembered by the stone goliaths. Hýr could be spoken of with any pronouns. Ysidor understood his people as having once been more warrior-like, though he did not believe they were defeated; they were too strong for that. He thought they had chosen a more peaceful life centuries ago. The stone goliaths had been in these mountains since before the founding of Ulaanbaatar, though Ysidor’s own village may or may not be that old.
+He explained Hýr as the mountain spirit his people revered: a deity of love, agriculture, mining, and the mountains themselves. Any pronoun worked. Stone goliaths had lived in the region since before the founding of Ulaanbaatar, though whether Hýrda itself was that old was uncertain.
 
-Ellara tried to explain her faith in return.
-
-**Ellara:** "No, the light is everywhere, but we do not directly worship the light. The light is a manifestation of the divine."
-
-Ysidor did not understand.
-
-Ellara framed love as one color split from a prism: one aspect of the Truth, not the whole of it.
+Ellara tried to explain her own faith through the image of a prism.
 
 **Ellara:** "Love is just one of the colors, but the truth is a single light that splits into the many elements that we observe."
 
-Ysidor nodded, understanding almost none of it.
+Ysidor nodded along without really understanding.
 
-As they walked, Ysidor pointed out places from childhood: where he fished, where he fought his first villager, where Meri used to fight him and beat him. The familiarity of it made Ellara nostalgic. Hýrda was different from her home, but it felt similar in ways that mattered.
+**Ysidor:** "Yes, yes, prisms and light, mm-hmm, yeah, love. Love is definitely a color, that's in a prism. Absolutely."
 
-Ysidor asked where she was from. Ellara said **Arcos**, a small highland town of a few hundred people, with harsh seasons and people who made it work.
+He redirected the tour toward childhood places: where he used to fish, where he fought his first villager, and where Meri used to fight him, or more accurately beat him.
 
-She started tearing up.
+The village made Ellara nostalgic. It was not her home, but it felt like home in ways the city never did. She told Ysidor about **Arcos**, her small highland town of a few hundred people, harsh seasons, and people who made it work.
 
-**Ellara:** "I miss it. It's been a while since I was able to see my... well. I guess..."
+She started to tear up.
 
-**Ysidor:** "We should go back. After this is done, we should go to your village."
+**Ellara:** "I miss it. It's been a while since I was able to see my..."
 
-Ellara said maybe. She thought she would like that.
+Ysidor said they should go back after this was done. Ellara thought she would like that.
 
 **Ysidor:** "And what color of the prism is your village?"
 
@@ -187,106 +161,101 @@ Ellara said maybe. She thought she would like that.
 
 ---
 
-## 6) The Mine Plan — Meri, Ardwin, and Weak Stone
+## 6) The Mine Plan Takes Shape
 
-Everyone regrouped at Ysidor’s house. Nyx was focused, sharpening weapons. Ysidor briefly tested one of Nyx’s bolts against a rock, decided it was not sharp because it did not pierce stone, then split the rock with his war pick.
+Everyone regrouped at Ysidor’s house. Nyx sharpened weapons and tried to keep his focus. Ysidor tested one of Nyx’s bolts against a rock, declared it not sharp enough because it failed to pierce stone, and then split the rock with his war pick.
 
-Nyx gave up arguing.
+**Nyx:** "They're bolts. They're meant to hit soft targets, not a fucking rock."
 
-Berridin reported the scouting clearly: two guards at the cave mouth, one lookout in the northern tower, no obvious guards inside the entrance, and no obvious magical barriers or detection, though Witty’s Arcana check had not been definitive.
+Berridin gave the scouting report:
 
-They took the question to **Meri** and **Ardwin, the blacksmith**.
+- Two guards still stood at the cave mouth.
+- A northern lookout tower occasionally watched the entrance.
+- The main camp still held many soldiers.
+- No one appeared to be stationed inside the cave entrance.
+- Witty had detected no magical barriers, though the check was not definitive.
+- The encampment seemed focused on itself, not the mine.
 
-Berridin explained the plan: bait the reinforcements into the mine and collapse or trap them. Meri said the mine was deep enough for that. There were no blueprints; the miners knew it by memory.
+Berridin wanted to ask Meri about the mine’s layout and how to bait soldiers inside. Meri was working with **Ardwin, the blacksmith**, and confirmed the mine could serve the plan.
 
-The mine had:
+**Meri:** "We could get them in, no problem. The mines go deep enough. As for blueprints, we don't have any blueprints."
 
-- One chamber off the entrance.
-- Deeper chambers farther in.
-- Branches following ore veins.
-- Only **one way in and one way out**.
+The miners had dug the mine themselves and knew it by memory. The layout had one chamber off the entrance, deeper chambers branching along ore veins, and only **one way in and one way out**. Anyone trapped inside would have to dig their way out.
 
-If someone were locked in, they would have to dig their way out.
+Berridin considered disguising himself as Meri to lure soldiers in, since she was a high-value target. Meri agreed the Duke’s people wanted her head, but pointed out that Little Hill and the rest of the party had also made themselves hated.
 
-Berridin considered disguising himself as Meri, since she was a high-value target and might bait the army. Meri reminded him that the party had become a serious problem for the Duke’s forces too.
+The village still needed ore and supplies. The plan became more specific: get miners into the mine, extract what they could, identify weak points, and help prepare the collapse.
 
-**Meri:** "I think you've been as much of a pain in their ass as I have."
-
-The village still needed ore and supplies from the mine. Based on the party’s plan, miners would go in with them while the explosives were set. The miners could extract what they could for the holdout, since they had not been able to access the mine since the Ducal Army arrived.
-
-The working plan formed:
-
-- Quietly incapacitate the two guards at the cave mouth.
-- Avoid alerting the tower lookout.
-- Use false guards or illusions to make the entrance look normal.
-- Escort miners inside.
-- Let the miners extract supplies and identify weak points.
-- Have Witty and the party set explosives.
-- Later use the prepared mine as the trap against the army.
-
-Witty confirmed they had one barrel of gunpowder, but he wanted more material to amplify it. Nyx asked whether the village had anything useful, including yak manure.
+They had only one barrel of gunpowder. Nyx asked whether the village had anything that could amplify it, including yak manure.
 
 **Nyx:** "I know, but it's that, or you don't have a village anymore."
 
-The villagers could spare some, though not much.
+Meri could see what could be spared, though the village needed manure for crops.
 
-Ysidor then offered the key improvement: do not rely on explosives alone.
+Ysidor offered the better answer: weaken the stone first.
 
-**Ysidor:** "Why don't we weaken the cave walls before using the explosives?"
-
-He could crack the stone; the miners already knew how to weaken rock without explosives. Meri and Ardwin agreed that miners could help identify fissures and weak points, then lace them with charges.
+**Ysidor:** "Not with Nyx's arrows, but I could easily crack the cave walls and make them weak enough to collapse."
 
 Nyx grinned.
 
 **Nyx:** "Yeah, that's a good idea."
 
-Ardwin wanted about a dozen miners if possible, at least half a dozen if necessary. Fewer would make the work take longer.
+Ardwin wanted about a dozen miners if possible; half a dozen could work, but it would take longer. The remaining problem was the tower lookout. They could probably incapacitate the two cave-mouth guards, but sneaking miners in without being seen was harder.
 
-The main remaining issue was the lookout. The two guards could probably be dropped, but moving a dozen miners into the mine without being seen was harder. Meri said they did not need to kill the lookout. They only needed him to see nothing wrong, or to be looking somewhere else while everyone moved.
+Meri did not want the guards killed.
 
-Ellara had the best Perception at **+6**, so she became the outside lookout. Berridin would cast **Silence** over the guards during the attack. Nyx, Ysidor, Witty, Meri, and others would incapacitate them, drag the bodies inside, and Berridin would use **Minor Illusion** to simulate guards at the entrance.
+**Meri:** "I wouldn't want to kill them. We've already had enough bad blood between everything here."
 
-Witty clarified the handling limits of their explosives.
+The final plan for the night was:
 
-**Witty:** "I wouldn't drop it from a height any higher than two feet."
+- Ellara stays outside as lookout.
+- Berridin casts **Silence** over the guards.
+- Meri and the party incapacitate the two cave-mouth guards.
+- The bodies are moved into the cave.
+- Berridin uses **Minor Illusion** to make the entrance look normal.
+- Miners enter when Ellara calls the timing safe.
+- Witty handles the explosives.
+- Miners extract supplies and mark or weaken fissures.
 
-Berridin tried to frame this as a new era of good judgment.
+Witty clarified the handling risk.
 
-**Berridin:** "We're responsible now. That's our new motto."
+**Witty:** "Be careful. Don't fall. Get hit."
 
-They decided to do it that night.
+He had expected to hand the explosives off, but Berridin made clear that Witty was the one who actually knew what he was doing.
+
+**Witty:** "I can do it. I can do it."
+
+**Berridin:** "I believe in you, Witty. I know you can keep focused. We can do this."
 
 ---
 
 ## 7) Owl Watch and the Silent Takedown
 
-Before the night attempt, Ellara secretly found an owl. She did not want the others to know she could speak with animals. She gathered meat, cast **Speak with Animals** as a ritual, and called one in.
+They committed to doing it at night. Before the operation, Ellara quietly slipped away with meat and cast **Speak with Animals** as a ritual. She wanted an owl’s help, and she wanted that private.
 
 **Ellara:** "Hello owl."
 
-The owl wanted human food.
+**Owl:** "Human food?"
 
-Ellara offered food if it would watch the area for a few hours and warn her about guards, unusual movement, or shiny humans looking toward the cave. With **Animal Handling 17** at advantage, the owl accepted, mentioned chicks to feed later, and flew off silently.
+Ellara offered a deal: food in exchange for watching the area for a few hours and warning her if guards, shiny humans, or anything unusual looked toward the cave entrance. With **Animal Handling 17** at advantage, the owl accepted.
 
-That night, the group moved toward the cave. The group Stealth check succeeded, with high rolls carrying the lower ones. Ellara had some kind of cloak effect spread over everyone.
+**Owl:** "It's a deal, human. I have chicks to feed later."
 
-They reached casting range.
+The owl flew off silently.
 
-**Berridin:** "When I cast silence, that's basically when we're gonna have to start the attack."
+The party crept toward the guards under Ellara’s broad cloak. The group **Stealth** check succeeded, strong rolls covering weaker ones, and they reached casting range.
 
-He cast **Silence** in a 20-foot radius from 120 feet away, placed so he and Witty could still cast from outside it if needed.
+**Berridin:** "I will cast silence and let you know immediately. And then you guys will attack."
 
-Nyx opened with two crossbow shots rather than Hunter’s Mark, since Hunter’s Mark would cost his bonus action. His first shot hit (**25**) for **11 total damage** with Dreadful Strike, leaving the guard critical but standing. His second shot hit (**22**) for **6 damage**. He declared it nonlethal before the bolt landed.
+Berridin placed **Silence** on the guards without catching himself and Witty inside it. Screams would not carry; verbal spellcasting inside the sphere would fail.
 
-**Nyx:** "I go for non-critical, non-lethal."
+Nyx opened with dual crossbows. He dropped the idea of **Hunter’s Mark** because it would cost the bonus action he needed for the second shot. The first attack hit (**25**) for **11 damage** with **Dreadful Strike**, leaving the guard barely standing. The second hit (**22**) for **6 damage**, and Nyx chose nonlethal before the bolt landed. The first guard collapsed.
 
-The first guard dropped, incapacitated.
+Ysidor attacked the second guard with his trident (**18 to hit**) for **8 damage**. He chose not to use Divine Smite, both to avoid killing the guard and because the silence complicated verbal invocation. He tried to topple the guard, but the guard passed the save (**Con 16 vs DC 15**).
 
-Ysidor attacked the second guard with his trident (**18 to hit**) and chose not to smite, not wanting to kill him. He tried to topple the guard, but the guard succeeded on a **Con save 16 vs DC 15** and stayed up.
+Witty stepped outside the Silence sphere and cast **Ray of Sickness** into it. The spell hit for **9 damage**, and the guard keeled over vomiting, incapacitated.
 
-Witty, standing outside the Silence, cast **Ray of Sickness** into it. The spell hit for **9 damage**, and the guard keeled over vomiting.
-
-Both guards were incapacitated, not killed.
+Both guards were down. Neither was killed.
 
 **Nyx:** "We're trying to be better."
 
@@ -294,162 +263,119 @@ Then, after a beat:
 
 **Nyx:** "Until, until, until it's inconvenient."
 
-Berridin had the bodies moved into the cave and kept Silence up as needed. He used **Minor Illusion** to create the image of guards standing at the cave mouth. Ellara stayed outside as lookout. Everyone else entered the mine with the miners.
+Berridin kept Silence up while the bodies were dragged into the cave, then used **Minor Illusion** to simulate guards at the entrance. Ellara remained outside as lookout. Everyone else moved into the mine with the miners.
 
 ---
 
-## 8) Work in the Dark — Charges, Ore, and a Stirring Presence
+## 8) Work in the Dark
 
-Inside, the miners moved 30-40 feet in before lighting sconce torches. The cave widened. Berridin recognized the side chamber from his earlier scout, with carts and supplies.
+The miners moved thirty or forty feet in before lighting sconce torches. The mine opened into a larger cavern. Berridin saw the side chamber he had noticed earlier, now revealed to hold carts and supplies.
 
-The miners worked with practiced familiarity:
+The miners worked with practiced efficiency. Some marked weak points and fissures. Others moved deeper in, and the sound of pickaxes echoed from farther inside. The final cracking and explosive work would come later, once the best points had been identified.
 
-- Some identified weak points and fissures.
-- Some went deeper for ore and supplies.
-- Pickaxes started echoing farther inside.
-- The actual cracking and collapse preparation was being saved for the end.
+Witty had prepared explosive packets from the barrel and began priming and setting them. Nyx watched, for once able to let other people handle the specialized work. Berridin maintained the false guards. Ysidor waited for the moment when the stone itself would need to be weakened.
 
-Witty had prepared smaller explosive packets from the barrel and began priming and setting charges. Nyx watched, feeling for once that others had the work in hand. Berridin maintained the guard illusions. Ysidor waited for the point where the stone itself needed to be weakened.
+Outside, Ellara kept watch on the archer with **Perception 18**. Then she felt something old and strange ringing at the edge of her senses, like the extra feeling she had noticed before when using magic here. Something had moved, awakened, or become piqued.
 
-Outside, Ellara watched the archer and the approach (**Perception 18**). The owl watched too.
+Inside the mountain, Ysidor felt it too (**Religion 16**). Hýr was the mountain itself, and Ysidor’s oath to love was tied to the love Hýr represented. Within the mountain, that connection felt stronger than it had in a long time.
 
-Then Ellara felt something familiar begin to ring at the edge of her senses. It was like what she had felt before when casting magic here, especially **Moonbeam**. Not quite a chill. Something was moving, awake, or piqued.
-
-**Ellara:** "Moving."
-
-Ysidor, inside the mountain, felt something too (**Religion 16**). His connection to **Hýr** was stronger than it had felt in a long time. Hýr was represented by the mountain itself; Ysidor’s oath was to love, and that was the love Hýr embodied. Here, within the mountain, the connection was immediate.
-
-Ellara tried to meditate and commune with the feeling. Ysidor grabbed his amulet, closed his eyes, and listened to the mountain.
+Ellara tried to meditate toward the presence. Ysidor took his amulet, closed his eyes, and listened to the mountain.
 
 They reached at the same time.
 
-Instead of Ellara finding the familiar spirit she expected, **everyone** heard a voice internally.
+A voice appeared inside everyone’s mind, slow and waking.
 
-**Voice:** "I thought I heard something..."
+**Hýr:** "I thought I heard something."
 
-**Voice:** "Oh. Oh. This has been a long time since I felt something down here."
+**Hýr:** "This has been a long time since I felt something down here. Some of my children are here."
 
-**Voice:** "Some of my children are here, and oh, oh, well, this is surprising."
+**Hýr:** "Oh, well, this is surprising."
 
-Ysidor thought the voice was speaking only to him and answered in his mind.
+Ysidor answered in thought.
 
 **Ysidor:** "Hýr, is that you?"
 
-Everyone heard the thought.
+Everyone heard him.
 
-**Voice:** "Oh, my little stone child, yes, I've been asleep for a very long time, but in my dreams, I hear your people."
+**Hýr:** "Oh, my little stone child, yes, I've been asleep for a very long time, but in my dreams, I hear your people."
 
 ---
 
-## 9) Hýr Remembers — Nites, the Pass, and the Missing Name
+## 9) Hýr Remembers
 
-Ellara immediately ran the experience through Eulogian doctrine. The orthodox view was simple: there were no gods besides Eulogia. A being like Hýr would be false, shadow-marked, or a deception. A more academic view might call such powers spirits or remnants of old explanations, but pre-Eulogia history was suppressed, and even that generous interpretation would not be considered enlightened.
+Ellara’s mind immediately ran the encounter through Eulogian teaching. The hardline Seminary view would call beings like Hýr false gods or deceivers tied to the Shadow Monarch. Deeper history admitted there were gods before Eulogia, but official stories called them fake, weak, dead, or primitive explanations from before enlightenment. The most generous academic view might call Hýr a powerful spirit. The official line remained simpler: there are no other gods besides Eulogia.
 
-The voice continued. It had heard prayers, though the world’s comings and goings had passed beyond it. The last time it woke, the world had been in danger. There had been a young girl, but whenever the being tried to say her name, everyone heard painful static.
+Hýr said the last time it woke, the world was in danger. It remembered a young girl, but whenever Hýr tried to say her name, static tore through the party’s minds. Hýr did not seem to notice the censorship.
 
-The girl had asked for passage for her people. They were running. It was in the west. She asked the mountain-being to move itself and make a great passage.
+The girl had asked for passage for her people. They were running. It was in the west, and she had asked Hýr to move itself, to make a great passage.
 
-Witty rolled **History 16**. Ellara rolled **Religion 19**.
+Witty understood the historical shape of it (**History 16**): the main western pass through the mountains, the passage into the empire from Hieroterra, formed during the **Great Cataclysm**.
 
-Witty recognized the likely reference: the great western pass through the mountains, formed during the **Great Cataclysm**, the main passage into the empire from Hieroterra.
+Ellara understood the religious shape (**Religion 19**): **Nites** praying, and the mountains moving.
 
-Ellara recognized the story from religious text: **Nites** praying, and the mountains moving.
+**Hýr:** "When I moved myself and split myself, it had taken so much."
 
-The being explained that time was strange when asleep. Some of the party felt familiar, or like old patterns repeating. Something familiar had reached the edge of its dreams, and when they crawled inside, it woke.
+Ellara asked if Hýr had really been there.
 
-**Voice:** "I'm so tired."
+**Hýr:** "I am these mountains."
 
-**Voice:** "When I moved myself and split myself, it had taken so much."
+**Hýr:** "I dwell in them. I am the spirit of them."
 
-Ellara asked whether it had really been there.
+Hýr said the stone goliaths had kept Hýr’s memory alive. Their faith, offerings, and prayers sustained Hýr through long dreams, though the world was no longer kind to Hýr. Hýr sensed familiar patterns in more than one of the party, beyond Hýr’s own children. Time, after so long asleep, was strange.
 
-**Voice:** "I am these mountains."
+Ellara asked if Hýr meant **Nites**, but Hýr did not recognize that name. Hýr remembered a young woman whose true name the party could not hear. Every attempt became painful static. Hýr also remembered someone who had been very ill and found, someone who did not seem ill anymore.
 
-**Voice:** "I dwell in them. I am the spirit of them. I have been kept—my memory has been kept by—my children."
+Ellara worked out that Hýr had been asleep for roughly **600 to 650 years**.
 
-The faith of the stone goliaths had sustained Hýr through dreams, though the world was no longer kind to such beings. Some of what Hýr tried to say was swallowed by static.
+**Ellara:** "600 years? But I don't know how this is all possible."
 
-Ysidor tried to place Hýr in familiar terms.
+The group tried to understand the static. The threshold for any clue was impossibly high, but Berridin rolled **Arcana natural 20**.
 
-**Ysidor:** "Like a god?"
+The realization struck: the voice was not new. Berridin remembered hearing it when the party first came here, after darkness and falling, surrounded by others in fever-dream confusion. The censored name may have been present then too, but it could not be recalled.
 
-**Ysidor:** "Not to rank gods or anything, but mine's older, but, you know."
+Nyx reached for the name and found it on the tip of his tongue, slipping away every time he tried to grasp it. This was not ordinary forgetting. It was vast, world-moving magic, almost as if the world itself had been altered. Even Hýr, the mountain range itself, was affected.
 
-Hýr did not explain itself that way. It only said the party was moving deep within it. It remembered providing gifts before. It remembered someone who had been very ill and found.
-
-**Voice:** "Though, you don't seem ill anymore. Interesting."
-
-It asked how long it had slept. Ellara estimated around **600 to 650 years**.
-
-Witty looked at Nyx.
-
-**Witty:** "Nyx, were you around then? Nyx has been around since then, right? You're like, old and shit."
-
-Ellara asked if Hýr meant **Nites**, but Hýr did not recognize that name. It remembered a young woman, but the name was always static, almost painful. Hýr did not seem aware that its words were being censored.
-
-Ysidor wondered whether they could identify the source of the censorship. The GM said only a **natural 20 Arcana** might reveal anything.
-
-Berridin rolled a **natural 20**.
-
-The realization struck through Nyx.
-
-This was not the first time he had heard this voice. He had heard it when he first came here: after darkness and falling, surrounded by others, in a fever-dream state. His memories were tangled with nightmares, but the shape of the voice was there.
-
-The censored name felt almost on the tip of his tongue. When he reached for it, it slipped away.
-
-Nyx understood that this was not ordinary forgetting. This was vast, world-moving magic, cast not on one person but on the world itself. Given his other experiences, Hýr belonged in the same category as the enormous beings he had encountered before: not a dragon in a mountain, but the mountain range itself, or something so tied to the mountains that they were its body.
-
-And even Hýr was affected by the censorship.
-
-Nyx, shaken past pretense, spoke quietly.
+Nyx dropped all pretense.
 
 **Nyx:** "I know you."
 
 **Nyx:** "Where are you?"
 
-**Voice:** "Weren't you the one that threw?"
+**Hýr:** "Weren't you the one that threw? They found you here. You are the same that they found here."
 
-**Voice:** "They found you here. You are the same that they found here."
+Hýr remembered Nyx being found during the censored events. The people involved took him with them, unsure whether he would survive.
 
-Hýr remembered that when the static-blotted events were happening, Nyx had been found. The people who had asked for passage took him with them. They had not known whether he would survive.
+**Hýr:** "I suppose you survive, even if you don't remember."
 
-He did.
+**Hýr:** "Memories are etched in stone, and even stone fades away in dreams. I'm getting tired."
 
-**Voice:** "Memories are etched in stone, and even stone fades away in dreams. I'm getting tired."
+Meri recognized the voice too.
 
-Meri recognized the voice faintly too.
+**Hýr:** "Oh my Priestess, I do hear you call in my dreams. It is so nice that we could meet for once, but I do feel that the dreams are coming back."
 
-**Meri:** "I thought I have... heard your voice before?"
-
-**Voice:** "Oh my Priestess, I do hear you call in my dreams. It is so nice that we could meet for once, but I do feel that the dreams are coming back."
-
-Hýr thanked Meri for offerings and prayers, said they sustained it, apologized if it had failed her, and offered a boon.
-
-Nyx quietly told Meri to take it.
+Hýr thanked Meri for the offerings and prayers, apologized if Hýr had failed her, and offered a boon. Nyx, very quiet, told Meri to take it.
 
 **Nyx:** "Take your boon. We have a lot to talk about."
 
-Meri explained the situation: they needed help with the explosives and the mine plan.
+Meri explained the mine plan and the danger to Hýrda. Hýr understood the explosives, though the word itself seemed odd to the ancient mountain spirit. Hýr could not divide itself again or make itself lesser as it had during the Great Cataclysm, but Hýr could guide the plan and ensure the endeavor’s success.
 
-Hýr said it did not have the power to divide itself again or make itself lesser, and it feared doing so, but it could guide the plan and guarantee the endeavor’s success.
+**Hýr:** "My power is not what it was, but I can at least ensure my people safety."
 
-**Voice:** "My power is not what it was, but I can at least ensure my people safety."
-
-Hýr began slipping back into sleep. Nyx still had too many questions and too much he did not want to say aloud.
+Nyx had more questions than he could safely ask aloud.
 
 **Nyx:** "Can I find you here?"
 
-**Voice:** "I will move. I am the mountain. I do not move. I just slumber."
+**Hýr:** "I am the mountain. I do not move. I just slumber."
 
-Hýr did not think Nyx could wake it again. This had been fate, or something like it: familiar patterns repeating.
+Hýr believed Nyx could awaken Hýr again. This had been fate, or something like it: familiar patterns repeating.
 
 **Nyx:** "I have a question for you before you leave. Will this happen again? What happens next?"
 
-**Voice:** "Repeating. Everything rhymes, and so I do slumber."
+**Hýr:** "Everything rhymes, and so I do slumber."
 
-Then Hýr slept again.
+Hýr went back to sleep.
 
-Nyx was left with one clear thought.
+Nyx was left with one thought.
 
 *It's going to happen again.*
 
@@ -457,29 +383,25 @@ Nyx was left with one clear thought.
 
 ## 10) Static, Sacred Names, and Nyx’s Age
 
-After Hýr’s presence faded, Nyx asked whether everyone else had heard the static when the voice tried to say a certain name.
-
-Ysidor had thought the conversation was private.
+After Hýr faded, Nyx asked whether everyone else had heard the static when the name should have been spoken.
 
 **Ysidor:** "You guys could hear that?"
 
-Nyx explained what he understood. Some fundamental, deep, planetary magic was censoring whatever Hýr tried to say. It was not that Hýr was fighting the magic. The magic simply happened. Some things were taboo, and when they were spoken, they were removed.
+Nyx explained that the static had replaced an actual name. Whatever caused it was not a normal curse or memory lapse. It was deep, fundamental magic, possibly world-scale, censoring something taboo. Hýr did not even seem aware of it.
 
 **Nyx:** "So why? How? No idea. But I think I do know what it is."
 
-He included Ellara in the explanation through the sending stone and shared update.
+Berridin considered testing the effect by shouting names.
 
-Berridin wondered if they could replicate the effect by shouting names.
+**Berridin:** "I'm just gonna start listing out names, guys, okay? Berridin?"
 
-**Berridin:** "Can we replicate it by just yelling out names?"
+Ellara stopped him with the practical problem: if the effect only applied to Hýr, or only to the forbidden name from certain mouths, they would never know whether Berridin had guessed correctly.
 
-Ellara pointed out the problem: if the magic only affected Hýr, or only certain kinds of speech, they would never know if Berridin had guessed correctly. Berridin accepted the point.
+Ellara brought up **Nites**. Nites was an epithet or title, not a birth name. Eulogian Seminary teaches that the true name of Nites is sacred and not uttered, pushed so far that the true name is not even known.
 
-Ellara clarified that **Nites** was an epithet or title, not a birth name. The party did not know her birth name. Eulogian Seminary teaches that Nites’ true name is sacred and should not be uttered, taken even further than a prohibition against profaning a holy name: the true name is not known at all.
+Berridin looked at Nyx differently.
 
-Berridin looked at Nyx differently after the exchange with Hýr.
-
-**Berridin:** "Are you Nyx? Like... I was like, hearing that whole thing, like..."
+**Berridin:** "Are you Nyx? Like... hearing that whole thing, like..."
 
 **Nyx:** "I'm old as shit."
 
@@ -493,23 +415,23 @@ Berridin looked at Nyx differently after the exchange with Hýr.
 
 | **Thread** | **Status & Evidence** |
 | --- | --- |
-| **Army Clock** | The Grand Duke’s force is still a little under a week away, slowed by supplies and warforged/automatons. |
-| **Mine Operation** | The party entered the mine at night, incapacitated the two cave-mouth guards nonlethally, and got miners inside under illusion cover. |
-| **Explosives Plan** | Witty is setting prepared charges from the single barrel of gunpowder. Miners are identifying weak points and fissures so the collapse does not rely on powder alone. |
-| **Hýr’s Boon** | Hýr cannot split or move itself again as it did during the Great Cataclysm, but has offered to guide the plan and ensure its people’s safety in this endeavor. |
-| **Mine Layout** | One entrance, one exit. One chamber near the entrance, deeper chambers and branching ore veins beyond. No blueprints; miners know it by memory. |
-| **Mine Security** | Two cave-mouth guards are down and hidden. One northern tower lookout remains a risk. No obvious magical detection was found, but Witty’s Arcana check was not definitive. |
-| **Ellara’s Owl** | An owl is watching for guards, unusual movement, or shiny humans looking toward the cave. Ellara remains outside as the primary lookout. |
-| **Hýr Revealed** | Hýr appears to be the spirit of the mountain range itself, sustained in dreams by the stone goliaths’ prayers and offerings. |
-| **Nites and the Pass** | Hýr remembers a young woman, likely tied to Nites, asking the mountains to move during the Great Cataclysm. The name itself is censored by vast magic. |
-| **The Static** | The censorship is not normal forgetting. Nyx understands it as world-scale magic that affects even Hýr. |
-| **Nyx’s Past** | Nyx has heard Hýr before. He was found here after darkness and falling, gravely ill or near death, and taken with the people tied to the censored event. |
-| **Missing Gold** | The party’s shared gold, roughly 1,000-2,000 gp, is still missing after the captain confiscated their belongings. The house debt remains unresolved. |
+| **Mine Operation** | The party entered the mine at night, incapacitated the two cave-mouth guards nonlethally, hid them inside, and covered the entrance with Berridin’s **Minor Illusion** guards. |
+| **Lookout Risk** | A northern tower lookout still occasionally watches the cave mouth. Ellara remains outside with **Perception 18**, aided by an owl she recruited with **Speak with Animals**. |
+| **Explosives Plan** | Witty is setting prepared charges from the single barrel of gunpowder. Miners are marking fissures and weak points so Ysidor and the explosives can work together. |
+| **Ore and Supplies** | Miners are inside extracting what they can before the mine becomes a trap or collapse site. This is the village’s main mine and a key source of weapons material. |
+| **Mine Layout** | No blueprints exist. The miners know the mine by memory: one entrance, one exit, a chamber off the entrance, and deeper branches following ore veins. |
+| **Hýr’s Boon** | Hýr, the mountain spirit sustained by stone goliath faith, offered to guide the endeavor and ensure Hýrda’s safety, though Hýr cannot split or move the mountains again. |
+| **Great Cataclysm Link** | Hýr remembers a young woman, likely tied to **Nites**, asking the mountains to move and create the western pass during the Great Cataclysm. Her name is censored by vast magic. |
+| **The Static** | The censorship is not ordinary forgetting. Berridin’s **Arcana natural 20** revealed world-scale magic changing what can be known or heard, affecting even Hýr. |
+| **Nyx’s Past** | Hýr remembers Nyx being found here after darkness and falling, gravely ill or near death, during the censored events. Nyx has heard Hýr before. |
+| **Army Clock** | The Grand Duke’s reinforcements remain less than a week away, slowed by soldiers, supplies, and warforged or automatons. |
+| **Missing Gold** | The captain still has the party’s shared gold. The debt or loan remains unresolved. |
 
 ### Next Steps
 
-1. Finish extracting ore and supplies from the mine before the window closes.
-2. Complete the explosive setup with Hýr’s guidance and the miners’ weak-point work.
-3. Keep the tower lookout from noticing the missing guards or the miners entering and leaving.
-4. Decide how to use the prepared mine trap when the Grand Duke’s army arrives.
-5. Question Nyx, Meri, and the implications of Hýr’s memories once the immediate operation is secure.
+1. Finish extracting ore and supplies before the mine operation window closes.
+2. Complete the charge placement with Witty, the miners, Ysidor’s stonework, and Hýr’s guidance.
+3. Keep the tower lookout from noticing the missing guards or the movement of miners.
+4. Withdraw the miners and preserve the illusion long enough to keep the encampment calm.
+5. Decide exactly how to lure the Grand Duke’s army into the prepared mine.
+6. After the immediate danger passes, debrief Nyx, Meri, and the implications of Hýr’s memories.

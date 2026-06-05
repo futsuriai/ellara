@@ -708,9 +708,9 @@ Ellara asks if Hýr means Nites. Hýr does not recognize that epithet.
 Hýr remembers a young woman whose unknown birth name is swallowed by static. Every time Hýr says the name, it hits like static in their heads, nearly painful. Hýr herself does not perceive the censorship.
 
 check: Arcana on the censored name/source of effect requires nat 20 for a clue.
-check: Berridin Arcana = nat 20.
+check: Nyx Arcana = nat 20.
 
-The voice is not new. Berridin remembers hearing it when they first came here, after darkness and falling, surrounded by others, fever-dream confused. The censored name may have been heard once or twice in those dreams, but cannot be recalled.
+The voice is not new to Nyx. He remembers hearing it when he first came here, after darkness and falling, surrounded by others, fever-dream confused. The censored name may have been heard once or twice in those dreams, but cannot be recalled.
 
 Nyx tries to reach for the name. It is on the tip of his tongue, but whenever he goes for it, it slips out of reach like trying to grab the wind.
 

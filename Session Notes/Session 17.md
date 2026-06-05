@@ -329,9 +329,9 @@ Ellara worked out that Hýr had been asleep for roughly **600 to 650 years**.
 
 **Ellara:** "600 years? But I don't know how this is all possible."
 
-The group tried to understand the static. The threshold for any clue was impossibly high, but Berridin rolled **Arcana natural 20**.
+The group tried to understand the static. The threshold for any clue was impossibly high, but Nyx rolled **Arcana natural 20**.
 
-The realization struck: the voice was not new. Berridin remembered hearing it when the party first came here, after darkness and falling, surrounded by others in fever-dream confusion. The censored name may have been present then too, but it could not be recalled.
+The realization struck Nyx: the voice was not new. He remembered hearing it when the party first came here, after darkness and falling, surrounded by others in fever-dream confusion. The censored name may have been present then too, but it could not be recalled.
 
 Nyx reached for the name and found it on the tip of his tongue, slipping away every time he tried to grasp it. This was not ordinary forgetting. It was vast, world-moving magic, almost as if the world itself had been altered. Even Hýr, the mountain range itself, was affected.
 
@@ -422,7 +422,7 @@ Berridin looked at Nyx differently.
 | **Mine Layout** | No blueprints exist. The miners know the mine by memory: one entrance, one exit, a chamber off the entrance, and deeper branches following ore veins. |
 | **Hýr’s Boon** | Hýr, the mountain spirit sustained by stone goliath faith, offered to guide the endeavor and ensure Hýrda’s safety, though Hýr cannot split or move the mountains again. |
 | **Great Cataclysm Link** | Hýr remembers a young woman, likely tied to **Nites**, asking the mountains to move and create the western pass during the Great Cataclysm. Her name is censored by vast magic. |
-| **The Static** | The censorship is not ordinary forgetting. Berridin’s **Arcana natural 20** revealed world-scale magic changing what can be known or heard, affecting even Hýr. |
+| **The Static** | The censorship is not ordinary forgetting. Nyx’s **Arcana natural 20** revealed world-scale magic changing what can be known or heard, affecting even Hýr. |
 | **Nyx’s Past** | Hýr remembers Nyx being found here after darkness and falling, gravely ill or near death, during the censored events. Nyx has heard Hýr before. |
 | **Army Clock** | The Grand Duke’s reinforcements remain less than a week away, slowed by soldiers, supplies, and warforged or automatons. |
 | **Missing Gold** | The captain still has the party’s shared gold. The debt or loan remains unresolved. |

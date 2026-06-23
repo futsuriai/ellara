@@ -29,8 +29,6 @@ Nyx pressed the point: they were missing one now, and if Witty could make one, h
 
 Ellara was still trying to process what had happened. Through the open sending-stone channel to Ysidor and Meri, she asked if the village had books, an old record keeper, or anyone who could explain the local history of Hýr.
 
-**Ellara:** "Is there any books or something about the history of the earth?"
-
 **Ellara:** "I need to confirm some things."
 
 **Ellara:** "I just can't process what just happened."
@@ -69,9 +67,7 @@ He shared the feeling with Berridin as best he could, smiling and patting him on
 
 Witty helped finish the explosive work (**Witty Intelligence with advantage 11**). The earlier placements were settled, though he noticed some miners adjusting parts of the setup slightly from what he intended. Not badly, just differently. Everyone was still making good time.
 
-Ellara kept watch with the owl while the party discussed how the cave would actually be detonated when the army arrived in about a week.
-
-**Witty:** "Am I going to have a comically long fuse on a reel that I'm having to wheel outside?"
+Ellara kept watch with the owl while the party discussed how the cave would actually be detonated when the army arrived in about a week. The group talked through whether the trigger needed a long physical fuse, wiring, or some other backup.
 
 Berridin wondered if a sending stone could trigger a fuse, but the stones did not seem to create sparks or work through electricity. So he proposed something more personal: run in disguised as Meri, cast invisibility, sneak out, and use a cantrip on the way out if needed. Mostly, he wanted a backup plan.
 
@@ -109,13 +105,7 @@ The coast was clear.
 
 **Ellara:** "Don't be afraid. You don't have to worry too much right now. They seem to be otherwise occupied."
 
-She watched the group come out through the owl’s eyes. Only once she knew they were safe did she pull back into herself. The world felt muted afterward, quieter and smaller than it had through the owl.
-
-**Ellara:** "You're interesting."
-
-**Ellara:** "Now I've tasted the freedom of soaring..."
-
-Before breaking contact, she sent the owl gratitude and the hope that they could speak again. The owl answered with a hunting screech in the night, then dove after prey. Ellara left before seeing the end of the hunt.
+Once the group was safe, Ellara released the owl’s senses and returned to herself. Before breaking contact fully, she sent the owl gratitude and the hope that they could speak again. The owl answered with a hunting screech in the night, then dove after prey. Ellara left before seeing the end of the hunt.
 
 She rejoined the group quieter than usual, shaken by the voice of something tied to one of the most important stories in her faith. She wanted answers, but she waited until they were back at the village.
 
@@ -247,7 +237,7 @@ Ellara found a blanket, likely from Ysidor’s place, and brought it out to cove
 
 **Witty:** "Thanks, mom, mama."
 
-**Ellara:** "Mom, not like Jeeves or something? It's been a long day."
+Ellara was too tired to argue the title. She just made sure he was covered.
 
 Nyx remained outside against Ysidor’s house. Berridin, Ysidor, and Ellara went indoors.
 

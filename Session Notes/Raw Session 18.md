@@ -28,7 +28,7 @@ witty: "Yeah, I can do that for us, but I'm pretty tired. So maybe later, after 
 
 Ellara, still processing the religious experience, reaches out through the open sending-stone channel to Ysidor/Meri.
 
-ellara: "Is there any books or something about the history of the earth?"
+ellara asks whether there are books, an old record keeper, or someone who can explain the local history of Hýr.
 
 ellara: "I need to confirm some things."
 
@@ -86,7 +86,7 @@ Ellara continues keeping watch with the owl.
 
 The party discusses how the cave explosives will be detonated when the army arrives in about a week.
 
-witty: "Am I going to have a comically long fuse on a reel that I'm having to wheel outside?"
+Witty considers whether the trigger needs a long physical fuse on a reel, wiring, or another backup mechanism.
 
 Berridin asks if they can attach a fuse to a sending stone and trigger it, but they do not think the stones create a spark or use electricity.
 
@@ -144,7 +144,7 @@ Ellara watches the group come out through the owl. Once she knows they are safe,
 
 ellara: "You're interesting."
 
-ellara: "Now I've tasted the freedom of soaring..."
+ellara feels the owl's freedom of soaring and sends it gratitude before breaking contact.
 
 Before breaking contact, Ellara sends gratitude to the owl and says hopefully they can speak again.
 
@@ -300,7 +300,7 @@ Witty grunts and rolls over.
 
 witty: "Thanks, mom, mama."
 
-ellara: "Mom, not like Jeeves or something? It's been a long day."
+ellara is too tired to argue the title after Witty calls her "mom/mama" for covering him.
 
 Nyx is still outside against Ysidor’s house. Berridin, Ysidor, and Ellara go inside and sleep indoors.
 

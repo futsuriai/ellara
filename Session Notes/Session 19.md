@@ -1,6 +1,7 @@
 # Session 19 — *Operation Don’t Fuck It Up*
 
 **Locales:** Hýrda · Imperial encampment · Mountain cave · Battlefield outside the mountain
+
 **Time:** Pre-dawn after the party’s return → several days of preparation → army’s arrival before noon
 
 ---

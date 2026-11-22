@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Detect new campaign sessions and store deltas across ~/source/ellara and ~/source/dnd."""
+"""Detect new campaign sessions, store deltas, and validate Ellara Campaign State across ~/source/ellara and ~/source/dnd."""
 
 from __future__ import annotations
 
@@ -9,6 +9,9 @@ import re
 import subprocess
 import sys
 from pathlib import Path
+
+IGNORED_HIDDEN_DIRS = {".git", ".obsidian", ".agents", ".github"}
+PREEXISTING_DUPLICATE_PATHS = {Path("Session Notes/Session 3/Session 3.md")}
 
 
 def run_git_info(repo_root: Path) -> dict:
@@ -37,18 +40,61 @@ def run_git_info(repo_root: Path) -> dict:
     }
 
 
-def read_last_analyzed_session(state_file: Path) -> int | None:
-    """Read `last_analyzed_session` from YAML frontmatter of Ellara Current State.md."""
-    if not state_file.is_file():
+def _unquote_yaml(value: str) -> str:
+    value = value.strip()
+    if len(value) >= 2 and value[0] == value[-1] and value[0] in ("'", '"'):
+        return value[1:-1]
+    return value
+
+
+def parse_frontmatter(path: Path) -> dict[str, object] | None:
+    """Parse lightweight YAML frontmatter from a markdown file without external deps."""
+    if not path.is_file():
         return None
-    text = state_file.read_text(encoding="utf-8")
-    fm_match = re.match(r"^---\s*\n(.*?)\n---", text, re.DOTALL)
+    text = path.read_text(encoding="utf-8")
+    fm_match = re.match(r"^---\s*\n(.*?)\n---(?:\s*\n|$)", text, re.DOTALL)
     if not fm_match:
         return None
-    val_match = re.search(
-        r"^last_analyzed_session:\s*(\d+)\s*$", fm_match.group(1), re.MULTILINE
-    )
-    return int(val_match.group(1)) if val_match else None
+
+    data: dict[str, object] = {}
+    current_list_key: str | None = None
+    for raw_line in fm_match.group(1).splitlines():
+        if not raw_line.strip() or raw_line.lstrip().startswith("#"):
+            continue
+        list_match = re.match(r"^\s+-\s+(.*)$", raw_line)
+        if list_match and current_list_key is not None:
+            existing = data.setdefault(current_list_key, [])
+            if isinstance(existing, list):
+                existing.append(_unquote_yaml(list_match.group(1)))
+            continue
+        kv_match = re.match(r"^([A-Za-z0-9_-]+)\s*:\s*(.*)$", raw_line)
+        if not kv_match:
+            return None
+        key = kv_match.group(1)
+        val_raw = kv_match.group(2).strip()
+        if val_raw == "":
+            data[key] = []
+            current_list_key = key
+        else:
+            current_list_key = None
+            if re.fullmatch(r"-?\d+", val_raw):
+                data[key] = int(val_raw)
+            else:
+                data[key] = _unquote_yaml(val_raw)
+    return data
+
+
+def read_last_analyzed_session(state_file: Path) -> int | None:
+    """Read `last_analyzed_session` from YAML frontmatter of Ellara Current State.md."""
+    fm = parse_frontmatter(state_file)
+    if not fm:
+        return None
+    val = fm.get("last_analyzed_session")
+    if isinstance(val, int):
+        return val
+    if isinstance(val, str) and val.isdigit():
+        return int(val)
+    return None
 
 
 def _extract_js_string(block: str, key: str) -> str | None:
@@ -114,6 +160,11 @@ def _parse_sessions_js(sessions_js: Path) -> list[dict]:
         chunk = text[start:end]
         num = int(match.group(2))
         up_match = re.search(r"\bupcoming\s*:\s*(true|false)\b", chunk)
+        copy_fields = [
+            field
+            for field in ("homeRecap", "nextSteps", "storyBeat")
+            if re.search(rf"\b{field}\s*:", chunk)
+        ]
         entries.append(
             {
                 "session": num,
@@ -125,6 +176,7 @@ def _parse_sessions_js(sessions_js: Path) -> list[dict]:
                 "upcoming": up_match.group(1) == "true" if up_match else False,
                 "summaryFile": _extract_js_string(chunk, "summaryFile"),
                 "description": _extract_js_string(chunk, "description") or "",
+                "copy_fields": copy_fields,
             }
         )
     return entries
@@ -160,7 +212,7 @@ def scan_dnd_sessions(dnd_root: Path) -> dict:
 
 
 def find_dnd_store_changes(dnd_root: Path, since_session: int) -> dict:
-    """Find store entities and view stages updated after `since_session`."""
+    """Find store entities, session copy fields, and view stages updated after `since_session`."""
     if not dnd_root.is_dir():
         return {"stores": {}, "views": {}}
 
@@ -168,7 +220,22 @@ def find_dnd_store_changes(dnd_root: Path, since_session: int) -> dict:
     store_deltas: dict[str, list[dict]] = {}
     if store_dir.is_dir():
         for path in sorted(store_dir.glob("*.js")):
-            if path.name in {"sessions.js", "config.js"}:
+            if path.name == "config.js":
+                continue
+            if path.name == "sessions.js":
+                session_entries = _parse_sessions_js(path)
+                session_copy_changes: list[dict] = []
+                for item in session_entries:
+                    if item["session"] > since_session and item.get("copy_fields"):
+                        session_copy_changes.append(
+                            {
+                                "id": item["id"],
+                                "sessions": [item["session"]],
+                                "copy_fields": item["copy_fields"],
+                            }
+                        )
+                if session_copy_changes:
+                    store_deltas[str(path.relative_to(dnd_root))] = session_copy_changes
                 continue
             text = path.read_text(encoding="utf-8")
             id_matches = list(re.finditer(r"\bid\s*:\s*(['\"])([^'\"]+)\1", text))
@@ -198,7 +265,7 @@ def find_dnd_store_changes(dnd_root: Path, since_session: int) -> dict:
                 continue
             vtext = vpath.read_text(encoding="utf-8")
             nums: set[int] = set()
-            for pat in (r"\bminSession\s*:\s*(\d+)", r"^\s*(\d+)\s*:\s*\["):
+            for pat in (r"\bminSession\s*:\s*(\d+)", r"^\s*(\d+)\s*:\s*(?:\[|['\"`])"):
                 for found in re.findall(pat, vtext, re.MULTILINE):
                     if int(found) > since_session:
                         nums.add(int(found))
@@ -302,6 +369,7 @@ def build_delta_report(ellara_root: Path, dnd_root: Path) -> dict:
         files_to_read.append("dnd:src/store/sessions.js")
     for rel in dnd_changes["views"]:
         files_to_read.append(f"dnd:{rel}")
+    files_to_read = list(dict.fromkeys(files_to_read))
 
     return {
         "ellara_root": str(ellara_root),
@@ -323,6 +391,212 @@ def build_delta_report(ellara_root: Path, dnd_root: Path) -> dict:
             "dnd": run_git_info(dnd_root),
         },
     }
+
+
+def _iter_vault_markdown(ellara_root: Path) -> list[Path]:
+    """Return all non-hidden vault markdown files sorted by relative path."""
+    files: list[Path] = []
+    for path in sorted(ellara_root.rglob("*.md")):
+        if not path.is_file():
+            continue
+        rel = path.relative_to(ellara_root)
+        if any(part in IGNORED_HIDDEN_DIRS for part in rel.parts):
+            continue
+        files.append(path)
+    return files
+
+
+def validate_ellara_state(
+    ellara_root: Path,
+    dnd_root: Path,
+    session: int | None = None,
+    allow_provisional: bool = False,
+) -> dict:
+    """Validate Ellara Campaign State invariants for a target session."""
+    report = build_delta_report(ellara_root, dnd_root)
+    errors: list[str] = []
+    warnings: list[str] = list(report.get("repo_sync_warnings", []))
+
+    campaign_state_dir = ellara_root / "Ellara" / "Campaign State"
+    state_file = campaign_state_dir / "Ellara Current State.md"
+    state_fm = parse_frontmatter(state_file)
+
+    target_session = session if session is not None else report.get("last_analyzed_session")
+    if target_session is None:
+        errors.append(
+            f"Cannot determine target session: --session was not provided and `last_analyzed_session` is missing in {state_file}."
+        )
+        return {
+            "ok": False,
+            "session": None,
+            "ellara_root": str(ellara_root),
+            "dnd_root": str(dnd_root),
+            "errors": errors,
+            "warnings": warnings,
+        }
+
+    # 1. Living state files exist & Ellara Current State.md frontmatter checks
+    for required_name in (
+        "Ellara Current State.md",
+        "Ellara Threads and Callbacks.md",
+        "Knowledge Boundary and Dramatic Irony.md",
+    ):
+        req_path = campaign_state_dir / required_name
+        if not req_path.is_file() or req_path.stat().st_size == 0:
+            errors.append(f"Missing or empty living state file: {req_path}")
+
+    if state_fm is None:
+        errors.append(f"Missing or invalid YAML frontmatter in {state_file}")
+    else:
+        last_analyzed = state_fm.get("last_analyzed_session")
+        if last_analyzed != target_session:
+            errors.append(
+                f"Ellara Current State.md frontmatter `last_analyzed_session` is {last_analyzed!r}, expected {target_session}."
+            )
+        next_session = state_fm.get("next_session")
+        if next_session != target_session + 1:
+            errors.append(
+                f"Ellara Current State.md frontmatter `next_session` is {next_session!r}, expected {target_session + 1}."
+            )
+        next_title = str(state_fm.get("next_session_title", "") or "").strip()
+        upcoming = report.get("dnd_upcoming")
+        if (
+            isinstance(upcoming, dict)
+            and upcoming.get("session") == target_session + 1
+            and upcoming.get("subtitle")
+        ):
+            expected_title = str(upcoming["subtitle"]).strip()
+            if next_title != expected_title:
+                errors.append(
+                    f"Ellara Current State.md `next_session_title` ({next_title!r}) does not match "
+                    f"dnd/src/store/sessions.js upcoming subtitle ({expected_title!r})."
+                )
+
+    if target_session in report.get("new_sessions", []):
+        errors.append(
+            f"Session {target_session} is still listed in unanalyzed `new_sessions`: {report['new_sessions']}."
+        )
+
+    # 2. Session Briefs/Session N Analysis.md check
+    brief_path = campaign_state_dir / "Session Briefs" / f"Session {target_session} Analysis.md"
+    if not brief_path.is_file() or brief_path.stat().st_size == 0:
+        errors.append(f"Missing or empty session analysis brief: {brief_path}")
+    else:
+        brief_text = brief_path.read_text(encoding="utf-8")
+        brief_fm = parse_frontmatter(brief_path)
+        if brief_fm is None:
+            errors.append(f"Missing or invalid YAML frontmatter in {brief_path}")
+        else:
+            if brief_fm.get("session") != target_session:
+                errors.append(
+                    f"{brief_path.name} frontmatter `session` is {brief_fm.get('session')!r}, expected {target_session}."
+                )
+            for key in ("title", "date_analyzed", "sources"):
+                val = brief_fm.get(key)
+                if not val:
+                    errors.append(f"{brief_path.name} frontmatter missing non-empty `{key}`.")
+        if not allow_provisional and re.search(r"\[PROVISIONAL\]", brief_text, re.IGNORECASE):
+            errors.append(
+                f"{brief_path.name} contains a [PROVISIONAL] marker (re-run with polished notes or pass --allow-provisional)."
+            )
+
+    # 3. Globally unique .md filename stems across ellara/ (ignoring Session Notes/Session 3/Session 3.md)
+    vault_md_files = _iter_vault_markdown(ellara_root)
+    stems_to_paths: dict[str, list[Path]] = {}
+    all_valid_stems: set[str] = set()
+    for md_path in vault_md_files:
+        rel = md_path.relative_to(ellara_root)
+        all_valid_stems.add(md_path.stem)
+        if rel in PREEXISTING_DUPLICATE_PATHS:
+            continue
+        stems_to_paths.setdefault(md_path.stem, []).append(rel)
+
+    for stem, paths in sorted(stems_to_paths.items()):
+        if len(paths) > 1:
+            rendered = ", ".join(str(p) for p in paths)
+            errors.append(f"Duplicate vault markdown stem `{stem}` (breaks flattened GitHub Wiki links): {rendered}")
+
+    # 4. Every [[WikiLink]] in Ellara/Campaign State/**/*.md resolves & none inside fenced code blocks
+    fenced_re = re.compile(r"```.*?```", re.DOTALL)
+    wikilink_re = re.compile(r"(?<!!)\[\[([^\[\]]+)\]\]")
+    if campaign_state_dir.is_dir():
+        for md_path in sorted(campaign_state_dir.rglob("*.md")):
+            if not md_path.is_file():
+                continue
+            rel = md_path.relative_to(ellara_root)
+            text = md_path.read_text(encoding="utf-8")
+
+            for fenced in fenced_re.finditer(text):
+                if wikilink_re.search(fenced.group(0)):
+                    line = text.count("\n", 0, fenced.start()) + 1
+                    errors.append(
+                        f"{rel}:{line}: WikiLink found inside a fenced code block (breaks transform_wiki_syntax.py)."
+                    )
+
+            without_fences = fenced_re.sub(
+                lambda m: "\n" * m.group(0).count("\n"),
+                text,
+            )
+            for match in wikilink_re.finditer(without_fences):
+                raw_inner = match.group(1).strip()
+                target = raw_inner.split("|", 1)[0].strip()
+                target = target.split("#", 1)[0].strip()
+                if not target:
+                    continue
+                leaf = target.split("/")[-1].strip()
+                if leaf.lower().endswith(".md"):
+                    leaf = leaf[:-3]
+                if leaf not in all_valid_stems:
+                    line = without_fences.count("\n", 0, match.start()) + 1
+                    errors.append(
+                        f"{rel}:{line}: unresolved WikiLink `[[{raw_inner}]]` (no `{leaf}.md` in vault)."
+                    )
+
+    # 5. Zero __pycache__ directories or *.pyc/*.pyo files in ellara_root
+    for path in sorted(ellara_root.rglob("*")):
+        rel = path.relative_to(ellara_root)
+        if ".git" in rel.parts:
+            continue
+        if path.is_dir() and path.name == "__pycache__":
+            errors.append(f"Stray Python bytecode directory found in ellara: {rel}")
+        elif path.is_file() and path.suffix in {".pyc", ".pyo"}:
+            errors.append(f"Stray Python bytecode file found in ellara: {rel}")
+
+    return {
+        "ok": len(errors) == 0,
+        "session": target_session,
+        "ellara_root": str(ellara_root),
+        "dnd_root": str(dnd_root),
+        "errors": errors,
+        "warnings": warnings,
+    }
+
+
+def render_validation_report(result: dict) -> str:
+    """Format validation results for terminal output."""
+    lines = [
+        "Ellara Campaign State Validation",
+        "================================",
+        f"session     : {result['session']}",
+        f"ellara root : {result['ellara_root']}",
+        f"dnd root    : {result['dnd_root']}",
+    ]
+    if result["warnings"]:
+        lines.append("")
+        lines.append("Warnings:")
+        for w in result["warnings"]:
+            lines.append(f"  WARN: {w}")
+    if result["errors"]:
+        lines.append("")
+        lines.append("Errors:")
+        for err in result["errors"]:
+            lines.append(f"  ERROR: {err}")
+    lines.append("")
+    status = "PASS" if result["ok"] else "FAIL"
+    lines.append(
+        f"Validation {status}: {len(result['errors'])} error(s), {len(result['warnings'])} warning(s)."
+    )
+    return "\n".join(lines)
 
 
 def render_human_report(report: dict) -> str:
@@ -360,8 +634,11 @@ def render_human_report(report: dict) -> str:
         lines.append("")
         lines.append("Updated dnd Stores Since Baseline:")
         for rel, ents in report["dnd_store_changes"].items():
-            ent_str = ", ".join(f"{e['id']} (S{','.join(map(str, e['sessions']))})" for e in ents)
-            lines.append(f"  - {rel}: {ent_str}")
+            ent_parts = []
+            for e in ents:
+                extra = f" [{','.join(e['copy_fields'])}]" if e.get("copy_fields") else ""
+                ent_parts.append(f"{e['id']} (S{','.join(map(str, e['sessions']))}){extra}")
+            lines.append(f"  - {rel}: {', '.join(ent_parts)}")
 
     if report["repo_sync_warnings"]:
         lines.append("")
@@ -392,7 +669,8 @@ def render_reanalysis_prompt(report: dict) -> str:
             f"`Ellara/Campaign State/Ellara Threads and Callbacks.md`, "
             f"`Ellara/Campaign State/Knowledge Boundary and Dramatic Irony.md`, and write "
             f"`Ellara/Campaign State/Session Briefs/Session {report['new_sessions'][-1]} Analysis.md`. "
-            f"Finish with a table-ready brief of Ellara's mindset, immediate actions, top next-session hooks, "
+            f"Finish by running `python3 -B .agents/skills/ellara-session-analysis/scripts/check_session_delta.py --validate --session {report['new_sessions'][-1]}` "
+            f"and delivering a table-ready brief of Ellara's mindset, immediate actions, top next-session hooks, "
             f"useful RP callbacks, and OOC watchlist."
         )
 
@@ -403,8 +681,8 @@ def render_reanalysis_prompt(report: dict) -> str:
         f"Run the `ellara-session-analysis` skill for Session {next_n}{next_sub}. Check what changed via "
         f"`python3 -B .agents/skills/ellara-session-analysis/scripts/check_session_delta.py`, read the new "
         f"session notes and any updated `../dnd/src/store/` entries, verify quotes and strict IC vs. OOC "
-        f"boundaries, update the files in `Ellara/Campaign State/`, and give me Ellara's updated headspace, "
-        f"immediate moves, next-session hooks, useful callbacks, and OOC watchlist.\n"
+        f"boundaries, update the files in `Ellara/Campaign State/`, validate with `--validate --session {next_n}`, "
+        f"and give me Ellara's updated headspace, immediate moves, next-session hooks, useful callbacks, and OOC watchlist.\n"
         f"---\n\n"
         f"Option B — Immediately after today's Session {next_n}{next_sub} (before notes are published), paste:\n"
         f"---\n"
@@ -421,7 +699,7 @@ def main() -> int:
     """CLI entrypoint."""
     default_ellara = Path(__file__).resolve().parents[4]
     parser = argparse.ArgumentParser(
-        description="Check session & store deltas across ~/source/ellara and ~/source/dnd."
+        description="Check session & store deltas or validate Ellara Campaign State across ~/source/ellara and ~/source/dnd."
     )
     parser.add_argument(
         "--ellara-root",
@@ -441,6 +719,22 @@ def main() -> int:
         action="store_true",
         help="Print a copy-pasteable prompt for re-analyzing after the latest/next session.",
     )
+    parser.add_argument(
+        "--validate",
+        action="store_true",
+        help="Validate Ellara Campaign State invariants for --session N (exits non-zero on failure).",
+    )
+    parser.add_argument(
+        "--session",
+        type=int,
+        default=None,
+        help="Target session number for --validate (defaults to last_analyzed_session).",
+    )
+    parser.add_argument(
+        "--allow-provisional",
+        action="store_true",
+        help="With --validate, allow a [PROVISIONAL] marker in Session N Analysis.md.",
+    )
     args = parser.parse_args()
 
     ellara_root = args.ellara_root.expanduser().resolve()
@@ -449,6 +743,19 @@ def main() -> int:
         if args.dnd_root
         else (ellara_root.parent / "dnd").resolve()
     )
+
+    if args.validate:
+        result = validate_ellara_state(
+            ellara_root,
+            dnd_root,
+            session=args.session,
+            allow_provisional=args.allow_provisional,
+        )
+        if args.json:
+            print(json.dumps(result, indent=2))
+        else:
+            print(render_validation_report(result))
+        return 0 if result["ok"] else 1
 
     report = build_delta_report(ellara_root, dnd_root)
     if args.json:

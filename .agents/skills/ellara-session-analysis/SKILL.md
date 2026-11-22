@@ -53,10 +53,29 @@ Iteratively updates Ellara's campaign state in `Ellara/Campaign State/` by readi
    - Useful RP callbacks & exact lines to keep handy
    - A clearly separated **OOC Watchlist** so the player knows what Ellara still does not know
 
+## Automated Pipeline Invocation
+
+This skill is also invoked automatically as the `ellara-state` stage of the unified session pipeline in `../dnd`:
+
+```bash
+# As part of the full audio -> website -> ellara-state -> verify run
+python3 -B ../dnd/scripts/transcription/run_session_auto.py --session <N> --audio-dir <audio_dir>
+
+# Or standalone / catch-up for a single session
+python3 -B ../dnd/scripts/transcription/run_ellara_analysis_agent.py --session <N> --ellara-root . --dnd-dir ../dnd
+```
+
+`run_ellara_analysis_agent.py` checks `Session <N>.md` <-> `session-<N>.md` parity, runs `check_session_delta.py --json`, skips idempotently if `last_analyzed_session >= N` (unless `--force`), invokes the agent scoped to `Ellara/Campaign State/`, runs a clean-context IC/OOC & quote audit pass, saves the table-ready Prep Brief, and enforces `check_session_delta.py --validate --session <N>`.
+
 ## Verification
 
-After updating files, re-run the delta script to confirm `last_analyzed_session` updated cleanly and check git status:
+After updating files, run the deterministic validator and check git status:
 ```bash
-python3 -B .agents/skills/ellara-session-analysis/scripts/check_session_delta.py && git status -s
+python3 -B .agents/skills/ellara-session-analysis/scripts/check_session_delta.py --validate --session <N> && git status -s
 ```
-Confirm zero `__pycache__` folders were created and no accidental edits occurred in `../dnd`.
+This enforces:
+- `last_analyzed_session == <N>` and `next_session == <N+1>` in `Ellara Current State.md`
+- `next_session_title` parity with `../dnd/src/store/sessions.js` upcoming subtitle (when present)
+- `Ellara/Campaign State/Session Briefs/Session <N> Analysis.md` exists with valid frontmatter and no `[PROVISIONAL]` marker (unless `--allow-provisional`)
+- Globally unique `.md` filename stems across the vault and valid `[[WikiLinks]]` in `Ellara/Campaign State/`
+- Zero `__pycache__/` directories or `*.pyc` files in `~/source/ellara` and no accidental edits in `../dnd`.

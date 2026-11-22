@@ -51,8 +51,8 @@ jobs:
           fi
 
           # Use a single rsync for simplicity and deletion handling
-          # Excludes .git from source and .obsidian config folder
-          rsync -av --delete --exclude '.git' --exclude '.obsidian' --exclude '.agents' --exclude 'AGENTS.md' --exclude 'GEMINI.md' "$SOURCE_DIR" "$TARGET_DIR"
+          # Excludes .git from source, .obsidian config folder, agent configs, and local junk
+          rsync -av --delete --exclude '.git' --exclude '.obsidian' --exclude '.agents' --exclude 'AGENTS.md' --exclude 'GEMINI.md' --exclude '.gitignore' --exclude '.DS_Store' --exclude '__pycache__' --exclude '*.pyc' "$SOURCE_DIR" "$TARGET_DIR"
 
           echo "Files copied and synced."
         shell: bash

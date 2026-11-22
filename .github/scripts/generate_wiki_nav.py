@@ -6,7 +6,20 @@ import urllib.parse # Keep for potential future use, though not encoding target 
 
 # --- Configuration ---
 # Files/dirs to exclude completely from navigation lists
-EXCLUDE_ITEMS = {'.git', '_Sidebar.md', 'Home.md', '.obsidian', '.github', '.agents', 'AGENTS.md', 'GEMINI.md', 'README.md'}
+EXCLUDE_ITEMS = {
+    '.git',
+    '_Sidebar.md',
+    'Home.md',
+    '.obsidian',
+    '.github',
+    '.agents',
+    'AGENTS.md',
+    'GEMINI.md',
+    'README.md',
+    '.gitignore',
+    '.DS_Store',
+    '__pycache__',
+}
 
 def generate_wiki_link(file_path: Path, wiki_root: Path):
     """Generates display text and link target for a wiki page file.

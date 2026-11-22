@@ -52,7 +52,7 @@ jobs:
 
           # Use a single rsync for simplicity and deletion handling
           # Excludes .git from source and .obsidian config folder
-          rsync -av --delete --exclude '.git' --exclude '.obsidian' "$SOURCE_DIR" "$TARGET_DIR"
+          rsync -av --delete --exclude '.git' --exclude '.obsidian' --exclude '.agents' --exclude 'AGENTS.md' --exclude 'GEMINI.md' "$SOURCE_DIR" "$TARGET_DIR"
 
           echo "Files copied and synced."
         shell: bash

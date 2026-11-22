@@ -1,0 +1,55 @@
+# Knowledge Boundary and Dramatic Irony
+
+> **Purpose:** Keep Ellara's in-character perspective strictly honest by separating **canon knowledge she possesses** from **player/DM dramatic irony**. AI assistants updating [[Ellara Current State]] or [[Ellara Threads and Callbacks]] must NEVER place Section 2 items into Ellara's thoughts or planned actions until an explicit in-session reveal moves them into Section 1.
+
+---
+
+## 1. What Ellara Actually Knows In-Character (Through Session 21)
+
+### Faith, History & Her Spirit
+- **[[Arkos]] Backstory (`[[Ellara]]`, `[[Sunstone Quarry]]`, `[[Highland Standing Stones]]`, `[[Correspondence]]`):** Ellara knows she was raised in the Priory of the Steadfast Light after being orphaned, that her [[Spirit]] first manifested around [[Lyra Meadowlight]]'s mother's death, and that Light Crystals plus *"Standing Stones"* (labeled Age of Shadow artifacts) were unearthed deep in Arkos's [[Sunstone Quarry]] 8 years ago (643 AE)—a connection she has long feared might touch her own abilities.
+- **Hýr, Nites & "The Static" (`dnd:session-17.md`–`session-19.md`):** She knows **Hýr** is real, slumbered ~600–650 years, and claims *it* split/moved itself at the plea of an unnamed young woman—contradicting Eulogian scripture on **Nites** (a name Hýr does not recognize). Vast, painful magic ("the static") redacts that woman's name even from Hýr. Meri also taught her that Nites is absent from pre-imperial Hýrda lore, and that the Empire hunted people labeled *"shadows"* alongside pre-kingdom ancient beings (leaving survivors hidden).
+- **Her Spiritual Experiences (`session-2.md`, `4.md`, `8.md`, `14.md`, `17.md`, `21.md`):** She heard unreadable foreign syllables in a dream (S2), guiding reassurance with a warning before the Lighthouse (S4), screaming agony from Eduard's desk lamp (S8), total silence in Hýrda (S14), strange magical resonance near Hýr (S17), and a shaken, uncertain, sad [[Spirit]] when meditating with highland herbs back in Bastion (S21). *(Canon leaves open whether "her spirit" and "the voice" are the same entity.)*
+- **What She Has NOT Yet Connected:** She has **not** yet tied Arkos's Standing Stones or her Spirit's origin to Hýr, Nites, the Static, or synthetic crystal production.
+
+### The Conspiracy, Eduard & Bastion Politics
+- **Light Crystals (`session-6.md`, `8.md`, `21.md`):** She knows natural crystals form from decaying living matter near ancient ruins, whereas Duskbreaker Lighthouse secretly manufactures stronger synthetic crystals by **consuming living Shadowed subjects**. She has seen the titan's head-sized **artificial** crystal (~100x ordinary output, catastrophic if overloaded, costing *"a lot"* of lives) on Whitman Manor's table.
+- **Proctor Eduard Evidence (`session-2.md`, `3.md`, `7.md`, `8.md`, `9.md`, `12.md`, `14.md`, `21.md`):** She knows Eduard's name appeared on Stonewall Tower's ledger taking Meri into personal custody (S2), he claimed he released her (S3), Meri's S7 jail-priest description matched Eduard (S7—Ellara recognized him from the description, though Meri never knew his name), he is fifth son of the Marchioness of Marchenbau and grand-uncle to Empress Consort Lyssandra (S8), he publicly defended warforged as *"gifts of light"* (S9), he gifted *Josephine's Insights on the Nature of Eulogia* (S12), and Berridin *claimed* he overheard Eduard boast Ellara was *"wrapped around his finger"* (S13–14).
+- **Eduard's S21 Account (`session-21.md:121–159, 173–175`):** She read sincere, fatherly concern in his welcome on the Seminary grounds (`Insight 26`). In his office, he expressed shock, claimed he was told crystals came from ruins and the northern army was a territorial dispute, said **Donnathan Reeves** stalled his inquiries, noted the head researcher died with **foul play suspected**, and offered an undated, church-funded **rail writ to [[Pharos]]** for her safety and study.
+- **Lighthouse vs. Duke Structure (`session-9.md`, `21.md`):** She knows Reeves and **Duke Valerian Oliander** are childhood best friends and romantic partners, that **Duskbreaker Lighthouse** is independent (Faberge led research, Reeves runs relations), and that the Duke funds it without running it—leaving whether the Duke knows about human synthesis unconfirmed.
+- **Darius & Faberge (`session-5.md`, `6.md`, `20.md`, `21.md`):** She met artificer **Darius** outside Faberge's workshop, discussed East-Side water purification and crystal concurrency, missed their Tuesday meetup at *The Wailing Pig*, secretly infiltrated Faberge's workshop as a spider (reading *"How much more blood will this cost"* and taking *Dimension Door* rune sketches + spare), watched Darius panic and bolt to report Faberge missing, and knows Nyx killed Faberge the night before.
+- **Party Truths:** She knows Nyx is a former paid assassin who is 600+ years old with ties to Hýr (`session-16.md`, `17.md`, `20.md`), trusts her as level-headed, and has experienced lifelong betrayals (`session-21.md`); Berridin grew up orphaned and shared Samantha as his first kill (`session-14.md`), and found enough camp gold to pay off Witty's estate loan (`session-20.md`); Ysidor is Meri's chosen heir and wants to visit [[Arkos]] (`session-17.md`, `18.md`); Witty knows Donnathan Reeves through family ties and plans to apply for Faberge's post (`session-21.md`).
+
+---
+
+## 2. What Ellara Does NOT Know (Dramatic Irony Checklist)
+
+*Verify before every update—if a session reveals any item below to Ellara, move it to Section 1 with its session citation.*
+
+| Hidden Fact / Dramatic Irony | Source | Why Ellara Missed It |
+|---|---|---|
+| **Eduard's S11 private boast** (*"I have been watching her. She will do as expected"*) and **Lady Ophelia's** cold mask-drop beside the Duke, Reeves, and Eduard | `session-11.md:77–116` | Ball terrace/side conversation witnessed only by **Berridin** (Ellara only heard Berridin's paraphrase later and never saw Ophelia's mask drop). |
+| **Reeves & Duke Valerian confronting Nyx** over the fake "Brothers Whitaker" ball cover | `session-11.md:132–151` | Private confrontation with **Nyx** at the ball. |
+| **What Proctor Eduard began writing** immediately as she left his office | `session-21.md:159` | She had already walked out; prose also leaves unspoken whether he noticed her eye-flicker on Faberge (`L141`). |
+| **Countess Tallulah Whitman's letter** (Witty's parents moving to **[[Pharos]]** for months), Witty's active **separate allowance account**, and proposing **Berridin as bank signatory** | `session-21.md:183–199, 207` | Happened at Whitman Manor *before* Ellara arrived that morning (she only heard distant bickering). |
+| **Berridin's East Gate disguise, 49-gp bribe to Cornelius ("John Smith"), shy ooze familiar, and S19 solo heist** | `session-19.md:72–82`; `session-20.md:270–292` | Solo stealth/offscreen actions (Ellara only saw the aftermath of the spike pit and forced Berridin to admit having enough gold to pay the debt). |
+| **What Berridin broke or touched in Nyx's townhouse & safe** | `session-20.md:310–332`; `session-21.md:29` | Happened while Ellara was still returning with the carriage; Berridin only dropped hints. |
+| **Witty's numbing mushroom-gas lab, secretly reset spike pit (ringed with potted plants), and message ok'ing killing everyone in the cave** | `session-19.md:70, 128, 280–282` | Ellara walked away from the spike-pit chaos to pray (`S19 L126`); Witty messaged only Berridin underground. |
+| **Nyx's meticulous historical diaries & books** at his townhouse + his dread (*"It's going to happen again"*) | `session-17.md:378–380`; `session-18.md:50–52` | Private internal reflections by Nyx. |
+| **No runner-up successor if Ysidor dies** | `session-18.md:168–186` | Meri admitted this privately to Berridin at 2–3 a.m. |
+| **Tsi'nyra's Mother Tree origin & S6 floral subjects being her siblings** | `session-1.md:52`; `session-6.md:119` | Session 1 origin shared only with Nyx; Session 6 realization caught only by Nyx (`Insight Nat 20`), preventing Ellara from linking Meri's S19 *"ancient tree"* to Tsi'nyra. |
+| **Survival status of the ~80 buried Ducal soldiers (and the two S17 cave guards)** | `session-17.md:183, 266`; `session-19.md:308, 390`; `session-21.md:15` | Cave collapsed over them; unconfirmed whether any survived or dug out. |
+| **Why no replies from [[Lyra Meadowlight]] awaited at the Seminary**, and the **Black Swan's** confirmed identity | `session-11.md`; `session-21.md:173` | Letters absent on return; patron identity never proven. |
+
+---
+
+## 3. Canon Disambiguation & Repo Quirks
+
+- **Duskbreaker vs. Dawnbreaker Lighthouse:** Canonical name is **Duskbreaker Lighthouse** (`Dawnbreaker Lighthouse` in `dnd:session-19.md:148` is a one-off typo).
+- **Hýrda vs. Hyrta:** Canonical display name is **Hýrda** (`hyrta` is a legacy entity ID in `dnd/src/store/locations.js`; `Hyrda` unaccented appears in S13/15/16).
+- **Arkos vs. Arcos:** **Arkos** is canonical in this vault and `dnd/src/store/correspondence.js`; **Arcos** appears in `dnd:session-17.md`, `locations.js`, and `sessions.js`. Both refer to Ellara's highland hometown.
+- **Whitman vs. Whitaker:** Witty's full name is **Whitaker "Witty" Whitman VI** (`Whitaker` = shared given name of sons I–VI; `Whitman` = surname, matching **Whitman Manor** in `session-21.md`), though older `dnd` stores use `lord-whitakers-estate` and `whitaker-family`.
+- **Two Separate Bounties on Meri:** Do **not** conflate the **250 gp Black Swan** underworld contract (`session-11.md`, `lore.js`) with the **10,000 gp** bounty cited by the Ducal lieutenant (`session-19.md:210`).
+- **Character Level Drift:** The party reached **Level 5** at the end of Session 19 (`session-19.md:382`, `sessions.js`), though `[[Details]]` and `dnd/src/store/characters.js` still show stale **Level 3**.
+- **Spirit vs. Bastion Voice Ambiguity:** Preserve canon ambiguity between her awake `[[Spirit]]` (`session-14.md:132`, `session-21.md:165–171`) and her sleeping *"whispers of Eulogia"* / *"that voice"* (`session-2.md:14`, `session-4.md:272`, `session-14.md:158`).
+- **Insight 26 Scope (`session-21.md:121–123, 270`):** Applied **strictly** to Eduard's sincere, fatherly concern in his welcome **on the Seminary grounds**—not his later office shock, claims about ruins/Reeves, or Pharus offer.
